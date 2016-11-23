@@ -1,0 +1,207 @@
+Here's the datacamp intro to R course, for those who would like to go through it.
+
+<https://www.datacamp.com/courses/free-introduction-to-r>
+I'm trying to download the "pracma" package that Dr. Race posted on her LA primer page but I can't get it to work. Has anyone else run into this issue or know the solution? Here's the code and error messages.
+&gt; install.packages("pracma", repos="<http://R-Forge.R-project.org>")
+Installing package into ‘C:/Users/Chris/Documents/R/win-library/3.3’
+(as ‘lib’ is unspecified)
+Warning in install.packages :
+  dependency ‘quadprog’ is not available
+trying URL '<http://R-Forge.R-project.org/bin/windows/contrib/3.3/pracma_1.9.4.zip>'
+Content type 'application/zip' length 1046992 bytes (1022 KB)
+downloaded 1022 KB
+
+package ‘pracma’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\Chris\AppData\Local\Temp\RtmpgZZx0t\downloaded_packages
+&gt; library("pracma")
+Error in loadNamespace(j &lt;- i[[1L]], c(lib.loc, .libPaths()), versionCheck = vI[[j]]) : 
+  there is no package called ‘quadprog’
+Error: package or namespace load failed for ‘pracma’
+&gt; A= matrix(c(1,1,1,1,-1,-1,1,1,1,-1,-1,1,1,2,3,4), nrow=4, ncol=4)
+&gt; 
+&gt; A
+     [,1] [,2] [,3] [,4]
+[1,]    1   -1    1    1
+[2,]    1   -1   -1    2
+[3,]    1    1   -1    3
+[4,]    1    1    1    4
+&gt; rref(A)
+Error: could not find function "rref"
+Maybe try installing the package "quadprog" first! It looks like the one you are trying to install depends on that package
+<@U1L90S3QC> what instructions are you following? I don't see them on the LA primer page
+<@U1L3G0YRJ> I tried that earlier but I may have been doing something wrong. I'll google it and let you know if I find something that works. 
+<@U1KRSV7AN> it's in the PDF file in the second unit of the self paced primer she posted. I can shoot you the link when I gat back in front of my computer. 
+<@U1L90S3QC>: mind sending me the link when you get a moment? Thanks!
+<@U1L90S3QC> are you using R studio? it allows you to easily install packages and their dependencies from CRAN by just typing the name
+<@U1L90S3QC> if you are using Rstudio then use this PDF <http://www4.ncsu.edu/~slrace/LAprimer/LAWorksheets/Row_Reduction_in_R.pdf>
+Your code should look like this: 
+
+install.packages("pracma")
+library("pracma")
+
+A= matrix(c(1,1,1,1,-1,-1,1,1,1,-1,-1,1,1,2,3,4), nrow=4, ncol=4)
+A
+rref(A)
+Thanks <@U1KRQLFLY> !
+If anyone is interested: these are my most used packages (minus lubridate)  These are all made by hadley wickham, basically THE R GODFATHER Most used packages
+web scraping -- rvest
+data cleaning -- tidyr, dplyr. Use these with the %&gt;% operator to make data manipulation and
+                   cleaning scripts easy to follow and read. I ALWAYS USE THESE
+working with dates -- lubridate
+data visualization -- ggplot2.
+Quick geospatial plotting -- ggmap
+finding patterns in strings -- stringr,  or also base R has gsub, grep, grepl
+building interactive apps -- shiny
+for applying functions over data frame, list, vector-- apply family of functions
+tidyr and dplyr and ggplot2 are always loaded in when I'm working on a project
+Hey guys can any one help me out understanding why is the index &gt;=5 in the exercise( problem 3).
+The value of index is only changed from &gt;=7 to 10.
+I think that is a typo in the answer key
+Thankyou David. 
+Can someone help clarify the meaning of the notation?2 &gt;! 3
+3 &gt;! 2
+Hey does anyone have experience working with date values in R?  my tweets dataframe includes a created variable that captures the time the tweet was created in 'POSIXct' type format, which is great because it gives me a lot of information, but also makes the tweets hard to visualize in ggplot.  When I use the lubridate package to convert this to a 'date' type it keeps most of the information I need.   Both of these types play nice with  geom_histogram() in ggplot but neither of them work with geom_vline() which seems to only want to take a number.  I'm totally stumped and I really need to overlay this line for my analysis, any ideas?
+*Sorry hit enter. 2 is not greater than 3 is true, but then when I run the second one I also get true. Thank you!
+<@U1SMADBU4> I just tried the same thing and am also getting TRUE for both of those comparisons. I think these kinds of comparisons are very rarely used, but still surprising that they wouldn't work as expected. Maybe a good question for Dr LaBarr or Race
+hey everyone ignore my post I found the solution!!!
+<@U1KRHCR7T> Thank you for trying it-I will check with one of them on Monday.
+I'm pretty sure the ! applies to the number after it in this case, rather than joining with the sign. Print (!2), for example, gives FALSE.
+don't forget to finish your R quiz if you haven't already!
+Hey is anybody doing the practice r problems dr labarr recommended at the end of the class code? I'm not really understanding what number 2 is asking for but good chance I'm overthinking it
+It's asking you to do something similar to earlier in the code, where we have... rep(NA, length(car.names))
+That creates a vector of missing values with the same length as car.names
+Oh wow.. Yeah totally overthinking it, thanks <@U1KRE1L9M> 
+I have a few questions about yesterday's class code, if anyone's willing to help:
+
+1. head(data1): is the result of this just all the column names and  the first 6 rows of the dataset? Am I right in understanding that this is a built-in R function that gives you a little 'sample' of the dataset?
+
+2. car.names &lt;-row.names(Data1)
+I don't really understand what the object car.names contains -- what does row.names(Data1) do?
+i think you are right for pt.1. for pt.2 i think you are storing the row names - in this case, the names of the cars, as an object car.names
+I get it now - thanks to everyone who DMed me :slightly_smiling_face:
+Thanks <@U1KT9ATA5>
+For a newbie I sometimes don't realize what's an R functoin and what's the coders' own notation (like car.names)
+same here
+<http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf> 
+in case you want to see all the colors r has!
+and shapes: <https://www.google.com/search?q=pch+in+r&amp;espv=2&amp;biw=1440&amp;bih=826&amp;tbm=isch&amp;imgil=9g4nF3_-9IBbZM%253A%253B1TrVQ1zKVtELYM%253Bhttp%25253A%25252F%25252Fwww.statmethods.net%25252Fadvgraphs%25252Fparameters.html&amp;source=iu&amp;pf=m&amp;fir=9g4nF3_-9IBbZM%253A%252C1TrVQ1zKVtELYM%252C_&amp;usg=__wAlkuBuzVFA-ZnZ26evTOFn__rQ%3D&amp;ved=0ahUKEwjZxJCKo_HOAhUG5yYKHUhjCRAQyjcIKQ&amp;ei=sb_JV5moJobOmwHIxqWAAQ#imgrc=41tUO8Bd25itpM%3A>
+Heads up-in the r homework it throws an error when trying to access columns in Data1 like Data1$Population.  This workaround seemed to work:  pop = Data1[,'Population']
+inc = Data1[,'Income']
+cor.test(inc, pop)
+Hey thanks, <@U1KRNTXL5> I was having trouble with that! 
+R homework?
+did I miss something? :grimacing:
+Practice exercise at the end of the lecture 
+It's not due, just for us to practice 
+oh ok
+phew
+:relieved:
+/giphy relief
+Hahaha love the giphy :) 
+<@U1L7ERY77>: haha I love how you used it!!! :rainbow:
+On the latest R practice problems, #5, does anyone else get variables of "illiteracy" and "HS Grad"?  LaBarr's answers say "population" and "HS Grad", but that isn't what I'm getting...
+<@U1L1D4WG7>   I got the same thing Dr. Labarr  did. I removed them in this order: LifeExp, murder, frost,  illiteracy, and then area
+I got that as well <@U1L1D4WG7> . I did it twice and got 'Illiteracy' and 'HS Grad' both times. Any luck today?
+<@U1L1D4WG7> <@U1KSL7L7R>  I just did it again and got the same thing you got :thinking_face:
+I got the same as Dr L in terms of significant variables, but I was unable to run the VIF function. Anyone else have trouble with that?
+Zack the VIF function will not run if one of the package fails to execute. 
+I had a problem with the fma package. The installation was successful but when I executed library(fma) the package failed. 
+<@U1KQ9523D> <@U1KSL7L7R> I looked at my results again and realized I was using the p-values from the global test (anova function) instead of the individual t-test values (summary function). When I remove the highest p-values using t-test results, I get the same as LaBarr.
+<@U1KRNTXL5> do you know why it won't let us use the $ notation? I'm concerned since that seems to be all the notation going forward and I don't want to have to declare it each time as a separate object... (Did you also get the error about atomic vectors?)
+<@U1KR9BP0E>: it is because Data1 is a matrix and not a data frame. If you run the line "Data1 &lt;- data.frame(Data1)" then the $ should work just fine!
+<@U1L3G0YRJ> Thank you!!! Super helpful
+You're welcome <@U1KR9BP0E>!
+<@U1KRHCR7T> I re-installed the packages and it worked fine. Did you try that too?
+My vif function didn't show the df or gvif^(1/(2*df)) - anyone know why? Edit: I just realized - is it bc i didn't identify any categorical vars?
+<@U1KRNH021> + <@U1KR9BP0E> Yep, seems like the issue had to do with packages. I reinstalled all of them and the VIF worked. Thanks!
+<@U1KRNTXL5>: Thanks for the heads up on the r exercises! Do you know why Data1$Population does not work?
+<@U1M37FW5U> if you are wondering about the $ issue, see Emmy's post above
+Ah, I missed that post. Thanks!
+Yeah Emmy's solution is way more efficient.
+<!channel>  I'm not getting the Identity matrix for Part 2 Question 1 on the Orthogonality worksheet. I keep getting a diagonal matrix with 3s as the diagonal elements. Any ideas? see code below.
+U=matrix(c(-1,2,0,-2,2,2,0,1,0,0,3,0,-2,1,0,2),nrow=4,ncol=4)
+Ut=t(U)
+b=1/3
+b*Ut%*%U
+&gt; U=matrix(c(-1,2,0,-2,2,2,0,1,0,0,3,0,-2,1,0,2),nrow=4,ncol=4)
+&gt; Ut=t(U)
+&gt; b=1/3
+&gt; b*Ut%*%U
+     [,1] [,2] [,3] [,4]
+[1,]    3    0    0    0
+[2,]    0    3    0    0
+[3,]    0    0    3    0
+[4,]    0    0    0    3
+<@U1L90S3QC>: the transpose matrix also has to be multiplied by 1/3
+<@U1KSPCE87>  ...you just saved my sanity . Thank you so much!
+No prob!
+I think I could give dr. race a run for her money as most arithmatically(?) challenged.
+Is any one doing the Logistic regression assignment in R? 
+When I try to build a logistic regression model with all the predictor variables the MMBAL_Bin variable has NA in the output. The p value is not calculated for that variable alone. Is any one else facing the same issue?
+<@U1KRNH021>: I was practicing logistic regressions with another dataset and had the same issue. Tried googling it and couldn't figure out why. I assumed it had something to do with reference coding/effects coding but not sure either! Not helpful but I also want to know if anyone knows why! 
+Na means missing in r 
+<@U1KRNH021>: <@U1KR9BP0E> 
+Right but we're wondering why the coefficients and p-values are missing for a whole level <@U1L41DF9D>
+not in the data itself but in the results
+By level do you mean the whole entire variable or with just the missing level (NA) not putting out output? 
+here is an example -- char_2 is the variable with a whole bunch of levels. and level 3 says NA.
+(this is a different logit -- not our HW)
+Ahhh I see now, hmm I think it's trying to compute complex numbers or something of that sort and can't do the math or the math is exploding. The error above says 3 isn't defined due to singularities, which in math pretty much means it "exploded"    I haven't done this in SAS yet but I wonder if SAS will give that same output. 
+Did Dr. LaBarr ever give us any R code to do a multiple moving average smoothing? 
+Caroline not sure if the problem is with the reference coding :(. It is working fine in SAS but not in R. 
+Did anyone work on the time series hw in R? When you create a forecast object with the ESM model, how do you interpret the columns in that output? Are lo.80, lo.95, hi.80 and hi.95 your confidence intervals? What is the  first column- doesn't have a label in my output :confused:
+Well hi there!
+<@U1KSPCE87> haven't started on it yet but will be today - can tell you in a few hours
+@ Jessie My guess is that lo.80, lo.95, hi.80 and hi.95 are the 80% and 95 % confidence intervals correspondingly. The  first column is the time point. The second column is the forecasted temperature. Then followed by the confidence intervals. R gives two days forecasts by default. We only need the first half. Hope that helps.
+Well hi there!
+<@U1KSPCE87> I think the first column is just telling you how R breaks down the day you're trying to forecast into hourly chunks if that makes sense. That way you have 24 estimates, one for each hour.
+Ok that makes sense <@U1PN82U67> and <@U1KRTHAQZ> thank you!
+I guess that means that it's an error with the forecast itself, but I'm unsure why it's doing that
+<@U1KR9BP0E> what are the dimensions of your ts_aug object?
+[1:745] <@U1KSPCE87>
+I think you should only have 744 obs, you might have a duplicate in there
+oh hm
+good call
+Do people know if there's a code for the regular additive/multiplicative seasonal ESM models in R (i.e. NOT the holt-winters model)? Doesn't seem like it's in his slides, so I'm wondering if its possible
+Sneha it is there in the 'Exponential Smoothing Model' R code.
+<@U1PN82U67> Could you explain why R gives 2 days forecast? 
+In "SES.Weather &lt;- ses(Weather, initial = "optimal", h = 24)",
+wouldn't the number of forecasted periods be 24?
+seconding question from <@U1M37FW5U> - i didn't get that either
+<@U1M37FW5U> I am sorry that I forgot to mention that I used hw ESM for forecasting.  In hw(), the default forecast period is h= 2*frequency(x). I used the default so I got 48 forecasts instead of 24. However, if I specify h=24, then I got 24 forecasts.  While in ses(), the default for h is h=10.
+<@U1PN82U67> Thanks! I forgot  "h=24" in my hw().
+Several people (including me) need to upgrade R (to 3.3.1, 3.3.0 doesn't work) in order to run the code in Dr. Race's class today. Here is the process for windows (from <http://stackoverflow.com/questions/13656699/update-r-using-rstudio>): 
+1. go to <http://www.r-project.org>,
+2. click on 'CRAN',
+3. then choose the CRAN site that you like. (there is one at Duke, nice and close)
+4. click on 'Download R for Windows', then click on "Base", then download the R 3.3.1 package.
+5. follow the installation procedure for your operating system
+6. restart RStudio - if you type "version" in the console, it should now show 3.3.1.
+7. rejoice
+You will also need to reinstall your packages  :confused:
+Anyone understand this weird behavior in R?   If I run a holt-winters model and the alpha/beta/gamma parameters are determined to be x/y/z, with a certain MAPE, why then, when I run the hw model and force the alpha/beta/gamma numbers to x/y/z do I get a different MAPE?
+For future reference, when using R Studio if you want to read in a certain data file in a certain folder you need to specify the "working directory" in R studio before you read in your file. If you go to Session then "Set Working Directory" it'll let you pick a folder where your data is stored and then you will be able to read in files from that folder with no issues. Just a tip if you need to read in multiple files from one source and if you want to save your work into that source folder automatically (makes it easier so you wouldn't have to go to file, open file every time or have to choose where you want your files saved every time).
+Did Dr. LaBarr show the code on calculating MAPE in R? It seems a pretty easy function to write manually... wondering if there is something that is built-in and ready to use in RStudio?
+<@U1NUU2U9E> The accuracy function outputs MAPE. Needs input of a forecast object and the data to check. e.g. accuracy(TempModel, ValidationData)
+Thank you, <@U1L1D4WG7>!! That makes it TOO easy :slightly_smiling_face:
+I was going over the code from the time series stationary class (9/16). I couldn't get part of labarr's code to work. 
+
+Quad.Model &lt;- Arima(Lead.Year$Primary, order=c(0,0,0), xreg = cbind(Lead.Year$Date,  I(Lead.Year$Date^2)))
+I got this error: Error in solve.default(res$hessian * n.used, A) : system is computationally singular: reciprocal condition number = 1.08863e-17
+Does anyone know how to get this to work or is it an issue with the data?
+Mine doesn't work either but it actually gives me a different error.
+Mine says: Error in stats::arima(x = x, order = order, seasonal = seasonal, xreg = xreg,  : 
+  lengths of 'x' and 'xreg' do not match
+I changed Lead.Year$Time to Lead.Year$Date so it would run.
+$Time doesn't seem to be in the data.
+Yes - he had asked us to change that during class
+Yup, that'll do it.  Missed that part.
+Were you able to get it to run?
+No, I get the same error you did now
+hey, is anyone aware of LaBarr's code to test the accuracy of the arima model on the validation set? having a hard time with forecast function...
+<@U1NUU2U9E>: it's easier in sas :p
+<@U1KSBCBFG> yeah, but practicum sponsors prefer R ;)
+<@U1NUU2U9E>: hoping ours lets us stick to sas otherwise would be very screwed. But since u r only working on hwk, u should go to the dark side and use sas :p
+<@U1NUU2U9E>  Try to use predict(arima(data, order = c(1,0,0)), n.ahead = 16)  to forecast first and then use accuracy() funtion or create your own MAPE function.
