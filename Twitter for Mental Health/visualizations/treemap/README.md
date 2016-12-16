@@ -1,5 +1,5 @@
 
-Treemap visualization of CLPsych hackathon features
+Treemap visualization of features
 =
 
 * Usage
