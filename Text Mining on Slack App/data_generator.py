@@ -37,16 +37,8 @@ def get_channel_data(path, channel):
         for j in json:
             l = []
 
-
-            #skip lines with no 'text' or 'user'
             if 'subtype' in j:
-                if (j['subtype'] == 'channel_leave') or (j['subtype'] == 'channel_join') \
-                    or (j['subtype'] == 'file_share') or (j['subtype'] == 'channel_purpose'):
-
-                    continue
-            if not 'user' in j:
                 continue
-
 
             time = datetime.fromtimestamp(float(j['ts']))
             l.append(str(channel))

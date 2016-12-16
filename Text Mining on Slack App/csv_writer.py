@@ -36,14 +36,14 @@ def csv_writer_one_file(path, users_json_path):
     df = pd.DataFrame(c, columns = ['channel', 'datetime', 'id', 'text',
                                     'reactions', 'reaction_counts', 'reaction_total_count', 'reaction_type_count'])
 
-    user_db = users_db(users_json_path)
+    #user_db = users_db(users_json_path)
 
-    concat = df.merge(user_db, on = 'id', how = 'left')
+    #concat = df.merge(user_db, on = 'id', how = 'left')
 
 
-    concat.to_csv("concatenated2.csv", index = False, columns = ['channel', 'datetime', 'id', 'text',
-                        'reactions', 'reaction_counts', 'reaction_total_count', 'reaction_type_count',
-                                                                 'user_name', 'real_name'])
+    df.to_csv("concatenated.csv", index = False, columns = ['channel', 'datetime', 'id', 'text',
+                        'reactions', 'reaction_counts', 'reaction_total_count', 'reaction_type_count'])#,
+                                                                 #'user_name']), 'real_name'])
 
 
 
@@ -77,7 +77,7 @@ if __name__ == "__main__":
     users_json_path =  "slack_data/users.json"
 
 
-    csv_writer_individual_files(path)
-    #csv_writer_one_file(path, users_json_path)
+    #csv_writer_individual_files(path)
+    csv_writer_one_file(path, users_json_path)
 
-    txt_writer_individual_files()
+    #txt_writer_individual_files()
