@@ -1,0 +1,250 @@
+[
+    {
+        "user": "U1KQYG6SJ",
+        "text": "<@U1KQYG6SJ|rose> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473351320.000002"
+    },
+    {
+        "user": "U1KQYG6SJ",
+        "purpose": "For sharing information about the West Coast job hunt. #westcoastbestcoast",
+        "text": "<@U1KQYG6SJ|rose> set the channel purpose: For sharing information about the West Coast job hunt. #westcoastbestcoast",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1473351321.000003"
+    },
+    {
+        "user": "U1KRB11QC",
+        "text": "<@U1KRB11QC|dsjorda2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473352734.000002"
+    },
+    {
+        "user": "U1L3PU7BJ",
+        "text": "<@U1L3PU7BJ|dmalave> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473353029.000003"
+    },
+    {
+        "user": "U1MPXSHN1",
+        "inviter": "U1KQYG6SJ",
+        "text": "<@U1MPXSHN1|reidbaughman> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473353185.000004"
+    },
+    {
+        "user": "U1KRHCR7T",
+        "text": "<@U1KRHCR7T|zack_schwartz> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473353786.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Figured we could trade information about how we're reaching out, what sorts of positions and requirements we're finding out there etc.",
+        "ts": "1473353909.000006"
+    },
+    {
+        "user": "U1L1WFNC8",
+        "text": "<@U1L1WFNC8|wrighton88> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473354393.000007"
+    },
+    {
+        "user": "U1L7ERY77",
+        "text": "<@U1L7ERY77|maxwarburg> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473356388.000008"
+    },
+    {
+        "user": "U1KQGK2CB",
+        "text": "<@U1KQGK2CB|loganteal> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473357503.000009"
+    },
+    {
+        "user": "U1L1D4WG7",
+        "text": "<@U1L1D4WG7|edpreble> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473357839.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Ooh, that invite from Laura is just perfect ",
+        "ts": "1473358047.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Well, not invite, calendar update ",
+        "ts": "1473358063.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1L1WFNC8",
+        "text": "Which dates are you looking at?",
+        "ts": "1473358201.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "For Laura's thing? It's October 4",
+        "edited": {
+            "user": "U1KQYG6SJ",
+            "ts": "1473358543.000000"
+        },
+        "ts": "1473358519.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "10.45-12",
+        "ts": "1473358558.000016",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1KRB11QC",
+                    "U1L1WFNC8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "One thing I found helpful was searching the IAA alumni group by location on LinkedIn, to see which alumni are working in my cities of interest",
+        "ts": "1473359362.000017"
+    },
+    {
+        "user": "U1KR891RC",
+        "text": "<@U1KR891RC|fkaiser> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473361552.000018"
+    },
+    {
+        "user": "U1L9DD1NY",
+        "text": "<@U1L9DD1NY|mjdensmo> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473361579.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "So I have a friend in a similar field who got a job on the west coast by calling a bunch of companies and asking to meet. He paid his on way but ended up getting a job out of it with one of the big 4 accounting firms. I'm thinking about going in December right when break starts if anyone wants to arrange a trip or something",
+        "edited": {
+            "user": "U1L9DD1NY",
+            "ts": "1473362182.000000"
+        },
+        "ts": "1473361865.000020",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L5GU954",
+                    "U1L41DF9D",
+                    "U1KRNH021"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1WFNC8",
+        "text": "<@U1L9DD1NY> I\u2019m actually going home to the bay area for dec break.  I\u2019m also going to start contacting some people I know at companies out there to see the best ways to go about getting a foot in the bay, will keep ya\u2019ll posted :slightly_smiling_face:",
+        "edited": {
+            "user": "U1L1WFNC8",
+            "ts": "1473362093.000000"
+        },
+        "ts": "1473362055.000021",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L5GU954",
+                    "U1L41DF9D",
+                    "U1KRNH021"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Oo sweet that's where I was planning on going actually. Thanks <@U1L1WFNC8> ",
+        "ts": "1473362155.000024"
+    },
+    {
+        "user": "U1PN82U67",
+        "text": "<@U1PN82U67|xiehong> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473365931.000026"
+    },
+    {
+        "user": "U1KVBARR9",
+        "text": "<@U1KVBARR9|sneha.bhalodia> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473367884.000027"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "I have a meeting scheduled with April to discuss opportunities out in the Seattle\/Portland\/Vancouver area early next week. I'll circulate my notes from the meeting!",
+        "ts": "1473368173.000028"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "I'll probably head to Seattle over the December break",
+        "ts": "1473372876.000029",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRB11QC",
+                    "U1L1WFNC8",
+                    "U1L5GU954"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U1KSBCBFG",
+        "text": "<@U1KSBCBFG|svsevala> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473376327.000030"
+    },
+    {
+        "user": "U1NDG6ULB",
+        "text": "<@U1NDG6ULB|cgreene> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473379344.000031"
+    },
+    {
+        "user": "U1KRWJB7S",
+        "text": "<@U1KRWJB7S|brandon_mayer> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473390729.000032"
+    }
+]

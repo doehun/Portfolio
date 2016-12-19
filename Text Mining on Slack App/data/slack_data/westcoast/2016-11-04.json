@@ -1,0 +1,89 @@
+[
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "westcoast study saturday 3pm",
+        "ts": "1478264573.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "at hunt",
+        "ts": "1478264578.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1KS4UE2F> what do you study during the sessions?",
+        "ts": "1478268429.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "<@U1NUU2U9E>  we're studying this book: <https:\/\/www.amazon.com\/Data-Structure-Algorithmic-Thinking-Python\/dp\/8192107590\/ref=pd_sbs_14_t_0?_encoding=UTF8&amp;psc=1&amp;refRID=PBXS8545DQMEBY343AKM>",
+        "ts": "1478269760.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "Anything interesting?",
+        "ts": "1478269822.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "It's Data Structures and Algorithms. We'll cover data structures like lists, linked lists, stacks, queues, trees .. then study algorithms like sorting, searching etc",
+        "ts": "1478269846.000007",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1NUU2U9E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "Everythings interesting! What are you talking about!",
+        "ts": "1478269856.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "So far we've done lists and linked lists, though if you're new we can cover that again",
+        "ts": "1478269891.000009"
+    },
+    {
+        "text": "having flashbacks to intro comp sci",
+        "type": "message",
+        "subtype": "me_message",
+        "user": "U1KQYG6SJ",
+        "ts": "1478270603.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "<@U1KQYG6SJ> isn't it lovely?",
+        "ts": "1478272222.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "Well seems like all lists in python are doubly linked list, right? Wrong... dynamic array :thinking_face:",
+        "edited": {
+            "user": "U1NUU2U9E",
+            "ts": "1478283810.000000"
+        },
+        "ts": "1478279247.000012"
+    },
+    {
+        "user": "U1L7RPG1M",
+        "text": "<@U1L7RPG1M|carsonfutch> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478283543.000013"
+    }
+]

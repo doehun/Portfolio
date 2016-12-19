@@ -1,0 +1,51 @@
+[
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "Can we get an actual count of who got a ticket\/is going to the game this weekend?",
+        "ts": "1478285442.000035",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KQTJ6BV",
+                    "U1KRNHQA1",
+                    "U1KRB11QC",
+                    "U1KSYP1M5",
+                    "U1L5GU954",
+                    "U1L9DD1NY",
+                    "U1L46HXCJ"
+                ],
+                "count": 7
+            },
+            {
+                "name": "football",
+                "users": [
+                    "U1L5GU954"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Did anyone get a parking pass?",
+        "ts": "1478286129.000036",
+        "reactions": [
+            {
+                "name": "-1",
+                "users": [
+                    "U1L46HXCJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L90S3QC",
+        "text": "If anyone wants my ticket let me know. I can't use mine.",
+        "ts": "1478303448.000037"
+    }
+]

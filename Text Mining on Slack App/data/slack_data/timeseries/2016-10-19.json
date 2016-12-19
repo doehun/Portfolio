@@ -1,0 +1,99 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "<@U1L9DD1NY>: <@U1PF7HWTF> yup, I did the same thing! ",
+        "ts": "1476878200.000347"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U1LMHQY9E> make sure you have future values of any of the input variables appended onto the data set you are modeling",
+        "ts": "1476890714.000349",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1LMHQY9E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "So in your picture, you don't have an immediate step.  You have an intermediate step up.  The 3 represents the height of the intermediate step.  So when \"B\" is 0, which is the first time step of your increase, you go up to 3.  At time B=1, you get 3*(1.7) which is around 5, which represents the height of the complete step.  Numerator terms don't hang around more than a step or two, so this is a way to show an intermediate step.  As for how this goes into SAS, I'm not sure since we've mainly dealt with integers only.  I'm guessing maybe you could write that whole thing in the numerator spot, but I'm not sure.",
+        "ts": "1476908352.000351"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "ahh.. good to know. thanks John!",
+        "ts": "1476908596.000352",
+        "reactions": [
+            {
+                "name": "labarr",
+                "users": [
+                    "U1L6YQUSU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "Did anybody get their temperatures prewhitened before using the shifts\/ATSI?",
+        "ts": "1476910870.000353"
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "<@U1L41DF9D> sas tells me that it has prewhitened temps, but if you're asking if the temps look like white noise (like our previous homeworks) then the answer is no.",
+        "ts": "1476911046.000354"
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "We were concerned about that so Brandon and I talked to Dr. LaBarr and (paraphrasing) he said that modeling Ohio temps are much harder than modeling Phoenix, which is why the HW is for Pheonix... He said that a) using 40,000 obs our alpha would  be much smaller, so it's possible we have white noise, but that the chart still looks solid blue and we'd have to output and look at the pvalues, and b) he said even if we don't have\/get white noise, that it doesn't mean it's wrong. In that scenario, just go by the MAPE or other goodness-of-fit statistics and it could be accurate enough.",
+        "ts": "1476911232.000355",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1KRWJB7S",
+                    "U1L0V1X61"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "Thank you <@U1L914KNJ> I appreciate that a lot!! If you have a chance tomorrow would you mind if I asked you a few questions? I just wanna think over it and take a look in regards to what you said above. ",
+        "ts": "1476912431.000356"
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "sure thing.",
+        "ts": "1476912465.000357"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "<@U1L914KNJ> bless you. I've tried everything I could think of to try and get the charts to not be solid blue and failed, so this makes me feel so much better! ",
+        "ts": "1476913456.000358",
+        "reactions": [
+            {
+                "name": "raising_hand",
+                "users": [
+                    "U1L41DF9D"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

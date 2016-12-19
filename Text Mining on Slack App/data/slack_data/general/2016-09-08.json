@@ -1,0 +1,431 @@
+[
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "Hello everyone, hello slackbot! I am moving into my new place this Saturday and would really appreciate the extra help in the morning and afternoon. I pay in pizza and can also endorse your skills on LinkedIn. Thank you! My number is <tel:(919)345-1936|(919) 345-1936>",
+        "ts": "1473353445.000097"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "Hello yourself",
+        "ts": "1473353445.000098"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Lol. I love these payment methods",
+        "ts": "1473353477.000099"
+    },
+    {
+        "type": "message",
+        "user": "U1XCJ1X4H",
+        "text": "Just added an optional session Oct 4th (10:45) with MSA class of 2013 graduate Eric McMillen who is currently a Data Scientist at Uber in the San Francisco Bay Area\nThis will be a discussion on the different data science roles in the tech industry, as well as things to consider when navigating the hiring process. Additionally, you will learn how west coast technology companies can differ in their hiring and recruiting processes from east coast companies. (this also explains why the time series classes for that day are now combined).",
+        "ts": "1473358504.000100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KS4UE2F",
+                    "U1KRWUXFU",
+                    "U1KRLV1CG",
+                    "U1KRZT11T",
+                    "U1L6YQUSU",
+                    "U1KRHCR7T",
+                    "U1L2P17DZ",
+                    "U1KRB11QC",
+                    "U1KRNH021",
+                    "U1KR9BP0E",
+                    "U1L914KNJ",
+                    "U1MDHNYR5",
+                    "U1L9DD1NY",
+                    "U1L1WFNC8",
+                    "U1KRSV7AN",
+                    "U1KRTHAQZ",
+                    "U1LAAMJ0M",
+                    "U1LBRCSEA",
+                    "U1KT3UELS",
+                    "U1M1L5G6L",
+                    "U1KSL7L7R",
+                    "U1KQTJ6BV",
+                    "U1KQ9523D",
+                    "U1KSPCE87",
+                    "U1L1D4WG7",
+                    "U1L735VD4",
+                    "U1KQGK2CB"
+                ],
+                "count": 27
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "Thanks <@U1XCJ1X4H> ! Sounds like a great session",
+        "ts": "1473358571.000101",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1KRB11QC",
+                    "U1KQYG6SJ",
+                    "U1L9DD1NY",
+                    "U1SMADBU4"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1XCJ1X4H",
+        "text": "Don't forget to set your fantasy lineup people. It's time for some Football!",
+        "ts": "1473358819.000102",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1KRZT11T",
+                    "U1KRNHQA1",
+                    "U1KRB11QC",
+                    "U1KT9ATA5",
+                    "U1LAAMJ0M",
+                    "U1NUU2U9E",
+                    "U1KT3UELS"
+                ],
+                "count": 7
+            },
+            {
+                "name": "football",
+                "users": [
+                    "U1L6YQUSU",
+                    "U1KRB11QC",
+                    "U1KT9ATA5",
+                    "U1KRLV1CG",
+                    "U1MDE4NAG",
+                    "U1LBRCSEA",
+                    "U1MBURU4D",
+                    "U1KRTHAQZ",
+                    "U1KSR1MS4",
+                    "U1LAAMJ0M",
+                    "U1KSGHLPJ",
+                    "U1N43E3E0",
+                    "U1KT3UELS",
+                    "U1LMHQY9E",
+                    "U1KSL7L7R"
+                ],
+                "count": 15
+            },
+            {
+                "name": "trophy",
+                "users": [
+                    "U1L93SMGF",
+                    "U1KT9ATA5",
+                    "U1L95JP1S"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1XCJ1X4H>: is this like a regular employer information session\/do we have to wear business professional? Are there signups anywhere? ",
+        "ts": "1473360498.000103"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "<@U1KR9BP0E>: we have to wear business professional and we all have to attend so I don't think there will be sign ups anywhere ",
+        "ts": "1473367735.000104"
+    },
+    {
+        "type": "message",
+        "user": "U1XCJ1X4H",
+        "text": "<@U1KR9BP0E>  You mean the West coast tech one? ",
+        "ts": "1473377311.000105"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1XCJ1X4H>: yes :)",
+        "ts": "1473377356.000106"
+    },
+    {
+        "type": "message",
+        "user": "U1XCJ1X4H",
+        "text": "It's more like the Radu talk today..so business casual.. because Eric isn't hiring. But keep in mind what Mary Crane said about first impressions. It will be in Bodie, so everyone will fit. No sign-up needed. ",
+        "ts": "1473377665.000107"
+    },
+    {
+        "type": "message",
+        "user": "U1XCJ1X4H",
+        "text": "I imagine some don't care about West coast, so..\"optional\"",
+        "ts": "1473377772.000108"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Ok perfect! Thanks <@U1XCJ1X4H> ",
+        "ts": "1473377925.000109"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Any recommendations for good restaurants near DPAC?",
+        "ts": "1473379871.000110"
+    },
+    {
+        "type": "message",
+        "user": "U1KSEJ01W",
+        "text": "<@U1L1D4WG7>: I live right by there what type of place were you looking for ",
+        "ts": "1473379966.000111"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "<@U1KSEJ01W> open to anything, as long as it's decent :-). Closer to dpac the better.",
+        "ts": "1473380208.000112"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "American tobacco campus seems to be right next to it ",
+        "ts": "1473380378.000113"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "That has nice restaurants ",
+        "ts": "1473380387.000114"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "I used to work at Duke but just forgetting things right now ",
+        "ts": "1473380404.000115"
+    },
+    {
+        "type": "message",
+        "user": "U1KSEJ01W",
+        "text": "<@U1L1D4WG7>: alright I'll give you some options. If you can get a reservation at bida manda and like Thai food it's probably one of the best in the city. For Italian gravy, cafe Luna, and San Marco are all good choices. Sitti is good for Lebanese\/Greek. Centro is my favorite for Mexican. And Raleigh times is good for like a bar menu. Capital club 16 is good for An American menu ",
+        "ts": "1473380407.000116"
+    },
+    {
+        "type": "message",
+        "user": "U1KSEJ01W",
+        "text": "Sorry San Lorenzo is the name. That's gonna be the closest but they're all within 5\/6 blocks of dpac",
+        "ts": "1473380470.000117"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "My bad when u guys were talking abt dpac, I thought Durham performing arts center. Ignore me ",
+        "ts": "1473380537.000118"
+    },
+    {
+        "type": "message",
+        "user": "U1KSEJ01W",
+        "text": "Yeah I'm confused now too haha are you talking about the one dt or the one in Durham <@U1L1D4WG7> ",
+        "ts": "1473380587.000119"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "Haha sry! ",
+        "ts": "1473380611.000120"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "DPAC is the one in durham, it is Durham Performing Arts Center <@U1KSBCBFG>",
+        "ts": "1473380652.000121"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "DPAC in Durham.  :-)",
+        "ts": "1473380675.000122"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "Ok thanks Hannah :) ",
+        "ts": "1473380695.000123"
+    },
+    {
+        "type": "message",
+        "user": "U1KSEJ01W",
+        "text": "Okay well if you ever want dinner dt those are some good spots! Haha ",
+        "ts": "1473380717.000124"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Near the Durham bulls park. I haven't been over there for dining out in ages.",
+        "ts": "1473380737.000125"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "Then go to the American tobacco campus Ed. I've been there once and it has a whole bunch of restaurants. ",
+        "ts": "1473380746.000126"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "<@U1KSEJ01W> thanks anyway Anthony!",
+        "ts": "1473380765.000127"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "I usually stick to regular stuff so I think I went to which wich or moes there but I remember it had a lot of good options ",
+        "ts": "1473380777.000128"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "I know my frnds really liked Cuban Revolution there ",
+        "ts": "1473380885.000129"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7C10",
+        "text": "I really liked Dashi -- ramen with a little southern kick (porkbelly, collards, etc.) It's about a quarter mile from DPAC",
+        "ts": "1473380887.000130"
+    },
+    {
+        "type": "message",
+        "user": "U1LHLK8MR",
+        "text": "Tyler's tap room and Tobacco Road bar and grill are both right there and decent. If you're looking for something other than a burger or sandwich go to Main Street a few blocks away and there's tons of stuff ",
+        "ts": "1473380897.000131"
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "<@U1L1D4WG7> my favs up there are pizzeria toro and mateo (tapas) but I've heard good things about Rue Cler (french) and there's always Tyler's Taphouse and Mellow in the American Tobacco campus if you are going more casual.  The Cuban place in ATC I do not recommend.",
+        "edited": {
+            "user": "U1L914KNJ",
+            "ts": "1473380933.000000"
+        },
+        "ts": "1473380903.000132",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KT9ATA5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "Bonjour!  \u00c7a va?",
+        "ts": "1473380903.000133",
+        "reactions": [
+            {
+                "name": "tired_face",
+                "users": [
+                    "U1L7G5LR4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Thanks for all the recommendations <@U1KSBCBFG> <@U1KSL7C10> <@U1L914KNJ> <@U1LHLK8MR> !!  Great tips!",
+        "ts": "1473381030.000135"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "And thank goodness for slackbot",
+        "ts": "1473381044.000136"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "Haha hope u have a nice time :) ",
+        "ts": "1473381061.000137"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Dinner plus Ira Glass (from This American Life) at DPAC is a great date night :-)",
+        "ts": "1473381308.000138",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L914KNJ",
+                    "U1KQGK2CB",
+                    "U1KRWUXFU"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "Cool!! ",
+        "ts": "1473381340.000139"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "I am jealous ",
+        "ts": "1473381353.000140"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "<@U1L1D4WG7>: if u want to head to Main Street, I used to go to alivias and that was nice ",
+        "ts": "1473381474.000141",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L1D4WG7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "There are a lot of restaurants next to alivias and across frm it if u wanted more portions ",
+        "ts": "1473381506.000142"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "Options*",
+        "ts": "1473381509.000143"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Pompieri is an awesome, brick oven pizza place",
+        "ts": "1473382163.000144"
+    },
+    {
+        "type": "message",
+        "user": "U1KSPCE87",
+        "text": "<@U1L1D4WG7>: I second Mateo or pizza toro if you want a nice date atmosphere. For something a little more casual I would say Luna or only burger. ",
+        "ts": "1473386796.000145"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Just a reminder that Saturday is Beericana.  <http:\/\/www.beericana.com\/>",
+        "ts": "1473387223.000146"
+    }
+]

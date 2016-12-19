@@ -1,0 +1,43 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "sign up sheet is at <http:\/\/bit.ly\/tgiving_dinner|bit.ly\/tgiving_dinner>",
+        "ts": "1479563857.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "sorry for the delay -- busy week!",
+        "ts": "1479563878.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "time is Thursday at 5pm, venue is wolf ridge",
+        "ts": "1479563894.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "I just picked up our turkey, and it's glorious",
+        "ts": "1479576977.000005",
+        "reactions": [
+            {
+                "name": "poultry_leg",
+                "users": [
+                    "U1L3K1AKD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1KQ412NP",
+        "inviter": "U1KQYG6SJ",
+        "text": "<@U1KQ412NP|kgreen3> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479576994.000006"
+    }
+]

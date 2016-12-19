@@ -1,0 +1,133 @@
+[
+    {
+        "user": "U1LMHQY9E",
+        "text": "<@U1LMHQY9E|pmaychek> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475504533.000093"
+    },
+    {
+        "type": "message",
+        "user": "U1MH8UXHD",
+        "text": "Hi everyone I took the Business Analyst exam on Friday and have been getting more than a few questions so i figured Id post what I saw here for everyones benefit.",
+        "ts": "1475512600.000094",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U1L914KNJ",
+                    "U1KRE1L9M",
+                    "U1M37FW5U",
+                    "U1L7G5LR4",
+                    "U1LLWQ02E",
+                    "U1L0RBZFH",
+                    "U1MGWMZFD"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1MH8UXHD",
+        "text": "1.\tKnow how to read the charts from LaBarr over the summer\na.\tDiffograms, dunnet control, the box and whisker plot, literally all of them \n2.\tCalculations\na.\tR^2 by hand (MSM \/ total)\nb.\tC stat = %concordant + .5 %tied\nc.\tSensitivity and specificity \n3.\tProc Corr\/glm\/plm\/ ttest\/ logistic\na.\tKnow what each function will output with out= or output= \nb.\tKnow how to import and use a stored model in plm\nc.\tWhen do logistic and ttest overlap (1 level categorical) \ni.\tAlso what the code should look like to produce the same result\n4.\tRoc curves, Lift charts and gain charts \n5.\tDealing with multicoliniearity \n6.\tApplication\/logical coding questions \na.\tExample questions: 15 and 60 from the practice exam\n7.\tThere were a few know the correct option coding questions (ex hovtest=levene) but I didn\u2019t have any syntax questions. \n8.\tThe practice exam is your best resource ~20% of my questions were similar or the same",
+        "ts": "1475512609.000095",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1LBRCSEA",
+                    "U1L90S3QC",
+                    "U1L1WFNC8",
+                    "U1KRNH021",
+                    "U1KT5F4SZ",
+                    "U1KSR1MS4",
+                    "U1KR891RC",
+                    "U1M1L5G6L",
+                    "U1LJRDPLP",
+                    "U1LMHQY9E",
+                    "U1KRB11QC",
+                    "U1NUU2U9E",
+                    "U1L9DD1NY",
+                    "U1KRF9BAP",
+                    "U1L41DF9D",
+                    "U1NDG6ULB",
+                    "U1L5GU954",
+                    "U1KRZT11T",
+                    "U1L735VD4",
+                    "U1L1D4WG7",
+                    "U1KQGK2CB",
+                    "U1L7G5LR4",
+                    "U1KSL7L7R",
+                    "U1KQ9523D",
+                    "U1LAAMJ0M",
+                    "U1KRTU0UQ",
+                    "U1KRHCR7T",
+                    "U1P8QBBD1",
+                    "U1KT1RZ24",
+                    "U1L6YQUSU",
+                    "U1L3G0YRJ"
+                ],
+                "count": 31
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U1L914KNJ",
+                    "U1L9DD1NY",
+                    "U1KRWUXFU",
+                    "U1KQ9523D",
+                    "U1L3G0YRJ"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "Seconding all of this, but especially the lift\/gain chart interpretations!",
+        "ts": "1475514217.000096",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L914KNJ",
+                    "U1KRB11QC",
+                    "U1KRF9BAP",
+                    "U1L90S3QC",
+                    "U1KSL7L7R"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "I'd add knowing imputation and scoring procedure vs statement. ",
+        "ts": "1475515606.000097",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L914KNJ",
+                    "U1KRB11QC",
+                    "U1KRF9BAP",
+                    "U1L90S3QC",
+                    "U1L41DF9D",
+                    "U1KSL7L7R",
+                    "U1L9DD1NY"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "user": "U1PF7HWTF",
+        "text": "<@U1PF7HWTF|nickweimer> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475553968.000100"
+    }
+]

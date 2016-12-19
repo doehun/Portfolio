@@ -1,0 +1,50 @@
+[
+    {
+        "user": "U1M1L5G6L",
+        "text": "<@U1M1L5G6L|shelbyklemm> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471702735.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "I downloaded Anaconda3 on my mac, but i would like to switch to Anaconda2. Is there a special process for uninstalling anaconda so i could go to python 2.7 or is it like any other program?",
+        "ts": "1471727954.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "<@U1M37FW5U> You should get rid of anaconda3 and install anaconda2.  To do this, in your terminal, run: rm -rf ~\/anaconda3 then check if the anaconda path has been removed  (go to your bash profile with the command nano ~\/.bash_profile and, if necessary, comment out or delete the anaconda3 path).",
+        "edited": {
+            "user": "U1KS4UE2F",
+            "ts": "1471729501.000000"
+        },
+        "ts": "1471729335.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "Also, Brandon installed Anaconda2 on your virtual machine so, it will be available in your windows.",
+        "ts": "1471729367.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "Can't get it to work, I'll ask Brandon on Monday",
+        "ts": "1471734714.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1M37FW5U> I had both installed at some point, and it worked just fine i think... All that had to be changed was the version of the interpreter. What you should do is: go to Programs and Features, click on Python 3.5(Anaconda) and remove it. Then you can download the 2.7 version. :smile: let me know how if that didn't help",
+        "ts": "1471747305.000025"
+    },
+    {
+        "user": "U1KT1RZ24",
+        "text": "<@U1KT1RZ24|mike_hruska> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471755265.000026"
+    }
+]

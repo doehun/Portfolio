@@ -1,0 +1,33 @@
+[
+    {
+        "user": "U1L2P17DZ",
+        "text": "<@U1L2P17DZ|kailistevens> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473950154.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L2P17DZ",
+        "text": "Has anybody seen a green water bottle in Bodie? I seem to have misplaced mine.. :see_no_evil:",
+        "ts": "1473950158.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "<@U1KQYG6SJ> has it in Bodie",
+        "ts": "1473950686.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "<@U1L2P17DZ>",
+        "ts": "1473950697.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1L2P17DZ",
+        "text": "<@U1KRE1L9M>: and <@U1KQYG6SJ>  thank you guys!! I'll come down and get it in a second! :blush:",
+        "ts": "1473950745.000006"
+    }
+]

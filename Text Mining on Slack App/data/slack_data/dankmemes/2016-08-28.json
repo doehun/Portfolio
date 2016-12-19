@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1KRNH021",
+        "text": "<@U1KRNH021|sneha_komma> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472427526.000002"
+    }
+]

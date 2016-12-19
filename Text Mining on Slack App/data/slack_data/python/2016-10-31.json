@@ -1,0 +1,159 @@
+[
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "anyone do the text analytics project in python\/familiar with the anew package in python and willing to answer a few of my questions?",
+        "ts": "1477958671.000205"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1KR9BP0E> i think quite a few people used python and anew for the project... I'd say we ALL (as an ensemble model) would know quite a bit :smile:  you just gotta ask it here!",
+        "edited": {
+            "user": "U1NUU2U9E",
+            "ts": "1477959177.000000"
+        },
+        "ts": "1477959162.000206"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Just having some trouble importing the anew_module package using my practicum server",
+        "ts": "1477959630.000208"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Playing aroudn with some options that <@U1L415ECD> gave me, thanks!",
+        "ts": "1477959642.000209"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "importing can be painful... does it say \"module not found\"?",
+        "ts": "1477960245.000210"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Yeah it says \"no module named anew_module\".",
+        "ts": "1477960326.000211"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1KR9BP0E> did you save the anew module in the same directory as python is working in? That was one of the issues I worked around.",
+        "edited": {
+            "user": "U1KRB11QC",
+            "ts": "1477961020.000000"
+        },
+        "ts": "1477961003.000212"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "yeah i did :disappointed:",
+        "ts": "1477961015.000213"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "hmm... that's odd. the only time I got that error was when the folder wasn't there. Although I did have one occasion where I had to restart my machine and then it worked",
+        "ts": "1477961058.000215"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "the folder is unzipped, right?",
+        "ts": "1477961089.000216"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1KQYG6SJ> did you use spyder?",
+        "ts": "1477961093.000217"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "I hear spyder sometimes has directory issues...",
+        "ts": "1477961099.000218"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "nope",
+        "ts": "1477961108.000219"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "I ran my scripts from the command line",
+        "ts": "1477961115.000220"
+    },
+    {
+        "user": "U1L3K1AKD",
+        "text": "<@U1L3K1AKD|ccupito> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1477961577.000221"
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "<@U1KR9BP0E>: I also failed to mention I've never used Spyder before but it worked for me using Jupyter",
+        "ts": "1477961608.000222"
+    },
+    {
+        "type": "message",
+        "user": "U1KRBJP47",
+        "text": "<@U1KR9BP0E> I used Spyder &amp; saved the anew module in this directory within the Anaconda2 folder (on the C: drive on my personal computer, not sure where it would be on the practicum server): Anaconda2\\Lib\\site-packages",
+        "ts": "1477961842.000223"
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "it's on the C:\/ drive in the prac server",
+        "ts": "1477962042.000224"
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "C:\/Anaconda2\/Lib\/anew_module",
+        "ts": "1477962057.000225",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1M4QJD4P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "ok let me try all these things.",
+        "ts": "1477962155.000226"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "thanks guys",
+        "ts": "1477962156.000227"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1M4QJD4P> that worked. thanks!!!",
+        "ts": "1477962291.000228"
+    },
+    {
+        "user": "U1L97TR38",
+        "text": "<@U1L97TR38|scottdiebold> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1477962836.000229"
+    }
+]

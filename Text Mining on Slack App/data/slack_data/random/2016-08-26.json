@@ -1,0 +1,268 @@
+[
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "'Crispness deemed explosive'???? ",
+        "ts": "1472236998.000082"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "Would love to be the person that writes apple descriptions ",
+        "ts": "1472237049.000083",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KRZT11T"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "My interpretation of the description: <http:\/\/16005-presscdn-0-36.pagely.netdna-cdn.com\/wp-content\/uploads\/2014\/06\/exploding-apple.jpg>",
+        "attachments": [
+            {
+                "fallback": "550x366px image",
+                "image_url": "http:\/\/16005-presscdn-0-36.pagely.netdna-cdn.com\/wp-content\/uploads\/2014\/06\/exploding-apple.jpg",
+                "image_width": 550,
+                "image_height": 366,
+                "image_bytes": 110044,
+                "from_url": "http:\/\/16005-presscdn-0-36.pagely.netdna-cdn.com\/wp-content\/uploads\/2014\/06\/exploding-apple.jpg",
+                "id": 1
+            }
+        ],
+        "ts": "1472237161.000084"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "what do people do when they're home, but not watching Netflix?",
+        "edited": {
+            "user": "U1KQYG6SJ",
+            "ts": "1472247131.000000"
+        },
+        "ts": "1472247129.000090"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "I'm trying to stay away from starting a new show, and would rather not engage my brain",
+        "ts": "1472247145.000092"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "monitoring slack?!?!?",
+        "ts": "1472247151.000093"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "and it's too damn hot to sleep",
+        "ts": "1472247152.000094"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "lol",
+        "ts": "1472247153.000095"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "and contribute to the random slack channel ? :joy:",
+        "ts": "1472247197.000096"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": ":unamused:",
+        "ts": "1472247211.000097"
+    },
+    {
+        "type": "message",
+        "user": "U1MBURU4D",
+        "text": "Watch Hulu ? ",
+        "ts": "1472247252.000098",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1L0V1X61",
+                    "U1KRB11QC",
+                    "U1KT9ATA5",
+                    "U1KRHCR7T",
+                    "U1KSL7L7R",
+                    "U1KT5F4SZ",
+                    "U1KRE1L9M",
+                    "U1KRSV7AN",
+                    "U1L9DD1NY",
+                    "U1L735VD4"
+                ],
+                "count": 11
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Read?",
+        "ts": "1472247316.000099"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "reading requires brain engagement lol",
+        "ts": "1472247368.000100"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "<@U1MBURU4D> VERY UNAMUSED",
+        "ts": "1472247375.000101",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KT9ATA5",
+                    "U1KRLV1CG",
+                    "U1L0V1X61",
+                    "U1KSL7L7R",
+                    "U1MBURU4D",
+                    "U1KRSV7AN",
+                    "U1KRB11QC"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1KQYG6SJ> you should start watching Stranger Things, if you havent seen it! other good shows: breaking bad, homeland, scrubs, office... your pick... :smiling_imp:",
+        "ts": "1472247967.000102",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L914KNJ",
+                    "U1L735VD4"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "man, you're terrible Kosta",
+        "ts": "1472247998.000103"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "and I have seen breaking bad",
+        "ts": "1472248003.000104"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "you know what, I'm just going to leave my house now",
+        "ts": "1472248017.000105"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "you guys are terrible",
+        "ts": "1472248024.000106"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "ALL OF YOU",
+        "ts": "1472248028.000107"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1KQYG6SJ> thank you",
+        "ts": "1472248045.000108",
+        "reactions": [
+            {
+                "name": "smiling_imp",
+                "users": [
+                    "U1KT9ATA5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "<@U1KQYG6SJ> this is what the kids used to do before Netflix came around <http:\/\/static.giantbomb.com\/uploads\/scale_medium\/0\/1951\/946206-hoopandstick.jpg>",
+        "attachments": [
+            {
+                "fallback": "350x324px image",
+                "image_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/0\/1951\/946206-hoopandstick.jpg",
+                "image_width": 350,
+                "image_height": 324,
+                "image_bytes": 23121,
+                "from_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/0\/1951\/946206-hoopandstick.jpg",
+                "id": 1
+            }
+        ],
+        "ts": "1472248572.000110",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KRLV1CG",
+                    "U1L914KNJ",
+                    "U1PNNRVGF"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "kids? :scream:",
+        "ts": "1472248590.000112"
+    },
+    {
+        "type": "message",
+        "user": "U1SMADBU4",
+        "text": "<@U1KQYG6SJ> Make cupcakes and then bring them to class on Monday! :grinning:",
+        "ts": "1472258617.000113",
+        "reactions": [
+            {
+                "name": "hugging_face",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1KRWUXFU",
+                    "U1LMHQY9E",
+                    "U1LBRCSEA",
+                    "U1KRLV1CG",
+                    "U1LAAMJ0M",
+                    "U1L2P17DZ",
+                    "U1L0V1X61",
+                    "U1NUU2U9E",
+                    "U1L7G5LR4",
+                    "U1KRHCR7T",
+                    "U1KSL7L7R",
+                    "U1L6WB44A"
+                ],
+                "count": 13
+            }
+        ]
+    }
+]

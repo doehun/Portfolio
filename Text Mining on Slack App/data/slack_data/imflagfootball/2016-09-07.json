@@ -1,0 +1,104 @@
+[
+    {
+        "user": "U1L95JP1S",
+        "inviter": "U1KRNHQA1",
+        "text": "<@U1L95JP1S|mattkelk> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473250973.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1PF7HWTF",
+        "text": "Carb up tonight boys",
+        "ts": "1473270885.000002",
+        "reactions": [
+            {
+                "name": "pizza",
+                "users": [
+                    "U1LMHQY9E",
+                    "U1KRNHQA1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "I'm most likely not gonna be able to make tomorrow unfortunately ",
+        "ts": "1473271348.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "Also don't forget to wear  shorts without pockets tomorrow",
+        "ts": "1473292653.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1Q7LP4V9",
+        "text": "Thanks!",
+        "ts": "1473292691.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Without? Is that a rule? Cause I don't own any ",
+        "ts": "1473292706.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "Yeah, I'm not sure if they'll actually check but they might.  I only have 1 pair but maybe someone has extra?",
+        "ts": "1473292786.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1Q7LP4V9",
+        "text": "I have some extra ones",
+        "ts": "1473292899.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KSEJ01W",
+        "text": "Honestly had no idea shorts without pockets were still a thing ",
+        "ts": "1473292953.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Hah exactly. But ok thanks Johnny. I'll test mine out and if I get caught I'll use yours as a backup. ",
+        "ts": "1473293155.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1L1WFNC8",
+        "text": "I didn't know they even existed lol",
+        "ts": "1473293181.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1Q7LP4V9",
+        "text": "Yeah I'll bring extra in case anyone needs them. They may be a bit short for since people cause they are old and from my wrestling days lol",
+        "ts": "1473293362.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1KSEJ01W",
+        "text": "Shorter the better. More range of motion = more explosion off the line ",
+        "ts": "1473293497.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1L95JP1S",
+        "text": "When will the next practice be anyway?",
+        "ts": "1473298181.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "Yes, please bring extra shorts haha",
+        "ts": "1473306410.000015"
+    }
+]

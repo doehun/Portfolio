@@ -1,0 +1,153 @@
+[
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "Can we create\/modify the folders on the transfer portal? Also, what are your thoughts on setting up your working directory on the SSD vs the HDD? I'm thinking the SSD for performance?",
+        "ts": "1476822171.000036"
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "SSD is the network drive so it will not improve performance. I suggest leaving everything in the transfer portal as is, downloading all the data to your E:\/ drive, and playing with it from there.",
+        "ts": "1476822298.000037",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRQLFLY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U2R2NANUC",
+        "text": "<@U2R2NANUC|john_jernigan> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476827388.000038",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L5GU954"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U2R2NANUC",
+        "text": "hey everyone,  I'm a couple weeks behind getting some memos out to the tech leads regarding many details about the practicum environment.  hopefully we can get caught up on here pretty efficiently.  If there are important reference notes that you will need in the future (best practices, common procedures) I will put them in the Q:\\ drive on the practicum server (the \"documentation\" network drive) most likely in addition to discussion it here.",
+        "ts": "1476827783.000039"
+    },
+    {
+        "type": "message",
+        "user": "U2R2NANUC",
+        "text": "I've had some major problems with GitHub Desktop, and it won't properly work on the practicum servers.  There are other ways to utilize Git, however, such as with BitBucket (made by the same people that made Jira).  I am rapidly working on an implementation of BitBucket hosted here at the IAA that I could deploy within a week and solve all the Git needs.  I said you could use GitHub Enterprise from NCSU, but I dont' know why you would want to use that without the GitHub Desktop user interface (it would be super cumbersome without GitHub Desktop?)  so I think that basically the way forward with Git is to wait on my BitBucket implementation to come online asap.  In the end, Git is Git.",
+        "ts": "1476828311.000040"
+    },
+    {
+        "type": "message",
+        "user": "U2R2NANUC",
+        "text": "Many people were having trouble locating SAS.  I dont' know why SAS didn't properly put the shortcuts on the Desktop this year, but a couple days ago I went and manually added the desktop shortcuts.  You can of course still find SAS in the start menu.     Note that Enterprise Miner is not working quite yet, due to where that to-do item is located on my list.  I need to do some post-configuration tasks and upload usage instructions.  If you need Miner this week for some reason, let me know, I'll expedite.  It's coming, though, no problem.",
+        "ts": "1476828445.000041"
+    },
+    {
+        "type": "message",
+        "user": "U2R2NANUC",
+        "text": "Regarding practicum server disk performance:  If your E:\\ drive (HDD Data) is ~2TB or ~4TB in size, then the D:\\ drive (SSD Data) is much better performance (at a smaller capacity).  Your E:\\ drive will slow down considerably if more than one person is hammering it with tasks (e.g. running R or SAS code heavily).  In such a concurrent-team-member-use situation you may benefit from keeping your data on the D:\\ drive when it's actively being used (and archiving it on the E:\\ drive when it's being stored for later).      However if your E:\\ drive is ~8TB in size, then the performance of the E:\\ drive (HDD Data) is actually at least as good as the D:\\ drive (SSD Data) in all cases, and I recommend using the E:\\ exclusively.       In case you're wondering why there are 2 drives at all, I configure the SAS Temporary Files to utilize the solid state drive (SSD) for performance reasons, and utilize standard mechanical hard disk drives (HDD) for their larger size.  Also if we set up a database engine for you (e.g. MySQL) I will put it on the D:\\ drive for performance reasons also.",
+        "ts": "1476828841.000042"
+    },
+    {
+        "type": "message",
+        "user": "U2R2NANUC",
+        "text": "I started typing out my thoughts about how we should automate backups and I'm writing a wall of text with that topic alone.  I probably need to make a video lecture to discuss the issue.  It boils down to \"if we're organized about how we store data and code\/documents, then it's pretty easy to automate backups.  and if we're not organized, then it's a lot more difficult and time consuming to set up automated backups\".  So, I owe you a followup on this.  In the meantime you're fine with just manually backing up things to your X:\\ (backup) drive.",
+        "ts": "1476829284.000043"
+    },
+    {
+        "type": "message",
+        "user": "U2R2NANUC",
+        "text": "<@U1L5GU954> \"Can we create\/modify the folders on the transfer portal?\"  You can but only make the changes underneath the top 2 root folders (\"From_MSA_Team_to_Sponsor\" and \"From_Sponsor_to_MSA_Team\").  I want to be able to write scripts in the future that reference that root folder structure, but what's underneath those two folders is up to you if you want to create further folders.",
+        "ts": "1476829404.000044",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L5GU954",
+                    "U1L974M70"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U2R2NANUC",
+        "text": "<@U1KRNTXL5>  \"has John said anything about how\/where to back up our files on the server?  and is it possible to transfer files from our laptop to the server?  Like code snippets.\"  if you're uploading non-NDA content from your laptop it's ok to use Gmail or Google Drive.  If you have NDA content to upload something is wrong and we should talk about what to do.    NDA content doesn't go in Gmail or Google Drive (like if the sponsor sends it to you that way) so we'd talk about what to do then.  The Remote Desktop functionality to connect your laptop directly to the practicum server is administratively disabled, btw.",
+        "ts": "1476829593.000045"
+    },
+    {
+        "type": "message",
+        "user": "U2R2NANUC",
+        "text": "There can be some interesting challenges getting your data loaded up, so feel free to drop by my office or create an appointment with me to see if we need to work together to get your team moving forward.",
+        "ts": "1476830387.000046"
+    },
+    {
+        "type": "message",
+        "user": "U2R2NANUC",
+        "text": "<!channel> I appreciate the invite to this tech lead channel, and would like the opportunity to continue communicating through here (among other media).  Please take a look at some relevant memos I've written here to get up to speed with a few major topics.",
+        "ts": "1476830525.000047",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U1KRB11QC",
+                    "U1N43E3E0",
+                    "U1KT9ATA5",
+                    "U1LAAMJ0M"
+                ],
+                "count": 4
+            },
+            {
+                "name": "computer",
+                "users": [
+                    "U1N43E3E0",
+                    "U1L974M70"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRTHAQZ",
+        "text": "<@U2R2NANUC> Thanks for the info!!",
+        "ts": "1476831145.000048"
+    },
+    {
+        "type": "message",
+        "user": "U1L0RBZFH",
+        "text": "<@U2R2NANUC> Thank you!",
+        "ts": "1476831225.000049"
+    },
+    {
+        "type": "message",
+        "user": "U1MBURU4D",
+        "text": "<@U2R2NANUC>: Thanks!",
+        "ts": "1476831243.000050"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "<@U2R2NANUC> Thanks!",
+        "ts": "1476832620.000051"
+    },
+    {
+        "type": "message",
+        "user": "U1Q5GHC2J",
+        "text": "<@U2R2NANUC>: Thanks!",
+        "ts": "1476838265.000052"
+    }
+]

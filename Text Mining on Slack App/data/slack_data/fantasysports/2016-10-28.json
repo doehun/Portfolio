@@ -1,0 +1,24 @@
+[
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<!channel> ive set the draft up for Sunday, October 30th at 7 pm. Draft order is randomized one hour prior and the format is snake",
+        "edited": {
+            "user": "U1KT9ATA5",
+            "ts": "1477670374.000000"
+        },
+        "ts": "1477670052.000055"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "If you have any questions about setting lineups, waivers, etc. let me know ",
+        "ts": "1477670090.000056"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "Make sure to set your lineups daily. You are also allowed \"match up acquisitions\" which is basically a limit on the number of players that you can add from waivers each week ",
+        "ts": "1477670209.000057"
+    }
+]

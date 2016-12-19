@@ -1,0 +1,174 @@
+[
+    {
+        "user": "U1KRZT11T",
+        "text": "<@U1KRZT11T|tommy_darlington> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471993933.000002"
+    },
+    {
+        "user": "U1KRZT11T",
+        "purpose": "Want everyone to get exercising with other people. As a group we succeed and have fun! Speed doesn't matter, all people welcome.",
+        "text": "<@U1KRZT11T|tommy_darlington> set the channel purpose: Want everyone to get exercising with other people. As a group we succeed and have fun! Speed doesn't matter, all people welcome.",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1471993934.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Hey everyone the first group run was a success. The next group run will be on Thursday morning at 6:30AM (Map attached). Once we have a few runs under our belts, we can figure out the logistics of what people want to do moving forward in the year. Hope to see everyone to see everyone then! <http:\/\/www.mapmyrun.com\/routes\/view\/1232813371>",
+        "attachments": [
+            {
+                "service_name": "MapMyRun",
+                "title": "Run Thursday 8\/25",
+                "title_link": "http:\/\/www.mapmyrun.com\/routes\/view\/1232813371",
+                "text": "This is a 4.4 mile loop. There is a mix of paved path and sidewalk. I hope everyone has fun!",
+                "fallback": "MapMyRun: Run Thursday 8\/25",
+                "from_url": "http:\/\/www.mapmyrun.com\/routes\/view\/1232813371",
+                "thumb_url": "http:\/\/drzetlglcbfx.cloudfront.net\/routes\/thumbnail\/1232813371?size=200x200",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "http:\/\/d2i3r43q6ffvz8.cloudfront.net\/prod\/public\/images\/min\/icons\/favicons\/run\/apple-touch-icon.d37300696f2f.png",
+                "id": 1
+            }
+        ],
+        "ts": "1471994273.000004",
+        "reactions": [
+            {
+                "name": "runner",
+                "users": [
+                    "U1KT5F4SZ",
+                    "U1LNGEV0B",
+                    "U1LMHQY9E"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1SMADBU4",
+                    "U1L0RBZFH",
+                    "U1LMHQY9E"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U1KT5F4SZ",
+        "text": "<@U1KT5F4SZ|hannahh> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471994303.000006"
+    },
+    {
+        "user": "U1M37FW5U",
+        "inviter": "U1KT5F4SZ",
+        "text": "<@U1M37FW5U|alex_curcio> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471994391.000007"
+    },
+    {
+        "user": "U1KRTU0UQ",
+        "inviter": "U1KT5F4SZ",
+        "text": "<@U1KRTU0UQ|catherinebarnes> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471994444.000008"
+    },
+    {
+        "user": "U1KRE5NKZ",
+        "inviter": "U1KT5F4SZ",
+        "text": "<@U1KRE5NKZ|laura.sweeney> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471994444.000009"
+    },
+    {
+        "user": "U1L0RBZFH",
+        "inviter": "U1KT5F4SZ",
+        "text": "<@U1L0RBZFH|caroline-hughes> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471994444.000010"
+    },
+    {
+        "user": "U1L7ERY77",
+        "text": "<@U1L7ERY77|maxwarburg> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471994501.000011"
+    },
+    {
+        "user": "U1KRHCR7T",
+        "text": "<@U1KRHCR7T|zack_schwartz> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471994575.000012"
+    },
+    {
+        "user": "U1L4RTKCM",
+        "text": "<@U1L4RTKCM|gheyne> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471994629.000013"
+    },
+    {
+        "user": "U1NLH1CP8",
+        "text": "<@U1NLH1CP8|catherine_burton> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471994781.000014"
+    },
+    {
+        "user": "U1LMHQY9E",
+        "text": "<@U1LMHQY9E|pmaychek> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471995007.000015"
+    },
+    {
+        "user": "U1KQGK2CB",
+        "text": "<@U1KQGK2CB|loganteal> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471995432.000016"
+    },
+    {
+        "user": "U1N43E3E0",
+        "text": "<@U1N43E3E0|ryan_w> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471996391.000017"
+    },
+    {
+        "user": "U1LNGEV0B",
+        "text": "<@U1LNGEV0B|kespina> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471998016.000018"
+    },
+    {
+        "user": "U1L2QDX7Y",
+        "text": "<@U1L2QDX7Y|semoore9> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472000512.000019"
+    },
+    {
+        "user": "U1SMADBU4",
+        "text": "<@U1SMADBU4|ajohnst2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472006496.000020"
+    },
+    {
+        "user": "U1KT3UELS",
+        "text": "<@U1KT3UELS|clareburns> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472007319.000021"
+    }
+]

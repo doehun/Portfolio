@@ -1,0 +1,90 @@
+[
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Anyone want 5 guys today for lunch?  <@U1KT9ATA5>?",
+        "ts": "1477923372.001998",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KT9ATA5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1PM77VSS",
+        "text": "<@U1L6YQUSU>: would we be back by 1?",
+        "ts": "1477924256.001999"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<@U1PM77VSS> If Machine Learning is short and we can get out of here early then that shouldn't be a problem",
+        "ts": "1477924398.002000"
+    },
+    {
+        "type": "message",
+        "user": "U1PM77VSS",
+        "text": "Should be short. Just let me know when you all get out. ",
+        "ts": "1477924441.002001"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "will do.  i'll post something here",
+        "ts": "1477924575.002002"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "IM handball starts soon, if you want to play like this post and I can invite you to join the team, if you decide you want to play later we'll keep the schedule on the calendar once it comes out and feel free to come play!",
+        "ts": "1477925131.002003",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L3K1AKD",
+                    "U1M7AD5L2",
+                    "U1KRE1L9M",
+                    "U1NDG6ULB",
+                    "U1KRNHQA1",
+                    "U1MDHNYR5",
+                    "U1KT3UELS",
+                    "U1L7G5LR4",
+                    "U1KRZT11T",
+                    "U1L974M70"
+                ],
+                "count": 10
+            },
+            {
+                "name": "celebration",
+                "users": [
+                    "U1KR891RC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U2LA4671B",
+        "text": "Is this \"Olympic\" handball or \"slap a ball around a racquetball court\" handball?",
+        "ts": "1477940494.002005"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Currently missing my car keys, if anyone sees keys laying around or accidentally picked them up then please let me know!!",
+        "ts": "1477944662.002006"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U2LA4671B>: it's Olympic style I believe ",
+        "ts": "1477947028.002007"
+    }
+]

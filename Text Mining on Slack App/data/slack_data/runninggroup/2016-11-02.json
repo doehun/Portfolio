@@ -1,0 +1,77 @@
+[
+    {
+        "type": "message",
+        "user": "U1NLH1CP8",
+        "text": "are we running in the morn?",
+        "ts": "1478135171.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Yea let's do it. let's meet at the gym. I will really try to not fall back asleep ",
+        "ts": "1478135262.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "Phil's route two weeks ago was pretty great. We could do something similar to that ",
+        "ts": "1478135339.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Yea let's do it. ",
+        "ts": "1478135523.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "I'm not gonna make it, my knee's been sore for a bit so it's probably best I rest it up at least until next week. Have fun!",
+        "ts": "1478136756.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE5NKZ",
+        "text": "99.9% sure I'm also out for tomorrow, have fun!",
+        "ts": "1478137474.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1NLH1CP8",
+        "text": "<@U1KRE5NKZ> is that a very good way to start 25?",
+        "ts": "1478137696.000025",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U1LMHQY9E",
+                    "U1KQGK2CB"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRE5NKZ",
+        "text": "Wayyyy too much cake, hopefully the afternoon works! ",
+        "edited": {
+            "user": "U1KRE5NKZ",
+            "ts": "1478137844.000000"
+        },
+        "ts": "1478137783.000026"
+    },
+    {
+        "type": "message",
+        "user": "U1NLH1CP8",
+        "text": "Hope you had a great birthday!!",
+        "ts": "1478137955.000028"
+    },
+    {
+        "user": "U1L0RBZFH",
+        "text": "<@U1L0RBZFH|caroline-hughes> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1478138538.000029"
+    }
+]

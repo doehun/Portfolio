@@ -1,0 +1,62 @@
+[
+    {
+        "type": "message",
+        "user": "U1L0RBZFH",
+        "text": "Did Dr. Race ever mention that we should put our final decision tree on the data mining homework report?",
+        "ts": "1477329108.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1L0RBZFH> she mentioned to us that she was more interested in the targeted market segment than seeing the entire tree. if you put your \"final\" tree, that probably wouldn't hurt, but you don't need to compare multiple trees or anything like that.",
+        "ts": "1477330708.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1L0RBZFH",
+        "text": "<@U1KT9ATA5> Thank you!!",
+        "ts": "1477333585.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Yes.",
+        "ts": "1477355519.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "The mean of the observations on the right is 20.  ",
+        "ts": "1477355559.000025"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "So you subtract each from the mean and square it to find the SSE.  So (-10)^2 + (-5)^2 + 0^2 + 5^2 + 10^2 = 250",
+        "ts": "1477355650.000026"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "So the original SSE was 500, but now we have 100 and 250",
+        "ts": "1477355676.000027"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "So we reduced the 500 to 350",
+        "ts": "1477355709.000028"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "<@U1L6YQUSU> ahhhh thank you!!!! got it!",
+        "ts": "1477355750.000029"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "anytime",
+        "ts": "1477355850.000030"
+    }
+]

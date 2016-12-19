@@ -1,0 +1,115 @@
+[
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "So we can download the sponsor's files to our computers, right? ",
+        "ts": "1473904164.000002",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KSR1MS4",
+                    "U1KRB11QC",
+                    "U1L974M70"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "I think we're not supposed to but you could ask John if you're unsure.",
+        "ts": "1473904273.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "Did you guys see the size of those servers! How are we supposed to carry them around all the time... I am going to need one of those carts that he had.",
+        "ts": "1473904378.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "I know! They must eat through AA batteries",
+        "ts": "1473904417.000005",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KRB11QC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "If you just put everything on google drive, you won't need to worry about it.",
+        "ts": "1473904456.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "Good point, then I can access it on my phone app",
+        "ts": "1473904658.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "I'm actually very interested in info sec. Going to take advantage of this opportunity to develop good habits. Already warned my team that I'm going to crack down on the rule book",
+        "ts": "1473904862.000008",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U1KRQLFLY",
+                    "U1KRB11QC",
+                    "U1LAAMJ0M"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "I am getting the specs for all of my team's laptops.",
+        "ts": "1473904949.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "to be able to troubleshoot remotely",
+        "ts": "1473904968.000010",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L5GU954"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "please enlighten me on what is going on. have you guys already gotten access to the practicum servers? ",
+        "ts": "1473906870.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1KS4UE2F>: You haven't? ",
+        "ts": "1473907860.000012"
+    },
+    {
+        "user": "U1L974M70",
+        "text": "<@U1L974M70|brshallo> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473916045.000013"
+    }
+]

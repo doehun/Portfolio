@@ -1,0 +1,421 @@
+[
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "<@U1KT2JJE8> I saved about $400 by ordering a machine with the min RAM and smallest HDD - then ordered the RAM and SSD I wanted from Amazon and Newegg. It's usually about a 15 minute install. Lenovo charges an arm and a leg for these things. Guessing other manufacturers are similar.",
+        "ts": "1475754290.000842",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KT9ATA5",
+                    "U1KT2JJE8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "Same, upgraded my old one for a couple hundred dollars ",
+        "ts": "1475756679.000843"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "Hello, please thumbs down this post if you do not want us to use the public slack channels\/posts for our text mining project (checking for privacy issues). Information will be used for project purposes. If you have issues with your name being attached to posts please let me know. Thank you. ",
+        "ts": "1475769948.000845",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1M4QJD4P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "<@U1L41DF9D> Doubt I'll have an issue with it but can you be a little more specific?",
+        "ts": "1475775280.000848"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "<@U1M4QJD4P> we will be look at overall patterns\/trends on slack with channels during test times, clustering people by the channels they are in, sentimental analysis on posts (what kinds of posts are most likely to get certain reactions) - all of it will be aggregated and based on channels",
+        "ts": "1475775873.000849"
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "<@U1L41DF9D> That sounds awesome!",
+        "ts": "1475775915.000850"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "<@U1M4QJD4P> thanks. We're asking because we got back our proposal and the only concern was potential privacy issues. If there is no issue, we can proceed.",
+        "ts": "1475775997.000851"
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "Maybe asking for a reaction from people who don't mind instead of people who do? and posting it at-channel for visibility? Or solicit PM's from those who wish to be excluded?   Sorry, can't help critiquing this survey method.",
+        "ts": "1475776422.000852"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Echoing <@U1M4QJD4P>, you want to make sure everyone sees your question\/survey.  You might consider the MSA groups forum as well since some people monitor that more than Slack.",
+        "ts": "1475776495.000853"
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "Echoing <@U1L6YQUSU>, or send an email...",
+        "ts": "1475776537.000854"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Maybe even make an announcement before our group class tomorrow ",
+        "ts": "1475776555.000855"
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "<@U1L41DF9D> will be emailing out a google form shortly",
+        "edited": {
+            "user": "U1M4QJD4P",
+            "ts": "1475776613.000000"
+        },
+        "ts": "1475776579.000856"
+    },
+    {
+        "user": "U2LA4671B",
+        "text": "<@U2LA4671B|brandonbarbour> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475776717.000858"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "<@U1L41DF9D> I don't mind since everything I've posted on slack I posted with the assumption that anyone at the institute would be able to read it.  If this ends up being something that you post outside the institute (like as a blog post) I just ask that you be mindful about kind of information you release.  As an example, our conversations on here about how to reach out to recruiters on Linkedin is sort of a grey area.",
+        "ts": "1475777424.000859"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "<@U1M4QJD4P> <@U1L6YQUSU> <@U1KT2JJE8> <@U1N43E3E0> Thanks for the suggestions. You guys are right - we should email or announce in class. That being said, we only have public messages, we won't be sharing outside the classroom presentations, and we won't present sensitive information.",
+        "ts": "1475778057.000860",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1N43E3E0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "I just found out that since it is fall break you can purchase a student parking pass for $2 a day from the Transportation Office on Sullivan Drive",
+        "ts": "1475779355.000861"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "In case you had to go to campus and did not want to go to a pay lot",
+        "ts": "1475779372.000862"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "Does anyone ever feel like we are completely ignoring everything we learned from reading 1984??? ",
+        "ts": "1475779680.000863",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KRBFY3Z",
+                    "U1L6WB44A",
+                    "U1KR9BP0E",
+                    "U1L2P17DZ",
+                    "U1KS4UE2F",
+                    "U1L41DF9D"
+                ],
+                "count": 6
+            },
+            {
+                "name": "bird",
+                "users": [
+                    "U1M4QJD4P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "<@U1L3PU7BJ> doubleplusgood point",
+        "ts": "1475779720.000864",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KS4UE2F",
+                    "U1L2P17DZ",
+                    "U1L41DF9D",
+                    "U1KT2JJE8"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "<@U1KS4UE2F> <@U1L6YQUSU> <@U1KT2JJE8> <@U1L41DF9D> Good point <@U1N43E3E0> . I'd be cool with sharing outside the institute if you obfuscated anything personally identifiable. Can't speak for everyone though.",
+        "ts": "1475780367.000866",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L3PU7BJ",
+                    "U1KSBCBFG"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "I'm working on google form now! Will send it out by 5pm",
+        "ts": "1475780979.000867"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "Posted Google Form to forum - link is also here: <https:\/\/goo.gl\/forms\/UbLhgqxlhNM0FMiH3>",
+        "ts": "1475783546.000868"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<@U1L41DF9D>  Don't forget you still need to get word out to everyone about the survey as far as completion.  Meaning, is completion required?  What happens if they don't.",
+        "edited": {
+            "user": "U1L6YQUSU",
+            "ts": "1475785109.000000"
+        },
+        "ts": "1475785076.000869"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "<@U1L6YQUSU> I posted on the forum - doesn't that usually email everyone?",
+        "ts": "1475785100.000870"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I edited ^^",
+        "ts": "1475785115.000872"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "Ahh I see!!",
+        "ts": "1475785125.000873"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "If I were doing it, I'd try to say something like \"not completing the survey indicates that you have no issues with the project\"",
+        "ts": "1475785165.000874"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "That way, people don't have to complete the survey if they already agree, and also you don't have to chase down every single person",
+        "ts": "1475785228.000875"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "I just did so! Thanks <@U1L6YQUSU>! I appreciate the help a lot!",
+        "ts": "1475785266.000876"
+    },
+    {
+        "type": "message",
+        "user": "U1NDG6ULB",
+        "text": "NSA logic ",
+        "ts": "1475789097.000877",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KRNHQA1",
+                    "U1KT9ATA5",
+                    "U1KSR1MS4"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "Should I run through the keyboard share:20 slides again next week? \n\n:green_apple: yes, Monday at 12:15pm\n:egg: yes, Tuesday at 9:15am\n:spiral_calendar_pad: yes but can't make those options\n:wastebasket: no, once was enough",
+        "ts": "1475789911.000878",
+        "reactions": [
+            {
+                "name": "green_apple",
+                "users": [
+                    "U1L40P4N9",
+                    "U1KR9BP0E",
+                    "U1KQYG6SJ",
+                    "U1KSEJ01W",
+                    "U1KR891RC",
+                    "U1KRTHAQZ",
+                    "U1KT3UELS",
+                    "U1KQ9523D",
+                    "U1L7B7188",
+                    "U1KS1BFED",
+                    "U1L7ERY77",
+                    "U1KT9ATA5",
+                    "U1LBRCSEA",
+                    "U1NUU2U9E",
+                    "U1KSR1MS4",
+                    "U1M1L5G6L",
+                    "U1KRHCR7T",
+                    "U1MBURU4D",
+                    "U1L3PU7BJ",
+                    "U1P8QBBD1",
+                    "U1L735VD4"
+                ],
+                "count": 21
+            },
+            {
+                "name": "egg",
+                "users": [
+                    "U1KSYP1M5",
+                    "U1KQYG6SJ",
+                    "U1KQTJ6BV",
+                    "U1L41DF9D",
+                    "U1KRTHAQZ",
+                    "U1KSGHLPJ",
+                    "U1LDKB3AN",
+                    "U1KRHCR7T",
+                    "U1P8QBBD1"
+                ],
+                "count": 9
+            },
+            {
+                "name": "spiral_calendar_pad",
+                "users": [
+                    "U1KSYP1M5",
+                    "U1KT5F4SZ",
+                    "U1KSL7L7R",
+                    "U1KRHCR7T"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "Has anyone else tried to take the data mining homework quiz and gotten an error 'Sorry this activity is currently hidden' I'm trying to determine if it's just me or if I should email Dr. Race. ----update I have emailed Dr Race to let her know and she said she'll take care of it. Maybe check back in a bit.",
+        "edited": {
+            "user": "U1L914KNJ",
+            "ts": "1475793290.000000"
+        },
+        "ts": "1475791201.000879",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1NUU2U9E",
+                    "U1KRHCR7T",
+                    "U1KVBARR9",
+                    "U1KT3UELS",
+                    "U1KT2JJE8",
+                    "U1KRWUXFU",
+                    "U1L9DD1NY",
+                    "U1KT9ATA5",
+                    "U1PN82U67",
+                    "U1KRNH021"
+                ],
+                "count": 11
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRLV1CG",
+        "text": "If you didn't have a chance to watch the Keyboard Share:20 by Mike Rose, you missed out. It was intellectually stimulating, very well put together, and generally awesome.  There is a related poll above. Grab some lunch and go see it if he decides to do it again. I strongly recommend it!",
+        "ts": "1475791738.000880",
+        "reactions": [
+            {
+                "name": "metal",
+                "users": [
+                    "U1L914KNJ",
+                    "U1KR9BP0E",
+                    "U1L40P4N9",
+                    "U1KR891RC",
+                    "U1NLH1CP8",
+                    "U1L0RBZFH",
+                    "U1KT9ATA5",
+                    "U1NUU2U9E",
+                    "U1L3G0YRJ",
+                    "U1M1L5G6L",
+                    "U1KRHCR7T",
+                    "U1L9DD1NY",
+                    "U1KRBJP47",
+                    "U1P8QBBD1",
+                    "U1KRF9BAP"
+                ],
+                "count": 15
+            },
+            {
+                "name": "rose",
+                "users": [
+                    "U1L3G0YRJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "<@U1L6YQUSU> <@U1L914KNJ> belated thanks for the LinkedIn advice!",
+        "ts": "1475801688.000883",
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U1L914KNJ",
+                    "U1L9DD1NY"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1L6YQUSU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

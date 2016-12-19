@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1L7E8GSU",
+        "text": "<@U1L7E8GSU|rachelkurtz> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1476463402.000007"
+    }
+]

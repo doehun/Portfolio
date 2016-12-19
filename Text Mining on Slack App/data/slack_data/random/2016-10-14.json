@@ -1,0 +1,275 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "The Alley is closing in November and moving to Durham :( <http:\/\/www.bizjournals.com\/triangle\/news\/2016\/10\/13\/the-alley-raleigh-moving-durham-nc.html>",
+        "ts": "1476447371.000502",
+        "reactions": [
+            {
+                "name": "confused",
+                "users": [
+                    "U1KRNHQA1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "NOOOOO :sob:",
+        "ts": "1476447468.000503"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": ":scream:",
+        "ts": "1476447631.000504"
+    },
+    {
+        "type": "message",
+        "user": "U1L2P17DZ",
+        "text": "Nooo! :sob: it's iconic!!",
+        "ts": "1476447701.000505"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1KRWUXFU>: it's becoming a Target ",
+        "ts": "1476448782.000506",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1KRQLFLY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "we need to have a bowling party there before they close",
+        "ts": "1476450321.000507",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U1KRB11QC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "This makes me so sad",
+        "ts": "1476450332.000508"
+    },
+    {
+        "type": "message",
+        "user": "U2LA4671B",
+        "text": "Wonder where the bowling classes will be held now",
+        "ts": "1476455568.000509"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "This is getting too insane",
+        "ts": "1476456180.000513",
+        "reactions": [
+            {
+                "name": "small_edward_lim",
+                "users": [
+                    "U1KRB11QC",
+                    "U1N43E3E0",
+                    "U1LBRCSEA",
+                    "U1MDHNYR5",
+                    "U1L9DD1NY",
+                    "U1LDKB3AN",
+                    "U1KSL7L7R",
+                    "U1LAAMJ0M"
+                ],
+                "count": 8
+            },
+            {
+                "name": "small_officer_futch",
+                "users": [
+                    "U1P8QBBD1",
+                    "U1N43E3E0",
+                    "U1LBRCSEA",
+                    "U1L2P17DZ",
+                    "U1L735VD4",
+                    "U1MDHNYR5",
+                    "U1L9DD1NY",
+                    "U1LDKB3AN",
+                    "U1KSL7L7R"
+                ],
+                "count": 9
+            },
+            {
+                "name": "to_sas_we_go",
+                "users": [
+                    "U1P8QBBD1",
+                    "U1N43E3E0",
+                    "U1LBRCSEA"
+                ],
+                "count": 3
+            },
+            {
+                "name": "party_ed",
+                "users": [
+                    "U1N43E3E0",
+                    "U1KSPCE87",
+                    "U1LBRCSEA",
+                    "U1L2P17DZ",
+                    "U1L735VD4",
+                    "U1MDHNYR5",
+                    "U1L9DD1NY",
+                    "U1LDKB3AN",
+                    "U1KSL7L7R",
+                    "U1LAAMJ0M",
+                    "U1KR891RC"
+                ],
+                "count": 11
+            },
+            {
+                "name": "happy_waffle",
+                "users": [
+                    "U1N43E3E0",
+                    "U1L9DD1NY",
+                    "U1KSL7L7R"
+                ],
+                "count": 3
+            },
+            {
+                "name": "waffle",
+                "users": [
+                    "U1N43E3E0",
+                    "U1L9DD1NY"
+                ],
+                "count": 2
+            },
+            {
+                "name": "embarrassed_waffle",
+                "users": [
+                    "U1N43E3E0",
+                    "U1L9DD1NY"
+                ],
+                "count": 2
+            },
+            {
+                "name": "tough_guy_ioannis",
+                "users": [
+                    "U1L7RPG1M",
+                    "U1N43E3E0",
+                    "U1MDHNYR5",
+                    "U1LDKB3AN",
+                    "U1KSL7L7R",
+                    "U1LAAMJ0M"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "<https:\/\/www.wired.com\/2011\/10\/dennis-ritchie\/>",
+        "attachments": [
+            {
+                "service_name": "WIRED",
+                "title": "Dennis Ritchie, Father of C and Co-Developer of Unix, Dies",
+                "title_link": "https:\/\/www.wired.com\/2011\/10\/dennis-ritchie\/",
+                "text": "Dennis Ritchie, the creator of the C programming language and co-developer of the Unix operating system passed away on October 8 at the age of 70, leaving a legacy that casts a very long shadow.",
+                "fallback": "WIRED: Dennis Ritchie, Father of C and Co-Developer of Unix, Dies",
+                "image_url": "https:\/\/www.wired.com\/wp-content\/uploads\/2011\/10\/ritchie_HP-660x480.jpg",
+                "image_width": 344,
+                "image_height": 250,
+                "from_url": "https:\/\/www.wired.com\/2011\/10\/dennis-ritchie\/",
+                "image_bytes": 43926,
+                "service_icon": "https:\/\/www.wired.com\/wp-content\/themes\/Phoenix\/assets\/images\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "ts": "1476468682.000517",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1N43E3E0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "^I remember when this happened because it was the same month that Steve Jobs died and all the nerds were pissed because all the media attention was on Jobs.",
+        "ts": "1476471582.000519"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "also, somehow I missed that this happened in 2011",
+        "ts": "1476473311.000520"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "sheesh",
+        "ts": "1476473313.000521"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "so I _just_ discovered his death",
+        "ts": "1476473332.000522",
+        "reactions": [
+            {
+                "name": "small_edward_lim",
+                "users": [
+                    "U1N43E3E0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U1NLH1CP8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "never forget",
+        "ts": "1476473379.000523"
+    },
+    {
+        "type": "message",
+        "user": "U1NDG6ULB",
+        "text": "Math <http:\/\/nofilmschool.com\/2016\/10\/video-explains-why-cameras-shoot-2997fps>",
+        "attachments": [
+            {
+                "service_name": "No Film School",
+                "title": "This Video Explains Why Cameras Shoot 29.97fps",
+                "title_link": "http:\/\/nofilmschool.com\/2016\/10\/video-explains-why-cameras-shoot-2997fps",
+                "text": "Have you ever wondered why cameras shoot 29.97fps? Why not just 30?",
+                "fallback": "No Film School: This Video Explains Why Cameras Shoot 29.97fps",
+                "thumb_url": "http:\/\/nofilmschool.com\/sites\/default\/files\/styles\/twitter\/public\/29fps.png?itok=04cy_AGg",
+                "from_url": "http:\/\/nofilmschool.com\/2016\/10\/video-explains-why-cameras-shoot-2997fps",
+                "thumb_width": 560,
+                "thumb_height": 315,
+                "service_icon": "http:\/\/nofilmschool.com\/apple-touch-icon-152x152-precomposed.png",
+                "id": 1
+            }
+        ],
+        "ts": "1476490212.000524"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "Anyone interested to play ball at 3?",
+        "ts": "1474723606.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "I'll be there at that time",
+        "ts": "1474723616.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "I can play at six. Would yall be down for playing outside?",
+        "edited": {
+            "user": "U1L3PU7BJ",
+            "ts": "1474738947.000000"
+        },
+        "ts": "1474738887.000017"
+    }
+]

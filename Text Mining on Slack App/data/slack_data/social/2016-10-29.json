@@ -1,0 +1,113 @@
+[
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U1KS1BFED",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[October 28th, 2016 11:39 AM] doug_nicholson: Hey Party People (that means everybody)! This is a reminder about PARTY NUMBER TWO of HOWLAWEEKEND this *Saturday at my place from 9pm - Whenever*. Significant others, roommates and dogs are all welcome! We\u2019ll have a costume contest, pong games, snacks and candy, glow sticks, a spooky fog machine dance floor (with lots of monster mash remixes and halloween flavored trap jamz). There will be a keg for those who don\u2019t want to BYOB. Just throw a couple bucks my way for a cup.\n\nMy address is *5435 Silver Moon Lane*. It\u2019s an end unit with orange string lights on the banister. The townhome complex has some visitor parking right near our place (8 spots or so). But there\u2019s more about 100 yards down the street at the intersection of Silver Moon and Retro Rose. Any unmarked spot not directly in front of a house is visitor parking. That being said, I encourage people to carpool or uber! Call me if you have any issues: <tel:804-687-5574|804-687-5574>.\n\nCongrats on Fall 2! I can\u2019t wait to see you all at Sylvie\u2019s and then at my place! You can do it! (Rumor is that Sylvie has a stash of pedialyte if you really need help on the double header parties).",
+                "ts": "1477679953.000601",
+                "author_subname": "doug_nicholson",
+                "channel_id": "C1KR05HLN",
+                "channel_name": "social",
+                "is_msg_unfurl": true,
+                "text": "Hey Party People (that means everybody)! This is a reminder about PARTY NUMBER TWO of HOWLAWEEKEND this *Saturday at my place from 9pm - Whenever*. Significant others, roommates and dogs are all welcome! We\u2019ll have a costume contest, pong games, snacks and candy, glow sticks, a spooky fog machine dance floor (with lots of monster mash remixes and halloween flavored trap jamz). There will be a keg for those who don\u2019t want to BYOB. Just throw a couple bucks my way for a cup.\n\nMy address is *5435 Silver Moon Lane*. It\u2019s an end unit with orange string lights on the banister. The townhome complex has some visitor parking right near our place (8 spots or so). But there\u2019s more about 100 yards down the street at the intersection of Silver Moon and Retro Rose. Any unmarked spot not directly in front of a house is visitor parking. That being said, I encourage people to carpool or uber! Call me if you have any issues: <tel:804-687-5574|804-687-5574>.\n\nCongrats on Fall 2! I can\u2019t wait to see you all at Sylvie\u2019s and then at my place! You can do it! (Rumor is that Sylvie has a stash of pedialyte if you really need help on the double header parties).",
+                "author_name": "Doug Nicholson",
+                "author_link": "https:\/\/msa17.slack.com\/team\/doug_nicholson",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-07-02\/56393706934_b1c54dbb4e3a6bf7b8fc_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U1KS1BFED|doug_nicholson> pinned a message to this channel.",
+        "ts": "1477777552.000610"
+    },
+    {
+        "type": "message",
+        "user": "U1KS1BFED",
+        "text": "HOWLAWEEKEND PARTY TWO reminder! 5435 Silver Moon Lane. We're getting things started at 9pm. We will have a mini keg of shock top (~60 beers worth). More beers are always appreciated though, especially for games!\n\nAgain, parking might be at a premium right near our place. But any spots in the complex that are unmarked are visitor spots. There\u2019s about 10 spots at the intersection of retro rose and silver moon lane another group of spots at the intersection of retro rose and Crescentview. And there are others scattered throughout the neighborhood.",
+        "ts": "1477780831.000611",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1N43E3E0"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRLV1CG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "party_ed",
+                "users": [
+                    "U1KRLV1CG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U1KRLV1CG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "robot_face",
+                "users": [
+                    "U1L914KNJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "It looks like someone put a ton of silver sodas in my bag that aren't actually mine.  So I'll guess I'll be handing out some extras at the party.",
+        "ts": "1477781060.000612"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "Anyone on Fayetteville? ",
+        "ts": "1477802465.000613"
+    },
+    {
+        "type": "message",
+        "user": "U1L9669PD",
+        "text": "Architect",
+        "ts": "1477805210.000615"
+    },
+    {
+        "type": "message",
+        "user": "U1KSYP1M5",
+        "text": "Are y'all still there ",
+        "ts": "1477805629.000616"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "Yeah we are. ",
+        "ts": "1477805785.000617"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": " Tommy and I are headed to tasty 8s",
+        "ts": "1477806379.000618"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "On our way ",
+        "ts": "1477807565.000619"
+    }
+]

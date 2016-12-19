@@ -1,0 +1,59 @@
+[
+    {
+        "type": "message",
+        "user": "U1L90S3QC",
+        "text": "Thanks <@U1KRQLFLY> !",
+        "ts": "1472036643.000007"
+    },
+    {
+        "user": "U1MGWMZFD",
+        "text": "<@U1MGWMZFD|wjburton> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472040359.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1MGWMZFD",
+        "text": "If anyone is interested: these are my most used packages (minus lubridate)  These are all made by hadley wickham, basically THE R GODFATHER Most used packages\nweb scraping -- rvest\ndata cleaning -- tidyr, dplyr. Use these with the %&gt;% operator to make data manipulation and\n                   cleaning scripts easy to follow and read. I ALWAYS USE THESE\nworking with dates -- lubridate\ndata visualization -- ggplot2.\nQuick geospatial plotting -- ggmap\nfinding patterns in strings -- stringr,  or also base R has gsub, grep, grepl\nbuilding interactive apps -- shiny\nfor applying functions over data frame, list, vector-- apply family of functions",
+        "ts": "1472040644.000009",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1L90S3QC",
+                    "U1KRBJP47",
+                    "U1KRHCR7T",
+                    "U1L7ERY77",
+                    "U1KQ9523D",
+                    "U1KT2JJE8",
+                    "U1L0RBZFH",
+                    "U1L0V1X61",
+                    "U1MPXSHN1"
+                ],
+                "count": 10
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1MGWMZFD",
+        "text": "tidyr and dplyr and ggplot2 are always loaded in when I'm working on a project",
+        "ts": "1472040681.000010"
+    },
+    {
+        "user": "U1L0RBZFH",
+        "text": "<@U1L0RBZFH|caroline-hughes> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472050207.000011"
+    },
+    {
+        "user": "U23JW15TP",
+        "text": "<@U23JW15TP|spanago> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472067393.000012"
+    }
+]

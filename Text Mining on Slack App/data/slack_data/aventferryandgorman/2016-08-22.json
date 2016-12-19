@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U1L735VD4",
+        "text": "<@U1L735VD4|nimish_g> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471868576.000002"
+    },
+    {
+        "user": "U1KRWJB7S",
+        "text": "<@U1KRWJB7S|brandon_mayer> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471869344.000003"
+    },
+    {
+        "user": "U1KRSV7AN",
+        "text": "<@U1KRSV7AN|jstauss> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471909574.000002"
+    }
+]

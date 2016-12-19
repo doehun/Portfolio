@@ -1,0 +1,144 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Was anyone able to get a parking pass?",
+        "ts": "1475615088.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "<@U1L46HXCJ>: said she would drive in but we'll need someone else to volunteer as well",
+        "ts": "1475615329.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "Let's try and organize parking together again like last time ",
+        "ts": "1475615351.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "I can drive if needed",
+        "ts": "1475615410.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "I'm trying to pick up a pass now",
+        "ts": "1475615458.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "I have one as well",
+        "ts": "1475615645.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "We're rich",
+        "ts": "1475615668.000025",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U1KSL7L7R",
+                    "U1KRNHQA1",
+                    "U1L5GU954",
+                    "U1LBRCSEA"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "They're actually all out of parking passes so I may need to ride shotgun with one of y'all",
+        "ts": "1475615843.000026",
+        "reactions": [
+            {
+                "name": "football",
+                "users": [
+                    "U1KSL7L7R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I might be able to drive some people on Saturday.",
+        "ts": "1475616874.000027"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "I'm trying to get a pass",
+        "ts": "1475617284.000028"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "They were out at Wolf Ridge when I went. Was going to try getting one tomorrow after class ",
+        "edited": {
+            "user": "U1KRB11QC",
+            "ts": "1475617307.000000"
+        },
+        "ts": "1475617285.000029"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Yeah I was at wolf ridge at about 5 and there was nothing there, asked around and I was told they were out",
+        "ts": "1475617910.000031"
+    },
+    {
+        "type": "message",
+        "user": "U1L46HXCJ",
+        "text": "My sister is going to drive so we will probably have 3 spaces plus the trunk. Don't forget it's a noon game so we gotta start early! SCO PACK ",
+        "ts": "1475619676.000032"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1LMHQY9E>: you're welcome to come with me tomorrow when I try to get one",
+        "ts": "1475619870.000033"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "<@U1KRB11QC>  word, what time is it?",
+        "ts": "1475629897.000034"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1LMHQY9E> 12-1. So i\u2019m going right after class lets out",
+        "ts": "1475629920.000035"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I'll go <@U1KRB11QC>",
+        "ts": "1475629936.000036",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U1KRB11QC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "yeah i'd like to join you, just gotta make sure i'm back for my coaching session",
+        "ts": "1475630095.000037"
+    }
+]

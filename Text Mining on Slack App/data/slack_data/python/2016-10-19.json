@@ -1,0 +1,119 @@
+[
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "Let me know if anyone gets stuck on this",
+        "ts": "1476930165.000180"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "<@U1NUU2U9E> Our group was getting similar errors. Our solution was to do the project in Enterprise Miner rather than Python :thinking_face:",
+        "ts": "1476930222.000181"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1KRHCR7T> :joy: well, if you decide to go back to python, let me know!",
+        "ts": "1476930254.000182"
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "<@U1NUU2U9E>,  we saw that too, in some of Dr Healey's code that had previously worked, but we were able to cut it out since we didn't actually need it. What was the workaround?",
+        "ts": "1476930405.000183"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1KT2JJE8>  I tried to find the correct encoding for the text that we have downloaded but ended up using the option \"ignore\" for the symbols it cant find... so something like this:\narticles= [i.decode('utf-8', 'ignore') for i in articles]\nso it just drops anything it cant figure out how to read",
+        "ts": "1476930979.000184",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U1KQGK2CB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L2P17DZ",
+        "text": "My solution was to use R :see_no_evil::confused:",
+        "ts": "1476931156.000185",
+        "reactions": [
+            {
+                "name": "r",
+                "users": [
+                    "U1L5GU954",
+                    "U1NUU2U9E",
+                    "U1L3G0YRJ",
+                    "U1L7ERY77"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "Oh! I think I saw that with input characters too and my solution was to use ascii_letters not letters.",
+        "ts": "1476931250.000186"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1NUU2U9E>: the ignore option is really problematic. I've found a way to strip non-ascii characters and then encode it to Unicode and everything functions properly now",
+        "ts": "1476931307.000187"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1KRB11QC> what do you mean by problematic? many words lost?",
+        "ts": "1476931497.000190"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "i noticed that our texts included some qutation marks that were weird... so now that they are gone the text looks just fine",
+        "ts": "1476931538.000191"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "I don\u2019t think that the lda algorithm uses that text in the analysis if it isn\u2019t encoded.",
+        "ts": "1476931552.000192"
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "This is what I used for a \"valid characters\" filter: allowed = string.ascii_letters + string.digits + ' '. The other characters can be problematic because they may end up in tokens and wouldn't be handled properly later.",
+        "ts": "1476931609.000193"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1KRB11QC> oh, so the line actually encodes it as utf-8 and ignores the values that utf-8 doesnt recognize",
+        "ts": "1476931783.000194"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "as far as i know haha",
+        "ts": "1476931880.000195"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "That is my understanding. Using the ignore option was really messing with our clusters",
+        "ts": "1476931881.000196"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1KRB11QC> thanks for the heads up... ill make sure that our clusters dont get affected",
+        "ts": "1476931939.000197"
+    }
+]

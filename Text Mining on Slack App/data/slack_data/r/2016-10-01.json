@@ -1,0 +1,32 @@
+[
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "hey, is anyone aware of LaBarr's code to test the accuracy of the arima model on the validation set? having a hard time with forecast function...",
+        "ts": "1475369791.000027"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "<@U1NUU2U9E>: it's easier in sas :p",
+        "ts": "1475372017.000028"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1KSBCBFG> yeah, but practicum sponsors prefer R ;)",
+        "ts": "1475372108.000029"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "<@U1NUU2U9E>: hoping ours lets us stick to sas otherwise would be very screwed. But since u r only working on hwk, u should go to the dark side and use sas :p",
+        "ts": "1475372260.000030"
+    },
+    {
+        "type": "message",
+        "user": "U1PN82U67",
+        "text": "<@U1NUU2U9E>  Try to use predict(arima(data, order = c(1,0,0)), n.ahead = 16)  to forecast first and then use accuracy() funtion or create your own MAPE function.",
+        "ts": "1475375693.000031"
+    }
+]

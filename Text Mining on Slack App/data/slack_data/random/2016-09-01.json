@@ -1,0 +1,34 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "For the Bostoners, I put some saltwater taffy in the snack locker.",
+        "ts": "1472775853.000018",
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U1L0RBZFH",
+                    "U1L9DD1NY",
+                    "U1LJRDPLP",
+                    "U1L41DF9D"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U1KR80QMS",
+        "text": "<@U1KR80QMS|nsnelson> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472779049.000019"
+    },
+    {
+        "user": "U1KR80QMS",
+        "text": "<@U1KR80QMS|nsnelson> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472782548.000020"
+    }
+]

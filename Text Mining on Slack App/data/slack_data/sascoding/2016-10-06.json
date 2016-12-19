@@ -1,0 +1,154 @@
+[
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1Q5GHC2J> scroll up for a little bit and you should see bayes rule with the calculation. Are you on campus? ",
+        "ts": "1475756801.000234"
+    },
+    {
+        "type": "message",
+        "user": "U1Q5GHC2J",
+        "text": "<@U1KT9ATA5>: Thanks, I got it!",
+        "ts": "1475758944.000235"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "Anyone reviewing in a room somewhere? ",
+        "ts": "1475761012.000239"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1KT9ATA5> after class...",
+        "ts": "1475761618.000240"
+    },
+    {
+        "user": "U1L40P4N9",
+        "text": "<@U1L40P4N9|jaewonjung> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475764322.000244"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "I the fish bowl again at hunt until 2",
+        "ts": "1475765673.000245",
+        "reactions": [
+            {
+                "name": "tropical_fish",
+                "users": [
+                    "U1L7E8GSU",
+                    "U1KT9ATA5",
+                    "U1L9DD1NY",
+                    "U1P8QBBD1",
+                    "U1KR891RC"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "also know the code statement and that you need to do a data step after (code only submits model information) and difference between ALL the different scoring methods - proc plm, proc logistic (inmodel\/outmodel options, score statement, code statement).",
+        "ts": "1475767046.000246"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "How is this for a summary?\nProc GLM\/GLMSelect can \"Store\" models\nProc Logistic:\n     Outputs logits by default\n     Score option outputs probabilities\n     Outmodel can save model parms\n     Inmodel can use model parms\n     Code statement outputs model as a data step\nProc Score: Outputs logits by default\nProc PLM: \n     Outputs logits by default\n     ILINK option outputs probabilities\n     Can \"Restore\" models that were \"Store\"d\n     Code option can save models as a data statement.",
+        "edited": {
+            "user": "U1L1D4WG7",
+            "ts": "1475769184.000000"
+        },
+        "ts": "1475767783.000247"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "yes that is perfect!!! don't forget the code statement in PROC LOGISTIC (that was another one on the test). Also with proc plm you cannot use data= and restore= (you can only use restore= just fyi)",
+        "ts": "1475768797.000248"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "another good tip Caroline! I updated my post above.",
+        "ts": "1475769204.000250"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Anyone have an \"Out\/Output\/OutAll\" summary?",
+        "ts": "1475769273.000251"
+    },
+    {
+        "type": "message",
+        "user": "U1KSYP1M5",
+        "text": "Are you referring to procsurveyselect? I believe the out= statement will output the sample of the selected observations. The Outall= option will output the all of the observations and create a flag variable that indicates the samples that were selected for the training data set.",
+        "ts": "1475769577.000252"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "some folks were mentioning knowing all the \"output\" options for various procs... there are so many...",
+        "ts": "1475769672.000253"
+    },
+    {
+        "type": "message",
+        "user": "U1L7G5LR4",
+        "text": "<@U1L1D4WG7> To narrow it down a bit, theres a question asking how to output spearman correlation in proc corr.",
+        "ts": "1475769780.000254",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L1D4WG7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "^ Yep basically exactly the same as the question in the practice exam that asked \"how do you output Pearson's correlation\" except it asked for Spearman instead.  So I guess know all of those different options.",
+        "ts": "1475770903.000255"
+    },
+    {
+        "type": "message",
+        "user": "U1L1WFNC8",
+        "text": "I mentioned this tip earlier to a few.  Don\u2019t eat a big lunch before the test, I did and you\u2019ll struggle a bit more than needed lol.  Also, good luck everyone, you\u2019ll all do great!",
+        "ts": "1475770915.000256",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KT9ATA5",
+                    "U1KQYG6SJ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "laughing",
+                "users": [
+                    "U1L0RBZFH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "nom nom",
+        "ts": "1475771096.000257"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Yeah good luck everyone!  Take your time and don't panic and you should be fine.  A common theme I noticed between myself and others who passed is how many questions we had to solve more by process of elimination than truly \"knowing\" the answer.",
+        "ts": "1475771111.000258"
+    }
+]

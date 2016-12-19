@@ -1,0 +1,67 @@
+[
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Chipotle anyone?",
+        "ts": "1473351160.000009",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRNHQA1",
+                    "U1KRB11QC",
+                    "U1KQGRG2F"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Does the number 3 Wolf line bus always stop for 5 minutes along the way?",
+        "ts": "1473353435.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "I thought yesterday was an exception, but it just happened again!",
+        "ts": "1473353449.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "It happens on Centennial pkwy",
+        "ts": "1473353631.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "Not an exception. The longer stops are part of the route ",
+        "ts": "1473353640.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<@U1KT5F4SZ>: is right",
+        "ts": "1473353646.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Ugh",
+        "ts": "1473353727.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "MY PLANS",
+        "ts": "1473353736.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "jk",
+        "ts": "1473353754.000017"
+    }
+]

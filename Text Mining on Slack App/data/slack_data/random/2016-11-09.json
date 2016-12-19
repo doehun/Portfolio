@@ -1,0 +1,136 @@
+[
+    {
+        "type": "message",
+        "user": "U1L2P17DZ",
+        "text": "Hi everybody, this Saturday in Durham starting at 9am my family will be having a huge pottery sale! Handmade gifts are always a good idea for the holiday season :blush: Several people have asked me about details so I thought I would provide them here for everyone. Details about the location, what they're selling, and prices can be found at their facebook page: <https:\/\/www.facebook.com\/stevensstoneware\/> \n\nSorry for the plug, but hope to see some of you there!",
+        "ts": "1478711954.000729",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L6WB44A",
+                    "U1KS4UE2F",
+                    "U1KR9BP0E",
+                    "U1KRLV1CG"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1KRZT11T|tommy_darlington> uploaded a file: <https:\/\/msa17.slack.com\/files\/tommy_darlington\/F30FZLQ6P\/pasted_image_at_2016_11_09_02_51_pm.png|Pasted image at 2016-11-09, 2:51 PM>",
+        "file": {
+            "id": "F30FZLQ6P",
+            "created": 1478721080,
+            "timestamp": 1478721080,
+            "name": "Pasted image at 2016_11_09 02_51 PM.png",
+            "title": "Pasted image at 2016-11-09, 2:51 PM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U1KRZT11T",
+            "editable": false,
+            "size": 549814,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F30FZLQ6P\/pasted_image_at_2016_11_09_02_51_pm.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F30FZLQ6P\/download\/pasted_image_at_2016_11_09_02_51_pm.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F30FZLQ6P-8fbf0de6a8\/pasted_image_at_2016_11_09_02_51_pm_64.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F30FZLQ6P-8fbf0de6a8\/pasted_image_at_2016_11_09_02_51_pm_80.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F30FZLQ6P-8fbf0de6a8\/pasted_image_at_2016_11_09_02_51_pm_360.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360_w": 261,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F30FZLQ6P-8fbf0de6a8\/pasted_image_at_2016_11_09_02_51_pm_480.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_480_w": 348,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F30FZLQ6P-8fbf0de6a8\/pasted_image_at_2016_11_09_02_51_pm_160.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "image_exif_rotation": 1,
+            "original_w": 500,
+            "original_h": 690,
+            "permalink": "https:\/\/msa17.slack.com\/files\/tommy_darlington\/F30FZLQ6P\/pasted_image_at_2016_11_09_02_51_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T1KRCES8H-F30FZLQ6P-ac28d1e3d1",
+            "channels": [
+                "C1KR6MDP1"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0,
+            "reactions": [
+                {
+                    "name": "joy",
+                    "users": [
+                        "U1KRWUXFU",
+                        "U1L2QDX7Y",
+                        "U1L5GU954",
+                        "U1KQYG6SJ",
+                        "U1L0V1X61",
+                        "U1L2P17DZ",
+                        "U1P8QBBD1",
+                        "U1KSBCBFG",
+                        "U1KRB11QC"
+                    ],
+                    "count": 9
+                }
+            ]
+        },
+        "user": "U1KRZT11T",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1KRZT11T|tommy_darlington>",
+        "bot_id": null,
+        "ts": "1478721083.000730"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "I am sooooo sleepy. Was pretty disappointed to discover that it's only 8:15",
+        "ts": "1478740544.000739"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": " <@U1KQYG6SJ> gotta stay up until 9:30! ",
+        "ts": "1478740806.000740",
+        "reactions": [
+            {
+                "name": "clock1030",
+                "users": [
+                    "U1KRB11QC",
+                    "U1L2P17DZ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "upside_down_face",
+                "users": [
+                    "U1P8QBBD1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "My eyelids feel like lead",
+        "ts": "1478740852.000741",
+        "reactions": [
+            {
+                "name": "sleeping",
+                "users": [
+                    "U1KRB11QC",
+                    "U1LMHQY9E",
+                    "U1L914KNJ"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

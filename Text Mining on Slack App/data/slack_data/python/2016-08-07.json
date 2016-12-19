@@ -1,0 +1,17 @@
+[
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "Heard from Brandon that we'll be using 2.7 in the program so I've switched to that for now. Just thinking ahead, it'll be good to know 3 but like <@U1NUU2U9E>  said, the differences are very minor- especially if you are in the habit of switching between different languages all together.  The big advantage of 2.7 is the vast library modules publicly available and supported.",
+        "ts": "1470590606.000002",
+        "reactions": [
+            {
+                "name": "snake",
+                "users": [
+                    "U1N43E3E0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

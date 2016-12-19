@@ -1,0 +1,114 @@
+[
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "My Friday face:",
+        "ts": "1473432199.000018",
+        "reactions": [
+            {
+                "name": "shaved_ice",
+                "users": [
+                    "U1L46HXCJ",
+                    "U1L2P17DZ",
+                    "U1L735VD4"
+                ],
+                "count": 3
+            },
+            {
+                "name": "tornado",
+                "users": [
+                    "U1L46HXCJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ice_cream",
+                "users": [
+                    "U1L46HXCJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "poultry_leg",
+                "users": [
+                    "U1L46HXCJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "grin",
+                "users": [
+                    "U1M1L5G6L",
+                    "U1KRB11QC",
+                    "U1KRWUXFU",
+                    "U1KT9ATA5",
+                    "U1LAAMJ0M"
+                ],
+                "count": 5
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U1L40P4N9",
+                    "U1NUU2U9E",
+                    "U1L7G5LR4",
+                    "U1KRF9BAP"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1LNGEV0B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<http:\/\/m.imgur.com\/De7TPa5?r>",
+        "attachments": [
+            {
+                "service_name": "Imgur",
+                "title": "the first time is always the best time",
+                "title_link": "http:\/\/m.imgur.com\/De7TPa5?r",
+                "text": "after that, you're just chasing the dragon.",
+                "fallback": "Imgur: the first time is always the best time",
+                "thumb_url": "http:\/\/i.imgur.com\/De7TPa5h.jpg",
+                "video_html_width": "720",
+                "video_html_height": "720",
+                "video_url": "https:\/\/i.imgur.com\/De7TPa5.mp4",
+                "from_url": "http:\/\/m.imgur.com\/De7TPa5?r",
+                "thumb_width": 720,
+                "thumb_height": 720,
+                "service_icon": "http:\/\/s.imgur.com\/images\/favicon-152.png",
+                "id": 1
+            }
+        ],
+        "ts": "1473432201.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "<http:\/\/mashable.com\/2016\/09\/08\/amtrak-elevator-fail\/?utm_cid=mash-com-fb-main-link#nx3fnNcOFGqP> :joy:",
+        "attachments": [
+            {
+                "service_name": "Mashable",
+                "title": "Amtrak asks woman if she's still trapped in elevator months later",
+                "title_link": "http:\/\/mashable.com\/2016\/09\/08\/amtrak-elevator-fail\/?utm_cid=mash-com-fb-main-link#nx3fnNcOFGqP",
+                "text": "Thankfully, she made it out.",
+                "fallback": "Mashable: Amtrak asks woman if she's still trapped in elevator months later",
+                "image_url": "http:\/\/a.amz.mshcdn.com\/media\/ZgkyMDE2LzA5LzA5LzU5L2VsZXZhdG9yLjJkZTA4LmpwZwpwCXRodW1iCTEyMDB4NjMwCmUJanBn\/8f9921b2\/021\/elevator.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "http:\/\/mashable.com\/2016\/09\/08\/amtrak-elevator-fail\/?utm_cid=mash-com-fb-main-link#nx3fnNcOFGqP",
+                "image_bytes": 76206,
+                "service_icon": "http:\/\/mashable.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1473447558.000021"
+    }
+]

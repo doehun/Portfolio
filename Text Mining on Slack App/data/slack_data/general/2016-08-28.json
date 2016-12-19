@@ -1,0 +1,169 @@
+[
+    {
+        "type": "message",
+        "user": "U1Q5GHC2J",
+        "text": "Hey, anyone know how we can find previous students' resumes? I used to be able to find them on the msa website. But it seems they are all gone now. It might be very helpful to see those.",
+        "ts": "1472396011.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "<@U1Q5GHC2J> do you mean the profile book or the actual resumes?",
+        "ts": "1472396887.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "Daniel I think the resume book is locked. We need to request April for it. ",
+        "ts": "1472397158.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "I don't remember seeing resume book online. ",
+        "ts": "1472397275.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1Q5GHC2J",
+        "text": "Yes, the resume book is blocked. :(",
+        "ts": "1472399032.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "does anyone have any conceptual experience\/knowledge of text mining? I could really use some help :sweat_smile:",
+        "ts": "1472402375.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "<@U1Q5GHC2J>  - I know I had seen it before. Did some digging, and found it!",
+        "edited": {
+            "user": "U1L0V1X61",
+            "ts": "1472404462.000000"
+        },
+        "ts": "1472404402.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "<http:\/\/analytics.ncsu.edu\/reports\/MSA_Student_Resumes.pdf>",
+        "ts": "1472404405.000010",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRHCR7T",
+                    "U1KRLV1CG",
+                    "U1P8QBBD1",
+                    "U1KRTHAQZ",
+                    "U1KSL7L7R",
+                    "U1KT2JJE8",
+                    "U1KRB11QC",
+                    "U1L914KNJ",
+                    "U1LBRCSEA",
+                    "U1NUU2U9E",
+                    "U1KR9BP0E",
+                    "U1KQGK2CB",
+                    "U1L735VD4",
+                    "U1KT3UELS",
+                    "U1L3G0YRJ",
+                    "U1L7G5LR4",
+                    "U1N43E3E0",
+                    "U1L7RPG1M"
+                ],
+                "count": 18
+            },
+            {
+                "name": "exclamation",
+                "users": [
+                    "U1L1D4WG7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "Thanks Raj!",
+        "ts": "1472406280.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Nice snippets from last year's practicums in those resume's for those that are curious",
+        "ts": "1472407036.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "Just slightly better than \"If I told you, I'd have to kill you.\"",
+        "ts": "1472412622.000018",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KQ9523D",
+                    "U1LBRCSEA",
+                    "U1L9DD1NY",
+                    "U1KSL7L7R",
+                    "U1LAAMJ0M",
+                    "U1KQYG6SJ",
+                    "U1KT5F4SZ",
+                    "U1KRBJP47",
+                    "U1SMADBU4",
+                    "U1KRLV1CG",
+                    "U1KRTHAQZ",
+                    "U1NUU2U9E",
+                    "U1KQGK2CB",
+                    "U1KT3UELS",
+                    "U1L0V1X61",
+                    "U1KS4UE2F",
+                    "U1L735VD4",
+                    "U1L41DF9D",
+                    "U1P8QBBD1"
+                ],
+                "count": 19
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1Q5GHC2J",
+        "text": "<@U1L0V1X61>: Thanks, Raj!",
+        "ts": "1472421569.000032"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "interesting that just last year, they had addresses on there.",
+        "ts": "1472423693.000034"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "lol <@U1NUU2U9E>.  What a clever way to say \"We did some stuff with some things.\"",
+        "ts": "1472424315.000035",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KRB11QC",
+                    "U1L0V1X61",
+                    "U1P8QBBD1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1P8QBBD1"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

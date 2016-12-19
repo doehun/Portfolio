@@ -1,0 +1,154 @@
+[
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "<!channel> Did anyone else have their Spyder\/Anaconda\/Pycharm just spontaneously uninstall at some point in these last few weeks?",
+        "ts": "1476037071.000034"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "not I",
+        "ts": "1476037128.000035"
+    },
+    {
+        "type": "message",
+        "user": "U1L7G5LR4",
+        "text": "<@U1L6WB44A> yes. after I updated my laptop it just uninstalled. I had to reinstall it  - no idea why that happened though",
+        "ts": "1476037223.000036"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Same thing happened to me <@U1L6WB44A>",
+        "ts": "1476037264.000037"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "I bet good money on Windows 10 updates...  I had it uninstall a couple other programs on me about a week ago, but not python.",
+        "ts": "1476037355.000038",
+        "reactions": [
+            {
+                "name": "expressionless",
+                "users": [
+                    "U1L6WB44A"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "Has anyone gotten the basic \"NLTK Term Vectors\" script from class to run?  I'm getting errors with the required packages, even after installing gensim with pip.",
+        "ts": "1476037590.000039"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "I cant get gensim running. How do you add new modules?",
+        "ts": "1476037913.000040"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "Hey Ed--Andrea sent us an email about it.  If you go to Anaconda Command Prompt and type 'pip install gensim' it should install",
+        "ts": "1476038164.000041"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Thanks <@U1KRNTXL5>   I'm still working on getting my files read in, so not to the point of actually using gensim yet.",
+        "edited": {
+            "user": "U1L1D4WG7",
+            "ts": "1476039132.000000"
+        },
+        "ts": "1476039097.000042"
+    },
+    {
+        "user": "U1L5GU954",
+        "text": "<@U1L5GU954|jrweston> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476040019.000044",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L5GU954"
+                ],
+                "count": 1
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U1KRB11QC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KVBARR9",
+        "text": "<@U1KRNTXL5> have you tried installing nltk in command prompt with 'pip install nltk'",
+        "ts": "1476040104.000045"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "<@U1KVBARR9> I got it to work finally...there was a missing package in nltk called upunkt (or something like that--who comes up with these things?)",
+        "ts": "1476040387.000046"
+    },
+    {
+        "user": "U1L3K1AKD",
+        "text": "<@U1L3K1AKD|ccupito> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476043534.000047"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "<@U1KRNTXL5>:  you need to run nltk.download(). Then you can download subsidiary packages. Best done in command line, though you can run a script and an interactive window will appear. ",
+        "edited": {
+            "user": "U1KS4UE2F",
+            "ts": "1476046710.000000"
+        },
+        "ts": "1476046663.000048",
+        "reactions": [
+            {
+                "name": "small_edward_lim",
+                "users": [
+                    "U1L7RPG1M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "Thanks Edward!",
+        "ts": "1476054471.000051"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "was anyone able to download the additional components using nltk.download() ?",
+        "ts": "1476059744.000052"
+    },
+    {
+        "type": "message",
+        "user": "U1KQGK2CB",
+        "text": "Try opening anaconda prompt and typing 'pip install nltk'",
+        "ts": "1476059849.000053"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "that tells me I already have NLTK installed, but nltk.download() still doesn't do anything",
+        "ts": "1476059989.000054"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "11am works for me",
+        "ts": "1473437602.000004",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KT5F4SZ",
+                    "U1KQTJ6BV"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

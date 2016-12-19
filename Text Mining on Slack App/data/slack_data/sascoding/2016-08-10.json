@@ -1,0 +1,510 @@
+[
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "For those of you studying for SAS certification, and have been feeling closed off from the world :slightly_smiling_face: , Flor and I will be in the graduate student lounge starting from around 10am today. Stop by if you want to chat about the practice tests...",
+        "ts": "1470828001.000035"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "Could someone help me with questing from the blog - Base SAS 100",
+        "ts": "1470852569.000036"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "so the correct answer is C... im trying to understand why... do we need to specify \"by fname descending\" in the merge as well?",
+        "ts": "1470852623.000038"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "The merge statement merges it by ascending fname but they're sorted by descending fname, so it doesn't match up",
+        "edited": {
+            "user": "U1KRWUXFU",
+            "ts": "1470853123.000000"
+        },
+        "ts": "1470852679.000039",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L1D4WG7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "but the merge is not supposed to sort, right?",
+        "ts": "1470852736.000041"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "Sorry, I mistyped ",
+        "ts": "1470852833.000044"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "oh, i see... thanks!",
+        "ts": "1470852849.000045"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "I edited it. Sorry for the confusion! But yeah, the data sets still have to be sorted by what it merges by ",
+        "ts": "1470852878.000046"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "could we then just specify \"by fname descending\" in the merge?",
+        "ts": "1470852887.000047"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "It would have to be \"by descending fname\" because descending comes before the variable name, but yes, that should work",
+        "edited": {
+            "user": "U1KRWUXFU",
+            "ts": "1470852964.000000"
+        },
+        "ts": "1470852939.000048"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "awesome, thanks a lot!!",
+        "ts": "1470853009.000050",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRWUXFU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "I have not found any issues, but are all the answers to the Daniel's practice questions correct?",
+        "ts": "1470862396.000052"
+    },
+    {
+        "type": "message",
+        "user": "U1M1L5G6L",
+        "text": "I think 29 on SAS base 70 might be wrong",
+        "ts": "1470863257.000053"
+    },
+    {
+        "type": "message",
+        "user": "U1KRTHAQZ",
+        "text": "Has anyone else done all the blog questions\/Daniels questions and found themselves over thinking and making silly mistakes on the elearning practice exam? I expected the elearning exam to be much more difficult than it was and made a lot of stupid mistakes where I over thought some of the questions. Does anyone know what might be the difficulty level of the real exam?",
+        "ts": "1470867946.000054"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Anyone know why that's D?",
+        "ts": "1470868597.000055"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Scan has a default length of 200 in 9.3. But I saw today that 9.4 says scan has a default length of the variable that is being scanned. ",
+        "ts": "1470868786.000057"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "I was going to ask about this question tomorrow in the review session ",
+        "ts": "1470868796.000058"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1KRTHAQZ>: I am having the same issue with overthinking\/poor performance on practice tests but multiple have told me they did a lot better on the real exam",
+        "ts": "1470868838.000059"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Oh okay thanks <@U1KRMNVGC> ",
+        "ts": "1470868913.000060"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "<@U1L9DD1NY>: rose and I tested question 76 in SAS and it said 15",
+        "ts": "1470870177.000061"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "So I think it should be C",
+        "edited": {
+            "user": "U1KRWUXFU",
+            "ts": "1470870527.000000"
+        },
+        "ts": "1470870199.000062"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Scan and substring have default lengths of the variables they're searching in SAS 9.4",
+        "ts": "1470870254.000063"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "<@U1M1L5G6L>: Andrea said during the review session that it should be 2",
+        "ts": "1470870256.000064",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1M1L5G6L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "So the answer should be B, not A",
+        "ts": "1470870280.000065"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Definitely ask her in the review, but play around with it yourself as well and see",
+        "ts": "1470870449.000066"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Thanks guys! :relaxed:",
+        "ts": "1470871350.000068"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "anyone understand what the syntax error is on the blog question 9 (answer is B):\n\nThe following SAS program is submitted:\ndata work.totalsales;\nset work.monthlysales(keep = year product sales);\nretain monthsales {12} ;\narray monthsales {12} ;\ndo i = 1 to 12;\nmonthsales{i} = sales;\nend;\ncnt + 1;\nmonthsales{cnt} = sales;\nrun;\nThe data set named WORK.MONTHLYSALES has one observation per month for each of five years for a total of 60 observations.\nWhich one of the following is the result of the above program?\nA. The program fails execution due to data errors.\nB. The program fails execution due to syntax errors.\nC. The program runs with warnings and creates the WORK.TOTALSALES data set with 60 observations.\nD. The program runs without errors or warnings and creates the WORK.TOTALSALES data set with 60 observations.Click Comment link to get answer",
+        "ts": "1470873544.000069"
+    },
+    {
+        "type": "message",
+        "user": "U1MBURU4D",
+        "text": "You can't retain an array",
+        "ts": "1470873591.000070"
+    },
+    {
+        "type": "message",
+        "user": "U1MBURU4D",
+        "text": "or more accurately it's redundant to use the retain statement because array element values are always automatically retained",
+        "ts": "1470873790.000071"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "got it. thanks <@U1MBURU4D> !",
+        "ts": "1470873840.000072"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "I get why b is the right answer but why isn't d correct as well ",
+        "ts": "1470876719.000073"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I don't have my computer in front of me, but I think the period after the 11 is a problem ",
+        "ts": "1470876876.000075"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Don't you need a colon if you're defining length\/any kind of format in the input statement?",
+        "ts": "1470877110.000076"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "(I haven't hit that chapter yet)",
+        "ts": "1470877123.000077"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "I thought that was for nonstandard data",
+        "ts": "1470877128.000078"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Yeah I believe that's only for nonstandard too <@U1L9DD1NY> <@U1KQYG6SJ> ",
+        "ts": "1470877149.000079"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "It's nonstandard data or variables that have a length longer than 8 for modified list input. ",
+        "ts": "1470877173.000080",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U1KQYG6SJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Ohhhh ",
+        "ts": "1470877186.000081"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "So I think rose is right. Good catch ",
+        "ts": "1470877189.000082"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Oh I hadn't realised that either. Thanks <@U1KRMNVGC> ",
+        "ts": "1470877219.000083"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Thanks!!",
+        "ts": "1470877310.000084"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Without the colon, do you end up reading 11 characters for each value of first name?",
+        "ts": "1470877358.000085"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Or does it just yell at you?",
+        "ts": "1470877365.000086"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "I think it'd be a syntax error ",
+        "ts": "1470877411.000087"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Gotcha ",
+        "ts": "1470877512.000088"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Question 50 from blog: Anyone know why the answer for this is A and not B? I picked B because sum statements add regardless of missing values:\n\nA raw data file is listed below:\n--------10-------20-------30\n1901 2\n1905 1\n1910 6\n1925 .\n1941 1\nThe following SAS program is submitted and references the raw data file above:\ndata coins;\ninfile 'file-specification';\ninput year quantity;\n\nrun;\nWhich one of the following completes the program and produces a non-missing value for the variable TOTQUANTITY in the last\nobservation of the output data set?\nA. totquantity + quantity;\nB. totquantity = sum(totquantity + quantity);\nC. totquantity 0;\nsum totquantity;\nD. retain totquantity 0;\ntotquantity = totquantity + quantity;\nClick Comment link to get answer",
+        "ts": "1470881728.000089"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR4JP3",
+        "text": "A also ignores missing values ",
+        "ts": "1470881814.000090"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "It's not B because SAS will add totquantity and quantity first ",
+        "ts": "1470881830.000092"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "And since totquantity is missing, you'll get a missing value.",
+        "ts": "1470881849.000094"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "If it wasn't a plus, but rather a comma, then you'd be ok",
+        "ts": "1470881874.000095"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Ah, I see. Is the problem with D that it wouldn't ignore the missing value? Or that there's a retain statement without a sum statement?",
+        "ts": "1470882027.000098"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Totquantity=sum(totquantity, quantity) ",
+        "ts": "1470882035.000099"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "That should work, but not with the plus ",
+        "ts": "1470882046.000100"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR4JP3",
+        "text": "Shouldn't it be retain totquantity=0? ",
+        "ts": "1470882086.000101"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR4JP3",
+        "text": "In order to make D correct? ",
+        "ts": "1470882101.000102"
+    },
+    {
+        "type": "message",
+        "user": "U1KRTHAQZ",
+        "text": " <@U1KSR4JP3> you dont need the equals ",
+        "ts": "1470882187.000103"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR4JP3",
+        "text": "Okay! Thank you! <@U1KRTHAQZ> ",
+        "ts": "1470882204.000104"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "D won't ever be correct because there's a missing value in the data ",
+        "ts": "1470882222.000105"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "OK, got it. Thanks all.",
+        "ts": "1470882247.000106"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "So when it hits that missing value, the assignment statement will result in a missing value ",
+        "ts": "1470882247.000107"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<@U1KSR4JP3>: ",
+        "ts": "1470882262.000108"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "<@U1KRMNVGC>: update on that question (and <@U1L9DD1NY> and <@U1KR9BP0E>) -- without the colon, it will read however many characters you specified as that one variable (vs. an error)",
+        "ts": "1470882295.000109"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "I was testing out another question and realized this",
+        "ts": "1470882321.000110"
+    },
+    {
+        "type": "message",
+        "user": "U1KRTHAQZ",
+        "text": "<@U1KQYG6SJ>: could you explain why D wasn't correct? ",
+        "ts": "1470882354.000111"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "for MJ's question?",
+        "ts": "1470882375.000112"
+    },
+    {
+        "type": "message",
+        "user": "U1KRTHAQZ",
+        "text": "Yeah",
+        "ts": "1470882378.000113"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "D doesn't properly read the data -- instead of assigning a length such that up to 11 characters will fit into that variable, it's saying that there _should_ be 11 characters in that variable",
+        "ts": "1470882426.000114"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "to properly read the data without a length statement, you need a colon, since you want &gt; 8 chars",
+        "ts": "1470882450.000115"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "this is related to a different question but will show the same thing:",
+        "ts": "1470882487.000116"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "```data group;\n\tinput name $15. age 2.;\n\tput name $15. age 2.;\n\tdatalines;\n\tJanice 10\n\tHenri 11\n\tMichael 11\n\tSusan 12\n\t;\nrun;```",
+        "edited": {
+            "user": "U1KQYG6SJ",
+            "ts": "1470882508.000000"
+        },
+        "ts": "1470882491.000117"
+    },
+    {
+        "type": "message",
+        "user": "U1KRTHAQZ",
+        "text": "<@U1KQYG6SJ>: ohhhh I see the difference. Thanks for explanation! ",
+        "ts": "1470882559.000119"
+    },
+    {
+        "type": "message",
+        "user": "U1KRTHAQZ",
+        "text": "*the",
+        "ts": "1470882568.000120"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "When \/ where is the review tomorrow?? ",
+        "ts": "1470884703.000121"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "10am Bodie",
+        "ts": "1470884727.000122"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Lol thank u John ",
+        "ts": "1470884737.000123"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": ":+1:",
+        "ts": "1470884768.000124"
+    }
+]

@@ -1,0 +1,151 @@
+[
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Need to tweet that @ihop. Phil would be famous.",
+        "ts": "1474992389.000244"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "That picture looks like a man whose life has irreversibly changed.   <@U1L1D4WG7>  <@U1LMHQY9E>",
+        "ts": "1474994034.000249"
+    },
+    {
+        "type": "message",
+        "user": "U1L2P17DZ",
+        "text": "Glad you have now experienced the joy of IHOP <@U1LMHQY9E> ",
+        "ts": "1474994359.000250"
+    },
+    {
+        "type": "message",
+        "user": "U1MDHNYR5",
+        "text": "Waffle House forever",
+        "ts": "1475001034.000259"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "If anyone else is watching the SpaceX announcement, Elon Musk desperately needs Sarah Warren's help!",
+        "ts": "1475006732.000260"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "studying is hard yo",
+        "ts": "1475007172.000262"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "I keep having all these weird food cravings :worried:",
+        "ts": "1475007200.000263"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "except I'm still full from the gigantic omelette IHOP gave me",
+        "ts": "1475007222.000264"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Omg same ^ <@U1KQYG6SJ> I just drove 15 minutes to get a cookie :flushed:",
+        "ts": "1475010763.000266",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KQYG6SJ",
+                    "U1KRB11QC",
+                    "U1KT3UELS",
+                    "U1L9669PD"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "I enjoyed reading this as a break from not-studying: <http:\/\/www.prooffreader.com\/2016\/09\/battle-of-data-science-venn-diagrams.html>",
+        "attachments": [
+            {
+                "title": "Battle of the Data Science Venn Diagrams",
+                "title_link": "http:\/\/www.prooffreader.com\/2016\/09\/battle-of-data-science-venn-diagrams.html",
+                "text": "Data science is a rather fuzzily defined field; some of the definitions I've heard are: \"Work that takes more programming skills than most...",
+                "fallback": "Battle of the Data Science Venn Diagrams",
+                "image_url": "https:\/\/2.bp.blogspot.com\/-UNxoJDELWyw\/V-E4f2V9BwI\/AAAAAAAAMFs\/GWd7v4tRUKMfaXqQODy403gCicrwET85ACLcB\/w1200-h630-p-nu\/Data_Science_VD.png",
+                "from_url": "http:\/\/www.prooffreader.com\/2016\/09\/battle-of-data-science-venn-diagrams.html",
+                "image_width": 477,
+                "image_height": 250,
+                "image_bytes": 51881,
+                "service_icon": "http:\/\/www.prooffreader.com\/favicon.ico",
+                "service_name": "prooffreader.com",
+                "id": 1
+            }
+        ],
+        "ts": "1475012985.000267"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "Hey all, I plan to attend this event on the evening of December 7. Admission is free and it's right here at Hunt Library! <https:\/\/www.eventbrite.com\/e\/triangle-startup-tech-expo-tickets-27386401464>",
+        "attachments": [
+            {
+                "service_name": "Eventbrite",
+                "title": "Triangle Startup &amp; Tech Expo",
+                "title_link": "https:\/\/www.eventbrite.com\/e\/triangle-startup-tech-expo-tickets-27386401464",
+                "text": "We are thrilled to announce TechBreakfast's Triangle Startup Expo \/ Tech Job Fair on Wednesday, Dec 7 at the\u00a0Hunt Library at NCSU Centennial Campus,\u00a02nd Floor - Duke Energy Hall. \u00a0There will be thousands of attendees representing tech companies, influencers, press, investors, and some of the best startups in the region. Sign up for one of the FREE tickets if you are interested in attending, or getting one of the super-discounted Tables now available for Startups, Employers, and Premium service providers. \u00a0 Why should you attend as a general attendee\/job seeker? Meet and connect with amazing startups and the tech ecosystemFind job opportunities from local companies looking to hire tech and business talentConnect with potential investment and business partnership opportunitiesTons of networkingAwesome SwagFREE to attend for general attendees, job seekers, investors, and press!RSVP for FREE to attend as a general attendee, job seeker, investors, or member of the press! \u00a0 Startups... Get a Startup Expo table and increase your visiblity! Are you a startup looking to get increased visibility, gain new users, meet influential community members including press and investors, spread the word about your product\/service and promote what you're doing? BE ONE OF THE FIRST FIFTY Startups to sign up for a table, and you can grab one of our startup tables for just $295 early bird pricing (a 40% discount over regular rate). Sign up NOW and grab one of the first fifty tables! Looking to hire great tech talent? Get a Job Fair Expo Table! Looking to meet great tech talent? Want to augment your team as a tech company or hire tech individuals as an employer? Sign up for one of the first 50 tables for employers for just $295 early bird pricing (a 40% discount over the regular rate)! Sign up NOW and grab one of the first fifty tables! Want to Promote your Company and you're not a Startup or tech employer? We want to feature some of the best companies in the Triangle Tech ecosystem. If you're a Service provider or other non-Startup firm looking to promote your company and offerings, get one of our few premium tables for $795 - this level includes the full registration list for the event, inclusion on show signage &amp; more! Get your table today! Looking forward to seeing you at what we know will be a SOLD OUT event!",
+                "fallback": "Eventbrite: Triangle Startup &amp; Tech Expo",
+                "thumb_url": "https:\/\/img.evbuc.com\/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F23674336%2F14860221461%2F1%2Foriginal.jpg?w=1000&rect=0%2C37%2C1200%2C600&s=43a34ed7c6f22ea386976ed221a2a202",
+                "fields": [
+                    {
+                        "title": "Where",
+                        "value": "1070 Partners Way. 2nd Floor (Duke Energy Hall). Raleigh, NC 27606",
+                        "short": true
+                    },
+                    {
+                        "title": "When",
+                        "value": "Wed, Dec 7, 2016 at 5:00 PM",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.eventbrite.com\/e\/triangle-startup-tech-expo-tickets-27386401464",
+                "thumb_width": 1000,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/cdn.evbstatic.com\/s3-build\/perm_001\/1aab42\/django\/images\/touch_icons\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ],
+        "ts": "1475029978.000271",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRZT11T",
+                    "U1KSL7L7R"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "Does anyone know a good mechanic in the area? I'm in need",
+        "ts": "1475031697.000273"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<@U1KR80QMS>:  apex transmissions ",
+        "ts": "1475033251.000274"
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "Thanks <@U1L6YQUSU> Ill check them out!",
+        "ts": "1475033507.000275"
+    }
+]

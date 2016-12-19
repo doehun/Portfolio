@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1LK46TUJ",
+        "text": "<@U1LK46TUJ|taylormikkola> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469285129.000002"
+    },
+    {
+        "user": "U1KT5F4SZ",
+        "text": "<@U1KT5F4SZ|hannahh> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469319545.000003"
+    }
+]

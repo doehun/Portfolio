@@ -1,0 +1,57 @@
+[
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "Pregame\/uber rides tonight..? ",
+        "ts": "1477676111.000002",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U1KRB11QC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "You should probably drink before you get into the uber",
+        "ts": "1477680845.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "My wife and I will probably uber over from Avery close at 8 or so ",
+        "edited": {
+            "user": "U1KRE1L9M",
+            "ts": "1477693904.000000"
+        },
+        "ts": "1477692680.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "<@U1L5GU954>: ",
+        "ts": "1477692695.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "Thanks <@U1KRE1L9M> I'm heading there around 9 or so",
+        "ts": "1477699786.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "<@U1L5GU954>: I'm also gonna try to head over around 9",
+        "ts": "1477701430.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": ":+1:",
+        "ts": "1477701495.000009"
+    }
+]

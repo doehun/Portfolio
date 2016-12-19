@@ -1,0 +1,189 @@
+[
+    {
+        "user": "U1KRNHQA1",
+        "text": "<@U1KRNHQA1|pavalent> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472144453.000002"
+    },
+    {
+        "user": "U1KRNHQA1",
+        "purpose": "Intramural flag football",
+        "text": "<@U1KRNHQA1|pavalent> set the channel purpose: Intramural flag football",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1472144454.000003"
+    },
+    {
+        "user": "U1LMHQY9E",
+        "text": "<@U1LMHQY9E|pmaychek> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472145669.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Yessss",
+        "ts": "1472145681.000003",
+        "reactions": [
+            {
+                "name": "football",
+                "users": [
+                    "U1LMHQY9E",
+                    "U1KSL7L7R"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U1KRMNVGC",
+        "text": "<@U1KRMNVGC|cncross> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472150249.000002"
+    },
+    {
+        "user": "U1L90S3QC",
+        "text": "<@U1L90S3QC|cwstjeor> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472150898.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1L90S3QC",
+        "text": "100% in!",
+        "ts": "1472150927.000004"
+    },
+    {
+        "user": "U1KRB11QC",
+        "text": "<@U1KRB11QC|dsjorda2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472152002.000005"
+    },
+    {
+        "user": "U1NDG6ULB",
+        "text": "<@U1NDG6ULB|cgreene> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472157269.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1NDG6ULB",
+        "text": "Yes. ",
+        "ts": "1472157314.000007"
+    },
+    {
+        "user": "U1M37FW5U",
+        "text": "<@U1M37FW5U|alex_curcio> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472157541.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "Sign me up.",
+        "ts": "1472157594.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "I'm in ",
+        "ts": "1472157922.000010"
+    },
+    {
+        "user": "U1KSL7L7R",
+        "text": "<@U1KSL7L7R|dustinwicker> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472158389.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "Its 7 players on the field at a time so I'm gonna cap the first team with the first 9 or 10 of us to join this group. Looks like we're all men so do you guys wanna do the men's competitive, men's recreational, or grad\/faculty league?",
+        "ts": "1472159145.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Well technically were grad",
+        "ts": "1472159313.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "Yeah but we're still eligible to play the other leagues. If we do grad we could end up being the only team that's not co-ed",
+        "edited": {
+            "user": "U1KRNHQA1",
+            "ts": "1472159435.000000"
+        },
+        "ts": "1472159359.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "I vote mens rec ",
+        "ts": "1472159715.000016",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRNHQA1",
+                    "U1KRB11QC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L90S3QC",
+        "text": "I'm with Phil.  men's rec sounds good.  People take it way too intense in competitive.",
+        "ts": "1472164866.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "team name suggestions?",
+        "ts": "1472166573.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Rappa's Rascals ",
+        "ts": "1472166870.000019",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRMNVGC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L90S3QC",
+        "text": "Institute's",
+        "ts": "1472176451.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1L90S3QC",
+        "text": "Athletic",
+        "ts": "1472176456.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1L90S3QC",
+        "text": "Analysts",
+        "ts": "1472176467.000022"
+    }
+]

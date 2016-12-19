@@ -1,0 +1,250 @@
+[
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I just found out that if you open Pocket Points somewhere other than Raleigh, you get a whole new set of locations to use them!  For example this is a D.C. area view.  Remember this if you travel for the holidays!",
+        "ts": "1479058963.002298"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1L6YQUSU|johnbetzjr> uploaded a file: <https:\/\/msa17.slack.com\/files\/johnbetzjr\/F317WKP5E\/slack_for_ios_upload._null_|Slack for iOS Upload>",
+        "file": {
+            "id": "F317WKP5E",
+            "created": 1479058962,
+            "timestamp": 1479058962,
+            "name": "Slack for iOS Upload.(null)",
+            "title": "Slack for iOS Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U1L6YQUSU",
+            "editable": false,
+            "size": 241203,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F317WKP5E\/slack_for_ios_upload._null_?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F317WKP5E\/download\/slack_for_ios_upload._null_?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F317WKP5E-e39c8ef619\/slack_for_ios_upload_64.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F317WKP5E-e39c8ef619\/slack_for_ios_upload_80.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F317WKP5E-e39c8ef619\/slack_for_ios_upload_360.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360_w": 202,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F317WKP5E-e39c8ef619\/slack_for_ios_upload_480.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_480_w": 270,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F317WKP5E-e39c8ef619\/slack_for_ios_upload_160.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F317WKP5E-e39c8ef619\/slack_for_ios_upload_720.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_720_w": 405,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F317WKP5E-e39c8ef619\/slack_for_ios_upload_960.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_960_w": 540,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F317WKP5E-e39c8ef619\/slack_for_ios_upload_1024.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_1024_w": 576,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 750,
+            "original_h": 1334,
+            "permalink": "https:\/\/msa17.slack.com\/files\/johnbetzjr\/F317WKP5E\/slack_for_ios_upload._null_",
+            "permalink_public": "https:\/\/slack-files.com\/T1KRCES8H-F317WKP5E-c88fb25ea6",
+            "channels": [
+                "C1KR6TMD3"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0,
+            "reactions": [
+                {
+                    "name": "raised_hands::skin-tone-2",
+                    "users": [
+                        "U1KRB11QC",
+                        "U1KS4UE2F",
+                        "U1KSL7L7R",
+                        "U1KR9BP0E"
+                    ],
+                    "count": 4
+                }
+            ]
+        },
+        "user": "U1L6YQUSU",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1L6YQUSU|johnbetzjr>",
+        "bot_id": null,
+        "ts": "1479058964.002299"
+    },
+    {
+        "type": "message",
+        "user": "U2LA4671B",
+        "text": "FYI folks. I am out of the office all next week.  Will respond to email (eventually) but John is around for any issues that may pop up.",
+        "ts": "1479074809.002304",
+        "reactions": [
+            {
+                "name": "airplane_departure",
+                "users": [
+                    "U1L1D4WG7",
+                    "U1KRB11QC",
+                    "U1NUU2U9E",
+                    "U1KS4UE2F",
+                    "U1P8QBBD1"
+                ],
+                "count": 5
+            },
+            {
+                "name": "party_ed",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1KS4UE2F"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1L6YQUSU> I hope you went to Lapis, that was my favorite restaurant in my old neighborhood before moving here!",
+        "ts": "1479076785.002306"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1MDHNYR5|jordan_pfaff> uploaded a file: <https:\/\/msa17.slack.com\/files\/jordan_pfaff\/F323755CL\/maximus._._null_|Maximus.> and commented: The face of IAA @mawarburg",
+        "file": {
+            "id": "F323755CL",
+            "created": 1479085545,
+            "timestamp": 1479085545,
+            "name": "Maximus. .(null)",
+            "title": "Maximus.",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U1MDHNYR5",
+            "editable": false,
+            "size": 64804,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F323755CL\/maximus._._null_?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F323755CL\/download\/maximus._._null_?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F323755CL-4d0a30e7c5\/maximus.__64.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F323755CL-4d0a30e7c5\/maximus.__80.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F323755CL-4d0a30e7c5\/maximus.__360.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360_w": 203,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F323755CL-4d0a30e7c5\/maximus.__480.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_480_w": 270,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F323755CL-4d0a30e7c5\/maximus.__160.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "image_exif_rotation": 1,
+            "original_w": 320,
+            "original_h": 568,
+            "permalink": "https:\/\/msa17.slack.com\/files\/jordan_pfaff\/F323755CL\/maximus._._null_",
+            "permalink_public": "https:\/\/slack-files.com\/T1KRCES8H-F323755CL-121d71843a",
+            "channels": [
+                "C1KR6TMD3"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc3237592Q",
+                "created": 1479085545,
+                "timestamp": 1479085545,
+                "user": "U1MDHNYR5",
+                "is_intro": true,
+                "comment": "The face of IAA @mawarburg",
+                "channel": ""
+            },
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "U1KS4UE2F",
+                        "U1L3PU7BJ",
+                        "U1KT3UELS",
+                        "U1L7ERY77",
+                        "U1L3G0YRJ",
+                        "U1KR891RC",
+                        "U1LBRCSEA",
+                        "U1L735VD4",
+                        "U1KRB11QC",
+                        "U1M1L5G6L",
+                        "U1L2P17DZ"
+                    ],
+                    "count": 11
+                },
+                {
+                    "name": "grinning",
+                    "users": [
+                        "U1KRLV1CG",
+                        "U1L7ERY77"
+                    ],
+                    "count": 2
+                },
+                {
+                    "name": "crown",
+                    "users": [
+                        "U1KQ9523D"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "heart_eyes_cat",
+                    "users": [
+                        "U1KQ9523D"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "joy",
+                    "users": [
+                        "U1KQ9523D"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        "user": "U1MDHNYR5",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1MDHNYR5|jordan_pfaff>",
+        "bot_id": null,
+        "ts": "1479085547.002307"
+    },
+    {
+        "type": "message",
+        "user": "U1MDHNYR5",
+        "text": "<@U1L7ERY77>: ",
+        "ts": "1479085594.002308"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "^^^ Might I suggest that an emoji be made from that image? Boss Max.",
+        "ts": "1479086724.002313",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U1L1D4WG7",
+                    "U1MDHNYR5",
+                    "U1L735VD4",
+                    "U1SMADBU4",
+                    "U1P8QBBD1"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

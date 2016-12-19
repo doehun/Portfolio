@@ -1,0 +1,106 @@
+[
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "My practicum team is planning on going to the game and tailgating but are having a team meeting this afternoon, might have to meet y'all at the parking lot",
+        "ts": "1472734543.000042"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "For all those coming today, it's building 5401, Apt M (on the ground floor, on the left)! If you have trouble finding it call me: <tel:404-988-9650|404-988-9650>. The apt complex is called The Parke at Trinity. Any parking spot should be fair game but if you go just past 5401 there's usually plenty of spots on the left.",
+        "ts": "1472750595.000044"
+    },
+    {
+        "type": "message",
+        "user": "U1LNGEV0B",
+        "text": "I can't join you all at Sneha's beforehand but I'll be at the game tonight. Look forward to seeing you all there!",
+        "ts": "1472761874.000045"
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "Carl's on the Jumbotron ",
+        "ts": "1472779975.000046"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Pic? ",
+        "ts": "1472780060.000047"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Thanks to everyone for coming! I wish we got a big pic of all of us! Also whoever has the next gathering, I have way too many keystone lights courtesy of <@U1L415ECD>...",
+        "ts": "1472780126.000048",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1KSPCE87",
+                    "U1MBURU4D",
+                    "U1PF7HWTF",
+                    "U1L2P17DZ",
+                    "U1KRNH021",
+                    "U1KRNHQA1",
+                    "U1L1WFNC8",
+                    "U1LAAMJ0M",
+                    "U1KSL7L7R"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1WFNC8",
+        "text": "Haha, I can confirm ",
+        "ts": "1472780136.000049"
+    },
+    {
+        "type": "message",
+        "user": "U1L1WFNC8",
+        "text": "Thanks for having us <@U1KR9BP0E> ",
+        "ts": "1472780155.000050",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L914KNJ",
+                    "U1MBURU4D",
+                    "U1LMHQY9E",
+                    "U1KSL7L7R"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "Party isn't over till the keystone are finished ",
+        "ts": "1472780193.000051",
+        "reactions": [
+            {
+                "name": "astonished",
+                "users": [
+                    "U1KT9ATA5",
+                    "U1L7E8GSU",
+                    "U1KR9BP0E",
+                    "U1L914KNJ",
+                    "U1L9DD1NY",
+                    "U1MBURU4D",
+                    "U1KRBFY3Z",
+                    "U1KRHCR7T",
+                    "U1KRNH021",
+                    "U1L1WFNC8",
+                    "U1L6WB44A",
+                    "U1LAAMJ0M",
+                    "U1KSL7L7R"
+                ],
+                "count": 13
+            }
+        ]
+    }
+]

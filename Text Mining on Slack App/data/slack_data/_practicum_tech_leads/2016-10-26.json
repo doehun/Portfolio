@@ -1,0 +1,20 @@
+[
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Hey <@U2R2NANUC> is it normal for Java to be taking up this much RAM on the server?",
+        "ts": "1477487500.000072"
+    },
+    {
+        "type": "message",
+        "user": "U2R2NANUC",
+        "text": "<@U1N43E3E0>: yes that high java usage is due to enterprise miner's middleware subsystem (it's different on a server than your laptop). For teams that don't use miner I will disable it to free up that RAM.   Miner is probably using 8GB RAM just to sit there at idle due to the architecture we have.  ",
+        "ts": "1477488386.000074"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Oh... interesting.  I think we will want to keep Enterprise Miner for now, but good to know.  Thanks <@U2R2NANUC> !",
+        "ts": "1477488484.000075"
+    }
+]

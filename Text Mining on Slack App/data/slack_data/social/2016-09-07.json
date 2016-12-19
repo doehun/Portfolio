@@ -1,0 +1,44 @@
+[
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "Hey everyone, I know this is super late notice but I have an extra ticket to a Sofar Sounds concert downtown tonight at 7:30. If you don't know Sofar, it's definitely worth a google. Direct message me if you want to come!",
+        "ts": "1473281311.000045"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "you're not seeking intriguing offers this time? :stuck_out_tongue:",
+        "ts": "1473281700.000046",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1NUU2U9E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "<@U1KQYG6SJ>: Haha I'll accept them",
+        "ts": "1473283534.000048"
+    },
+    {
+        "type": "message",
+        "user": "U1KRS3S3X",
+        "text": "<@U1KQGK2CB> said he actually doesn't want to go anymore, so I'm taking his spot",
+        "ts": "1473285063.000049",
+        "reactions": [
+            {
+                "name": "no_entry_sign",
+                "users": [
+                    "U1KQGK2CB"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

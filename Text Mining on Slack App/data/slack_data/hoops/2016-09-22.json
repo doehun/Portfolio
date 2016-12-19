@@ -1,0 +1,55 @@
+[
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "is anyone in town for bball tomorrow morn?",
+        "ts": "1474554071.000002",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KR80QMS",
+                    "U1KRSV7AN",
+                    "U1Q7LP4V9"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "I have a homework team meeting at 9, so I'd prefer the usual time",
+        "ts": "1474559694.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "I'd prefer early morning as well. ",
+        "ts": "1474561022.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "Nice. That's five so far and two more that are tentative. Any others? <!channel>",
+        "ts": "1474581754.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "We have 6 now - he is a friend of mine.",
+        "ts": "1474584009.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "I'm out for tomorrow. Was hoping for 10.",
+        "ts": "1474593287.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "Sounds like we have too few then",
+        "ts": "1474593846.000008"
+    }
+]

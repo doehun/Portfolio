@@ -1,0 +1,21 @@
+[
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "Zw.d Format\n\nWrites standard numeric data with leading 0s.\nCategory:\tNumeric\nAlignment:\tright",
+        "ts": "1473686465.000002",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L7E8GSU",
+                    "U1LBRCSEA",
+                    "U1L5GU954",
+                    "U1L9DD1NY",
+                    "U1L0V1X61"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

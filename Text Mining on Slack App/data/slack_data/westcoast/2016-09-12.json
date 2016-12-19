@@ -1,0 +1,30 @@
+[
+    {
+        "user": "U1LBRCSEA",
+        "text": "<@U1LBRCSEA|bethmoser> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473716808.000002"
+    },
+    {
+        "user": "U1N04S4LV",
+        "text": "<@U1N04S4LV|vsingh5> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473721252.000003"
+    },
+    {
+        "user": "U1KQTJ6BV",
+        "text": "<@U1KQTJ6BV|andreazadia> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473737322.000004"
+    },
+    {
+        "user": "U1L9669PD",
+        "text": "<@U1L9669PD|pmartin> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473737438.000005"
+    }
+]

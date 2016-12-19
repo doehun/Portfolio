@@ -1,0 +1,107 @@
+[
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "for all you fantasy footballers out there, I found this website to help me know who to start. So far so good, highly recommended: <http:\/\/www.borischen.co\/2016\/09\/select-expert-tiers-best-of-best.html>",
+        "attachments": [
+            {
+                "title": "Select Expert Tiers - Best of the Best",
+                "title_link": "http:\/\/www.borischen.co\/2016\/09\/select-expert-tiers-best-of-best.html",
+                "text": "We are going to try something new this week. Rather than sourcing from the default ECR (~139 experts in total), I am changing the tiers to b...",
+                "fallback": "Select Expert Tiers - Best of the Best",
+                "image_url": "https:\/\/s3-us-west-1.amazonaws.com\/fftiers\/out\/current\/weekly-RB.png",
+                "from_url": "http:\/\/www.borischen.co\/2016\/09\/select-expert-tiers-best-of-best.html",
+                "image_width": 297,
+                "image_height": 250,
+                "image_bytes": 132299,
+                "service_icon": "http:\/\/www.borischen.co\/favicon.ico",
+                "service_name": "borischen.co",
+                "id": 1
+            }
+        ],
+        "ts": "1476363650.000492",
+        "reactions": [
+            {
+                "name": "open_mouth",
+                "users": [
+                    "U1KS4UE2F",
+                    "U1KRB11QC",
+                    "U1MBURU4D"
+                ],
+                "count": 3
+            },
+            {
+                "name": "football",
+                "users": [
+                    "U1L6YQUSU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1NDG6ULB",
+        "text": "<@U1L7RPG1M> ^^^ take notes",
+        "ts": "1476364099.000494"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "decided to play chrisine michael based on this table",
+        "ts": "1476373102.000497"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "nice. i traded him away yesterday.",
+        "ts": "1476373370.000498"
+    },
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "<https:\/\/youtu.be\/sC9abcLLQpI>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Rogue One: A Star Wars Story Trailer #2 (Official)",
+                "title_link": "https:\/\/youtu.be\/sC9abcLLQpI",
+                "author_name": "Star Wars",
+                "author_link": "https:\/\/www.youtube.com\/user\/starwars",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/sC9abcLLQpI\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Rogue One: A Star Wars Story Trailer #2 (Official)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/sC9abcLLQpI?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/sC9abcLLQpI",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1476396027.000499",
+        "reactions": [
+            {
+                "name": "exclamation",
+                "users": [
+                    "U1L1D4WG7",
+                    "U1KRNHQA1",
+                    "U1KRSV7AN",
+                    "U1KRBJP47",
+                    "U1L1WFNC8",
+                    "U1KSH8676",
+                    "U1KQ412NP"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "Y'all the new Star Wars trailer is out!",
+        "ts": "1476396045.000501"
+    }
+]

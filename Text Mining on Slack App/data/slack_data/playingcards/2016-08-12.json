@@ -1,0 +1,39 @@
+[
+    {
+        "user": "U1LAAMJ0M",
+        "text": "<@U1LAAMJ0M|carlanderson> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470993216.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1LAAMJ0M",
+        "text": "Anyone play settlers of catan? Not exactly a card game but close enough",
+        "ts": "1471051940.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "Yes",
+        "ts": "1471051993.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Yea I play all the time. Want to play a game tomorrow ",
+        "ts": "1471051993.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1LAAMJ0M",
+        "text": "Nice, ya Tommy, a buddy of mine from down here wanted to get a game going and have a few beers tomorrow afternoon sometime, I've never played online though",
+        "ts": "1471052347.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "I'm usually up for it too",
+        "ts": "1471062448.000008"
+    }
+]

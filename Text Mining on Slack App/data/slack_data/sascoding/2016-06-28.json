@@ -1,0 +1,170 @@
+[
+    {
+        "user": "U1L4RTKCM",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L4RTKCM|gheyne> has joined the channel",
+        "ts": "1467112795.000002"
+    },
+    {
+        "user": "U1L6YQUSU",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L6YQUSU|johnbetzjr> has joined the channel",
+        "ts": "1467130788.000002"
+    },
+    {
+        "user": "U1M1L5G6L",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1M1L5G6L|shelbyklemm> has joined the channel",
+        "ts": "1467130825.000003"
+    },
+    {
+        "user": "U1M37FW5U",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1M37FW5U|alex_curcio> has joined the channel",
+        "ts": "1467139735.000004"
+    },
+    {
+        "user": "U1L8PJY4W",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L8PJY4W|amstric2> has joined the channel",
+        "ts": "1467140384.000005"
+    },
+    {
+        "user": "U1KRB11QC",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KRB11QC|dsjorda2> has joined the channel",
+        "ts": "1467140985.000006"
+    },
+    {
+        "user": "U1KRWUXFU",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KRWUXFU|jdemarest> has joined the channel",
+        "ts": "1467141492.000007"
+    },
+    {
+        "user": "U1LBRCSEA",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1LBRCSEA|bethmoser> has joined the channel",
+        "ts": "1467141522.000008"
+    },
+    {
+        "user": "U1L914KNJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L914KNJ|nikki> has joined the channel",
+        "ts": "1467141651.000009"
+    },
+    {
+        "user": "U1L9DD1NY",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L9DD1NY|mjdensmo> has joined the channel",
+        "ts": "1467141671.000010"
+    },
+    {
+        "user": "U1KRZT11T",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KRZT11T|tommy_darlington> has joined the channel",
+        "ts": "1467141747.000011"
+    },
+    {
+        "user": "U1L7ERY77",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L7ERY77|maxwarburg> has joined the channel",
+        "ts": "1467143275.000012"
+    },
+    {
+        "user": "U1KSEJ01W",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KSEJ01W|ajborelli> has joined the channel",
+        "ts": "1467143530.000013"
+    },
+    {
+        "user": "U1KRBFY3Z",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KRBFY3Z|sylviebrick> has joined the channel",
+        "ts": "1467143930.000014"
+    },
+    {
+        "user": "U1KRHCR7T",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KRHCR7T|zack_schwartz> has joined the channel",
+        "ts": "1467143960.000015"
+    },
+    {
+        "user": "U1KSPCE87",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KSPCE87|jessie> has joined the channel",
+        "ts": "1467144117.000016"
+    },
+    {
+        "user": "U1M4QJD4P",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1M4QJD4P|mike-rose> has joined the channel",
+        "ts": "1467146961.000017"
+    },
+    {
+        "user": "U1L3PU7BJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L3PU7BJ|dmalave> has joined the channel",
+        "ts": "1467148257.000019"
+    },
+    {
+        "user": "U1L3G0YRJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L3G0YRJ|emmyburnett> has joined the channel",
+        "ts": "1467149678.000020"
+    },
+    {
+        "user": "U1L974M70",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L974M70|brshallo> has joined the channel",
+        "ts": "1467149916.000021"
+    },
+    {
+        "user": "U1KSL7C10",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KSL7C10|shoshana> has joined the channel",
+        "ts": "1467154774.000022"
+    },
+    {
+        "user": "U1L1WFNC8",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L1WFNC8|wrighton88> has joined the channel",
+        "ts": "1467164848.000023"
+    },
+    {
+        "user": "U1KRE1L9M",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KRE1L9M|kevin.danchisko> has joined the channel",
+        "ts": "1467166313.000024"
+    },
+    {
+        "user": "U1KRMNVGC",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KRMNVGC|cncross> has joined the channel",
+        "ts": "1467169176.000025"
+    }
+]

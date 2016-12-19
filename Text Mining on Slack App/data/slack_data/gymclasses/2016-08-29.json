@@ -1,0 +1,66 @@
+[
+    {
+        "user": "U1KRB11QC",
+        "text": "<@U1KRB11QC|dsjorda2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472466231.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "I'm going to sign up for barre burn tomorrow at 5:15 if anyone wants to join!",
+        "ts": "1472503385.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1L6XBH6W",
+        "text": "<@U1LBRCSEA>: I was planning on signing up as well! ",
+        "ts": "1472504196.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "<@U1L6XBH6W> yay! Have you been to the class before? I\u2019ve never been to barre at the nc state gym!",
+        "ts": "1472504813.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1L6XBH6W",
+        "text": "No I haven't either ! ",
+        "ts": "1472505265.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "<@U1LBRCSEA>: I'd be down to do it! I used to take pure barre classes all the time and I miss it so much! ",
+        "ts": "1472506839.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "<@U1L41DF9D> same! I was so excited to hear that nc state has their own barre classes!!!",
+        "ts": "1472508024.000013",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1L41DF9D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Anyone going to cycling tomorrow morning?",
+        "ts": "1472510543.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1KRB11QC> not tomorrow but let me know next time you go and I might join :slightly_smiling_face:",
+        "ts": "1472516413.000015"
+    }
+]

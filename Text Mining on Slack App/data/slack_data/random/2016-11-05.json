@@ -1,0 +1,126 @@
+[
+    {
+        "user": "U1PF7HWTF",
+        "text": "<@U1PF7HWTF|nickweimer> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478366762.000694"
+    },
+    {
+        "type": "message",
+        "user": "U1PF7HWTF",
+        "text": "Fall 3\n\nMachine Learning- Dr Race\n1- Dimen. Reduction &amp; Curse of Dimen.\n2- Clustering\n3- Neural Nets\n4- Random Forests &amp; Gradient Boosting\n5- Regularized Reg Ridge &amp; LASSO\n6- Support Vector Machines &amp; Kernals\n\nAssignments:\nOnly have a Kaggle Project\n\nSurvival Analysis- Dr Simmons\n11\/1 Survival Curves\/Hazard I\n11\/3 Survival Curves\/Hazard II\n11\/7 Accelerated Failure Time Model I\n11\/9 Accelerated Failure Time Model II\n11\/11 Cox Regression Model I\n11\/15 Cox Regression Model II\n11\/17 or 18: Competing Risks I\n11\/22: Competing Risks II\/Review\n\nAssignments:\nQuiz due Tues Nov 8\nHW1 (Due 11\/11)\nHW2 (Due 11\/22)\nFinal Test nov 30th or Dec 1 (We choose)\n\nMarketing Analytics- Dr. D\n11\/1: Introduction to Segmentation\n11\/2: Hierarchical Segmentation I\n11\/7: Hierarchical Segmentation II\n11\/9: Non-Hierarchical Segmentation\n11\/11: Targeting\/Scoring Models I\n11\/14: Targeting\/Scoring Models II\n11\/18: Dimen. Reduction- PCA, FA, VC\n11\/22: Dimen. Reduction- PLS\n\nAssignments: \n1 (Due Nov 11)\n2 (Due Nov 18)\n3 (Due Nov 25)\nQuiz (opens Dec 2)\nFinal Project (Due Nov 28? Slides due 30th)\n\nSimulation &amp; Risk- Dr L\n11\/1 Main Concepts of Simulation I\n11\/3 Main Concepts of Simulation II\n11\/7 Theory &amp; Model Assessment\n11\/9 Intro to Risk Management\n11\/11 Key Risk Measures\n11\/15 Estimation &amp; CI's for VaR &amp; ES I\n11\/16 Estimation &amp; CI's for VaR &amp; ES II\n11\/22 Recent Developments\n\nAssignments:\nHW 1 (Due Nov 14)\nHW 2 (Due Nov 18)\nHW 3 (Due Nov 22)\nFinal Project (Due Nov 28)",
+        "ts": "1478366965.000698",
+        "reactions": [
+            {
+                "name": "angel",
+                "users": [
+                    "U1L0RBZFH",
+                    "U1L2P17DZ",
+                    "U1P8QBBD1",
+                    "U1KS4UE2F",
+                    "U1L735VD4",
+                    "U1L9DD1NY",
+                    "U1Q5GHC2J",
+                    "U1KQ9523D",
+                    "U1KRZT11T",
+                    "U1NFS178D",
+                    "U1KRLV1CG",
+                    "U1L40P4N9",
+                    "U1LAAMJ0M",
+                    "U1KT9ATA5"
+                ],
+                "count": 14
+            },
+            {
+                "name": "scream",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KQGK2CB",
+                    "U1P8QBBD1",
+                    "U1KS4UE2F",
+                    "U1L735VD4",
+                    "U1L9DD1NY",
+                    "U1Q5GHC2J",
+                    "U1KQ9523D"
+                ],
+                "count": 8
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U1P8QBBD1",
+                    "U1KS4UE2F",
+                    "U1KSL7L7R",
+                    "U1L9DD1NY",
+                    "U1KQ9523D"
+                ],
+                "count": 5
+            },
+            {
+                "name": "dart",
+                "users": [
+                    "U1L6YQUSU",
+                    "U1KQ9523D",
+                    "U1KQGRG2F"
+                ],
+                "count": 3
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U1LMHQY9E",
+                    "U1KQ9523D"
+                ],
+                "count": 2
+            },
+            {
+                "name": "dizzy_face",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1KS4UE2F"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U1P8QBBD1",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[November 5th, 2016 10:29 AM] nickweimer: Fall 3\n\nMachine Learning- Dr Race\n1- Dimen. Reduction &amp; Curse of Dimen.\n2- Clustering\n3- Neural Nets\n4- Random Forests &amp; Gradient Boosting\n5- Regularized Reg Ridge &amp; LASSO\n6- Support Vector Machines &amp; Kernals\n\nAssignments:\nOnly have a Kaggle Project\n\nSurvival Analysis- Dr Simmons\n11\/1 Survival Curves\/Hazard I\n11\/3 Survival Curves\/Hazard II\n11\/7 Accelerated Failure Time Model I\n11\/9 Accelerated Failure Time Model II\n11\/11 Cox Regression Model I\n11\/15 Cox Regression Model II\n11\/17 or 18: Competing Risks I\n11\/22: Competing Risks II\/Review\n\nAssignments:\nQuiz due Tues Nov 8\nHW1 (Due 11\/11)\nHW2 (Due 11\/22)\nFinal Test nov 30th or Dec 1 (We choose)\n\nMarketing Analytics- Dr. D\n11\/1: Introduction to Segmentation\n11\/2: Hierarchical Segmentation I\n11\/7: Hierarchical Segmentation II\n11\/9: Non-Hierarchical Segmentation\n11\/11: Targeting\/Scoring Models I\n11\/14: Targeting\/Scoring Models II\n11\/18: Dimen. Reduction- PCA, FA, VC\n11\/22: Dimen. Reduction- PLS\n\nAssignments: \n1 (Due Nov 11)\n2 (Due Nov 18)\n3 (Due Nov 25)\nQuiz (opens Dec 2)\nFinal Project (Due Nov 28? Slides due 30th)\n\nSimulation &amp; Risk- Dr L\n11\/1 Main Concepts of Simulation I\n11\/3 Main Concepts of Simulation II\n11\/7 Theory &amp; Model Assessment\n11\/9 Intro to Risk Management\n11\/11 Key Risk Measures\n11\/15 Estimation &amp; CI's for VaR &amp; ES I\n11\/16 Estimation &amp; CI's for VaR &amp; ES II\n11\/22 Recent Developments\n\nAssignments:\nHW 1 (Due Nov 14)\nHW 2 (Due Nov 18)\nHW 3 (Due Nov 22)\nFinal Project (Due Nov 28)",
+                "ts": "1478366965.000698",
+                "author_subname": "nickweimer",
+                "channel_id": "C1KR6MDP1",
+                "channel_name": "random",
+                "is_msg_unfurl": true,
+                "text": "Fall 3\n\nMachine Learning- Dr Race\n1- Dimen. Reduction &amp; Curse of Dimen.\n2- Clustering\n3- Neural Nets\n4- Random Forests &amp; Gradient Boosting\n5- Regularized Reg Ridge &amp; LASSO\n6- Support Vector Machines &amp; Kernals\n\nAssignments:\nOnly have a Kaggle Project\n\nSurvival Analysis- Dr Simmons\n11\/1 Survival Curves\/Hazard I\n11\/3 Survival Curves\/Hazard II\n11\/7 Accelerated Failure Time Model I\n11\/9 Accelerated Failure Time Model II\n11\/11 Cox Regression Model I\n11\/15 Cox Regression Model II\n11\/17 or 18: Competing Risks I\n11\/22: Competing Risks II\/Review\n\nAssignments:\nQuiz due Tues Nov 8\nHW1 (Due 11\/11)\nHW2 (Due 11\/22)\nFinal Test nov 30th or Dec 1 (We choose)\n\nMarketing Analytics- Dr. D\n11\/1: Introduction to Segmentation\n11\/2: Hierarchical Segmentation I\n11\/7: Hierarchical Segmentation II\n11\/9: Non-Hierarchical Segmentation\n11\/11: Targeting\/Scoring Models I\n11\/14: Targeting\/Scoring Models II\n11\/18: Dimen. Reduction- PCA, FA, VC\n11\/22: Dimen. Reduction- PLS\n\nAssignments: \n1 (Due Nov 11)\n2 (Due Nov 18)\n3 (Due Nov 25)\nQuiz (opens Dec 2)\nFinal Project (Due Nov 28? Slides due 30th)\n\nSimulation &amp; Risk- Dr L\n11\/1 Main Concepts of Simulation I\n11\/3 Main Concepts of Simulation II\n11\/7 Theory &amp; Model Assessment\n11\/9 Intro to Risk Management\n11\/11 Key Risk Measures\n11\/15 Estimation &amp; CI's for VaR &amp; ES I\n11\/16 Estimation &amp; CI's for VaR &amp; ES II\n11\/22 Recent Developments\n\nAssignments:\nHW 1 (Due Nov 14)\nHW 2 (Due Nov 18)\nHW 3 (Due Nov 22)\nFinal Project (Due Nov 28)",
+                "author_link": "https:\/\/msa17.slack.com\/team\/nickweimer",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-10-14\/91547937312_2f94b77c9a63c57df7b4_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U1P8QBBD1|shpatel7> pinned a message to this channel.",
+        "ts": "1478367636.000699"
+    },
+    {
+        "type": "message",
+        "user": "U23JW15TP",
+        "text": "Thanks Nick!!!! I needed to have everything together - projects and exams\/quizes - I just couldn't find the time.",
+        "ts": "1478380232.000700",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1PF7HWTF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

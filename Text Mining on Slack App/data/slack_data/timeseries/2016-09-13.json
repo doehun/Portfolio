@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U1L0K4RQ8",
+        "text": "<@U1L0K4RQ8|sakimel> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473764532.000002"
+    },
+    {
+        "user": "U1KRE5NKZ",
+        "text": "<@U1KRE5NKZ|laura.sweeney> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473769523.000003"
+    },
+    {
+        "user": "U1KSR1MS4",
+        "text": "<@U1KSR1MS4|rocky_chen> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473811181.000004"
+    }
+]

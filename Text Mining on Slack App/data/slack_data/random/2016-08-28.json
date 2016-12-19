@@ -1,0 +1,22 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "watching cooking shows always leaves me starving",
+        "ts": "1472415819.000008"
+    },
+    {
+        "user": "U1M37FW5U",
+        "text": "<@U1M37FW5U|alex_curcio> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472419269.000009"
+    },
+    {
+        "user": "U1L95JP1S",
+        "text": "<@U1L95JP1S|mattkelk> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472427476.000010"
+    }
+]

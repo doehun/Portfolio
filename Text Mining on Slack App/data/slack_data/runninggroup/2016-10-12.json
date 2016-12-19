@@ -1,0 +1,119 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "Who likes donuts? \n\nWe are so excited to announce that the 13th annual Krispy Kreme Challenge will be held on Saturday February 4, 2017 and that race registration will open Saturday October 15, 2016.  More importantly, we are excited to let you in on a Team K2C secret: for one day only, registration will cost only $20! Yes, you read that correctly only $20.  On October 15, 2016, any and everybody can sign up at our lowest price ever.  We will send a reminder email with the registration link on the 15th, but in the meantime check out our Facebook to stay up-to-date with us.",
+        "ts": "1476294075.000137",
+        "reactions": [
+            {
+                "name": "doughnut",
+                "users": [
+                    "U1KT5F4SZ",
+                    "U1NLH1CP8",
+                    "U1KRHCR7T",
+                    "U1KRZT11T",
+                    "U1KRE5NKZ"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "imagine if there was a Duck Donuts challenge...",
+        "ts": "1476295021.000138"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "Likelihood of throwing up?",
+        "ts": "1476295328.000139"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Hey Ryan and I am running with the group that starts at 6:30 at Raleigh Brewing if anyone else wants to go ",
+        "ts": "1476300713.000140",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1N43E3E0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "we running tomorrow morning still?",
+        "ts": "1476300739.000141"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "cant make it tonight",
+        "ts": "1476300747.000142"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Yea son",
+        "ts": "1476300787.000143",
+        "reactions": [
+            {
+                "name": "small_edward_lim",
+                "users": [
+                    "U1LMHQY9E",
+                    "U1LDKB3AN"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Meet at the institute, 6:30 we are going to do the original run",
+        "ts": "1476321872.000144",
+        "reactions": [
+            {
+                "name": "small_edward_lim",
+                "users": [
+                    "U1N43E3E0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "U1L5GU954"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "I won't be there but run fast my friends ",
+        "ts": "1476322432.000145",
+        "reactions": [
+            {
+                "name": "scream_cat",
+                "users": [
+                    "U1L5GU954"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Hey I don't think I can make it any more.",
+        "ts": "1476329323.000146"
+    }
+]

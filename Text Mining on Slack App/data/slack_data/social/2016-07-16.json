@@ -1,0 +1,219 @@
+[
+    {
+        "user": "U1PF7HWTF",
+        "text": "<@U1PF7HWTF|nickweimer> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468682465.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "Anyone down for dinner tonight? I've heard suggestions of Mexican or Thai food! ",
+        "ts": "1468687577.000003",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRZT11T",
+                    "U1KSYP1M5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "only if said Mexican place doesn't charge for chips and guac\/queso\/salsa separately",
+        "ts": "1468687634.000004",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1L6WB44A",
+                    "U1LJRDPLP",
+                    "U1KRB11QC",
+                    "U1KSR1MS4",
+                    "U1LBRCSEA",
+                    "U1L5GU954"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": ":smile:",
+        "ts": "1468687643.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "<@U1L6WB44A>: I'm in! Would be a nice study break!",
+        "ts": "1468687653.000006",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L6WB44A"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LJRDPLP",
+        "text": "<@U1L6WB44A>: me too! ",
+        "ts": "1468687700.000007",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L6WB44A"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1L6WB44A>: I'm down for Thai food. Definitely agree with <@U1L3G0YRJ> that it will be a much needed study break. ",
+        "ts": "1468687710.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "Any restaurant recs for either category? I tend to accidentally pick the sketchiest places when I rely on Yelp :sweat_smile: ",
+        "ts": "1468688173.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Anywhere that is relatively cheap",
+        "ts": "1468688386.000010",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1KQYG6SJ",
+                    "U1L5GU954",
+                    "U1L6WB44A"
+                ],
+                "count": 4
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1L6WB44A",
+                    "U1L735VD4"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Thaiphoon Bistro <http:\/\/www.thaiphoonbistro.com\/thaiphoonbistro.com_menu.pdf> Thai House Raleigh <http:\/\/thaihouseraleigh.com\/menu\/#1462963735090-f966e100-af77> and Swasdee Raleigh Capital <http:\/\/www.sawasdeeraleighcapital.com\/main-courses\/> all look really good and have reasonable prices.",
+        "attachments": [
+            {
+                "title": "Main Courses  |  Sawasdee Raleigh Capital",
+                "title_link": "http:\/\/www.sawasdeeraleighcapital.com\/main-courses\/",
+                "text": "\u00bb Main Courses |",
+                "fallback": "Main Courses  |  Sawasdee Raleigh Capital",
+                "from_url": "http:\/\/www.sawasdeeraleighcapital.com\/main-courses\/",
+                "service_icon": "http:\/\/www.sawasdeeraleighcapital.com\/wp-content\/themes\/theme46572\/favicon.ico",
+                "service_name": "sawasdeeraleighcapital.com",
+                "id": 1
+            }
+        ],
+        "ts": "1468689388.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "I won't be able to make it to dinner. But let me know if y'all do something after. ",
+        "ts": "1468689661.000013",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1L6WB44A"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1MBURU4D",
+        "text": "<@U1L6WB44A> : I'd be down as well",
+        "ts": "1468693322.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1MBURU4D",
+        "text": "Thaiphoon is decent. Haven't tried the other two ",
+        "ts": "1468693456.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "Thai House sounds best to me, but it's pretty far away from where most of us live, same as Sawasdee! <@U1MBURU4D> , is thaiphoon decent closer to good or closer to meh? It's the closest it seems like, but we don't want meh! ",
+        "ts": "1468694879.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "There's also Tom Yum Thai in Cary, Yum Yum Thai (lol) and Thai Sushi Cary that are similar travel distances!  They seem like pretty affordable strip mall restaurants. ",
+        "ts": "1468695778.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1MBURU4D",
+        "text": "<@U1L6WB44A>: On that spectrum I'd say it's closer to good",
+        "ts": "1468696458.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "Ok! How does everyone feel about Thaiphoon Bistro at 6:30?  If we can't get in there, it looks like there's several other restaurants nearby! ",
+        "ts": "1468696733.000019",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1KRB11QC",
+                    "U1KRZT11T"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1MBURU4D",
+        "text": "works for me",
+        "ts": "1468696792.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Sounds like a plan",
+        "ts": "1468696793.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "We are paying for parking! Be there soon! ",
+        "ts": "1468708192.000022"
+    }
+]

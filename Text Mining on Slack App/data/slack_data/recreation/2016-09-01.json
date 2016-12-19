@@ -1,0 +1,30 @@
+[
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "I have 2 tickets to the football game tonight that I'm not using. They are about 10 rows behind the visitor bench, at midfield. I'll accept the most intriguing offer. Direct message me here if you're interested",
+        "ts": "1472723980.000016"
+    },
+    {
+        "user": "U1PM77VSS",
+        "text": "<@U1PM77VSS|hpjones> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472736684.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "<@U1KRHCR7T>, is hiking still happening this weekend?",
+        "ts": "1472785121.000018",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRWUXFU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

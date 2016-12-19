@@ -1,0 +1,57 @@
+[
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "is there anybody who's proficient at r and at the institute that can help?",
+        "ts": "1477600143.000070"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "<!channel>",
+        "ts": "1477600172.000071"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "Dr. LaBarr",
+        "ts": "1477600275.000072"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": ":smile:",
+        "ts": "1477600293.000073",
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "U1KQGK2CB",
+                    "U1P8QBBD1",
+                    "U1KRB11QC",
+                    "U1L9DD1NY",
+                    "U1N43E3E0"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1MGWMZFD",
+        "text": "I ca help",
+        "ts": "1477601514.000074"
+    },
+    {
+        "type": "message",
+        "user": "U1MGWMZFD",
+        "text": "Are you at the institute now?",
+        "ts": "1477601546.000075"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "<@U1L3G0YRJ> helped me big time, thanks tho <@U1MGWMZFD> !",
+        "ts": "1477601581.000076"
+    }
+]

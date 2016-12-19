@@ -1,0 +1,48 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRE5NKZ",
+        "text": "<@U1KRQLFLY> let us know when the krispy kreme challenge team is set up so we can all sign up today! Donut want to miss that $20 special!",
+        "ts": "1476544290.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "What are people's thoughts on challenger vs casual? I would make a poll, but I'm writing this from my phone. I assume we'll have enough for one of each",
+        "ts": "1476546702.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "I usually do casual, you can still run as fast as you'd like and eat all the donuts. You just can't officially \"win\" the race. ",
+        "ts": "1476547624.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "Creating a team now, will post the name momentarily ",
+        "ts": "1476547714.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "Ok here we go:\nteam: proc donut run eat run quit\npw: msa2017 ",
+        "ts": "1476548170.000007",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1NLH1CP8",
+                    "U1KRE5NKZ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "<!channel> 20 minutes to order your $20 dollar registration for Krispy Kreme Challenge!",
+        "ts": "1476589359.000008"
+    }
+]

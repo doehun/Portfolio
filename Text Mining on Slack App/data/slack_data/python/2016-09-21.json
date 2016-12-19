@@ -1,0 +1,32 @@
+[
+    {
+        "type": "message",
+        "user": "U1NDG6ULB",
+        "text": "PySpark webinar in 15 mins in Hoke!",
+        "ts": "1474472776.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "<https:\/\/console.ng.bluemix.net\/data\/notebooks\/samples\/NY%20Motor%20Vehicle%20Accidents%20Analysis>",
+        "ts": "1474481329.000024",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1NDG6ULB",
+                    "U1KSPCE87",
+                    "U1KSL7L7R",
+                    "U1NUU2U9E"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "This was the notebook for today's webinar",
+        "ts": "1474481346.000025"
+    }
+]

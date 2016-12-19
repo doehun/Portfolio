@@ -1,0 +1,44 @@
+[
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "basketball today? anyone?",
+        "ts": "1471873694.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L90S3QC",
+        "text": "I can play after 5.",
+        "ts": "1471874159.000003"
+    },
+    {
+        "user": "U1KRQLFLY",
+        "text": "<@U1KRQLFLY|sean.ankenbruck> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471913096.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "<http:\/\/www.theonion.com\/article\/study-links-clinical-depression-getting-dunked-52672>",
+        "attachments": [
+            {
+                "title": "Study Links Clinical Depression To Getting Dunked On",
+                "title_link": "http:\/\/www.theonion.com\/article\/study-links-clinical-depression-getting-dunked-52672",
+                "text": "BOSTON\u2014Identifying a significant factor contributing to the development of the mental health disorder, researchers from Harvard Medical School published a groundbreaking study Thursday that reportedly links clinical depression to getting dunked on.",
+                "fallback": "Study Links Clinical Depression To Getting Dunked On",
+                "image_url": "http:\/\/i.onionstatic.com\/onion\/5309\/2\/16x9\/1200.jpg",
+                "ts": 1459462320,
+                "from_url": "http:\/\/www.theonion.com\/article\/study-links-clinical-depression-getting-dunked-52672",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 113125,
+                "service_icon": "http:\/\/assets3.onionstatic.com\/onionstatic\/onion\/static\/images\/favicon.ico",
+                "service_name": "theonion.com",
+                "id": 1
+            }
+        ],
+        "ts": "1471913109.000007"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "anybody want to play today?",
+        "ts": "1478984867.000037"
+    },
+    {
+        "type": "message",
+        "user": "U1KSH8676",
+        "text": "I'll play. What time?",
+        "ts": "1478985290.000038"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "I can get there at 5:45, I think the gym closes at 7. That's cuttin it close though, I didn't know it closed so early today",
+        "edited": {
+            "user": "U1L3PU7BJ",
+            "ts": "1478986059.000000"
+        },
+        "ts": "1478985776.000039"
+    }
+]

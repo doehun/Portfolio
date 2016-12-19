@@ -1,0 +1,144 @@
+[
+    {
+        "type": "message",
+        "user": "U1L46HXCJ",
+        "text": "If anyone is hitting up club hunt tonight let me know! :nerd_face::books:",
+        "ts": "1467976559.000003",
+        "reactions": [
+            {
+                "name": "-1",
+                "users": [
+                    "U1KSH8676"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "<@U1L2P17DZ>: <@U1L7E8GSU> <@U1KT5F4SZ> Those all sound awesome. Thanks for the suggestions! ",
+        "ts": "1467980417.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "There are donuts upstairs in the orange classroom if anyone wants one (this includes blue folks who are willing to make the trip)",
+        "ts": "1467981789.000012",
+        "reactions": [
+            {
+                "name": "doughnut",
+                "users": [
+                    "U1L46HXCJ",
+                    "U1L7E8GSU",
+                    "U1LBRCSEA",
+                    "U1KRB11QC",
+                    "U1NUU2U9E",
+                    "U1P8QBBD1",
+                    "U1L2P17DZ",
+                    "U1KR9BP0E",
+                    "U1KT3UELS",
+                    "U1KSL7L7R"
+                ],
+                "count": 10
+            },
+            {
+                "name": "yum",
+                "users": [
+                    "U1L914KNJ",
+                    "U1KQ9523D"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1M37FW5U>: check out this site as well - they have all kinds of events\n<https:\/\/www.get-offline.com\/discover>",
+        "attachments": [
+            {
+                "title": "Curated Events &amp; Things to Do in Your City (Currently in Raleigh, Durham, Charlotte and Nashville) | Offline",
+                "title_link": "https:\/\/www.get-offline.com\/discover",
+                "text": "Tired of Googleing \"Things to do?\" Offline puts your city's best places and events in your pocket every weekend. Everything from date ideas and live music to festivals and running trails is all in one place.",
+                "fallback": "Curated Events &amp; Things to Do in Your City (Currently in Raleigh, Durham, Charlotte and Nashville) | Offline",
+                "image_url": "https:\/\/getoffline.s3.amazonaws.com\/uploads\/image\/picture\/6935\/AvoidAverageWeekends.jpg",
+                "from_url": "https:\/\/www.get-offline.com\/discover",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 206522,
+                "service_icon": "https:\/\/www.get-offline.com\/apple-touch-icon-57x57-precomposed.png",
+                "service_name": "get-offline.com",
+                "id": 1
+            }
+        ],
+        "ts": "1467986611.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1KSYP1M5",
+        "text": "Okay sorry I think we are gonna have to postpone for the jasmine restaurant, it's kinda hectic right now with all the summer project meetings but let's plan to reschedule for next week! ",
+        "ts": "1467993723.000018",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KT3UELS",
+                    "U1KSR1MS4"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSYP1M5",
+        "text": "<@U1KR9BP0E>: sorry I'm just seeing this but jasmine is a Mediterranean restaurant, haven't been but apparently it's supposed to be really good! ",
+        "ts": "1467993754.000019"
+    },
+    {
+        "user": "U1Q5GHC2J",
+        "text": "<@U1Q5GHC2J|rwang10> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468012743.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1L7ERY77",
+        "text": "<@U1L46HXCJ>: don't come to hunt! It closes @ 6! I just got thrown out!",
+        "ts": "1468015697.000022",
+        "reactions": [
+            {
+                "name": "kissing_heart",
+                "users": [
+                    "U1L46HXCJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "Just added the Hunt Library hours to the MSA 2017 site for your reference :slightly_smiling_face:  <https:\/\/sites.google.com\/a\/ncsu.edu\/msa-2017\/>",
+        "ts": "1468034977.000027",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L6YQUSU",
+                    "U1L7ERY77",
+                    "U1L914KNJ",
+                    "U1L1D4WG7",
+                    "U1L1WFNC8",
+                    "U1L5GU954",
+                    "U1NDG6ULB",
+                    "U1L3K1AKD",
+                    "U1KSL7L7R"
+                ],
+                "count": 9
+            }
+        ]
+    }
+]

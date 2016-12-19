@@ -1,0 +1,54 @@
+[
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "Anyone doing the Midnight Howl and Run tonight?",
+        "ts": "1471272870.000002",
+        "reactions": [
+            {
+                "name": "runner",
+                "users": [
+                    "U1L5GU954"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "I need sleep",
+        "ts": "1471272903.000003",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1KRF9BAP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "zzz",
+                "users": [
+                    "U1L7E8GSU",
+                    "U1KT5F4SZ",
+                    "U1L9DD1NY"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "I am! <@U1M37FW5U>  ",
+        "ts": "1471278905.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "<@U1L5GU954>: Sweet, I'll see you there!",
+        "ts": "1471289262.000005"
+    }
+]

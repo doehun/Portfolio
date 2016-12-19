@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1NLH1CP8",
+        "text": "<@U1NLH1CP8|catherine_burton> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469992727.000002"
+    },
+    {
+        "user": "U1NLH1CP8",
+        "text": "<@U1NLH1CP8|catherine_burton> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1469992809.000003"
+    }
+]

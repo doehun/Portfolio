@@ -1,0 +1,27 @@
+[
+    {
+        "user": "U1L1D4WG7",
+        "text": "<@U1L1D4WG7|edpreble> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471475307.000002"
+    },
+    {
+        "user": "U1L1D4WG7",
+        "purpose": "Discussion on the Google Analytics IQ Exam",
+        "text": "<@U1L1D4WG7|edpreble> set the channel purpose: Discussion on the Google Analytics IQ Exam",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1471475307.000003"
+    },
+    {
+        "user": "U1L1D4WG7",
+        "members": [
+            "U1L1D4WG7"
+        ],
+        "text": "<@U1L1D4WG7|edpreble> archived the channel (w\/ 1 member)",
+        "type": "message",
+        "subtype": "channel_archive",
+        "ts": "1471475355.000004"
+    }
+]

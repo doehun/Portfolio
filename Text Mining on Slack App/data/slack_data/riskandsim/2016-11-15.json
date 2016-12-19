@@ -1,0 +1,43 @@
+[
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "has anyone figured out how to get the lognormal to work for the initial production estimate?",
+        "ts": "1479223938.000089"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "So... somewhat confused by these hw2 instructions.  For projecting a dry well costs do you think we're just supposed to build a simulation from the cost of a dry well in 2006 kind of like what we did in HW1 or use the \"Dry hole risk\" equation provided in the project summary?",
+        "ts": "1479226159.000090"
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "<@U1KT5F4SZ> I used the rlnorm function in R with the second mean and sd he provided (6 and 0.28) which I think worked!",
+        "ts": "1479226314.000091",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KT5F4SZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1NDG6ULB",
+        "text": "<@U1NDG6ULB|cgreene> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479233187.000092"
+    },
+    {
+        "user": "U1KQ9523D",
+        "text": "<@U1KQ9523D|lisaholbach> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479253852.000093"
+    }
+]

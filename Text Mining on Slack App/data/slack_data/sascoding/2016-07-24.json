@@ -1,0 +1,74 @@
+[
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "Does anyone know how to resolve this error in SAS? \"The SAS system stopped processing this step because of insufficient memory.\" Help! :see_no_evil:",
+        "ts": "1469391075.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Are you in the library by any chance <@U1MDE4NAG> ?",
+        "ts": "1469391150.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "No, I'm on my laptop at home <@U1L6YQUSU> ",
+        "ts": "1469391180.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Consider restarting SAS, clearing your log and results Windows, ",
+        "ts": "1469391245.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Are you running regressions?  Or just general data steps? ",
+        "ts": "1469391263.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "I've done all of those things. It keeps giving me errors on model procs like PROC logistic",
+        "ts": "1469391604.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "All I can think is perhaps you're analyzing too many variables?  A library computer might be helpful in that case.  If your machine is the issue, I'm not sure what you can do.  :confused:",
+        "ts": "1469391675.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "It's been running bigger models than this today, but now it won't. Thanks anyway",
+        "ts": "1469392014.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "I was getting the same error message earlier today, and it was because I was trying to run plots with my models. I restarted my machine, didn't run any plots, and it has worked fine so far",
+        "ts": "1469392254.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "Still not working, thanks though",
+        "ts": "1469392799.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "Has anyone started on the Base SAS Prep Guide? I'm currently working through SAS Book 1 and am wondering if I should just switch over to the Prep Guide. How thorough is it compared to the books?",
+        "ts": "1469413779.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1L3PU7BJ>: i don't think the prep book is as thorough, but i think it's more relevant to what we will see on the test. the programming book focuses more on exercises",
+        "ts": "1469416074.000013"
+    }
+]

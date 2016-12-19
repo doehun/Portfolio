@@ -1,0 +1,46 @@
+[
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "In case anyone is going to the game and hasn't heard, we are meeting up at wolf ridge before the game and then all heading over together. Feel free to come by after 4. Message me if you need to get let in the building ",
+        "ts": "1478374845.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "Tower Hall",
+        "ts": "1478374854.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1L415ECD> its plaza",
+        "edited": {
+            "user": "U1KRB11QC",
+            "ts": "1478375300.000000"
+        },
+        "ts": "1478375293.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "By the way Joe you live in Plaza",
+        "ts": "1478375314.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "Plaza Hall",
+        "ts": "1478375323.000007",
+        "reactions": [
+            {
+                "name": "upside_down_face",
+                "users": [
+                    "U1KRB11QC",
+                    "U1L9DD1NY"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

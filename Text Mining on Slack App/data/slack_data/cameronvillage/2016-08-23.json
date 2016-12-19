@@ -1,0 +1,50 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQGRG2F",
+        "text": "There is a car going to Sammy's Trivia tonight scooping up people around Cameron Village! I think we have one or two more spots!",
+        "ts": "1471963257.000002"
+    },
+    {
+        "user": "U1L914KNJ",
+        "text": "<@U1L914KNJ|nikki> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471963317.000003"
+    },
+    {
+        "user": "U1KRMNVGC",
+        "text": "<@U1KRMNVGC|cncross> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471963350.000004"
+    },
+    {
+        "user": "U1L7E8GSU",
+        "text": "<@U1L7E8GSU|rachelkurtz> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471963557.000005"
+    },
+    {
+        "user": "U1LAAMJ0M",
+        "text": "<@U1LAAMJ0M|carlanderson> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471964196.000006"
+    },
+    {
+        "user": "U1KT5F4SZ",
+        "text": "<@U1KT5F4SZ|hannahh> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471964713.000007"
+    },
+    {
+        "user": "U1LHLK8MR",
+        "text": "<@U1LHLK8MR|mtnorthe> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471977283.000008"
+    }
+]

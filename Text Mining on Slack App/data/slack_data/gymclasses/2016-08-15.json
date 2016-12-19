@@ -1,0 +1,38 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "My favorite Zumba instructor is teaching a class today at 5.30 if anyone wants to join!",
+        "ts": "1471265301.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1KQYG6SJ>: Who is it?",
+        "ts": "1471265347.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "His name is Esdras",
+        "ts": "1471265360.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "He gets the class so hyped, it's awesome!",
+        "ts": "1471265377.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "I love that guy!!! I might come if I have time to go home and grab gym stuff.",
+        "ts": "1471265446.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": ":raised_hands::skin-tone-5:",
+        "ts": "1471265525.000007"
+    }
+]

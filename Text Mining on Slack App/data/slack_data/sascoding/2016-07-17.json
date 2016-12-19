@@ -1,0 +1,671 @@
+[
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "not  a sas coding question per se - but has anyone found or developed an answer key to the 'material assessment' LaBarr posted for stats?",
+        "ts": "1468764587.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "for the concept test sneha posted to the forum a link to a SAS assessment folder in google drive that has an answer key! <@U1L914KNJ>",
+        "ts": "1468764677.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "thanks!",
+        "ts": "1468764686.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "follow up question - for #9 'What does a 95% confidence interval imply - I was also not sure between b and d. Does someone have a definitive answer on why A is or isn't accurate?",
+        "ts": "1468764910.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "<http:\/\/onlinestatbook.com\/2\/estimation\/confidence.html> This page has a good explanation of why A isn\u2019t right!",
+        "ts": "1468765096.000022",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L914KNJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "A isn't correct because confidence intervals aren't probabilities of something happening.  They're your confidence in your method ",
+        "ts": "1468765151.000023",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1LBRCSEA",
+                    "U1KRNH021",
+                    "U1L914KNJ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "This was super confusing to me as well. The way I try to think of it is that we are trying to predict the true population mean with our samples, but the true population mean never changes. If we take 100 samples, then 95% of those intervals should capture the true population mean. For those 95%, answer choice A could kind of make sense, but it is still not a \"chance\".... For the 5% where we will be wrong answer choice A would def not be correct... When our confidence interval does not actually capture the true population mean, then the population mean is not represented in that interval. Also we will never know the true population mean so we don't know if it is truly represented in our confidence interval. We also don't know the chances of it happening, we are just \"confident\" in our interval... Hope that makes sense :slightly_smiling_face:",
+        "edited": {
+            "user": "U1KQ9523D",
+            "ts": "1468765967.000000"
+        },
+        "ts": "1468765173.000024",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L7E8GSU",
+                    "U1LBRCSEA",
+                    "U1L914KNJ",
+                    "U1KRHCR7T"
+                ],
+                "count": 4
+            },
+            {
+                "name": "nerd_face",
+                "users": [
+                    "U1L6YQUSU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Either your true mean is in there or it isn't.  ",
+        "ts": "1468765174.000025"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "So A isn't correct at all.",
+        "ts": "1468765207.000026"
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "Dr. L also emphasized that it\u2019s the procedure that we\u2019re confident in, so it\u2019s that actual method we\u2019re using that we\u2019re confident in, not the probability of the mean being in an interval :slightly_smiling_face: basically what Lisa and John said!",
+        "ts": "1468765305.000027",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KQ9523D"
+                ],
+                "count": 1
+            },
+            {
+                "name": "nerd_face",
+                "users": [
+                    "U1L6YQUSU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<@U1KQ9523D>: it's not that we have a 95% chance of capturing the mean.  It's that approximately 95% of the intervals we construct should contain the true mean ",
+        "ts": "1468765369.000028"
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "<@U1L6YQUSU>: Thank you! I just edited what I said to make more sense, I remember Dr. Labarr saying that :slightly_smiling_face:",
+        "ts": "1468765504.000030"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Has anyone looked at the computing questions yet? I am stumbling on problem 1 sub G which pertains to randomized blocked anova.",
+        "ts": "1468766759.000036"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "This is what I said:",
+        "ts": "1468766915.000037",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRZT11T",
+                    "U1KRB11QC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "\"To approach this problem, you would need to \u201cblock\u201d off the nuisance factors by running an ANOVA test with blocking. In order to implement this, it would have to be considered when the data was collected. So, each production line would need to be supplied equally by each of the four suppliers. In the ANOVA test, this only manifests itself with the addition of a variable that represents the blocking. This variable helps the model explain more variability instead of the variability due to nuisance factors being contained in the SSE. \"",
+        "ts": "1468766921.000038"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Would there have to be randomization somehow included in the design to verify the added assumption?",
+        "ts": "1468767259.000039"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "I don't think Labarr will expect us to get that in depth, but I agree that this example is more difficult to conceptualize.  I think it could be done as you're suggesting, David. Or since the data comes from a 23 hour period, they would just have to make sure that each production line has an equal amount of bottles from each supplier for the day they are collecting the data. This should remove the nuisance factors",
+        "ts": "1468767847.000041",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRB11QC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "Has anyone posted a computing assessment key?",
+        "ts": "1468767944.000042"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Thanks <@U1KRMNVGC>",
+        "ts": "1468768803.000043"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "so, trivial question: for odds ratios, why do we bother calculating probabilities (when calculating the odds)? Wouldn't we achieve the same results if we simply divided the numbers for the outcomes, since the denominators cancel out?",
+        "edited": {
+            "user": "U1KQYG6SJ",
+            "ts": "1468771120.000000"
+        },
+        "ts": "1468769560.000044"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "eg: 60 yes events, 20 no events: why bother doing the (60\/80)\/ (20\/80), when you can just do (60\/20)? Am I missing something?",
+        "ts": "1468769605.000045"
+    },
+    {
+        "type": "message",
+        "user": "U1KRTHAQZ",
+        "text": "<@U1KQYG6SJ>:  You're absolutely right. I think it was more to explain the difference between probability and odds. If you're just calculating odds then its just the ratio between success &amp; failure",
+        "ts": "1468769769.000046"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "\/giphy thank you",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/larrysprings-26FPOogenQv5eOZHO>",
+                "image_url": "https:\/\/media0.giphy.com\/media\/26FPOogenQv5eOZHO\/giphy.gif",
+                "image_width": 400,
+                "image_height": 288,
+                "image_bytes": 970799,
+                "is_animated": true,
+                "title": "thank you",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/larrysprings-26FPOogenQv5eOZHO"
+            }
+        ],
+        "ts": "1468769792.000047"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "well, that'll do :smile:",
+        "ts": "1468769807.000048"
+    },
+    {
+        "type": "message",
+        "user": "U1KRTHAQZ",
+        "text": "lol",
+        "ts": "1468769811.000049"
+    },
+    {
+        "type": "message",
+        "user": "U1KRTHAQZ",
+        "text": "There isn't a definitive key to the computing assessment. I wrote down the steps I'd take to solve the first two problems. I can upload that here if that would be helpful",
+        "ts": "1468770243.000050"
+    },
+    {
+        "type": "message",
+        "user": "U1KSEJ01W",
+        "text": "That would be helpful, just to cross reference mine with Simone else's ",
+        "ts": "1468770306.000051"
+    },
+    {
+        "type": "message",
+        "user": "U1KSEJ01W",
+        "text": "Someone*",
+        "ts": "1468770318.000052"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "<@U1KQYG6SJ>: <@U1KRTHAQZ>  Someone can correct me if I am wrong , but I don't think that you can  just  simply divided the numbers for the outcomes like you are proposing. This is because the odds won't always have the same denominator.  In the special case that you are referring to, you are correct that you can just cancel out the denominators, but in most cases you have to calculate the two odds to calculate the odds ratio.",
+        "ts": "1468770912.000054"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "<@U1KRZT11T>: you're right -- I was referring to the odds that go into the ratio, not the calculation of the actual ratio",
+        "ts": "1468770975.000055"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "for any given group, you'll always have the same denominator",
+        "ts": "1468770987.000056"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "oh yea sorry i misunderstood you, you are right then",
+        "ts": "1468771030.000057"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "I'll edit my question so that anyone who reads after doesn't get confused",
+        "ts": "1468771100.000058"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "In the computing assessment , question 2 , part c, it asks about the plots for the assumptions. The last one is the linearity assumption... which plot\/proc would we use for it?",
+        "ts": "1468793422.000060"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "I don't think this was discussed, unless I missed it. Linearity means that the residuals need to add to zero, so I ran a proc reg to output the residuals, then ran a proc univariate on them to show that the mean is zero. Doesn't really need a chart...",
+        "ts": "1468794296.000061"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Same set of code that tests for normality. <@U1NUU2U9E> ",
+        "ts": "1468794348.000062"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1L1D4WG7>: that makes sense! Thank you",
+        "ts": "1468795669.000063"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "I thought I missed something ",
+        "ts": "1468795680.000064"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Anyone understand the difference or interpretation of the bruesche-pagan test when you test 1 variable vs 2 together?",
+        "ts": "1468795819.000065"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "The example code we have (for ameshousing) has 1 BP test for gr_liv_area, then another for basement_area, and then a third for gr_liv_area AND basement_area together.",
+        "ts": "1468795901.000066"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "The model that is given doesn't have interaction terms (or does it?), so I don't understand why it is done this way.",
+        "ts": "1468795968.000067"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "<@U1L1D4WG7>: I think Dr L was just using that as an example to show that you could test two at a time using that test. Typically, it would make more sense to only test one variable at a time since you are trying to isolate the effect",
+        "ts": "1468796127.000068",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U1KQYG6SJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Thanks <@U1KRHCR7T>: That makes much more sense!",
+        "ts": "1468796186.000069"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "Sure thing!",
+        "ts": "1468796253.000070"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "<@U1L1D4WG7>: In the breushe pagan test - the last one is testing the interaction between the 2",
+        "ts": "1468796274.000071"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Since the example model doesn't have an interaction term, it's not needed. But, if there were an interaction, that is the way to test for heteroscedasticity of the interaction?",
+        "edited": {
+            "user": "U1L1D4WG7",
+            "ts": "1468796488.000000"
+        },
+        "ts": "1468796324.000072"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "but breusch-pagan is testing for heteroscedasticity. I think there might be better ways to test for an interaction between two variables",
+        "ts": "1468796399.000073"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "I wrote that ambiguously. I meant to test for heteroscedasticity of the interaction term.",
+        "ts": "1468796441.000074"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "ah, I see. yeah, I think if there was an interaction term and you wanted to see if that's what was causing the heteroscedasticity, that's how you'd do it",
+        "ts": "1468796511.000076"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "yes, only if you were trying to see if that interaction term was causing herteroscedasticity since an interaction term itself is counted as a \"seperate\" variable by the model",
+        "ts": "1468796567.000077"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Thanks everyone, Hopefully our models will be on the \"simple\" side tomorrow and the BP tests will be simple also.",
+        "ts": "1468796629.000078",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U1KQ9523D",
+                    "U1L41DF9D",
+                    "U1KSL7L7R",
+                    "U1KRB11QC",
+                    "U1KSL7C10"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "From what I've been told, he will tell us exactly what we need to do so that we don't do more than what we need to. I believe it will be very similar to the practice exams. But I sure agree with your points.",
+        "ts": "1468796859.000079"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "hmm... <@U1L1D4WG7> <@U1KRHCR7T> <@U1L41DF9D> I'm not sure that we're testing an interaction term in that last statement",
+        "edited": {
+            "user": "U1KQYG6SJ",
+            "ts": "1468797295.000000"
+        },
+        "ts": "1468797163.000080"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "I think we're testing both of them at once",
+        "ts": "1468797168.000081"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "(basically like the way we do for White, where the result will tell us if at least one is heteroskedastic)",
+        "edited": {
+            "user": "U1KQYG6SJ",
+            "ts": "1468797211.000000"
+        },
+        "ts": "1468797194.000082"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "if you wanted to test for interaction, you'd have to put the interaction term in there, like a*b",
+        "ts": "1468797235.000084"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "the part where he talks about this is in the video for day 7, part 2, around the 20 minute mark",
+        "ts": "1468797342.000086"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "<@U1KQYG6SJ>: Looking at it again, I think you're right.",
+        "ts": "1468797431.000087"
+    },
+    {
+        "user": "U1KT9ATA5",
+        "text": "<@U1KT9ATA5|amir.lyall> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468798049.000088"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "so then why have 3 fit statements instead of just the last one or just the 1st two? <@U1KQYG6SJ>  <@U1L1D4WG7> <@U1KRHCR7T>",
+        "ts": "1468798761.000089"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Just for demo purposes",
+        "ts": "1468798779.000090"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "To see what it looks like for each of them, and to see sample results for when you have two variables in there ",
+        "ts": "1468798813.000091"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "In general though, you'd be listing them out one by one",
+        "ts": "1468798827.000092"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "Ahhh I see!! And that makes sense!",
+        "ts": "1468798850.000093"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "Thank you, <@U1KQYG6SJ>",
+        "ts": "1468798860.000094"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": ":slightly_smiling_face:",
+        "ts": "1468798886.000095"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "<@U1L41DF9D>: I think in practice we would need 1 fit statement for each variable\/interaction in the model in order to test BP properly. I noticed that white doesn't change in any of the 3 tests, so it is truly \"general\". The class example has 7 variables, so it really needs 7 BP fit statements I think.",
+        "ts": "1468799347.000096",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L41DF9D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "What <@U1KQYG6SJ> said :slightly_smiling_face:",
+        "ts": "1468799375.000097"
+    },
+    {
+        "type": "message",
+        "user": "U1KSYP1M5",
+        "text": " <@U1L1D4WG7> <@U1NUU2U9E>: also, regarding your question for the linearity assumption. Yes, it does mean that the residuals have mean 0, but that will usually always be the case when linear regression is run. I think in this problem, Dr. Labarr is talking also about the linearity in the residual plot so can this be captured with a linear model. If it is not, you could have the problem of a misspecified model, so you might have to add higher order terms. For example, if the residual plots appear to have a quadratic shape, then you would want to square one or more of your predictor variables in order to capture the true relationship between your x variables and y. See in the regression extensions and diagnostics section around slide 26!",
+        "ts": "1468800491.000098"
+    },
+    {
+        "type": "message",
+        "user": "U1KSYP1M5",
+        "text": "^^^ Correct me if I am wrong on this though",
+        "ts": "1468800537.000099"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "<@U1KSYP1M5>: You're right. You want a plot of the residuals to seemingly appear randomly distributed--if there is an obvious pattern to the residuals, it is likely that a linear model is not the correct model",
+        "ts": "1468800676.000100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L41DF9D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Thanks <@U1KSYP1M5> and <@U1KRE1L9M> . <@U1NUU2U9E> This makes more sense than what I wrote!",
+        "ts": "1468801679.000101"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "That makes sense :) thanks everyone!",
+        "ts": "1468802019.000102"
+    },
+    {
+        "type": "message",
+        "user": "U1KSYP1M5",
+        "text": "Also, I have a question regarding logistic regression. Is it possible to interpret the intercept in multiple logistic regression when you are using reference coding? I know how to interpret when you are only using one variable - say income for example- it would be the value of the logit of the reference variable- but how would you interpret the intercept when you have two predictors - like level of experience and income or something like that? Would it be the value of the logit of the 2 reference variables combined? ",
+        "ts": "1468803764.000103"
+    },
+    {
+        "type": "message",
+        "user": "U1KSYP1M5",
+        "text": "^think I'm overthinking this but just wanna make sure Dr. Labarr didn't go over it ",
+        "ts": "1468803786.000104"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "I actually talked to labarr about this. He said once there's two variables, the intercept loses interpretation. But the intercept itself is obviously still affected by the addition of another variable ",
+        "ts": "1468803962.000105",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1KSR4JP3",
+                    "U1KSL7L7R"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSYP1M5",
+        "text": "Okay great thanks <@U1KRMNVGC> ! ",
+        "ts": "1468804063.000106"
+    },
+    {
+        "type": "message",
+        "user": "U1KSYP1M5",
+        "text": "And just to follow up, when you are using effects coding with multiple logistic regression, the intercept is still just the value of the logit of the average across all variables or does that lose interpretation as well? ",
+        "ts": "1468804125.000107"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Good question. That sounds right, but could anyone else verify?",
+        "ts": "1468804195.000108"
+    },
+    {
+        "type": "message",
+        "user": "U1KRTHAQZ",
+        "text": "<@U1KRMNVGC>: <@U1KSYP1M5>: I'm pretty sure that's right",
+        "ts": "1468804833.000109"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "What does it mean in the computing assessment, question 3B when it asks \"is an exact assessment needed for this data set\"?",
+        "ts": "1468809841.000112"
+    },
+    {
+        "type": "message",
+        "user": "U1KRTHAQZ",
+        "text": "<@U1L1D4WG7>: The Pearson chi square test &amp; the likelihood chi square test are general tests. They wanna know if an exact test like the mantel haenszel test is needed. ",
+        "ts": "1468809981.000113"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Gotcha. Thanks <@U1KRTHAQZ> !",
+        "ts": "1468810038.000114"
+    },
+    {
+        "type": "message",
+        "user": "U1KRTHAQZ",
+        "text": "<@U1L1D4WG7>: No problem! ",
+        "ts": "1468810135.000115"
+    },
+    {
+        "user": "U1L7G5LR4",
+        "text": "<@U1L7G5LR4|arkadius> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468811631.000116"
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQGK2CB",
+        "text": "anyone interested in Guasaca tonight at 6:15 - Venezuelan\/South American - <https:\/\/www.yelp.com\/biz\/guasaca-raleigh>",
+        "attachments": [
+            {
+                "service_name": "Yelp",
+                "title": "Guasaca - Raleigh, NC",
+                "title_link": "https:\/\/www.yelp.com\/biz\/guasaca-raleigh",
+                "text": "Specialties: Arepas are our staple food! Established in 2012. Guasaca was born out of the belief that it is possible to offer food that is delicious, affordable, fresh, and healthy, all at the same time. Likewise, we also believe that\u2026",
+                "fallback": "Yelp: Guasaca - Raleigh, NC",
+                "thumb_url": "https:\/\/s3-media2.fl.yelpcdn.com\/bphoto\/5Nq049FrfBUF-ak9n9n7GA\/o.jpg",
+                "from_url": "https:\/\/www.yelp.com\/biz\/guasaca-raleigh",
+                "thumb_width": 1000,
+                "thumb_height": 750,
+                "service_icon": "http:\/\/s3-media2.fl.yelpcdn.com\/assets\/srv0\/yelp_styleguide\/118ff475a341\/assets\/img\/logos\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1476132336.000002",
+        "reactions": [
+            {
+                "name": "taco",
+                "users": [
+                    "U1L5GU954",
+                    "U1KRNHQA1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "I have a free pieology pizza otherwise I would join! ",
+        "ts": "1476134675.000004",
+        "reactions": [
+            {
+                "name": "pizza",
+                "users": [
+                    "U1L914KNJ",
+                    "U1KRB11QC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "-1::skin-tone-3",
+                "users": [
+                    "U1KQGK2CB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1KS4UE2F",
+        "text": "<@U1KS4UE2F|edward_lim> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476141142.000005"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "<@U1L4RTKCM>: should we all bring our own dinner to the picnic or were you thinking more of a potluck style?",
+        "ts": "1477154168.000552",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U1KRB11QC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L4RTKCM",
+        "text": "Good question!  Just to make planning easier, how about everyone bring dinner for themselves, and if people want to bring bonus sharing things that's always welcome",
+        "ts": "1477154665.000553",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L3G0YRJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L4RTKCM",
+        "text": "OR if someone else wants to coordinate people, I'd also be open to that :slightly_smiling_face:",
+        "ts": "1477155202.000554"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "I am happy bringing my own stuff ",
+        "ts": "1477155542.000555"
+    }
+]

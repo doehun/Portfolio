@@ -1,0 +1,42 @@
+[
+    {
+        "type": "message",
+        "user": "U1L7G5LR4",
+        "text": "i need this dog <https:\/\/vine.co\/v\/iw7pnlizlzb>",
+        "attachments": [
+            {
+                "service_name": "Vine",
+                "service_url": "https:\/\/vine.co\/",
+                "title": "Zelda's Lullaby from The Legend of Zelda w\/ Maple \ud83d\ude0b\ud83d\udc36",
+                "title_link": "https:\/\/vine.co\/v\/iw7pnlizlzb",
+                "author_name": "Trench (IG @AcousticTrench)",
+                "author_link": "https:\/\/vine.co\/u\/950970919487172608",
+                "thumb_url": "https:\/\/v.cdn.vine.co\/r\/videos\/4825669D7F1320828842205974528_5a015fd7d3e.7.0.13175565275856053664.mp4.jpg?versionId=VZ5KS5yb5ScgZ0XFRxhagdNGNs1y9Lh.",
+                "thumb_width": 480,
+                "thumb_height": 480,
+                "fallback": "Vine Video: Zelda's Lullaby from The Legend of Zelda w\/ Maple \ud83d\ude0b\ud83d\udc36",
+                "video_html": "<iframe class=\"vine-embed\" src=\"https:\/\/vine.co\/v\/iw7pnlizlzb\/embed\/simple?audio=1&autoplay=1\" width=\"400\" height=\"400\" frameborder=\"0\"><\/iframe><script async src=\"\/\/platform.vine.co\/static\/scripts\/embed.js\"><\/script>",
+                "video_html_width": 400,
+                "video_html_height": 400,
+                "from_url": "https:\/\/vine.co\/v\/iw7pnlizlzb",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/vine.png",
+                "id": 1
+            }
+        ],
+        "ts": "1479699619.000866",
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U1KT9ATA5",
+                    "U1L2P17DZ",
+                    "U1L40P4N9",
+                    "U1KRNH021",
+                    "U1NLH1CP8",
+                    "U1P8QBBD1"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

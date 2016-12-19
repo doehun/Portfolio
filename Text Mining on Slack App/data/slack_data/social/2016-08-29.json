@@ -1,0 +1,42 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Calling those who enjoy documentaries, there is a free early screening of one produced by a Raleigh based director tonight at mission valley followed by Q&amp;A. Would anyone be interested? <https:\/\/www.eventbrite.com\/e\/thank-you-for-your-service-raleigh-nc-premiere-tickets-26162121610>",
+        "attachments": [
+            {
+                "service_name": "Eventbrite",
+                "title": "Thank You For Your Service: Raleigh, NC Premiere",
+                "title_link": "https:\/\/www.eventbrite.com\/e\/thank-you-for-your-service-raleigh-nc-premiere-tickets-26162121610",
+                "text": "Please join us for this exciting Raleigh premiere. The event is free, but you must RSVP to hold a seat.The U.S. military faces a mental health crisis of historic proportions.\u00a0Thank You for Your Service\u00a0takes aim at our superficial understanding of war trauma and the failed policies that result. Director Tom Donahue interweaves the stories of four struggling Iraq War veterans with candid interviews of top military and civilian leaders. Observing the systemic neglect, the film argues for significant internal change and offers a roadmap of hope. Interviews include Defense Secretary Robert Gates, Admiral Mike Mullen, Generals David Petraeus and Loree Sutton, NicholasKristof, Dexter Filkins, Senator Patty Murray, Mayor Rudy Giuliani, and Colonel Lawrence Wilkerson.running time: 88 min.Screening followed by Q&amp;A with producer Matt Tyson and representatives of The American Red Cross.Thank You for Your Service trailer:<https:\/\/www.youtube.com\/watch?v=KYRBBUeh0LoEver> since Clara Barton, known as the Angel of the Battlefield for her support of the troops during the American Civil War, founded the American Red Cross in 1881, the Service to the Armed Forces Program has supported our military members, their families and veterans through a variety of services, workshops, and programs. \u00a0The filmmakers of Thank You For Your Service are honored to partner with the American Red Cross to bring this special screening to Raleigh, NC.Please make sure to RSVP and join us for this very special event!",
+                "fallback": "Eventbrite: Thank You For Your Service: Raleigh, NC Premiere",
+                "image_url": "https:\/\/img.evbuc.com\/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F22564743%2F49389118586%2F1%2Foriginal.jpg?w=1000&rect=0%2C0%2C1920%2C960&s=461d3ed6fb97d0019a6fb1c3c81fb995",
+                "fields": [
+                    {
+                        "title": "Where",
+                        "value": "2109 Avent Ferry Road #124, Raleigh, NC 27606",
+                        "short": true
+                    },
+                    {
+                        "title": "When",
+                        "value": "Mon, Aug 29, 2016 at 7:00 PM",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.eventbrite.com\/e\/thank-you-for-your-service-raleigh-nc-premiere-tickets-26162121610",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 154655,
+                "service_icon": "https:\/\/cdn.evbstatic.com\/s3-build\/perm_001\/1aab42\/django\/images\/touch_icons\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ],
+        "ts": "1472481904.000028"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "Hey--I can't make it tonight, but that does sound like a cool (real, necessary) film.",
+        "ts": "1472505427.000030"
+    }
+]

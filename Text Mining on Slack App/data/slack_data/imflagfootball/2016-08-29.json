@@ -1,0 +1,130 @@
+[
+    {
+        "type": "message",
+        "user": "U1L90S3QC",
+        "text": "I'm good with any day!",
+        "ts": "1472479303.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1NDG6ULB>: what field are we meeting at today? Centennial fields or there is also 2 decent sized grassy areas at the Oval?",
+        "ts": "1472494231.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1NDG6ULB",
+        "text": "Centennial fields works ",
+        "ts": "1472494920.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1NDG6ULB",
+        "text": "Blue should be out at 4 then i'll be there ",
+        "ts": "1472495034.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1L1WFNC8",
+        "text": "Not sure if you guys have any more room on the team but I'm interested",
+        "ts": "1472495500.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "<@U1L1WFNC8> we got room, just bring your student id to the games and they can add you to the roster there",
+        "ts": "1472495783.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1L1WFNC8",
+        "text": "<@U1KRNHQA1> awesome thanks! ",
+        "ts": "1472495868.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "no problem! we're gonna be playing thursdays at 6:30pm starting september 8th (i think)",
+        "ts": "1472495904.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "anybody have a football?",
+        "ts": "1472498948.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1NDG6ULB",
+        "text": "It's not the best but I've got one ",
+        "ts": "1472499586.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "I don't have one",
+        "ts": "1472499616.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "I do",
+        "ts": "1472499726.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1NDG6ULB",
+        "text": "Blue team just got out heading there now ",
+        "ts": "1472500168.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1NDG6ULB",
+        "text": "<@U1KRB11QC>: <@U1LMHQY9E> <@U1KRNHQA1> ",
+        "ts": "1472500319.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "If you don't mind waiting for me to change could I grab a ride?",
+        "ts": "1472500495.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "What fields?",
+        "ts": "1472501055.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Ok sounds good",
+        "ts": "1472501506.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Centennial ",
+        "ts": "1472501855.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "Couldn't make it today. ",
+        "ts": "1472503006.000021"
+    },
+    {
+        "user": "U1L7RPG1M",
+        "text": "<@U1L7RPG1M|carsonfutch> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472506889.000022"
+    },
+    {
+        "user": "U1KSR1MS4",
+        "text": "<@U1KSR1MS4|rocky_chen> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472517926.000023"
+    }
+]

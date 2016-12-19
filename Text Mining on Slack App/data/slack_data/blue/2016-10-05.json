@@ -1,0 +1,23 @@
+[
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "Pumpkin chocolate chip cookies on the left side of the classroom! They are slightly (very) broken but take as many chunks as you want!",
+        "ts": "1475672144.000002",
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U1KT3UELS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Does anyone in class have a tide-to-go pen?",
+        "ts": "1475672311.000003"
+    }
+]

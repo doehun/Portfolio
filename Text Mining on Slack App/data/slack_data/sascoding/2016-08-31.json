@@ -1,0 +1,69 @@
+[
+    {
+        "type": "message",
+        "user": "U1P8QBBD1",
+        "text": "For those of you that couldn\u2019t catch Andrea\u2019s code, the name on the bottom of the slide (ex. s105d10) corresponds to the programs in the data we downloaded.",
+        "ts": "1472652605.000007",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1NUU2U9E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "You can also find the code in the sql book ",
+        "ts": "1472652754.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "just wanted to mention that proc sql has shown itself to be a great time to use the \"record macro\" function in SAS...if you need any help setting it up let me know",
+        "ts": "1472666105.000009",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1L5GU954",
+                    "U1NUU2U9E"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1KT9ATA5> can you explain what that does?",
+        "ts": "1472666282.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1KR9BP0E> you can setup a shortcut like we did for abbreviations in the past\nfor instance when i press \"ctrl+`\" it puts \"proc sql; select from where; quit;\"",
+        "ts": "1472666363.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "oh right... sorry i was overthinkingit",
+        "ts": "1472666379.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "Is that hard to set up? ",
+        "ts": "1472675349.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "Nope not at all! ",
+        "ts": "1472683502.000014"
+    }
+]

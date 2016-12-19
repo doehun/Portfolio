@@ -1,0 +1,43 @@
+[
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "Hey guys I have chocolate chip and white chocolate macadamia cookies today. I'm going to put them in the front of our classroom around 8:45! First come first serve! ",
+        "ts": "1474460147.000004",
+        "reactions": [
+            {
+                "name": "cookie",
+                "users": [
+                    "U1L7E8GSU",
+                    "U1L5GU954",
+                    "U1L7ERY77",
+                    "U1M1L5G6L",
+                    "U1KT3UELS",
+                    "U1KSL7L7R"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "You're an :innocent:",
+        "ts": "1474460249.000005",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1KSL7L7R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "<@U1L41DF9D>: ",
+        "ts": "1474460258.000006"
+    }
+]

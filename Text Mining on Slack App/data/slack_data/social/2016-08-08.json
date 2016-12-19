@@ -1,0 +1,104 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "It's mint chocolate chip day at goodberry's! ",
+        "ts": "1470675745.000002",
+        "reactions": [
+            {
+                "name": "icecream",
+                "users": [
+                    "U1LBRCSEA",
+                    "U1L9DD1NY",
+                    "U1KT9ATA5",
+                    "U1KT5F4SZ",
+                    "U1KRBFY3Z"
+                ],
+                "count": 5
+            },
+            {
+                "name": "dart",
+                "users": [
+                    "U1L6YQUSU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "We're going to goodberry's to celebrate day 1 if anyone wants to join ",
+        "ts": "1470690212.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "We = Madison, John and myself ",
+        "ts": "1470690223.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "I have eaten too much ice cream lately",
+        "ts": "1470690275.000005",
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U1KRE1L9M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "@Hannah I'm in! ",
+        "ts": "1470690359.000006",
+        "reactions": [
+            {
+                "name": "yum",
+                "users": [
+                    "U1KT5F4SZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "<@U1KT5F4SZ>: ^",
+        "ts": "1470690371.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "People not taking the SAS test this week: I'm thinking of going to check out the outlet mall and find some deals on business casual clothes this Thursday so if anyone wants to join me let me know!! ",
+        "ts": "1470695242.000008",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L914KNJ",
+                    "U1L40P4N9"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "<@U1L3G0YRJ>: which one?",
+        "ts": "1470697609.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "<@U1L914KNJ>: I think tanger outlets!",
+        "ts": "1470698140.000010"
+    }
+]

@@ -1,0 +1,303 @@
+[
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "I'm down for hiking as well, see y'all at 10",
+        "ts": "1467461053.000058",
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "U1KQ9523D",
+                    "U1L46HXCJ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "Does anyone think it's too wet to go? I just opened my window, and realized it rained last night (I live in the Cary area).",
+        "ts": "1467463137.000059"
+    },
+    {
+        "type": "message",
+        "user": "U1L2P17DZ",
+        "text": "<@U1KSL7L7R>: I was thinking the same thing, I'll go if everybody else is going, but it's supposed to rain off and on today and there's a chance of storms.. ",
+        "ts": "1467463645.000060"
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "I'm still down to go, but it depends on everyone else. I'm hoping the storms won't really start until later. ",
+        "ts": "1467464029.000061"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "<https:\/\/www.wunderground.com\/cgi-bin\/findweather\/getForecast?query=27513+-+Cary%2C+NC>",
+        "attachments": [
+            {
+                "service_name": "Weather Underground",
+                "title": "Cary, NC | 75.9\u00b0 | Overcast",
+                "title_link": "https:\/\/www.wunderground.com\/cgi-bin\/findweather\/getForecast?query=27513+-+Cary%2C+NC",
+                "text": "Get latest forecast for Cary, NC (27513) weather along with updates about temperature, humidity, weather radar and more on Weather Underground.",
+                "fallback": "Weather Underground: Cary, NC | 75.9\u00b0 | Overcast",
+                "from_url": "https:\/\/www.wunderground.com\/cgi-bin\/findweather\/getForecast?query=27513+-+Cary%2C+NC",
+                "thumb_url": "https:\/\/icons.wxug.com\/i\/c\/k2\/cloudy.png",
+                "thumb_width": 80,
+                "thumb_height": 80,
+                "service_icon": "http:\/\/icons.wxug.com\/favicon.png",
+                "id": 1
+            }
+        ],
+        "ts": "1467464175.000062"
+    },
+    {
+        "type": "message",
+        "user": "U1L46HXCJ",
+        "text": "<@U1KSL7L7R>: don't be a baby ",
+        "ts": "1467464672.000064",
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "U1KSL7L7R"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1L7RPG1M",
+                    "U1L5GU954"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "Hahaha that's hilarious",
+        "ts": "1467465691.000067"
+    },
+    {
+        "type": "message",
+        "user": "U1KT3UELS",
+        "text": "Anyone brining bug spray? I can trade you some sunscreen...? :partly_sunny_rain:",
+        "ts": "1467465941.000068"
+    },
+    {
+        "type": "message",
+        "user": "U1L2P17DZ",
+        "text": "I have bug spray!!",
+        "ts": "1467466120.000069",
+        "reactions": [
+            {
+                "name": "beetle",
+                "users": [
+                    "U1L974M70",
+                    "U1KT3UELS",
+                    "U1KRBJP47"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT3UELS",
+        "text": "You're a life saver <@U1L2P17DZ> !!",
+        "ts": "1467466405.000070"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "I've already had 2 knee surgeries so I gotta be extra cautious with these old man knees, y'all have fun! I'm gonna bow out and listen to music, eat cereal, and do SAS",
+        "ts": "1467466597.000071"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Lots of people out hiking\/running\/biking here...",
+        "ts": "1467467512.000074",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KSL7L7R",
+                    "U1KRNH021"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": " Almost there !",
+        "ts": "1467467775.000075"
+    },
+    {
+        "type": "message",
+        "user": "U1L46HXCJ",
+        "text": "We are running a little late due to <@U1L7RPG1M> 's diarrhea! We will be there soon :hankey:",
+        "ts": "1467467898.000076",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KSL7L7R",
+                    "U1KQ9523D",
+                    "U1L7RPG1M",
+                    "U1KQYG6SJ",
+                    "U1KR9BP0E"
+                ],
+                "count": 5
+            },
+            {
+                "name": "smile",
+                "users": [
+                    "U1KRLV1CG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "And y'all are perfectly safe <@U1L1D4WG7> ! I just got terrible knees is all",
+        "ts": "1467467983.000077"
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "We're running a little late too but almost there!",
+        "ts": "1467468290.000078"
+    },
+    {
+        "type": "message",
+        "user": "U1L7ERY77",
+        "text": "W r here",
+        "ts": "1467468430.000079"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "We are here too. ",
+        "ts": "1467468475.000080"
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "Reedy creek entrance? Off Harrison avenue",
+        "ts": "1467468873.000081"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "I didn't realize I didn't have notifications on, I'll be there next time we do an umstead trip ",
+        "ts": "1467481504.000088"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "I'm so bad at this stuff!!! I need to set up notifications too. Have fun on the hike :slightly_smiling_face:",
+        "ts": "1467484038.000092"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Ok I just got the slack app to get over my fomo. Now I'll be connected! ",
+        "ts": "1467492146.000094",
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1KR9BP0E"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "Oh yeah, the fomo is very real. ",
+        "ts": "1467492577.000095"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "That's us studying SAS at our 1800's era desk",
+        "ts": "1467493321.000097"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Hahaha <@U1L1D4WG7> I love that. Very real. Hope you fixed your roof! Glad no one was hurt.",
+        "ts": "1467494066.000098"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "<@U1KR9BP0E>: The roof will take a few weeks to fix I think. The tree is gone though, so now I don't have 2000 lbs of pine tree balancing over my bedroom. :slightly_smiling_face:",
+        "ts": "1467495446.000101",
+        "reactions": [
+            {
+                "name": "open_mouth",
+                "users": [
+                    "U1KQ9523D",
+                    "U1L9DD1NY"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "#InsuranceFTW",
+        "ts": "1467495463.000102"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "Hey Guys from Raleigh please suggest if Bodie islands is worth going? ",
+        "ts": "1467507964.000104"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "Any help would be appreciated. Thanks in advance :)",
+        "ts": "1467507981.000105"
+    },
+    {
+        "type": "message",
+        "user": "U1L2P17DZ",
+        "text": "<@U1KRNH021>: the bodie island lighthouse is really cool to climb, and it's on the outer banks which has lots to do! There's jockeys ridge (huge sand dunes), the wright brothers memorial (where the first flight was achieved) and such. They're only about 20 minutes apart if you want to explore bodie island and those things",
+        "ts": "1467508197.000106"
+    },
+    {
+        "type": "message",
+        "user": "U1LHLK8MR",
+        "text": "<@U1KRNH021> second that nags head is great! Definitely need to see the outer banks of you're living in NC. If you go I would recommend checking out kitty hawk which is where the wright brothers memorial is",
+        "ts": "1467508391.000107"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "Thanks a lot for your inputs.",
+        "ts": "1467508484.000108"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Outer banks is really pretty! ",
+        "ts": "1467508496.000109"
+    }
+]

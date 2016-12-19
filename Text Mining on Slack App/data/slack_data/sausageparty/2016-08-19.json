@@ -1,0 +1,245 @@
+[
+    {
+        "user": "U1L3PU7BJ",
+        "inviter": "U1KRS3S3X",
+        "text": "<@U1L3PU7BJ|dmalave> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471609255.000002"
+    },
+    {
+        "user": "U1KSL7L7R",
+        "inviter": "U1KRS3S3X",
+        "text": "<@U1KSL7L7R|dustinwicker> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471609255.000003"
+    },
+    {
+        "user": "U1KS4UE2F",
+        "inviter": "U1KRS3S3X",
+        "text": "<@U1KS4UE2F|edward_lim> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471609255.000004"
+    },
+    {
+        "user": "U1MDE4NAG",
+        "inviter": "U1KRS3S3X",
+        "text": "<@U1MDE4NAG|michaelbyman> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471609255.000005"
+    },
+    {
+        "user": "U1KRMNVGC",
+        "inviter": "U1KRS3S3X",
+        "text": "<@U1KRMNVGC|cncross> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471609255.000006"
+    },
+    {
+        "user": "U1KT5F4SZ",
+        "inviter": "U1KRS3S3X",
+        "text": "<@U1KT5F4SZ|hannahh> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471609255.000007"
+    },
+    {
+        "user": "U1KSYP1M5",
+        "inviter": "U1KRS3S3X",
+        "text": "<@U1KSYP1M5|madison> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471609255.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1L974M70",
+        "text": "Let's see it tonight.  9 o clock showing.",
+        "ts": "1471634181.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1L974M70",
+        "text": "<!channel>:  *810pm show at regal <https:\/\/tickets.fandango.com\/MobileExpress\/Checkout?row_count=143735075&amp;mid=188465&amp;a=11584&amp;sdate=08\/19\/2016&amp;tid=AAONH> \n\nWho's in?",
+        "ts": "1471634421.000010",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRB11QC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "9 PM showing or 8:10?",
+        "attachments": [
+            {
+                "fallback": "[August 19th, 2016 12:20 PM] brshallo: <!channel>:  *810pm show at regal <https:\/\/tickets.fandango.com\/MobileExpress\/Checkout?row_count=143735075&amp;mid=188465&amp;a=11584&amp;sdate=08\/19\/2016&amp;tid=AAONH> \n\nWho's in?",
+                "ts": "1471634421.000010",
+                "author_subname": "brshallo",
+                "channel_id": "C22S9FA82",
+                "channel_name": "sausageparty",
+                "is_msg_unfurl": true,
+                "text": "<!channel>:  *810pm show at regal <https:\/\/tickets.fandango.com\/MobileExpress\/Checkout?row_count=143735075&amp;mid=188465&amp;a=11584&amp;sdate=08\/19\/2016&amp;tid=AAONH> \n\nWho's in?",
+                "author_link": "https:\/\/msa17.slack.com\/team\/brshallo",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-06-25\/54348045441_e3dcbaf4ff7bc4c7bcde_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/msa17.slack.com\/archives\/sausageparty\/p1471634421000010",
+                "is_share": true,
+                "footer": "Posted in #sausageparty"
+            }
+        ],
+        "ts": "1471635295.000011"
+    },
+    {
+        "user": "U1MDE4NAG",
+        "text": "<@U1MDE4NAG|michaelbyman> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1471635892.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1KRS3S3X",
+        "text": "can we go to mission valley cinemas?",
+        "ts": "1471638885.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRS3S3X",
+        "text": "it's cheaper",
+        "ts": "1471638887.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KRS3S3X",
+        "text": "$7.50 (bring your ID), 7:25pm showing",
+        "ts": "1471638942.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KRS3S3X",
+        "text": "(your student ID)",
+        "ts": "1471638962.000005"
+    },
+    {
+        "user": "U1KT5F4SZ",
+        "text": "<@U1KT5F4SZ|hannahh> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1471638988.000006"
+    },
+    {
+        "user": "U1KSYP1M5",
+        "text": "<@U1KSYP1M5|madison> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1471640871.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1L974M70",
+        "text": "<@U1KRS3S3X>:  Yeah, just saw your message <@U1KQYG6SJ>  .  Let's do 725 there.",
+        "ts": "1471641531.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KRS3S3X",
+        "text": "<!channel> wait, Logan can't go tonight, and he wants to go. Last minute change to Sunday evening?",
+        "ts": "1471641936.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "I can't do tonight",
+        "ts": "1471641967.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1KRS3S3X",
+        "text": "ok, Rose and Logan will go Sunday",
+        "ts": "1471641996.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1KRS3S3X",
+        "text": "problem: solved",
+        "ts": "1471642009.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "I'll see some of you around 7:10ish <@U1L974M70> <@U1KRS3S3X> ",
+        "ts": "1471643809.000013"
+    },
+    {
+        "user": "U1KQYG6SJ",
+        "text": "<@U1KQYG6SJ|rose> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1471645137.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1L974M70>: <@U1KRS3S3X> are you all here yet? If not the line is pretty long ",
+        "ts": "1471648566.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1L974M70",
+        "text": "We got tickets on fandango. On our way.",
+        "ts": "1471648603.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "I'm in the third row from the back when you get here",
+        "ts": "1471649062.000017"
+    },
+    {
+        "user": "U1KQGK2CB",
+        "text": "<@U1KQGK2CB|loganteal> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1471649149.000018"
+    },
+    {
+        "user": "U1KRMNVGC",
+        "text": "<@U1KRMNVGC|cncross> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1471649577.000019"
+    },
+    {
+        "user": "U1KRB11QC",
+        "text": "<@U1KRB11QC|dsjorda2> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1471655327.000002"
+    },
+    {
+        "user": "U1L974M70",
+        "text": "<@U1L974M70|brshallo> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1471656602.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "was it worth seeing?",
+        "ts": "1471662304.000002"
+    }
+]

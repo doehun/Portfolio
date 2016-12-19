@@ -1,0 +1,44 @@
+[
+    {
+        "user": "U1KSGHLPJ",
+        "text": "<@U1KSGHLPJ|krjones9> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475236141.000398"
+    },
+    {
+        "user": "U1L7B7188",
+        "text": "<@U1L7B7188|john_paton> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475239449.000399"
+    },
+    {
+        "user": "U1MDE4NAG",
+        "text": "<@U1MDE4NAG|michaelbyman> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1475239570.000400"
+    },
+    {
+        "user": "U1LMHQY9E",
+        "text": "<@U1LMHQY9E|pmaychek> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1475244510.000402"
+    },
+    {
+        "user": "U1LJRDPLP",
+        "text": "<@U1LJRDPLP|alexhorowitz> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1475249632.000403"
+    },
+    {
+        "user": "U1LDKB3AN",
+        "text": "<@U1LDKB3AN|preston_burns> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1475290534.000404"
+    }
+]

@@ -1,0 +1,324 @@
+[
+    {
+        "user": "U1LV6EH3M",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1LV6EH3M|mmspenc2> has joined the channel",
+        "ts": "1467127901.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "<@U1KQ9523D>: I think <@U1KQGRG2F> and I might come! I hope you don't have to be good at dancing though :see_no_evil:",
+        "ts": "1467130211.000003",
+        "reactions": [
+            {
+                "name": "stuck_out_tongue_winking_eye",
+                "users": [
+                    "U1KQGRG2F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1M1L5G6L",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1M1L5G6L|shelbyklemm> has joined the channel",
+        "ts": "1467130226.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "<@U1L9DD1NY>: Yaay! I'm excited :slightly_smiling_face:",
+        "ts": "1467130787.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1L40P4N9",
+        "text": "Does anyone play indoor volleyball? ",
+        "ts": "1467130921.000008",
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U1L974M70"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "<@U1KQ9523D>: I will be there as well",
+        "ts": "1467131016.000009",
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "U1KQ9523D"
+                ],
+                "count": 1
+            },
+            {
+                "name": "hugging_face",
+                "users": [
+                    "U1KQGRG2F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSH8676",
+        "text": "I play volleyball!",
+        "ts": "1467131492.000010",
+        "reactions": [
+            {
+                "name": "watermelon",
+                "users": [
+                    "U1L40P4N9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "<@U1KRZT11T>: <@U1L9DD1NY>: This  will be my first time going to this particular one so I hope its fun :slightly_smiling_face:",
+        "ts": "1467132781.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Who's up for an Escape room?",
+        "ts": "1467137045.000012",
+        "reactions": [
+            {
+                "name": "flushed",
+                "users": [
+                    "U1L8PJY4W"
+                ],
+                "count": 1
+            },
+            {
+                "name": "laughing",
+                "users": [
+                    "U1KQGRG2F"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1KQ9523D",
+                    "U1KRB11QC",
+                    "U1L914KNJ",
+                    "U1KRBJP47",
+                    "U1L3G0YRJ",
+                    "U1KRQLFLY",
+                    "U1KSR1MS4",
+                    "U1KT5F4SZ",
+                    "U1LBRCSEA",
+                    "U1KSPCE87",
+                    "U1KT3UELS",
+                    "U1L974M70",
+                    "U1L1WFNC8"
+                ],
+                "count": 13
+            },
+            {
+                "name": "grinning",
+                "users": [
+                    "U1KRWUXFU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Let's all do one on Friday!! After class because we get out early?! <@U1L6YQUSU> ",
+        "ts": "1467137171.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1L8PJY4W",
+        "text": "What's an Escape room <@U1L6YQUSU> ?... sounds creepy.",
+        "edited": {
+            "user": "U1L8PJY4W",
+            "ts": "1467137320.000000"
+        },
+        "ts": "1467137265.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "An Escape room is where they lock you in a room for an hour and you have to solve a series of puzzles to get out ",
+        "ts": "1467137551.000016",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L8PJY4W"
+                ],
+                "count": 1
+            },
+            {
+                "name": "scream",
+                "users": [
+                    "U1L9DD1NY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L8PJY4W",
+        "text": "Sweet! Let's go!",
+        "ts": "1467138161.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1L6YQUSU>: I'm down for an escape the room outing! ",
+        "ts": "1467138520.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "I'm down too.  Let's do Friday!",
+        "ts": "1467138706.000019",
+        "reactions": [
+            {
+                "name": "hugging_face",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1L6YQUSU",
+                    "U1L41DF9D",
+                    "U1L974M70"
+                ],
+                "count": 4
+            },
+            {
+                "name": "cry",
+                "users": [
+                    "U1L41DF9D"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rage",
+                "users": [
+                    "U1L41DF9D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1M37FW5U",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1M37FW5U|alex_curcio> has joined the channel",
+        "ts": "1467139249.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "<@U1L6YQUSU> I'm definitely interested!",
+        "ts": "1467139332.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "me too!",
+        "ts": "1467139400.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "Not friday1",
+        "ts": "1467139427.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "!!!  People will be out of town!",
+        "ts": "1467139433.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": ":point_up_2: outlier alert",
+        "ts": "1467139460.000025",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1L41DF9D",
+                    "U1L40P4N9",
+                    "U1L8PJY4W",
+                    "U1L9DD1NY",
+                    "U1KSYP1M5",
+                    "U1KRB11QC",
+                    "U1KT3UELS",
+                    "U1KSH8676"
+                ],
+                "count": 8
+            },
+            {
+                "name": "laughing",
+                "users": [
+                    "U1LBRCSEA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "smile",
+                "users": [
+                    "U1KRLV1CG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "^ Agreed",
+        "ts": "1467139462.000026"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I've created an Escape room thread for those interested",
+        "ts": "1467140083.000027"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Click on the top left pound key sign and you'll find this and other threads ",
+        "ts": "1467140276.000028"
+    },
+    {
+        "user": "U1M4QJD4P",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1M4QJD4P|mike-rose> has joined the channel",
+        "ts": "1467146199.000029"
+    },
+    {
+        "user": "U1M7AD5L2",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1M7AD5L2|kelly> has joined the channel",
+        "ts": "1467165825.000030"
+    }
+]

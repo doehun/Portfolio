@@ -1,0 +1,67 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Here is an interesting article on how each MBTI type deals with stress <http:\/\/psychologyjunkie.com\/2015\/08\/02\/how-each-mbti-type-reacts-to-stress-and-how-to-help\/>",
+        "attachments": [
+            {
+                "service_name": "Psychology Junkie",
+                "title": "How Each Myers-Briggs\u00ae Type Reacts to Stress (and How to Help!) - Psychology Junkie",
+                "title_link": "http:\/\/psychologyjunkie.com\/2015\/08\/02\/how-each-mbti-type-reacts-to-stress-and-how-to-help\/",
+                "text": "Have you ever become so stressed out that you feel out of control? Do you feel like you\u2019re acting in a way that is completely unlike you? Have you ever tried to help a loved one who is stressed out, and everything you\u2019ve said or done has only made things worse? I know I have. \u2026",
+                "fallback": "Psychology Junkie: How Each Myers-Briggs\u00ae Type Reacts to Stress (and How to Help!) - Psychology Junkie",
+                "thumb_url": "http:\/\/psychologyjunkie.com\/wp-content\/uploads\/2015\/10\/how-each-mbti-type-reacts-to-stress1.jpg",
+                "ts": 1438539929,
+                "from_url": "http:\/\/psychologyjunkie.com\/2015\/08\/02\/how-each-mbti-type-reacts-to-stress-and-how-to-help\/",
+                "thumb_width": 500,
+                "thumb_height": 313,
+                "service_icon": "http:\/\/psychologyjunkie.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1469715411.000088",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L914KNJ",
+                    "U1KRLV1CG",
+                    "U1KT9ATA5",
+                    "U1NUU2U9E",
+                    "U1KRHCR7T",
+                    "U1L0RBZFH",
+                    "U1KSL7C10"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1Q5GHC2J",
+        "text": "Anyone who's already SAS base certified want to study for the advanced exam together? Let me know! ",
+        "ts": "1469728424.000090"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "Anybody know what the answer to question 43 on the material exam was?  Was it 0.643?  Still don't quite get odds ratios.",
+        "ts": "1469736569.000091"
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "<@U1KRNTXL5>: Yeah it was 0.643. You do 150\/250= 1.5 which are the odds of No in group A and then 175\/250=2.333 which are the odds of No in group B and then 1.5\/2.333 = 0.643 is the odds ratio between No in A and B :slightly_smiling_face:",
+        "edited": {
+            "user": "U1KQ9523D",
+            "ts": "1469736818.000000"
+        },
+        "ts": "1469736767.000092"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "Gotcha, thanks",
+        "ts": "1469737712.000094"
+    }
+]

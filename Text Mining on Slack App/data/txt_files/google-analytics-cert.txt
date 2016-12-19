@@ -1,0 +1,54 @@
+I'm meeting with Dr D. next Monday to get advice and exact details on what is required. The "coursework" is 5-10 hrs of online lectures and exercises. There are some practice tests etc... I'll post as much detail as possible asap. If anyone has resources, please post away!
+Thanks for setting this up <@U1L1D4WG7> It didnt even cross my mind to get it done early :v:
+Agreed with Arkadius. Thanks Ed! 
+Dr D seemed to like the idea, so hopefully it makes sense. We'll see once we get a look at the recommended study materials.
+Here are 2 good sites: <https://support.google.com/partners/answer/6089738?hl=en>
+<https://support.google.com/analytics/answer/4553001?hl=en>
+If it's anything like the AdWords certification, the questions are very straightforward. I also have a good amount of experience with Google Analytics so if anyone has questions, feel free to ask.
+Here are my notes so far... I'll update with more information as we get it!
+<@U1L1D4WG7|edpreble> pinned their Word Document <https://msa17.slack.com/files/edpreble/F22EDTYGJ/google_analytics_iq_test.docx|Google Analytics IQ Test.docx> to this channel.
+Ed this is great thanks so much! Definitely interested! 
+<@U1KRHCR7T>: did you need/use any of the practice test websites for the AdWords cert?
+<http://www.kaushik.net/avinash/>
+<https://support.google.com/analytics/answer/3424288?hl=en>
+<https://analyticsacademy.withgoogle.com/>
+<https://moz.com/blog/google-analytics-certification-how-to-pass-the-gaiq-test>
+I think Alex posted the same links. 
+Has anyone successfully created a partners account? I tried making one, but it wouldn't let me log in. 
+Just kidding. It was because of google chrome.  Firefox works much better.
+Hey guys, I have 2 years of google analytics experience and I'm already certified so if you have any questions just let me know. If you do the academy and look at practice questions online, you'll be set for the exam. 
+So, after talking to a couple folks about this exam, I think I'm just going to go for it this weekend. I'm going to study as much as possible this weekend and then take the exam on Sunday evening. I'll post how it goes.  Since you can take the exam again every 7 days, and it's free, I feel like there is really no penalty to give it a shot. Then we can focus on Python, R, and Linear Algebra :slightly_smiling_face:
+<@U1L1D4WG7>: the cert is free?! 
+It is free :slightly_smiling_face:  So great :slightly_smiling_face:
+<@U1L1D4WG7> an inspiration!!
+<@U1L1D4WG7>: in terms of the dates for the exam, can u take it whenever? 
+<@U1KSBCBFG> The Google exam is online, so you can take it whenever.
+Thanks Alex! 
+Just FYI, and perhaps this is obvious, but this certification is super focused on things that google tracks on websites, and via adwords (paid google advertising for websites). It isn't an analytics tool for general use to analyze other data. So, if you manage a website, or manage marketing campaigns, this is super interesting in order to really gain a lot of insight on your customers and products. If you have no interest in website/customer/marketing side stuff, this is perhaps a lot less useful for you... other than perhaps adding a non-SAS analytics certification on your resume.
+<@U1L1D4WG7> That was super helpful Ed. I didn't know anything about the cert so I actually thought it was another analytics tool :joy:
+Thanks Ed! 
+I just finished the first course (of 2), which took me 5 hrs (I took a lot of notes). After each of the lecture videos, there are 3-5 exercise questions (a total of ~75 practice exercises) which give a good impression of what they think is important. There is also an untimed "practice" assessment at the end which took me another 20 minutes and I got 100% on it. There were several questions I was unsure about, but it's obviously not that hard.
+Getting started on course 2 now. :slightly_smiling_face:
+Just finished course 2, which took ~1.5 hrs. Much easier content, some overlap from course 1. The practice assessment only took 10 minutes and was also very easy.
+Passed the certification!  Go for it people :slightly_smiling_face:  I did it in 1 day!
+<@U1L1D4WG7>: you're an inspiration to us all
+Compared to SAS it is easy breezy :-)  Good luck everyone!
+/giphy inspiration
+Congrats <@U1L1D4WG7> !!
+I am inspired to do it and thanks for all of the great information! 
+Awesome! Congrats man!
+All, the exam is open note,  open internet. So, here are my notes in case they are helpful for you. The time of the exam is short, so googling needs to be pretty efficient if you don't know something. After taking the two courses, there was definitely some material that I hadn't seen before, so google use is needed for some questions.
+<@U1L1D4WG7>: you're awesome! Thank you!
+Thank you. 
+Thank you so much Ed!
+Thanks Ed!
+<@U1L1D4WG7>: does the certification have "check all that apply" questions like in the course?
+Yes it does. And during the exam once you submit a question you can't go back and look at it later so you have to be really careful. 
+<@U1Q7LP4V9> Sometimes it tells you "check the 3 that apply" other times it just says "check all that apply"
+Alright thanks guys!
+Definitely doable in one day. Thanks for the inspiration, <@U1L1D4WG7> !
+if anyone feels particularly iffy about the exam and doesn't want to wait 7 days between attempts (and is willing to take the exam twice) -- one suggestion I've seen online is to create throwaway account for your first attempt, then take it again if you feel confident.
+tried to see if there are any terms of use that this violates, but haven't found anything yet
+this will also be useful if you want to get a feel for the exam _before_ you start studying
+Just passed it! Not too bad at all  :beers:
+Just passed it :slightly_smiling_face:

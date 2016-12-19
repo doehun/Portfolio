@@ -1,0 +1,217 @@
+FYI there is a free intro to Python course at datacamp and if you pay for a month (25$) you can take an intermediate and a data cleaning course. 
+Snakes.  Why'd it have to be snakes?
+Are we going to get a little more into Python later in the program? Maybe not as much as sas but still.
+Snakes.  Why'd it have to be snakes?
+Somebody has got to turn off the slackbot p-y-t-h-o-n reaction :slightly_smiling_face:
+Kosta, I like the idea of doing a Kaggle competition, even if I cannot guarantee time for it once the practicum gets underway.  Either way, just checked Kaggle and this seems to be their warm-up exercise:  <https://www.kaggle.com/c/titanic>
+<@U1KRNTXL5>: haha you were right! Python is not a keyword anymore... i hope
+ok, we are good :slightly_smiling_face:
+<https://sites.google.com/a/ncsu.edu/learning-python-for-data-science/>
+<@U1NUU2U9E> thanks for posting that website!  For some reason I couldn't download the text file for the exercise you posted.  Would you mind just posting the text there?  Very cool collage btw.
+<@U1KRNTXL5>: thanks for pointing out the issue :smile: , i will post it here and try to fix it on the web site as well.
+<@U1KRNTXL5>: here is the list of numbers. You can copy and paste it into a .txt file
+-9.9 -13.3 -76.4 78.7 52.8 -12.7 -1.2 88.7 -65.7 63.0 21.7 6.1 -89.9 82.2 15.9 -33.7 26.7 -43.6 80.5 23.0 -32.0 12.3 15.2 23.4 60.7 74.5 44.5 78.8 -68.2 -9.6 2.3 31.1 41.0 -10.5 51.0 66.8 0.4 -24.4 -69.4 -13.3 -2.0 5.7 -56.9 -11.3 -90.4 -8.3 46.1 -63.1 -4.6 -45.4 -80.2 -19.1 -99.4 22.7 -8.5 -22.2 -78.1 23.9 -88.4 -37.7 -78.0 20.4 -21.5 68.9 -52.4 56.3 41.1 -66.2 -68.4 86.8 96.3 -62.5 59.8 68.5 82.5 7.9 -37.4 -99.0 -14.3 38.3 -99.5 34.4 48.6 89.5 -27.9 47.1 18.6 -98.3 93.2 -58.8 93.5 46.1 67.1 53.2 58.0 92.1 47.3 -14.9 7.7 -97.3
+have fun exploring!
+<!channel>: hey everyone, i have fixed the page with the project and also posted the code of a possible solution. Keep in mind that this is A solution. There are many ways to solve a problem and if your way is different, it is totally fine, share it with all of us!
+Here is the page of the project: <https://sites.google.com/a/ncsu.edu/learning-python-for-data-science/home/averages_project>
+Are we using Python 2 or Python 3?
+<@U1KS4UE2F>: I decided to use python 3, but it's up to you to decide. They have very minor differences, as far as I know
+I only know Python basics and the two versions treat division differently. If you do 3/4, you would get 3 I think in one version and 0.75 in another 
+I don't know about other differences but I know this one 
+<@U1KSBCBFG>: here is a good article about the division :smile: <http://www.informit.com/articles/article.aspx?p=1439189>
+<!channel>: Hi everyone, hope those of us who did the certification test passed it! 
+I put up a new project on the website so if you have some time - go out there and explore. Lets learn and share the knowledge!
+Yo yo yo
+Thanks kosta! Just finished my certification exam today so will start looking into this 
+Heard from Brandon that we'll be using 2.7 in the program so I've switched to that for now. Just thinking ahead, it'll be good to know 3 but like <@U1NUU2U9E>  said, the differences are very minor- especially if you are in the habit of switching between different languages all together.  The big advantage of 2.7 is the vast library modules publicly available and supported.
+I downloaded Anaconda3 on my mac, but i would like to switch to Anaconda2. Is there a special process for uninstalling anaconda so i could go to python 2.7 or is it like any other program?
+<@U1M37FW5U> You should get rid of anaconda3 and install anaconda2.  To do this, in your terminal, run: rm -rf ~/anaconda3 then check if the anaconda path has been removed  (go to your bash profile with the command nano ~/.bash_profile and, if necessary, comment out or delete the anaconda3 path).
+Also, Brandon installed Anaconda2 on your virtual machine so, it will be available in your windows.
+Can't get it to work, I'll ask Brandon on Monday
+<@U1M37FW5U> I had both installed at some point, and it worked just fine i think... All that had to be changed was the version of the interpreter. What you should do is: go to Programs and Features, click on Python 3.5(Anaconda) and remove it. Then you can download the 2.7 version. :smile: let me know how if that didn't help
+In case you have issues using the code provided to invoke the Weather Underground API - remember that you may need to run some import statements
+You can find this info in the Weather Underground Code Samples - I think that's all I am "permitted" to say :slightly_smiling_face:
+Does anyone know what Dr. Healey is referring to in the homework here: "Parse the JSON (JavaScript Object Notation) returned by the API to extract the full location name loc"?
+
+I see a bunch of location variables, but I don't see any named 'loc'.
+<@U1KRSV7AN> if you scroll down the page, you will see a variable named 'loc'... it is a list of Cities for which you need to get the data. So in the example call to the API we get the info about Kelowna, CA. Now the challenge is to get the info for EVERY city in the list 'loc'. Does that make any sense?
+I hope i understood your question correctly :smile:
+Oh jeese...Yes, that makes sense. I thought he meant a location variable in the actual json. <@U1NUU2U9E>, thank you!
+<@U1KRSV7AN> glad i was able to help!
+<@U1KRSV7AN> so as i am going through the problem im realizing that i didn't give you the full answer... in the loc list we have abbreviations, such as "GH/Accra.json"... you need to look through the JSON that you get back from Wunderground's API to print "Accra, Ghana". I think that is what he means by "extracting full location from loc".
+That's the assumption I made, too. Thanks!
+I know I have a hard time sifting through JSON that is returned through the API calls. I used <http://jsonlint.com/> , where you can paste the JSON, click Validate, and it reformats the response to be more readable. Anyone else have any tips?
+<@U1L0V1X61> I was using this one: <http://jsonviewer.stack.hu/>   per Dr. Healey's suggestion
+Text Editor: a text editor is a simple way to program locally on your machine and then submit the text files to an interpreter for processing.  I ALWAYS recommend that people who are new to programming go with something like Sublime Text: <https://www.sublimetext.com/> for its simple installation, ease of use and the awesome color coded features of different languages.
+How does it work?
+Download Sublime Text
+Open a new file
+Save it as a .py (Python) or .r (R) or whatever language extension you require
+When you run the execfile just reference the file's location on your computer!
+Oh I forgot one step... Add your code, comments (# for individual lines, CTL and / for commenting blocks of code)
+I really liked using Spyder. You can save the code to a file, it has debug tools so that you can set breakpoints to see values for variables in the Variable Explorer at any step.
+I'm also a fan of notepad++ .  Just like the name implies, it's basically a fancier notepad with more color coding and pointers to row and column numbers.   I find it useful not only for coding but for reading raw data files more easily.  I'm going to check out sublime text as well though!  <https://notepad-plus-plus.org/>
+If you'd like your jupyter notebook to start from a specific directory, here's one way to do it: <http://stackoverflow.com/a/23776576>
+Throwing another JSON viewing tool into the ring. JSONView Chrome extension is awesome: <https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en>
+In chrome, just navigate to the API url (or drag and drop a json file into a tab in chrome) and it formats as readable json. You can right click on objects or values, select 'JSONViewer', then select 'copy path' to copy the path of the desired value to the clipboard (i.e. max/min temps).
+<@U1KRTHAQZ> i just pulled the full JSON message for the city you mentioned... it does have the high temp value :smile: check your code once again... i would recommend not to keep all of the values in memory - try to find all of the info for the given city and write it into the file, then go to the next city. You can also debug and try to see what values are there in the JSON when you process it... this can be done with (pseudocode) : 
+if 'CN/Lengshuijiang.json' == location_that_you_are_processing then
+            print parsed_json
+If any of you want to see how Spyder works (with debugging, setting breakpoints), or if you don't know what break points are :slightly_smiling_face: come see me... I will be happy to show you how these tools can really help you save time in debugging...
+Maybe make a lunch and learn out of it - I have one person who is interested already!
+That would be super helpful <@U1L0V1X61> !
+So <@U1L0V1X61> , where and when is the lunch and learn going to be :slightly_smiling_face:?
+looks like we have about 10 people - since I am in class and the orange team is free, can someone from orange figure out where we can meet?
+We can start at about 12:15 for 30 mins
+<@U1L0V1X61> why not use the blue or orange class?
+great idea - let's use Blue :slightly_smiling_face:
+I just reserved the big Nash room from 12-1 if you want to use that
+It's the biggest room by Roanoke
+Let's do the Blue room (Roanoke), since there are others who want to join as well
+Thanks for the demonstration Raj!:snake:
+From today's class, any idea how one would create a two column file into a text file using the out= command?
+
+I'm trying to create into a text file something that looks like this:
+
+Washington 30
+Boston 50
+Singapore 80
+
+Tried coding a few different ways and can't seem to figure it out.
+
+This is my code:
+out = open('output.txt', 'wb')
+num = 50
+list = ['Washington', 'Boston', 'Singapore']
+list2 = ['30', '50', '80']
+for elem in list:
+	out.write(elem + list2 +'\r\n')
+out.close()
+Or would I use a CSV for this purpose
+(the code I put above is wrong obviousloy because you can't put a list into an out= like that, but I can't figure out what the correct 'logic' would be)
+<@U1KR9BP0E> The way I would do this is with an index to access each element of both lists:
+out = open('output.txt', 'wb')
+list1 = ['Washington', 'Boston', 'Singapore']
+list2 = ['30', '50', '80']
+for i in range(len(list1)):
+    out.write(list1[i] + ' ' + list2[i] +'\r\n')
+out.close()
+oh interesting. didn't know you could index like that. thanks emmy!
+Sure no problem!
+question -- why do you say "for i in range(len(list1))"? What's the difference between that and "for i in list1"?
+"for i in list1" will iterate over each item in the list, in this case it will use "Washington" then "Boston" then "Singapore" each place i appears in the loop. What we want instead for i is to use the numbers 0, 1, and 2 to access the first, second, and third element in list1 and list2 (python is weird in that it starts counting at 0 and not 1). Range is a function that will give us a list of numbers counting up to the length we want, in this case [0,1,2].
+<@U1L3G0YRJ> got it. I will play around with that to make sure I get it fully. Thanks so much!
+Who was it that was having the error with a missing temperature value? I just got it, but in my case, the value is actually missing. So, it looks like it is possible for there to be missing values.
+I wonder if someone could see if they are getting the same error? I'm missing a high temperature value in Lima, Peru for August 24th (today). Does anyone else get the same problem?
+I was getting a missing value yesterday, but when I ran it today, there were no missing values. So I guess it depends on the day.
+Let me check mine again now...
+Thanks. Let me know if it's missing for Peru. I'd just like to know if it's a consistent error.
+<@U1KRSV7AN>: I also saw this yesterday for Lima, but am no longer seeing it today.
+<@U1KRBJP47> thank you. There must be something happening with the json download. I doubt it's on our end though, so I would think we're safe if this occurs when they test our code...
+Just did a bit of googling and looks like the values can be missing if there was an issue getting updates from that weather station in the past 24 hrs... since a couple of us saw the same thing, it seems safe to say it's an issue on the weather underground side!
+Confirmed - I have a missing value for Peru, Lima for day 1 max
+thanks <@U1KRBJP47> !
+Thanks, <@U1L0V1X61> and <@U1KRBJP47>. Y'all are awesome.
+doing this assignment just makes me want to go home :disappointed:
+If y'all look at the Json code and go to the part that has your high/low you can check the numbers and confirm that it should be missing - mine is in fact missing to for the that same one and I checked the Json code for that day and it was missing - good way to see if you're pulling everything right! 
+If you're interested, this chrome app lets you inspect the parsed json in a slightly more readable format. I found it easier to use than the way that weather underground showed the API response:  <https://www.getpostman.com/>
+FYI if anyone else is randomly getting this "keynotfound" error and has no clue why...no worries..."they're fixing it now" (typical tech support) 
+<https://apicommunity.wunderground.com/weatherapi/topics/intermittent-keynotfound-error>
+All, lots of people were discussion Jupyter vs Spyder,  and I thought I would add another IDE to the mix. All of the python experts I worked with at a past job use PyCharm. It is much more full featured than spyder and has a lot of advanced features. I am still using spyder myself, but perhaps if you are going to really dive into Python, PyCharm might be more useful: <https://www.jetbrains.com/pycharm/>
+PYCHARM! MY LUV! :heart_eyes:
+<@U1L1D4WG7> which version should we download?
+I have actually never used it myself.  :upside_down_face:  I was just remembering the joy that it brought to my former colleagues (and apparently <@U1KS4UE2F> :-)) so I wanted to post it.
+<@U1KS4UE2F> Are you using pycharm here for IAA work?  What version is best for Free-Python 2.7?
+I remember back when I downloaded PyCharm, I used my ncsu email to get the full suite for free as a student. Go to <http://jetbrains.com/PyCharm|jetbrains.com/PyCharm> and you can get pro for free
+<@U1LHLK8MR>: wow that is amazing <@U1L1D4WG7> yep i use pycharm for most of my python work. i find it easier to switch between python2 and 3 on pycharm than configuring that on jupyter notebook and when i have multiple files it is easier to work with than on the notebook where you only have one view at a time
+also color grouping keywords and autocompletion 
+if you find PyCharm a little too heavy duty, there's also atom, from the folks who made github
+<@U1LHLK8MR> I found this link: <https://www.jetbrains.com/pycharm-edu/>
+I am downloading now to try it out - I hope it's the professional edition repackaged as "educational" - thanks <@U1LHLK8MR> and <@U1L1D4WG7> for suggesting this
+great suggestions everyone! any objective pros/cons in pycharm vs spyder?
+I am looking at PyCharm - at first startup, it doesn't seem as easy to get started as Spyder...
+I am still working through it, though...
+i wonder if PyCharm can use all the packages that came with Anaconda
+<@U1NUU2U9E>: yes u have to set your environment path to the anaconda location 
+<@U1KS4UE2F> oh nice! i haven't used it yet, but i might try :slightly_smiling_face:
+How do you set the environment path to acaconda?
+go to Pycharm -&gt; Preferences -&gt; Project -&gt; Project Interpreter and in the Project Interpreter, it will have your environment paths. I think there should be a listing, since when you downloaded Anaconda the path is automatically appended to your environment variables (like a bash_profile)
+oh here's a good link! 
+<https://www.jetbrains.com/help/pycharm/2016.1/configuring-python-interpreter-for-a-project.html>
+Hey this is both a python and R question, when im doing almost anything with a file path on my computer in a python or R script and i copy a path like 'C:\Users\Max Otis Warburg\Documents\Python_Scripts\myfile' it never works, but if I remove the C: and change all the \ to / like ''Users/Max Otis Warburg/Documents/Python_Scripts' then it works.    Why is this?
+<@U1L7ERY77> are you using a mac or PC?
+a pc
+hmm, that would refute my hypothesis then
+seems like the programs think you're on a mac
+but you're clearly not
+yes, its very strange to me, I got it to work but its frustrating because it makes no sense
+My guess is that a lot of these applications are created and used on Linux, where the path separator is "/"
+And the root directory in Linux is simply "/" which is somewhat equivalent to C:\ on Windows
+but that is just a guess :slightly_smiling_face:
+os.path.join() can help automate switching slashes
+Supposedly (I haven't tried)
+<@U1L1D4WG7> , you are right, it should help. <@U1L7ERY77> you can also try -&gt;  os.path.normpath('Your path should be here')
+dont forget to import os at the top :slightly_smiling_face:
+As you are working on the Weather project, this JSON viewer is very helpful:<http://codebeautify.org/jsonviewer>. You can set the Result Mode dropdown menu to View which will allow you to better understand the dictionaries in the the parsed JSON that python gives you.
+I think this was mentioned in class but for the homework when we are getting the temperature for each of the upcoming five days does that include today or not?
+It does include today
+Awesome. Thanks!
+Thanks guys!
+For the homework, are we going to be graded on the efficiency of our code at all?
+Thanks <@U1KRB11QC>  - that viewer was extremely helpful! 
+<@U1P8QBBD1> the assignment didnt specify anything about being efficient, but keep in mind that you can't hardcode the cities.  i.e. the only place to specify cities is in the list that he provides, so that if more items are added to that list your code needs to still work. does that make sense?
+Yeah, that does. Thanks for the help!
+I highly recommend Udemy courses, if you’re looking for an outlet to help in expanding your python knowledge. I’m currently enrolled in the Complete Python Bootcamp course and have found it very helpful thus far. The course normally cost $195, but its on sale for $10 right now. There are also a lot of other python courses on sale. <https://www.udemy.com/courses/search/?q=Python&amp;src=ukw&amp;lang=en>
+<@U1KRB11QC>  I clicked on the link and it said $195.  Did I miss the sale or is there some sort of code?  :disappointed:
+Sorry about that. Use this coupon code: UDMY10ALL at checkout
+Also, this code will let you get other classes for $10 as well. So if you’re interested in R or other things you can get those courses.
+I used to work at edX, and we'd make fun of Udemy's ridiculous pricing all the time :upside_down_face:
+<@U1KRHCR7T> the pricing structure is horrible, but when they’re on sale for $10 its worth it
+For sure, a lot of the courses are really good and $10 is a steal. It's just gimmicky how they do their pricing
+Hey everyone, I have spoken to several people and there seems to be a common question that keeps popping up. Why? Why are we creating and storing data, how do we do it, what is the point? I can get the right answer, but I am not completely comfortable describing how I got the right answer. 
+
+If you fall into one of these categories then I would like to invite you to a Lunch and Learn  tomorrow in Onslow from 12-1PM. I am going to break down objects in Python in a way that makes it really easy to understand the overarching concepts. Whether you are a seasoned programmer or this is the first time you have ever seen code in action, I invite you to stop by!
+<@U1KRQLFLY> for those of us with team meetings during lunch tomorrow could you see if there is a way to record the breakdown. Even if it is just audio.
+<@U1KRB11QC>, I thought that might be an issue.  I could either record the session or just hold another one later this week to go over the same items.
+<@U1KRQLFLY> which ever option works best for you. You may be able to use the software the professors use to record class sessions. Brandon may be able to help
+Thanks so much <@U1KRB11QC>! Just went on a shopping spree :slightly_smiling_face:
+Hey everyone, any help on where do I have the full name for GH? 
+I remembering checking it in forecast 10 days dictionary but not able to figure it out now :( 
+Hey guys I found the solution. Thanks. 
+Lunch and learn is moved to Bodie. 
+Can someone record the audio? Sorry I can't be there 
+Interesting! I'm curious about what all this contains. Is it just the public channels or direct messages too? 
+<@U1L6WB44A> Just public channels. The description of the files are in README.txt.  The csv file contains datetime, id, text, reaction, and reaction counts
+<@U1KS4UE2F>: Awesome! 
+<@U1KRQLFLY> It was super informative. Thank you!
+wait, are we done with python classes? like forever?
+just realized there's nothing on the calendar this week + subsequent weeks
+I assume we have it for data mining, but more curious about the basic language instruction bit
+<@U1KQYG6SJ> , I posed a similar question to Dr Labarr and what he told me is pretty much all of the advanced topics we'll be covering later in the semester will be taught with at least two programming languages (SAS and/or Python and/or R).  So it's safe to say we will see Python again.
+<@U1KQYG6SJ>: but you are right in that this is it for pure Python instruction. Like that was our crash course in Python! 
+<@U1KR9BP0E> yes, looks like it. Sean did a great job today teaching the basics about Objects in Python... I am sure that if there are enough people that want to do a few more of those "lunch-and-learns" on Python, it can be easily arranged. Am I right, <@U1KRQLFLY> ? :smile:
+Definitely <@U1NUU2U9E> 
+<http://mikero.se/wu_app.zip>
+What is it, <@U1M4QJD4P> ?
+Weather Underground project
+OOP GUI and API 'hack'
+<@U1M4QJD4P>  it's really cool!
+<@U1M4QJD4P> I just got to checking this out - this is awesome! I will want to ask you code questions once I have time to go through it and see what I understand.
+<@U1KR9BP0E> If more than a couple people are interested, I’ll throw together a blog post or share:20 about it.
+<@U1M4QJD4P>: I would be interested! 
+Do you need to use a certain program to run it?
+<@U1M37FW5U>: I just saved it and ran it using my command line! 
+Posted another project to work on for anyone who is interested in doing some additional python programming. Will send an email to everyone later today. Check out the project at the bottom of the page : <https://sites.google.com/a/ncsu.edu/learning-python-for-data-science/>
+If anyone's interested in learning more about PySpark (Python + apache Spark) I signed up for a webinar that is next Wednesday during lunch (12PM-1PM) see description below for more info:
+"Draw insights from car accident reports - Python + apache Spark".
+This webinar will demonstrate how to use python and Apache Spark to analyze car vehicle accidents based on a dataset of accident reports for New York. The analysis will show how to perform descriptive data analysis, and how to use the information about accidents to learn more about the possible causes for collisions. It will leverage PySpark modules, and matplotlib and seaborn libraries for visualization.
+Depending on how many people are interested we'll grab a conference room and throw it on the TV
+lets do it, <@U1NDG6ULB>
+<https://www.udemy.com/taming-big-data-with-apache-spark-hands-on/learn/v4/overview>
+I just purchased a course on udemy on python + spark that teaches you the basics, starting from setting it up. If anyone wants to take the course, DM me. I can message you my account info.
+I'm definitely interested <@U1NDG6ULB> 
+Hi all,
+I reserved Hoke for the webinar on Wednesday 12-1PM.
+PySpark webinar in 15 mins in Hoke!
+<https://console.ng.bluemix.net/data/notebooks/samples/NY%20Motor%20Vehicle%20Accidents%20Analysis>
+This was the notebook for today's webinar

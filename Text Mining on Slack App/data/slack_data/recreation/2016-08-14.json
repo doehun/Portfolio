@@ -1,0 +1,31 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "Miller fields are closed for some event. ",
+        "ts": "1471207520.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "Looks like Rec fest. Meet up at armory fields?",
+        "ts": "1471207544.000005",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRZT11T",
+                    "U1KRNHQA1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U1L7G5LR4",
+        "text": "<@U1L7G5LR4|arkadius> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471215552.000006"
+    }
+]

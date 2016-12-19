@@ -1,0 +1,382 @@
+[
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1MDE4NAG> i'm good for 2 or earlier. my team is meeting this afternoon",
+        "ts": "1472145213.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": " Can we have a vote for early times and late times tomorrow? Personally I'd like everyone there so we can do the blue v orange game. My vote is 6:30 am",
+        "ts": "1472146377.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "6:30",
+        "ts": "1472146555.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "I prefer morning but don't have a problem with the afternoon #decisive ",
+        "ts": "1472146988.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "<!channel>: I'll vote after class today. I want to ask Dr. Healey about the python class tomorrow",
+        "ts": "1472147919.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "leaning heavily toward afternoon though",
+        "ts": "1472147948.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Oh I can't play today ",
+        "ts": "1472147995.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "<@U1LMHQY9E>: I meant I won't vote until after class, sorry for the confusion ",
+        "ts": "1472148376.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "Please vote with a thumbs up reaction",
+        "ts": "1472148620.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "Friday 6:30 am",
+        "ts": "1472148625.000012",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KR80QMS",
+                    "U1KRE1L9M",
+                    "U1L3PU7BJ",
+                    "U1LMHQY9E",
+                    "U1KRSV7AN",
+                    "U1KS4UE2F",
+                    "U1L90S3QC",
+                    "U1KRTHAQZ"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "Friday afternoon",
+        "ts": "1472148642.000013",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KT9ATA5",
+                    "U1MDE4NAG",
+                    "U1PF7HWTF",
+                    "U1KSL7L7R",
+                    "U1KS4UE2F",
+                    "U1L3PU7BJ",
+                    "U1KRTHAQZ",
+                    "U1KR891RC",
+                    "U1L974M70"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1LMHQY9E> switch back",
+        "ts": "1472151184.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "K",
+        "ts": "1472151303.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1KSH8676",
+        "text": "Sorry guys won't be able to make it to the blue vs Orange game, been sick all day. ",
+        "ts": "1472151869.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "Now that our practicum team is meeting during lunch, I can do either time",
+        "ts": "1472152120.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1KSH8676> c'mon man you were the one that proposed the idea!",
+        "ts": "1472152295.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "I'm down to play either times however when I went to play around 4 last Friday I had to wait two games before I could get next. Volleyball and bad-mitten were taking up half of the courts.",
+        "ts": "1472154262.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1Q5GHC2J",
+        "text": "So basketball tomorrow morning? ",
+        "ts": "1472154331.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1L3PU7BJ> we played yesterday around 3 and there were plenty of courts open",
+        "ts": "1472154882.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "Maybe Friday afternoons are when volleyball and bad mitten go on but I am down to check it out ",
+        "ts": "1472155150.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1KRTHAQZ",
+        "text": "I know my practicum team is meeting during lunch tomorrow. So I'm fine with either time now. ",
+        "ts": "1472155578.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "Ok so it seems evenly split between morning and afternoon. We should just choose when O v B is happening and go with it.",
+        "ts": "1472163514.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "Has anyone discussed this with Brandon \/ Dr. LaBarr so if afternoon is chosen they don't show up in the morning? I can only do morning so that's why I voted for it",
+        "ts": "1472164174.000025"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "I sent them an email but have not received an email yet",
+        "ts": "1472164254.000026"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "There are 3 \"double votes\", could you guys pick one or the other? ",
+        "edited": {
+            "user": "U1KT9ATA5",
+            "ts": "1472164711.000000"
+        },
+        "ts": "1472164698.000027"
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "The suspense is killing me :slightly_smiling_face:",
+        "ts": "1472164756.000029"
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "But I suppose this is a good exercise in conflict management and communication",
+        "ts": "1472164794.000030",
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "U1PF7HWTF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "I'm really liking the open and honest communication going on here to resolve this conflict. Good job team.",
+        "ts": "1472164837.000031",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1LMHQY9E",
+                    "U1KRE1L9M"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "Perhaps we should choose a <#C1RD90DQU|hoops> team lead... That way he or she could make the call",
+        "ts": "1472164884.000032"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "Not everyone can do both, so everyone should just go when they want. It looks like we'll have numbers for both time slots ",
+        "ts": "1472167492.000033"
+    },
+    {
+        "type": "message",
+        "user": "U1PF7HWTF",
+        "text": "They won't have enough to run full if some of us go to the afternoon...if 10 can commit to the morning then whoevers left can go together in the afternoon and pick up randos",
+        "ts": "1472167685.000034"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "I'll be there in the morning",
+        "ts": "1472168335.000035"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "I'll be there in the morning too",
+        "ts": "1472168453.000036"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "labarr is not playing im guessing neither is brandon",
+        "ts": "1472169133.000037"
+    },
+    {
+        "user": "U1KRQLFLY",
+        "text": "<@U1KRQLFLY|sean.ankenbruck> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472169150.000038"
+    },
+    {
+        "user": "U1SMADBU4",
+        "text": "<@U1SMADBU4|ajohnst2> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472170620.000039"
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "morning for me",
+        "ts": "1472170690.000040"
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "and a buddy of mine (not in the program) is coming too",
+        "ts": "1472170705.000041"
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "I'll be there in the morning. ",
+        "ts": "1472171074.000042"
+    },
+    {
+        "type": "message",
+        "user": "U1L974M70",
+        "text": "Evening!",
+        "ts": "1472172147.000043"
+    },
+    {
+        "type": "message",
+        "user": "U1KRTHAQZ",
+        "text": "People who can do both, are you willing to play in the morning and the afternoon? ",
+        "ts": "1472173001.000044"
+    },
+    {
+        "type": "message",
+        "user": "U1KRTHAQZ",
+        "text": "Also <@U1Q5GHC2J> are you gonna play in the morning? ",
+        "ts": "1472173079.000045"
+    },
+    {
+        "type": "message",
+        "user": "U1PF7HWTF",
+        "text": "ill play morning",
+        "ts": "1472173496.000046"
+    },
+    {
+        "type": "message",
+        "user": "U1KRTHAQZ",
+        "text": "The reason I'm asking is cause I'm down to play both times. And if everyone who is free for both does that then we have 9 people for morning and evening. We'd just need one more person who can do that also ",
+        "ts": "1472173905.000047"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "I'll play tomorrow morning",
+        "ts": "1472174349.000048"
+    },
+    {
+        "type": "message",
+        "user": "U1KRTHAQZ",
+        "text": "I'll be there in the morning and afternoon. I could use the exercise haha ",
+        "ts": "1472174770.000049"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "ill play in the morning. then ill see about the afternoon",
+        "ts": "1472174898.000050"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "given i play in the morning i have a 40% chance of playing in the afternoon",
+        "ts": "1472174966.000051",
+        "reactions": [
+            {
+                "name": "nerd_face",
+                "users": [
+                    "U1PF7HWTF",
+                    "U1L974M70"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L90S3QC",
+        "text": "See you all in the morning.",
+        "ts": "1472176399.000052"
+    },
+    {
+        "type": "message",
+        "user": "U1Q5GHC2J",
+        "text": "I'll play in the morning too",
+        "ts": "1472177690.000053"
+    },
+    {
+        "type": "message",
+        "user": "U1PF7HWTF",
+        "text": "is it 6:30?",
+        "ts": "1472177777.000054"
+    },
+    {
+        "type": "message",
+        "user": "U1KRTHAQZ",
+        "text": "Yep",
+        "ts": "1472177843.000055"
+    }
+]

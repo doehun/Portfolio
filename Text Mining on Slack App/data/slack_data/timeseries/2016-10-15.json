@@ -1,0 +1,98 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "Anyone else having issues running John's code? All I get is an Excel file with the headers. Not sure what I'm doing wrong",
+        "ts": "1476567357.000309"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "any errors? have you tried debugging?",
+        "ts": "1476567816.000310"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "I'm not getting any errors back, it looks like it runs successfully, but it only creates the header row, and doesn't seem like it's actually connecting to the API. but I can't find any issues in the code. Tried running in both Jupyter and Spyder",
+        "ts": "1476568253.000311"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Did you put in your API key?  What year are you trying to run?",
+        "ts": "1476568983.000312"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "I did add my API key, and I'm trying to run 2016",
+        "ts": "1476569157.000313"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Since you have a text file, I assume you Uncommented that line.  Did you also uncomment the lines revealing the values for e?  And indent the second one?",
+        "ts": "1476569370.000314"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "yep, I followed the directions you gave",
+        "ts": "1476569413.000315"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "All packages imported?  (I'm just trying to think of miscellaneous things)",
+        "ts": "1476569435.000316"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Have you used up your daily allotment of pings to WU?",
+        "ts": "1476569455.000317"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "Yep, all packages are good. And no, WU shows that I haven't pinged at all today.",
+        "ts": "1476569477.000318"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "Maybe just restarting my computer and trying again will be helpful",
+        "ts": "1476569495.000319"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "What I'd try is using a range that's super small to debug.  Like 1021-1023 for a range until you figure out what's up",
+        "ts": "1476569527.000320"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "That'll be what I try next if restarting doesn't do it. Thank you for your help!",
+        "ts": "1476569549.000321"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Sure.  Sorry I couldn't help more ",
+        "ts": "1476569561.000322"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "For anyone trying to pull just 2016 temps, you'll need to make a change on line 77. There is a dash\/hyphen where a comma should be between the range values. Took me way too long to realize that!",
+        "ts": "1476570811.000323"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Sorry for any inconvenience, 2016 folks.",
+        "ts": "1476570834.000324"
+    }
+]

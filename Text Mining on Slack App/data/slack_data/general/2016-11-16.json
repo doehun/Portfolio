@@ -1,0 +1,541 @@
+[
+    {
+        "type": "message",
+        "user": "U1MPXSHN1",
+        "text": "<@U1KT5F4SZ> <@U1KSYP1M5> Where are the soccer semis tonight and is it easy to park nearby?",
+        "ts": "1479299094.002434"
+    },
+    {
+        "type": "message",
+        "user": "U1KSYP1M5",
+        "text": "They are on Miller Fields! It is best if you take a right onto Dan Allen (from Western) and park there! There are only 2 fields with big goals so we will be easy to spot! ",
+        "ts": "1479299213.002435",
+        "reactions": [
+            {
+                "name": "soccer",
+                "users": [
+                    "U1MPXSHN1",
+                    "U1LBRCSEA",
+                    "U1L3G0YRJ",
+                    "U1KS4UE2F"
+                ],
+                "count": 4
+            },
+            {
+                "name": "trophy",
+                "users": [
+                    "U1MPXSHN1",
+                    "U1LBRCSEA",
+                    "U1L3G0YRJ",
+                    "U1KS4UE2F",
+                    "U1LDKB3AN"
+                ],
+                "count": 5
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRE1L9M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LNGEV0B",
+        "text": "If anyone is interested, my roommate is selling his commuter bike for $200. He bought it about a year and a half ago for about $800-$900. It's in good condition and includes a U lock. ",
+        "edited": {
+            "user": "U1LNGEV0B",
+            "ts": "1479302785.000000"
+        },
+        "ts": "1479302738.002436"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1LNGEV0B|kespina> uploaded a file: <https:\/\/msa17.slack.com\/files\/kespina\/F32JH7LAU\/slack_for_ios_upload._null_|Slack for iOS Upload>",
+        "file": {
+            "id": "F32JH7LAU",
+            "created": 1479302736,
+            "timestamp": 1479302736,
+            "name": "Slack for iOS Upload.(null)",
+            "title": "Slack for iOS Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U1LNGEV0B",
+            "editable": false,
+            "size": 2125513,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F32JH7LAU\/slack_for_ios_upload._null_?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F32JH7LAU\/download\/slack_for_ios_upload._null_?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32JH7LAU-9bdf922f47\/slack_for_ios_upload_64.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32JH7LAU-9bdf922f47\/slack_for_ios_upload_80.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32JH7LAU-9bdf922f47\/slack_for_ios_upload_360.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360_w": 360,
+            "thumb_360_h": 270,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32JH7LAU-9bdf922f47\/slack_for_ios_upload_480.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_480_w": 480,
+            "thumb_480_h": 360,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32JH7LAU-9bdf922f47\/slack_for_ios_upload_160.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32JH7LAU-9bdf922f47\/slack_for_ios_upload_720.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_720_w": 720,
+            "thumb_720_h": 540,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32JH7LAU-9bdf922f47\/slack_for_ios_upload_960.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_960_w": 960,
+            "thumb_960_h": 720,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32JH7LAU-9bdf922f47\/slack_for_ios_upload_1024.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 768,
+            "image_exif_rotation": 1,
+            "original_w": 4032,
+            "original_h": 3024,
+            "permalink": "https:\/\/msa17.slack.com\/files\/kespina\/F32JH7LAU\/slack_for_ios_upload._null_",
+            "permalink_public": "https:\/\/slack-files.com\/T1KRCES8H-F32JH7LAU-a375509aab",
+            "channels": [
+                "C1KR6TMD3"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U1LNGEV0B",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1LNGEV0B|kespina>",
+        "bot_id": null,
+        "ts": "1479302741.002437"
+    },
+    {
+        "type": "message",
+        "user": "U1LNGEV0B",
+        "text": "If you are interested just shoot me a message or find me in class. Thanks!",
+        "ts": "1479302833.002439"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1L6YQUSU|johnbetzjr> uploaded a file: <https:\/\/msa17.slack.com\/files\/johnbetzjr\/F32M6HSU9\/glove_found_in_polk._null_|Glove found in Polk>",
+        "file": {
+            "id": "F32M6HSU9",
+            "created": 1479309938,
+            "timestamp": 1479309938,
+            "name": "Glove found in Polk.(null)",
+            "title": "Glove found in Polk",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U1L6YQUSU",
+            "editable": false,
+            "size": 2898152,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F32M6HSU9\/glove_found_in_polk._null_?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F32M6HSU9\/download\/glove_found_in_polk._null_?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32M6HSU9-d400371f72\/glove_found_in_polk_64.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32M6HSU9-d400371f72\/glove_found_in_polk_80.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32M6HSU9-d400371f72\/glove_found_in_polk_360.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360_w": 270,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32M6HSU9-d400371f72\/glove_found_in_polk_480.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_480_w": 360,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32M6HSU9-d400371f72\/glove_found_in_polk_160.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32M6HSU9-d400371f72\/glove_found_in_polk_720.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_720_w": 540,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32M6HSU9-d400371f72\/glove_found_in_polk_960.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_960_w": 720,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32M6HSU9-d400371f72\/glove_found_in_polk_1024.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_1024_w": 768,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 4032,
+            "original_h": 3024,
+            "permalink": "https:\/\/msa17.slack.com\/files\/johnbetzjr\/F32M6HSU9\/glove_found_in_polk._null_",
+            "permalink_public": "https:\/\/slack-files.com\/T1KRCES8H-F32M6HSU9-be1257f223",
+            "channels": [
+                "C1KR6TMD3"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1
+        },
+        "user": "U1L6YQUSU",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1L6YQUSU|johnbetzjr>",
+        "bot_id": null,
+        "ts": "1479309949.002447"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "Hey y'all - I know a bunch of people already have this but *The Skim* is a daily email which summarizes the news from the day before.  I find it a great way to keep up to date with things as busy as I am with everything right now.\n\nRight now they are doing a promotion where for every person that subscribes to the email they will donate a bag of food to a family for thanksgiving.  Its a really easy way to do a big thing, so please think about it.",
+        "edited": {
+            "user": "U1KT5F4SZ",
+            "ts": "1479315871.000000"
+        },
+        "ts": "1479314548.002448",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U1KQGK2CB",
+                    "U1KRE1L9M",
+                    "U1LBRCSEA",
+                    "U1KT3UELS"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "Here's the link: <http:\/\/www.theskimm.com\/?r=2WVZY>",
+        "attachments": [
+            {
+                "service_name": "theSkimm.com",
+                "title": "theSkimm makes it easier to be smarter \u2014 theSkimm",
+                "title_link": "http:\/\/www.theskimm.com\/?r=2WVZY",
+                "text": "All up in that #SkimmLife",
+                "fallback": "theSkimm.com: theSkimm makes it easier to be smarter \u2014 theSkimm",
+                "image_width": 234,
+                "image_height": 200,
+                "from_url": "http:\/\/www.theskimm.com\/?r=2WVZY",
+                "id": 1
+            }
+        ],
+        "ts": "1479314553.002449"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "We're going to get Jasmin for lunch if anyone wants to join",
+        "ts": "1479315933.002452"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1L3G0YRJ|emmyburnett> shared a file: <https:\/\/msa17.slack.com\/files\/johnbetzjr\/F32M6HSU9\/glove_found_in_polk._null_|Glove found in Polk>",
+        "file": {
+            "id": "F32M6HSU9",
+            "created": 1479309938,
+            "timestamp": 1479309938,
+            "name": "Glove found in Polk.(null)",
+            "title": "Glove found in Polk",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U1L6YQUSU",
+            "editable": false,
+            "size": 2898152,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F32M6HSU9\/glove_found_in_polk._null_?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F32M6HSU9\/download\/glove_found_in_polk._null_?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32M6HSU9-d400371f72\/glove_found_in_polk_64.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32M6HSU9-d400371f72\/glove_found_in_polk_80.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32M6HSU9-d400371f72\/glove_found_in_polk_360.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360_w": 270,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32M6HSU9-d400371f72\/glove_found_in_polk_480.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_480_w": 360,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32M6HSU9-d400371f72\/glove_found_in_polk_160.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32M6HSU9-d400371f72\/glove_found_in_polk_720.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_720_w": 540,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32M6HSU9-d400371f72\/glove_found_in_polk_960.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_960_w": 720,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32M6HSU9-d400371f72\/glove_found_in_polk_1024.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_1024_w": 768,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 4032,
+            "original_h": 3024,
+            "permalink": "https:\/\/msa17.slack.com\/files\/johnbetzjr\/F32M6HSU9\/glove_found_in_polk._null_",
+            "permalink_public": "https:\/\/slack-files.com\/T1KRCES8H-F32M6HSU9-be1257f223",
+            "channels": [
+                "C1KR6TMD3"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1
+        },
+        "user": "U1L3G0YRJ",
+        "upload": false,
+        "display_as_bot": false,
+        "username": "<@U1L3G0YRJ|emmyburnett>",
+        "bot_id": null,
+        "ts": "1479317387.002453"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U1L3G0YRJ|emmyburnett> commented on <@U1L6YQUSU|johnbetzjr>'s file <https:\/\/msa17.slack.com\/files\/johnbetzjr\/F32M6HSU9\/glove_found_in_polk._null_|Glove found in Polk>: <@U1MGWMZFD>",
+        "file": {
+            "id": "F32M6HSU9",
+            "created": 1479309938,
+            "timestamp": 1479309938,
+            "name": "Glove found in Polk.(null)",
+            "title": "Glove found in Polk",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U1L6YQUSU",
+            "editable": false,
+            "size": 2898152,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F32M6HSU9\/glove_found_in_polk._null_?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F32M6HSU9\/download\/glove_found_in_polk._null_?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32M6HSU9-d400371f72\/glove_found_in_polk_64.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32M6HSU9-d400371f72\/glove_found_in_polk_80.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32M6HSU9-d400371f72\/glove_found_in_polk_360.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360_w": 270,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32M6HSU9-d400371f72\/glove_found_in_polk_480.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_480_w": 360,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32M6HSU9-d400371f72\/glove_found_in_polk_160.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32M6HSU9-d400371f72\/glove_found_in_polk_720.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_720_w": 540,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32M6HSU9-d400371f72\/glove_found_in_polk_960.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_960_w": 720,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32M6HSU9-d400371f72\/glove_found_in_polk_1024.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_1024_w": 768,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 4032,
+            "original_h": 3024,
+            "permalink": "https:\/\/msa17.slack.com\/files\/johnbetzjr\/F32M6HSU9\/glove_found_in_polk._null_",
+            "permalink_public": "https:\/\/slack-files.com\/T1KRCES8H-F32M6HSU9-be1257f223",
+            "channels": [
+                "C1KR6TMD3"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1
+        },
+        "comment": {
+            "id": "Fc344QH7LP",
+            "created": 1479317388,
+            "timestamp": 1479317388,
+            "user": "U1L3G0YRJ",
+            "is_intro": false,
+            "comment": "<@U1MGWMZFD>",
+            "channel": ""
+        },
+        "is_intro": false,
+        "ts": "1479317388.002454"
+    },
+    {
+        "type": "message",
+        "user": "U1MGWMZFD",
+        "text": "SCORE!! I just grabbed it",
+        "ts": "1479318479.002455",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1PF7HWTF",
+                    "U1KRB11QC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1L6YQUSU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U1L3G0YRJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "FYI, IM soccer playoff game is RESCHEDULED to next Monday <@U1MPXSHN1>",
+        "ts": "1479328372.002456",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U1KRB11QC",
+                    "U1LBRCSEA"
+                ],
+                "count": 2
+            },
+            {
+                "name": "sob",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1MPXSHN1",
+                    "U1KS4UE2F",
+                    "U1LDKB3AN"
+                ],
+                "count": 4
+            },
+            {
+                "name": "-1",
+                "users": [
+                    "U1L5GU954",
+                    "U1KRZT11T",
+                    "U1KRWUXFU",
+                    "U1KQ412NP"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRBJP47",
+        "text": "any recommendations for good auto repair shops?",
+        "ts": "1479339249.002457"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "What kind of repairs?  I always recommend Apex Transmissions.  I sent <@U1KR80QMS> there and he was impressed.",
+        "edited": {
+            "user": "U1L6YQUSU",
+            "ts": "1479341068.000000"
+        },
+        "ts": "1479341048.002458"
+    },
+    {
+        "type": "message",
+        "user": "U1KRBJP47",
+        "text": "<@U1L6YQUSU> Fixing a bumper. Definitely want to be impressedz :slightly_smiling_face:",
+        "ts": "1479341144.002467",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KSL7C10",
+                    "U1KQYG6SJ",
+                    "U1NUU2U9E",
+                    "U1L7G5LR4"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I should just change it back.",
+        "ts": "1479341157.002468"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I don't know if they do body work or not.",
+        "ts": "1479341171.002469"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "You could always call Al and ask him.",
+        "ts": "1479341222.002472"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<tel:919-303-4400|919-303-4400>",
+        "ts": "1479341260.002473"
+    },
+    {
+        "type": "message",
+        "user": "U1KRBJP47",
+        "text": "thanks, <@U1L6YQUSU>!",
+        "ts": "1479341288.002474",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L6YQUSU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "^ i concur!",
+        "ts": "1479341757.002476",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L6YQUSU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1PM77VSS",
+        "text": "<@U1KRBJP47> Caliber Collision is really good for body work and they have multiple locations across Raleigh and Wake Forest.",
+        "ts": "1479344252.002477"
+    },
+    {
+        "type": "message",
+        "user": "U1MBURU4D",
+        "text": "<@U1L6YQUSU>: what about brakes? Know a good place?",
+        "ts": "1479351498.002478"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<@U1MBURU4D>: Apex Transmissions for brakes as well.",
+        "ts": "1479352361.002479",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1MBURU4D"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

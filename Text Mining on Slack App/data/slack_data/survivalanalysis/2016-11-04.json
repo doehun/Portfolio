@@ -1,0 +1,61 @@
+[
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "not sure if everyone saw this but Dr. Simmons added a quiz due Tuesday night (11\/8). She posted a SAS dataset and CSV that I think are part of the quiz",
+        "ts": "1478266667.000005",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U1P8QBBD1",
+                    "U1L735VD4",
+                    "U1KQGRG2F",
+                    "U1KQGK2CB",
+                    "U1KRLV1CG"
+                ],
+                "count": 5
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U1KRB11QC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "thanks for the heads up <@U1KT9ATA5>",
+        "ts": "1478266736.000006"
+    },
+    {
+        "user": "U1LAAMJ0M",
+        "text": "<@U1LAAMJ0M|carlanderson> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478286484.000007"
+    },
+    {
+        "user": "U1LMHQY9E",
+        "text": "<@U1LMHQY9E|pmaychek> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478287311.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "so... whats the quiz? i only see data",
+        "ts": "1478287325.000009"
+    },
+    {
+        "user": "U1L7RPG1M",
+        "text": "<@U1L7RPG1M|carsonfutch> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478300103.000010"
+    }
+]

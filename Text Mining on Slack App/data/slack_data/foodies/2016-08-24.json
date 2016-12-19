@@ -1,0 +1,56 @@
+[
+    {
+        "user": "U1KRQLFLY",
+        "text": "<@U1KRQLFLY|sean.ankenbruck> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472048320.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "It looks like both cohorts finish at 12 on Friday, would any <#C1UEKR5KR|foodies> be interested in going to lunch around 1PM?  One of my favorite spots for lunch downtown is called Sitti and they specialize in Lebanese cuisine. Let me know if anyone wants to join!  \n\n<http:\/\/www.sitti-raleigh.com\/>",
+        "attachments": [
+            {
+                "title": "Sitti - Authentic Lebanese Restaurant",
+                "title_link": "http:\/\/www.sitti-raleigh.com\/",
+                "text": "Authentic Lebanese Food",
+                "fallback": "Sitti - Authentic Lebanese Restaurant",
+                "image_url": "http:\/\/static.wixstatic.com\/media\/aea0ef_db70408873f040a7a2fa69f8896a88ae.jpg",
+                "from_url": "http:\/\/www.sitti-raleigh.com\/",
+                "image_width": 373,
+                "image_height": 250,
+                "image_bytes": 180106,
+                "service_icon": "http:\/\/static.wixstatic.com\/media\/aea0ef_2beadeca295f4f1bbaf1ad754e7ea7b4.jpg\/v1\/fill\/w_16%2Ch_16%2Clg_1\/aea0ef_2beadeca295f4f1bbaf1ad754e7ea7b4.jpg",
+                "service_name": "sitti-raleigh.com",
+                "id": 1
+            }
+        ],
+        "ts": "1472048796.000003",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRB11QC",
+                    "U1L6WB44A",
+                    "U1L3G0YRJ",
+                    "U1L5GU954"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "I'd be up for that!",
+        "ts": "1472055779.000005"
+    },
+    {
+        "user": "U23JW15TP",
+        "text": "<@U23JW15TP|spanago> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472067832.000006"
+    }
+]

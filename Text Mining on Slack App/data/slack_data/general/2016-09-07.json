@@ -1,0 +1,503 @@
+[
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "A few more updates to the MSA site <https:\/\/sites.google.com\/a\/ncsu.edu\/msa-2017\/home>\n1. The Linear Algebra reference sheets shared by Mike Hruska are now available: <https:\/\/sites.google.com\/a\/ncsu.edu\/msa-2017\/home\/fall-2016---moodle-links\/linear-algebra-reference-sheets>\n\n2. And if you missed the last update, you can also visit the Sports and Rec page here: <https:\/\/sites.google.com\/a\/ncsu.edu\/msa-2017\/sports-recreation>, and the Entertainment page here: <https:\/\/sites.google.com\/a\/ncsu.edu\/msa-2017\/home\/entertainment>\n\nEnjoy!",
+        "ts": "1473252187.000051"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "Hey everyone, if you want to nominate a faculty member for Outstanding Graduate Faculty Mentor Award, please check out this link: <https:\/\/grad.ncsu.edu\/wp-content\/uploads\/2016\/08\/graduate-mentoring-award-2016.pdf>\nIf you want to help me do the write up to nominate Dr. LaBarr - your help would be appreciated! (we can also submit a nomination as a group)",
+        "ts": "1473253272.000052",
+        "reactions": [
+            {
+                "name": "trophy",
+                "users": [
+                    "U1N43E3E0",
+                    "U1L3PU7BJ",
+                    "U1L9DD1NY",
+                    "U1L974M70"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1XCJ1X4H",
+        "text": "Hey everyone. You DO NOT need your logistic regression books for this afternoon's class. She's just using her slides and the  Questions for Thoughts thing.",
+        "ts": "1473256221.000053",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L3K1AKD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Fun Time Series Reminder:  If you see white, things are all right.  If you see blue, more work to do.",
+        "ts": "1473256416.000054",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1MBURU4D",
+                    "U1NUU2U9E",
+                    "U1L0V1X61",
+                    "U1KRNH021",
+                    "U1L9DD1NY",
+                    "U1LAAMJ0M",
+                    "U1KQGRG2F",
+                    "U1KSL7L7R"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "But if you're in R, you want the bars.",
+        "ts": "1473257022.000055"
+    },
+    {
+        "type": "message",
+        "user": "U1L40P4N9",
+        "text": "And if you eat cheese, you will have flees.",
+        "ts": "1473257072.000056",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KQ9523D",
+                    "U1LJRDPLP",
+                    "U1KRLV1CG",
+                    "U1L3G0YRJ",
+                    "U1N43E3E0",
+                    "U1KSR1MS4",
+                    "U1L6YQUSU",
+                    "U1L0RBZFH",
+                    "U1L9DD1NY",
+                    "U1P8QBBD1",
+                    "U1KT3UELS",
+                    "U1LAAMJ0M",
+                    "U1KT9ATA5",
+                    "U1KQGRG2F",
+                    "U1KSL7L7R"
+                ],
+                "count": 15
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L40P4N9",
+        "text": "i just wanted to add on...",
+        "ts": "1473257076.000057"
+    },
+    {
+        "type": "message",
+        "user": "U1L40P4N9",
+        "text": "Fleas* <@U1LAAMJ0M> ",
+        "ts": "1473267653.000058",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1LAAMJ0M",
+                    "U1M37FW5U"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "I cannot find my green Nalgene bottle so if someone finds it, please let me know!",
+        "ts": "1473269333.000059"
+    },
+    {
+        "type": "message",
+        "user": "U1M1L5G6L",
+        "text": "I think <@U1KR9BP0E> has it....",
+        "ts": "1473269391.000060",
+        "reactions": [
+            {
+                "name": "sports_medal",
+                "users": [
+                    "U1MBT6FRB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1M1L5G6L",
+        "text": "^I was joking but she actually does",
+        "ts": "1473269411.000061",
+        "reactions": [
+            {
+                "name": "sports_medal",
+                "users": [
+                    "U1MBT6FRB",
+                    "U1KSL7L7R",
+                    "U1KS4UE2F",
+                    "U1KRLV1CG"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1KSL7L7R> you should have come straight to me lol. I left it with Stephen in the room you were in!",
+        "edited": {
+            "user": "U1KR9BP0E",
+            "ts": "1473269460.000000"
+        },
+        "ts": "1473269451.000062",
+        "reactions": [
+            {
+                "name": "sports_medal",
+                "users": [
+                    "U1MBT6FRB",
+                    "U1KSL7L7R"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "Thank you so much <@U1KR9BP0E> !!",
+        "ts": "1473269586.000064"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Sorry for stealing it by mistake!",
+        "ts": "1473269623.000065"
+    },
+    {
+        "type": "message",
+        "user": "U1L7ERY77",
+        "text": "I got two orders of summer noodles from Chirba Chirba but I only ate one and now I'm too full AND I have a stomach ache",
+        "ts": "1473269748.000066",
+        "reactions": [
+            {
+                "name": "ramen",
+                "users": [
+                    "U1KQ9523D"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sports_medal",
+                "users": [
+                    "U1MBT6FRB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L7ERY77",
+        "text": "what I'm trying to say is I am in the blue class room with an extra order of noodles",
+        "ts": "1473269790.000067"
+    },
+    {
+        "type": "message",
+        "user": "U1L7ERY77",
+        "text": "for any1",
+        "ts": "1473269801.000068",
+        "reactions": [
+            {
+                "name": "sports_medal",
+                "users": [
+                    "U1MBT6FRB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "It's all good!",
+        "ts": "1473269802.000069"
+    },
+    {
+        "type": "message",
+        "user": "U1L7ERY77",
+        "text": "They are claimed",
+        "ts": "1473269843.000070"
+    },
+    {
+        "type": "message",
+        "user": "U1L7ERY77",
+        "text": "in record time",
+        "ts": "1473269846.000071",
+        "reactions": [
+            {
+                "name": "sports_medal",
+                "users": [
+                    "U1MBT6FRB",
+                    "U1KQGRG2F"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "record time for noodles that gave you a stomachache... good thing my standards are fairly low",
+        "ts": "1473269876.000072",
+        "reactions": [
+            {
+                "name": "sports_medal",
+                "users": [
+                    "U1MBT6FRB",
+                    "U1M1L5G6L",
+                    "U1L7ERY77",
+                    "U1MBURU4D",
+                    "U1L0V1X61"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "Can anyone help me understand how to dial out from conference room phones? The conference room phone says to \"Dial 7 and then #\". I tried to enter 7 and then my number as well as 7# and then my number. Neither worked. :disappointed: Why is technology hard?",
+        "edited": {
+            "user": "U1KRSV7AN",
+            "ts": "1473270657.000000"
+        },
+        "ts": "1473270612.000073"
+    },
+    {
+        "type": "message",
+        "user": "U1M1L5G6L",
+        "text": "7 then 1 and then the number",
+        "ts": "1473270702.000076",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRSV7AN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sports_medal",
+                "users": [
+                    "U1MBT6FRB",
+                    "U1KRWUXFU",
+                    "U1L3PU7BJ",
+                    "U1KSL7L7R"
+                ],
+                "count": 4
+            },
+            {
+                "name": "japanese_ogre",
+                "users": [
+                    "U1KR9BP0E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1M1L5G6L",
+        "text": "1 as the country code",
+        "ts": "1473270708.000077"
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "Thank you!",
+        "ts": "1473270839.000078",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U1M1L5G6L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "For people who are struggling to keep track of due dates, here are instructions to put the moodle calendar into google calendar.  I found it easiest to create an assignments calendar and imported it into that so I could see just the assignments at once if I want to. <https:\/\/docs.moodle.org\/19\/en\/Calendar_export#Google_calendar>",
+        "edited": {
+            "user": "U1KRWUXFU",
+            "ts": "1473271030.000000"
+        },
+        "ts": "1473270848.000079",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U1L914KNJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "The only thing I would be aware of is if due dates change. I'm not sure if it will update",
+        "ts": "1473271015.000081"
+    },
+    {
+        "type": "message",
+        "user": "U1KSGHLPJ",
+        "text": "The titanic dataset visual: <https:\/\/www.jasondavies.com\/parallel-sets\/>",
+        "ts": "1473277122.000083",
+        "reactions": [
+            {
+                "name": "ship",
+                "users": [
+                    "U1KT5F4SZ",
+                    "U1L5GU954",
+                    "U1KSGHLPJ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "To find out more about why the college admission percent is being weird, check out Simpson's Paradox: \n<https:\/\/en.wikipedia.org\/wiki\/Simpson%27s_paradox>",
+        "ts": "1473277665.000084",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1L5GU954",
+                    "U1KRQLFLY",
+                    "U1L1D4WG7",
+                    "U1KQ9523D",
+                    "U1KSL7L7R",
+                    "U1L974M70"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "Better yet: \n<http:\/\/vudlab.com\/simpsons\/>",
+        "ts": "1473277691.000085"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1KSGHLPJ> thanks! its funny how the colors of the visualization are very similar to the institute colors haha",
+        "edited": {
+            "user": "U1NUU2U9E",
+            "ts": "1473277727.000000"
+        },
+        "ts": "1473277693.000086"
+    },
+    {
+        "type": "message",
+        "user": "U1KSGHLPJ",
+        "text": "Just thought I would toss this in because it is built using JS, which Dr. H showed us earlier. :grinning:",
+        "ts": "1473278524.000088"
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "Hi everyone, I saw we have a guest lecture tomorrow. Does that mean business formal? I don't think it does, but just want to be sure...",
+        "ts": "1473297651.000089"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "Yo yo yo",
+        "ts": "1473297652.000090"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "I was not told to do so, so I will not",
+        "ts": "1473297997.000091",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "U1L415ECD",
+                    "U1KRLV1CG"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "anyone know if the optional session tomorrow will be recorded? it'd be nice to have that extra time in the morning if I could just watch it later at my own convenience...",
+        "ts": "1473299864.000092"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1KRHCR7T> we can ask Dr LaBarr to record it",
+        "ts": "1473300053.000093"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "no promises though",
+        "ts": "1473300060.000094"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "yeah, maybe better to be safe than sorry",
+        "ts": "1473300268.000095"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR1MS4",
+        "text": "I asked him earlier today, and he said he will be recording",
+        "ts": "1473300318.000096",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRHCR7T",
+                    "U1L97TR38",
+                    "U1Q5GHC2J",
+                    "U1KSYP1M5",
+                    "U1L3PU7BJ",
+                    "U1KSBCBFG",
+                    "U1LAAMJ0M",
+                    "U1KRTHAQZ"
+                ],
+                "count": 8
+            }
+        ]
+    }
+]

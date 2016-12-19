@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1KSGHLPJ",
+        "text": "<@U1KSGHLPJ|krjones9> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475671944.000424"
+    },
+    {
+        "user": "U1KSGHLPJ",
+        "text": "<@U1KSGHLPJ|krjones9> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1475696057.000425"
+    }
+]

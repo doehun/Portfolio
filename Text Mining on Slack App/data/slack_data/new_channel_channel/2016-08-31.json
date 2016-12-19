@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U1MH8UXHD",
+        "text": "<@U1MH8UXHD|garrett.tomlinson> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472653690.000028"
+    },
+    {
+        "user": "U1LHLK8MR",
+        "text": "<@U1LHLK8MR|mtnorthe> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472662112.000029"
+    },
+    {
+        "user": "U1KT5F4SZ",
+        "text": "<@U1KT5F4SZ|hannahh> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472670080.000030"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "It's worked fine for me. Maybe it downloaded incorrectly? Check your libref?",
+        "ts": "1473520996.000180"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "oh, figured it out. When you download it a few times, google chrome adds a space and a number at the end of the file name... apparently there can't be a space in the file name.",
+        "ts": "1473521396.000181"
+    }
+]

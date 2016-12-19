@@ -1,0 +1,104 @@
+[
+    {
+        "user": "U1KRE1L9M",
+        "text": "<@U1KRE1L9M|kevin.danchisko> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471870803.000076"
+    },
+    {
+        "user": "U23JW15TP",
+        "text": "<@U23JW15TP|spanago> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471870834.000077"
+    },
+    {
+        "user": "U1L6XBH6W",
+        "text": "<@U1L6XBH6W|shannon_muldoon> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471882581.000078"
+    },
+    {
+        "user": "U1KQGRG2F",
+        "text": "<@U1KQGRG2F|annabelytics> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471885057.000079"
+    },
+    {
+        "user": "U1L5GU954",
+        "text": "<@U1L5GU954|jrweston> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471885723.000080"
+    },
+    {
+        "user": "U1L0V1X61",
+        "text": "<@U1L0V1X61|raj> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471889489.000081"
+    },
+    {
+        "type": "message",
+        "user": "U1Q7LP4V9",
+        "text": "<@U1L1D4WG7>: does the certification have \"check all that apply\" questions like in the course?",
+        "ts": "1471894353.000082"
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "Yes it does. And during the exam once you submit a question you can't go back and look at it later so you have to be really careful. ",
+        "ts": "1471894803.000083",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L1D4WG7",
+                    "U1L3PU7BJ",
+                    "U1KSL7L7R"
+                ],
+                "count": 3
+            },
+            {
+                "name": "dromedary_camel",
+                "users": [
+                    "U1L46HXCJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "<@U1Q7LP4V9> Sometimes it tells you \"check the 3 that apply\" other times it just says \"check all that apply\"",
+        "edited": {
+            "user": "U1L1D4WG7",
+            "ts": "1471894906.000000"
+        },
+        "ts": "1471894874.000084"
+    },
+    {
+        "type": "message",
+        "user": "U1Q7LP4V9",
+        "text": "Alright thanks guys!",
+        "ts": "1471895040.000087"
+    },
+    {
+        "user": "U1KR9BP0E",
+        "text": "<@U1KR9BP0E|sneha.raghavan> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471897852.000088"
+    },
+    {
+        "user": "U1L4RTKCM",
+        "text": "<@U1L4RTKCM|gheyne> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471897861.000089"
+    }
+]

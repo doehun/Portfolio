@@ -1,0 +1,29 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "what am I supposed to do on a Saturday night when Netflix randomly goes down?",
+        "ts": "1469927530.000005",
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "U1L3G0YRJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Come to the beer garden",
+        "ts": "1469927751.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "haha... seeing as I just watched Julia leave the house, and it's not that far from my bedtime...",
+        "ts": "1469927952.000007"
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "one of my favorite xkcds <https:\/\/xkcd.com\/327\/>",
+        "attachments": [
+            {
+                "title": "Exploits of a Mom",
+                "title_link": "http:\/\/xkcd.com\/327\/",
+                "author_name": "xkcd",
+                "author_link": "http:\/\/xkcd.com\/",
+                "image_url": "http:\/\/imgs.xkcd.com\/comics\/exploits_of_a_mom.png",
+                "image_width": 666,
+                "image_height": 205,
+                "image_bytes": 31908,
+                "text": "[Title text] \"Her daughter is named Help I'm trapped in a driver's license factory.\"",
+                "fallback": "xkcd: Exploits of a Mom",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/xkcd.png",
+                "id": 1
+            }
+        ],
+        "ts": "1470937408.000008",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1L914KNJ",
+                    "U1N43E3E0",
+                    "U1KRBJP47",
+                    "U1KR9BP0E"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1NUU2U9E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "here's an explanation of the comic, since we haven't done sql yet: <https:\/\/www.explainxkcd.com\/wiki\/index.php\/327:_Exploits_of_a_Mom>",
+        "attachments": [
+            {
+                "title": "327: Exploits of a Mom - explain xkcd",
+                "title_link": "https:\/\/www.explainxkcd.com\/wiki\/index.php\/327:_Exploits_of_a_Mom",
+                "text": "Explain xkcd is a wiki dedicated to explaining the webcomic xkcd. Go figure.",
+                "fallback": "327: Exploits of a Mom - explain xkcd",
+                "from_url": "https:\/\/www.explainxkcd.com\/wiki\/index.php\/327:_Exploits_of_a_Mom",
+                "service_icon": "https:\/\/www.explainxkcd.com\/wiki\/images\/0\/04\/16px-BlackHat_head.png",
+                "service_name": "explainxkcd.com",
+                "id": 1
+            }
+        ],
+        "ts": "1470937491.000010"
+    }
+]

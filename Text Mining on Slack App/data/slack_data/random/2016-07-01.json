@@ -1,0 +1,67 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "If you\u2019re looking to learn more about Raleigh, Agenda Media just started a Raleigh Agenda today. If it is anything like their Charlotte Agenda you can expect daily news about restaurant openings, events, trendy news, and other awesome things. Link: <https:\/\/www.raleighagenda.com\/>",
+        "attachments": [
+            {
+                "service_name": "Raleigh Agenda",
+                "title": "Raleigh Agenda - User's Guide to Raleigh",
+                "title_link": "https:\/\/www.raleighagenda.com\/",
+                "text": "833 Total Views 99 Views Today",
+                "fallback": "Raleigh Agenda: Raleigh Agenda - User's Guide to Raleigh",
+                "thumb_url": "https:\/\/www.raleighagenda.com\/shareicon.png",
+                "from_url": "https:\/\/www.raleighagenda.com\/",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/www.raleighagenda.com\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ],
+        "ts": "1467377938.000004",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1LBRCSEA",
+                    "U1KRWUXFU",
+                    "U1KQ9523D",
+                    "U1KT5F4SZ",
+                    "U1KRLV1CG",
+                    "U1KT3UELS",
+                    "U1M1L5G6L",
+                    "U1L3K1AKD",
+                    "U1KR9BP0E"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "user": "U1N43E3E0",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1N43E3E0|ryan_w> has joined the channel",
+        "ts": "1467378081.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "Ann Taylor has 40-60% off sales today! Depends on what you're getting there, but thought I'd share since they have great business clothes!",
+        "edited": {
+            "user": "U1L41DF9D",
+            "ts": "1467404574.000000"
+        },
+        "ts": "1467404535.000007",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KQ9523D",
+                    "U1KRWUXFU"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

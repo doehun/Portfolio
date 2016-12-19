@@ -1,0 +1,41 @@
+[
+    {
+        "type": "message",
+        "user": "U1KT3UELS",
+        "text": "Double checking- today is an optional study hall for SAS? ",
+        "ts": "1467286199.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L7ERY77",
+        "text": "from what I understood, yes",
+        "ts": "1467287305.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KT3UELS",
+        "text": "Thanks, <@U1L7ERY77> !",
+        "ts": "1467287973.000004"
+    },
+    {
+        "user": "U1LDKB3AN",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1LDKB3AN|preston_burns> has joined the channel",
+        "ts": "1467300159.000005"
+    },
+    {
+        "user": "U1KSL7L7R",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KSL7L7R|dustinwicker> has joined the channel",
+        "ts": "1467315618.000006"
+    },
+    {
+        "user": "U1N04S4LV",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1N04S4LV|vsingh5> has joined the channel",
+        "ts": "1467333053.000007"
+    }
+]

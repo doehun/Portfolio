@@ -1,0 +1,19 @@
+[
+    {
+        "type": "message",
+        "user": "U1L7RPG1M",
+        "text": "<!channel> : Who'd be down for a live draft?",
+        "ts": "1477756881.000002",
+        "reactions": [
+            {
+                "name": "raised_hand_with_fingers_splayed",
+                "users": [
+                    "U1NDG6ULB",
+                    "U1MBURU4D",
+                    "U1KSL7L7R"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

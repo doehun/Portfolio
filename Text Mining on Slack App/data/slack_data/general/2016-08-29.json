@@ -1,0 +1,121 @@
+[
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Dear friends.  I have gone through the pantry at home and brought in the remains of the Valentines and Easter candy I found and brought it into the snack cabinet.  It's mostly chocolate, so it should still be good, but no promises.  If you haven't found the snack cabinet yet, it's number 22.",
+        "ts": "1472487887.000040",
+        "reactions": [
+            {
+                "name": "chocolate_bar",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1NUU2U9E",
+                    "U1L40P4N9",
+                    "U1KSL7L7R",
+                    "U1P8QBBD1"
+                ],
+                "count": 5
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1P8QBBD1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Does anyone know what exactly we're doing for our resumes tomorrow?  Do we have to submit something on moodle or is it something where we're just sharing in class like we did for the student profiles?",
+        "ts": "1472503599.000041"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "I think the latter",
+        "ts": "1472503639.000042"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "Bring a printed copy of the resume",
+        "ts": "1472503655.000043",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1N43E3E0",
+                    "U1KRNH021",
+                    "U1KRE1L9M",
+                    "U1SMADBU4",
+                    "U1MBURU4D",
+                    "U1L9DD1NY",
+                    "U1KSL7L7R",
+                    "U1LAAMJ0M"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "Are folks still able to access the resume book link Raj posted? It works for me before, but now I'm unable to access it.",
+        "ts": "1472509172.000044"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Julia and I can't either",
+        "ts": "1472509218.000045"
+    },
+    {
+        "type": "message",
+        "user": "U1KT3UELS",
+        "text": "Same for me :'(",
+        "ts": "1472509251.000046"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "Same lol",
+        "ts": "1472509349.000048"
+    },
+    {
+        "type": "message",
+        "user": "U1KT3UELS",
+        "text": "Ah yes, thanks <@U1L0V1X61> !!",
+        "ts": "1472509384.000049"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "let me know if the attached version doesn't work for you. I will send it in an email",
+        "ts": "1472509387.000050"
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "Where would we be without <@U1L0V1X61>? Thank you!",
+        "ts": "1472509729.000051",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1KRB11QC",
+                    "U1KT2JJE8",
+                    "U1KRBJP47",
+                    "U1NUU2U9E",
+                    "U1P8QBBD1",
+                    "U1KRWUXFU",
+                    "U1MPXSHN1"
+                ],
+                "count": 8
+            }
+        ]
+    }
+]

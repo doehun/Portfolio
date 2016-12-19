@@ -1,0 +1,24 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "<@U1N43E3E0> are you automatically backing up to the Backup drive?",
+        "ts": "1476715097.000032"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "<@U1KRNTXL5>  I'm still waiting on data so I am currently doing nothing :slightly_smiling_face:.  But that's what I would plan to do.",
+        "edited": {
+            "user": "U1N43E3E0",
+            "ts": "1476715848.000000"
+        },
+        "ts": "1476715823.000033"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "Cool--thanks",
+        "ts": "1476750049.000035"
+    }
+]

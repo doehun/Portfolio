@@ -1,0 +1,316 @@
+[
+    {
+        "type": "message",
+        "user": "U1L7B7188",
+        "text": "Hi Everyone, my roommates and I are having a house warming party tonight at 7pm. Feel free to stop by if you're available. Address is 1220 Twin Branches Way, Apt 103. (It's right on Centennial campus). <tel:585-281-2425|585-281-2425>",
+        "ts": "1471643964.000041"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "Yo yo yo",
+        "ts": "1471643965.000042",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1LAAMJ0M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "Anyone interested for the packapalooza event tomorrow?",
+        "ts": "1471644334.000043"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "I'll be going for a period of time in the morning and will be back later that evening to see We the Kings perform ",
+        "ts": "1471644408.000044",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRWUXFU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "<@U1L7B7188> when does it end? :slightly_smiling_face:",
+        "ts": "1471645733.000045"
+    },
+    {
+        "type": "message",
+        "user": "U1L7B7188",
+        "text": "When people stop showing up... I imagine around 11, or so. ",
+        "ts": "1471645780.000046"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "2pm-10pm",
+        "ts": "1471645808.000047"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "Oops sorry my bad :( ",
+        "ts": "1471645980.000048"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "Who's going out tonight? ",
+        "ts": "1471647436.000049",
+        "reactions": [
+            {
+                "name": "raising_hand",
+                "users": [
+                    "U1L46HXCJ",
+                    "U1L95JP1S"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": " I am !",
+        "ts": "1471647625.000050"
+    },
+    {
+        "type": "message",
+        "user": "U1KSH8676",
+        "text": "This guy",
+        "ts": "1471647681.000051"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "where are y'all going?",
+        "ts": "1471647710.000052"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "Where are you guys going? ",
+        "ts": "1471647723.000053"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Undecided yet :flushed: any suggestions?",
+        "ts": "1471647809.000054"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "I'm in as long as we stray away from alchemy ",
+        "ts": "1471648131.000055",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KSYP1M5",
+                    "U1L95JP1S",
+                    "U1L46HXCJ",
+                    "U1LAAMJ0M",
+                    "U1KSH8676",
+                    "U1L9DD1NY",
+                    "U1KSL7L7R",
+                    "U1KRNH021",
+                    "U1L3G0YRJ",
+                    "U1KRB11QC"
+                ],
+                "count": 10
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "I'm up for something. As long as we also try to avoid most of the crazy undergrads. I'm not about watching freshmen get schwasted tonight ",
+        "ts": "1471648196.000056",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1L7E8GSU",
+                    "U1L1WFNC8",
+                    "U1LAAMJ0M",
+                    "U1NUU2U9E"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1WFNC8",
+        "text": "Capital City was cool last time I was there",
+        "ts": "1471648207.000057",
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "U1KSEJ01W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "Architect was cool too.",
+        "ts": "1471648276.000058"
+    },
+    {
+        "type": "message",
+        "user": "U1L46HXCJ",
+        "text": "Capital city will probably be packed with undergrads. ",
+        "ts": "1471648330.000059"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "How about trying Flash House? I heard good reviews about it.",
+        "ts": "1471648690.000060"
+    },
+    {
+        "type": "message",
+        "user": "U1L1WFNC8",
+        "text": "I assume there's not many places to get away from em...first weekend back and all... :hankey:",
+        "edited": {
+            "user": "U1L1WFNC8",
+            "ts": "1471648809.000000"
+        },
+        "ts": "1471648705.000061"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "I think there is an event tonight at Talley. ",
+        "ts": "1471649037.000064"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Which do you think will have more undergrads? Fayetville st or glenwood..? Also I like architect too!",
+        "ts": "1471649184.000065"
+    },
+    {
+        "type": "message",
+        "user": "U1KRLV1CG",
+        "text": "More undergrads traditionally at Feyetville",
+        "ts": "1471649240.000066",
+        "reactions": [
+            {
+                "name": "flushed",
+                "users": [
+                    "U1L9DD1NY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "On the food tour I went on, they mentioned Greenlight, a speakeasy hidden in the architect that sounded really cool! You have to text a number to see if they have space and then enter through a bookcase in one of the Architect's hallways! ",
+        "ts": "1471649295.000067"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "<http:\/\/www.architectbar.com\/the-green-light>",
+        "ts": "1471649346.000068"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "I been to Greenlight. It's not that great the way they are projecting. I liked the concept but didn't find it that interesting. ",
+        "ts": "1471649438.000069",
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "U1L6WB44A"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRLV1CG",
+        "text": "If you are into dancing, Noir, Solace and Mirage (If you are brave) are excellent choices. These are all generally undergrad-free. Not recommended if you are not into dancing, as they can get pretty loud. I haven't been to these since I got injured, but they are the first ones I am going to hit once I recover.",
+        "ts": "1471649885.000070",
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U1PF7HWTF",
+                    "U1L0RBZFH",
+                    "U1L46HXCJ",
+                    "U1LAAMJ0M"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "A few of us are on fayetville now",
+        "ts": "1471649995.000071"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "do Raleigh clubs frown upon wearing chucks? :smile:",
+        "ts": "1471650114.000072"
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "Fayetteville will probably have more undergrads, I feel like glenwood bars usually have a better scene at least on Friday nights !",
+        "ts": "1471651462.000073"
+    },
+    {
+        "type": "message",
+        "user": "U1L46HXCJ",
+        "text": "We could do architect\/London bridge\/times and try to avoid both. But could end up on fayettville if itz lame",
+        "ts": "1471651984.000074",
+        "reactions": [
+            {
+                "name": "cool",
+                "users": [
+                    "U1L415ECD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "Some of us are at foundation if anyone wants to come!!",
+        "ts": "1471655738.000075"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Where is everyone?",
+        "ts": "1471666488.000076"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1NUU2U9E|kb5522> uploaded a file: <https:\/\/msa17.slack.com\/files\/kb5522\/F31T7SWEQ\/data_structures.pptx|Data Structures.pptx> and commented: I know a few of you reached out for the slides of the presentation for Data Structures. Please let me know if there is something you dont understand - I would be glad to help (if i can)",
+        "file": {
+            "id": "F31T7SWEQ",
+            "created": 1478975260,
+            "timestamp": 1478975260,
+            "name": "Data Structures.pptx",
+            "title": "Data Structures.pptx",
+            "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "filetype": "pptx",
+            "pretty_type": "PowerPoint Presentation",
+            "user": "U1NUU2U9E",
+            "editable": false,
+            "size": 1534073,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F31T7SWEQ\/data_structures.pptx?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F31T7SWEQ\/download\/data_structures.pptx?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "permalink": "https:\/\/msa17.slack.com\/files\/kb5522\/F31T7SWEQ\/data_structures.pptx",
+            "permalink_public": "https:\/\/slack-files.com\/T1KRCES8H-F31T7SWEQ-5432f2ed20",
+            "channels": [
+                "C1WNCHYSC"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc3147BQ9E",
+                "created": 1478975260,
+                "timestamp": 1478975260,
+                "user": "U1NUU2U9E",
+                "is_intro": true,
+                "comment": "I know a few of you reached out for the slides of the presentation for Data Structures. Please let me know if there is something you dont understand - I would be glad to help (if i can)",
+                "channel": ""
+            },
+            "reactions": [
+                {
+                    "name": "celebration",
+                    "users": [
+                        "U1KR891RC",
+                        "U1KSL7L7R"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        "user": "U1NUU2U9E",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1NUU2U9E|kb5522>",
+        "bot_id": null,
+        "ts": "1478975260.000016"
+    }
+]

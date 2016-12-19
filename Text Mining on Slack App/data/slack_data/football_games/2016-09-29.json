@@ -1,0 +1,83 @@
+[
+    {
+        "type": "message",
+        "user": "U1L46HXCJ",
+        "text": "Who's going to the game this weekend?!?! ",
+        "ts": "1475189863.000078"
+    },
+    {
+        "type": "message",
+        "user": "U1L46HXCJ",
+        "text": "<!channel>: it's homecoming u have too",
+        "ts": "1475190070.000079",
+        "reactions": [
+            {
+                "name": "football",
+                "users": [
+                    "U1L5GU954"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "I have a ticket to the WFU game\u2026 but my certification is the following week\u2026 to study or have fun",
+        "ts": "1475192499.000080"
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "I have a ticket to the game and a parking pass ",
+        "ts": "1475192551.000081",
+        "reactions": [
+            {
+                "name": "car",
+                "users": [
+                    "U1L5GU954"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "I'm taking my SAS exam tomorrow and I'll tell anyone who comes to the game al the answers ",
+        "ts": "1475192565.000082",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KSL7L7R",
+                    "U1L1WFNC8",
+                    "U1L40P4N9",
+                    "U1KT3UELS"
+                ],
+                "count": 5
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1NDG6ULB",
+                    "U1L9DD1NY"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "possibly come to tailgate",
+        "ts": "1475197796.000083"
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "Depending upon homework, I will most likely be at the game and tailgating!",
+        "ts": "1475198658.000084"
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Taiga is the PM software Dr. West mentioned as popular last year. <https:\/\/taiga.io\/>",
+        "attachments": [
+            {
+                "service_name": "Taiga - Love your projects",
+                "title": "Taiga.io",
+                "title_link": "https:\/\/taiga.io\/",
+                "text": "Taiga is a project management platform for startups and agile developers &amp; designers who want a simple, beautiful tool that makes work truly enjoyable.",
+                "fallback": "Taiga - Love your projects: Taiga.io",
+                "thumb_url": "https:\/\/taiga.io\/images\/logo-color.png",
+                "from_url": "https:\/\/taiga.io\/",
+                "thumb_width": 300,
+                "thumb_height": 300,
+                "service_icon": "https:\/\/taiga.io\/images\/favicon\/apple-icon-57x57.png",
+                "id": 1
+            }
+        ],
+        "ts": "1472046418.000179"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Dr West said that this software can be installed on the IAA server, so it's usable for confidential information :slightly_smiling_face:",
+        "ts": "1472046861.000181"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "I have a group of people coming in for the Notre Dame game in October, and I have a few questions regarding football:\n1. Can non-students ride the Red Terror buses?\n2. Can you get a student parking pass without getting a student ticket?\n3. Any fun\/unique traditions that occur Friday night or Saturday morning of game days?\n\nThank you!",
+        "ts": "1472047251.000184"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "Hot tea in the kitchen, for those who want it!",
+        "ts": "1472048422.000185"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "Remember to submit profiles before midnight, I almost forgot",
+        "ts": "1472093763.000188",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L6YQUSU",
+                    "U1KS4UE2F",
+                    "U1KT9ATA5",
+                    "U1NUU2U9E",
+                    "U1L9DD1NY",
+                    "U1KRLV1CG",
+                    "U1L6WB44A"
+                ],
+                "count": 7
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U1L1D4WG7",
+                    "U1KRZT11T",
+                    "U1KRB11QC",
+                    "U1L7E8GSU",
+                    "U1L9DD1NY"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

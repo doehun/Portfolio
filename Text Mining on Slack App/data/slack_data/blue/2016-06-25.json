@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U1KRLV1CG",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KRLV1CG|ioannis_loukakis> has joined the channel",
+        "ts": "1466859151.000002"
+    },
+    {
+        "user": "U1L93SMGF",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L93SMGF|eric.reidelbach> has joined the channel",
+        "ts": "1466861473.000003"
+    },
+    {
+        "user": "U1L46HXCJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L46HXCJ|kateykilmer> has joined the channel",
+        "ts": "1466863099.000004"
+    }
+]

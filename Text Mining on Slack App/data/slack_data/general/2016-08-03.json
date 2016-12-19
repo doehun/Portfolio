@@ -1,0 +1,143 @@
+[
+    {
+        "type": "message",
+        "user": "U1XCJ1X4H",
+        "text": "FYI - you don't have to wear your suit and tie all day if you're in Comm 1.  You can leave off the tie &amp; jacket this morning while you're working.",
+        "ts": "1470227398.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "thanks Laura!",
+        "ts": "1470229231.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1KSYP1M5",
+        "text": "Does anyone know for those reading assignments  that Dr. West gave us do we have to have just the first reading assignment done by the 22nd (project management body of knowledge) or do we need all of the reading assignments done?",
+        "ts": "1470233294.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1XCJ1X4H",
+        "text": "You just have to do the first one. I'll update Moodle.",
+        "ts": "1470237682.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1KSYP1M5",
+        "text": "<@U1XCJ1X4H>: Thank you! ",
+        "ts": "1470237734.000025"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "People who have comms training this week, is there hw for the evenings? Trying to figure out how much time I have for review after the trainings next week.",
+        "ts": "1470254195.000026"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "*hw = homework, in case that wasn't clear",
+        "ts": "1470254214.000027"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "There is homework each night that will take a big chunk out of your evenings. ",
+        "ts": "1470254308.000028"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Thanks <@U1KRB11QC>! I'll try and get most of it done this week then.",
+        "ts": "1470254408.000029"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "For those of us still reflecting on team experiences, here's a really in-depth article from NY Times about what makes for good teams (and bad teams). I'm still making my way through it, but it hits on a lot of the things we've learned from the MBTI team exercises, and the debrief with Dr. West. <http:\/\/www.nytimes.com\/2016\/02\/28\/magazine\/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0>",
+        "attachments": [
+            {
+                "service_name": "The New York Times",
+                "service_url": "https:\/\/www.nytimes.com",
+                "title": "What Google Learned From Its Quest to Build the Perfect Team",
+                "title_link": "http:\/\/www.nytimes.com\/2016\/02\/28\/magazine\/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0",
+                "author_name": "By CHARLES DUHIGG",
+                "thumb_url": "https:\/\/static01.nyt.com\/images\/2016\/02\/28\/magazine\/28mag-teams1\/28mag-teams1-mediumThreeByTwo440-v2.jpg",
+                "thumb_width": 440,
+                "thumb_height": 293,
+                "text": "New research reveals surprising truths about why some work groups thrive and others falter.",
+                "fallback": "The New York Times Link: What Google Learned From Its Quest to Build the Perfect Team",
+                "from_url": "http:\/\/www.nytimes.com\/2016\/02\/28\/magazine\/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/nytimes.png",
+                "id": 1
+            }
+        ],
+        "ts": "1470258632.000030",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRBFY3Z",
+                    "U1KQ9523D",
+                    "U1KRLV1CG",
+                    "U1KSPCE87",
+                    "U1N43E3E0",
+                    "U1KRBJP47",
+                    "U1KQ412NP"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "The TLDR is: Google had this long-term project to find out what makes for a successful team, and none of the data was able to identify patterns on success - basically teams that hung out outside of work were just as likely to be successful as teams that didn't, teams full of introverts were no less likely than teams without introverts, etc. The MOST important identifier was actually something harder to spot -- team norms. Whatever these norms may be (preference for strong leadership as a team, or a cutlure that \"encourages vigorous argument and spurns groupthink\", when a team comes together, these norms supercede individual proclivities in determining the effectiveness of a group.",
+        "ts": "1470258914.000032"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Whether they are written or unwritten norms. I definitely observed this in my own practicum team experience, and I wonder if others feel similarly.",
+        "ts": "1470258953.000033"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Great article.  From what I can read it sounds like teams that naturally 'agree' on roles and expectations do better than other teams.  That would make sense.",
+        "ts": "1470265296.000034"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Also the last part of the article kind of reminds of this piece I read a while back.  There's probably something to be said for being in a team culture where people feel safe to share their thoughts.  <http:\/\/www.npr.org\/sections\/health-shots\/2016\/06\/17\/482203447\/invisibilia-how-learning-to-be-vulnerable-can-make-life-safer>",
+        "attachments": [
+            {
+                "service_name": "NPR.org",
+                "title": "Invisibilia: How Learning To Be Vulnerable Can Make Life Safer",
+                "title_link": "http:\/\/www.npr.org\/sections\/health-shots\/2016\/06\/17\/482203447\/invisibilia-how-learning-to-be-vulnerable-can-make-life-safer",
+                "text": "Tommy Chreene saw a man die while working on a Gulf oil rig \u2014 and went right back to work. Then the oil company decided that for the workplace to be safer, roughnecks needed to share their feelings.",
+                "fallback": "NPR.org: Invisibilia: How Learning To Be Vulnerable Can Make Life Safer",
+                "image_url": "https:\/\/media.npr.org\/assets\/img\/2016\/06\/15\/tommy-chereen-1_wide-769fb9d64b1db96fa7fd19976657e0513c74b0eb.jpg?s=1400",
+                "from_url": "http:\/\/www.npr.org\/sections\/health-shots\/2016\/06\/17\/482203447\/invisibilia-how-learning-to-be-vulnerable-can-make-life-safer",
+                "image_width": 445,
+                "image_height": 250,
+                "image_bytes": 493101,
+                "service_icon": "http:\/\/www.npr.org\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1470265712.000035",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KR9BP0E"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

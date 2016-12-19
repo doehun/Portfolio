@@ -1,0 +1,30 @@
+[
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "confounding vs. interaction\n\n<https:\/\/www.ctspedia.org\/do\/view\/CTSpedia\/InterConfound>",
+        "ts": "1473277870.000002",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1KSL7L7R"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "I feel like confounding is just the technical word for the \"correlation is not necessarily causation\" effect.",
+        "ts": "1473279842.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "<@U1KT9ATA5> thanks Amir, I'm going to give that a read.",
+        "ts": "1473279917.000004"
+    }
+]

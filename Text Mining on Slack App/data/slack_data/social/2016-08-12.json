@@ -1,0 +1,326 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "So what's on the docket for celebration festivities tonight? ",
+        "ts": "1471027310.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1KRMNVGC>: pool party? ",
+        "ts": "1471027408.000013",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1L3K1AKD",
+                    "U1KRWUXFU",
+                    "U1M1L5G6L",
+                    "U1L7B7188",
+                    "U1KSL7L7R",
+                    "U1L1WFNC8",
+                    "U1KRB11QC",
+                    "U1L6WB44A",
+                    "U1KT3UELS",
+                    "U1KRNH021"
+                ],
+                "count": 10
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Hahah \/giphy kill myself ",
+        "ts": "1471027868.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "And now the gif thing doesn't work. Double kill myself ",
+        "ts": "1471027890.000015",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KT5F4SZ",
+                    "U1L6YQUSU",
+                    "U1KR9BP0E",
+                    "U1KRWUXFU",
+                    "U1L7E8GSU",
+                    "U1M1L5G6L",
+                    "U1KSL7L7R",
+                    "U1KRB11QC",
+                    "U1KSYP1M5",
+                    "U1L9DD1NY",
+                    "U1KRZT11T",
+                    "U1KT9ATA5",
+                    "U1KT3UELS",
+                    "U1L46HXCJ"
+                ],
+                "count": 14
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "<@U1KRMNVGC>: <https:\/\/www.raleighagenda.com\/2262\/want-swim-made-list-546-public-pools-raleigh\/>",
+        "attachments": [
+            {
+                "service_name": "Raleigh Agenda",
+                "title": "Want to Swim? We Made a List of All 546 \u201cPublic\u201d Pools in Raleigh.",
+                "title_link": "https:\/\/www.raleighagenda.com\/2262\/want-swim-made-list-546-public-pools-raleigh\/",
+                "text": "Raleigh residents looking to imitate the success of Philadelphia\u2019s recent dumpster pool parties,\u00a0where neighbors rent a dumpster and fill it with water from a nearby hydrant, will need to consider a smaller alternative. \u201cEvery outdoor swimming pool with eighteen inches of water or greater must be enclosed with a fence,\u201d explains one of the city\u2019s \u2026",
+                "fallback": "Raleigh Agenda: Want to Swim? We Made a List of All 546 \u201cPublic\u201d Pools in Raleigh.",
+                "thumb_url": "https:\/\/raleigh-agenda-charlotteagenda.netdna-ssl.com\/wp-content\/uploads\/2016\/08\/SkyhousePoolMain.jpg",
+                "ts": 1470999835,
+                "from_url": "https:\/\/www.raleighagenda.com\/2262\/want-swim-made-list-546-public-pools-raleigh\/",
+                "thumb_width": 1300,
+                "thumb_height": 731,
+                "service_icon": "https:\/\/www.raleighagenda.com\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ],
+        "ts": "1471028089.000016",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1KRB11QC",
+                    "U1L6WB44A",
+                    "U1KT3UELS",
+                    "U1L46HXCJ"
+                ],
+                "count": 5
+            },
+            {
+                "name": "swimmer",
+                "users": [
+                    "U1KRHCR7T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "I seriously hate y'all. But also that's helpful and I'll probably use it. So thank you ",
+        "ts": "1471028141.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR4JP3",
+        "text": "For all you foodies out there: <http:\/\/www.godowntownraleigh.com\/restaurant-week\/about> ",
+        "ts": "1471028736.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "Let me know where you guys end up... We'll probably be at beer garden or around there tonight ",
+        "ts": "1471029124.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "What are other fun places besides the beer garden that are reasonably priced\/have standing room for lots of people? ",
+        "ts": "1471036634.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Not that I hate the beer garden. I'd be totally fine if we end up there too",
+        "ts": "1471036756.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Hey folks.  I'm trying to gauge interest in lining up a private Raleigh brewery tour for MSA students and their guests.  I need to get a count of who might be interested.  If you are, please react in some way to this post.  If you'd be bringing someone, react twice.  I'll put specifics on the group message board.  Let me know as soon as you can!  Thanks.",
+        "ts": "1471039827.000023",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRMNVGC",
+                    "U1L7E8GSU",
+                    "U1MBURU4D",
+                    "U1KRB11QC",
+                    "U1KSEJ01W",
+                    "U1KRHCR7T",
+                    "U1KQTJ6BV",
+                    "U1L9669PD",
+                    "U1KRWUXFU",
+                    "U1L5GU954",
+                    "U1KR9BP0E",
+                    "U1KRZT11T",
+                    "U1LAAMJ0M",
+                    "U1NUU2U9E",
+                    "U1KT3UELS",
+                    "U1L6XBH6W",
+                    "U1M37FW5U",
+                    "U1L9DD1NY",
+                    "U1KS4UE2F",
+                    "U1L735VD4"
+                ],
+                "count": 20
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "OK.  I updated the post in the forum, so ignore the first one.  I talked to the guy and clarified a few things.  Also, he reminded me that Sept 3 is Labor Day weekend, so we settled on August 27th.  Read through and let me know via email if you're interested so I can get a count.  <mailto:jrbetz@ncsu.edu|jrbetz@ncsu.edu>",
+        "ts": "1471041630.000025"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "Tommy, David, Zack, and I are going to Cook Out on Western ~7:15",
+        "ts": "1471042049.000027",
+        "reactions": [
+            {
+                "name": "hamburger",
+                "users": [
+                    "U1KRE1L9M",
+                    "U1L40P4N9",
+                    "U1KRB11QC",
+                    "U1NUU2U9E",
+                    "U1KRQLFLY",
+                    "U1L9DD1NY"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "I also can fit a more people in my car",
+        "ts": "1471042134.000028"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "<@U1KRZT11T>: Hope you enjoy your first cookout experience ",
+        "ts": "1471042138.000029"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "You always remember your first time",
+        "ts": "1471042160.000030",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1NDG6ULB",
+                    "U1KRB11QC",
+                    "U1NUU2U9E",
+                    "U1KQGK2CB",
+                    "U1KS4UE2F",
+                    "U1L7RPG1M"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Marina, Sneha and I are headed to the beer garden. Be there around 8ish. :beers: ",
+        "ts": "1471042847.000031",
+        "reactions": [
+            {
+                "name": "beer",
+                "users": [
+                    "U1KRB11QC",
+                    "U1L9DD1NY",
+                    "U1L6WB44A",
+                    "U1KRNH021"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": ":beers: ",
+        "ts": "1471042861.000032"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "We'll be there probably closer to 9",
+        "ts": "1471043659.000033"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1L1D4WG7>: ",
+        "ts": "1471043665.000034"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "We'll try to save you some drinks :-)  We are pretty excited about our new certifications though, so no promises :-P",
+        "ts": "1471043878.000035",
+        "reactions": [
+            {
+                "name": "facepunch",
+                "users": [
+                    "U1KT9ATA5",
+                    "U1L6WB44A",
+                    "U1KRNH021",
+                    "U1L9DD1NY",
+                    "U1LAAMJ0M",
+                    "U1KRHCR7T"
+                ],
+                "count": 6
+            },
+            {
+                "name": "beer",
+                "users": [
+                    "U1L7E8GSU",
+                    "U1L9DD1NY",
+                    "U1KT9ATA5"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "I was thinking of heading there around 9 as well ",
+        "ts": "1471043988.000036"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "Nice",
+        "ts": "1471044314.000037"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Few of us up on second floor of the beer garden :-)",
+        "ts": "1471050765.000038"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Tommy and I are heading there in a bit ",
+        "ts": "1471050835.000039"
+    },
+    {
+        "type": "message",
+        "user": "U1Q5GHC2J",
+        "text": "Anyone wants to go to the beach this weekend? April said it's probably the last chance we have this year!! We have only two people now.",
+        "ts": "1471057461.000040"
+    }
+]

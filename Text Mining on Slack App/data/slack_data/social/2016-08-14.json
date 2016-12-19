@@ -1,0 +1,44 @@
+[
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "Robin and I are thinking about doing one of the food tours for Downtown Raleigh Restaurant week! We were looking at the 5 pm tour on Wednesday that still has several spots open. They're a bit pricy ($65 per person), but it sounds like a lot of delicious food and fun and a good way to get to know downtown's offerings! If other people are interested in joining, you can read more and reserve a spot here: <https:\/\/my.getinsellout.com\/providers\/taste-carolina-gourmet-food-tours\/skus\/special-event-downtown-raleigh-restaurant-week-evening-tasting-tour\/info?pl=-1#horizontalTab1>",
+        "attachments": [
+            {
+                "title": "Special Event: Downtown Raleigh Restaurant Week Evening Tasting Tour | Taste Carolina Gourmet Food Tours",
+                "title_link": "https:\/\/my.getinsellout.com\/providers\/taste-carolina-gourmet-food-tours\/skus\/special-event-downtown-raleigh-restaurant-week-evening-tasting-tour\/info?pl=-1#horizontalTab1",
+                "text": "Special Event: Downtown Raleigh Restaurant Week Evening Tasting Tour. Select date and book tickets now. Tours starting at $65.0",
+                "fallback": "Special Event: Downtown Raleigh Restaurant Week Evening Tasting Tour | Taste Carolina Gourmet Food Tours",
+                "from_url": "https:\/\/my.getinsellout.com\/providers\/taste-carolina-gourmet-food-tours\/skus\/special-event-downtown-raleigh-restaurant-week-evening-tasting-tour\/info?pl=-1#horizontalTab1",
+                "service_icon": "https:\/\/my.getinsellout.com\/favicon.ico",
+                "service_name": "my.getinsellout.com",
+                "id": 1
+            }
+        ],
+        "ts": "1471207307.000037"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "Anyone up for bowling tomorrow afternoon? :bowling:",
+        "ts": "1471221208.000039",
+        "reactions": [
+            {
+                "name": "bowling",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KT5F4SZ",
+                    "U1L6WB44A",
+                    "U1KRZT11T"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Free food?! :scream:",
+        "ts": "1471226649.000045"
+    }
+]

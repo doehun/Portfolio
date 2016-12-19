@@ -1,0 +1,346 @@
+[
+    {
+        "user": "U1L9DD1NY",
+        "text": "<@U1L9DD1NY|mjdensmo> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473714876.000002"
+    },
+    {
+        "user": "U1KRMNVGC",
+        "text": "<@U1KRMNVGC|cncross> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473715022.000003"
+    },
+    {
+        "user": "U1L7E8GSU",
+        "text": "<@U1L7E8GSU|rachelkurtz> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473715031.000004"
+    },
+    {
+        "user": "U1KRB11QC",
+        "text": "<@U1KRB11QC|dsjorda2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473715075.000005"
+    },
+    {
+        "user": "U1KSEJ01W",
+        "text": "<@U1KSEJ01W|ajborelli> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473715100.000006"
+    },
+    {
+        "user": "U1L1D4WG7",
+        "text": "<@U1L1D4WG7|edpreble> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473715122.000007"
+    },
+    {
+        "user": "U1L914KNJ",
+        "text": "<@U1L914KNJ|nikki> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473715290.000008"
+    },
+    {
+        "user": "U1L1WFNC8",
+        "text": "<@U1L1WFNC8|wrighton88> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473715309.000009"
+    },
+    {
+        "user": "U1KRWUXFU",
+        "text": "<@U1KRWUXFU|jdemarest> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473715963.000010"
+    },
+    {
+        "user": "U1L6YQUSU",
+        "text": "<@U1L6YQUSU|johnbetzjr> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473715965.000011"
+    },
+    {
+        "user": "U1KRTHAQZ",
+        "text": "<@U1KRTHAQZ|pranavn20> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473716064.000012"
+    },
+    {
+        "user": "U1KRHCR7T",
+        "text": "<@U1KRHCR7T|zack_schwartz> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473716136.000013"
+    },
+    {
+        "user": "U1LBRCSEA",
+        "text": "<@U1LBRCSEA|bethmoser> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473716740.000014"
+    },
+    {
+        "user": "U1KVBARR9",
+        "text": "<@U1KVBARR9|sneha.bhalodia> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473716998.000015"
+    },
+    {
+        "user": "U1N43E3E0",
+        "text": "<@U1N43E3E0|ryan_w> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473717560.000016"
+    },
+    {
+        "user": "U1KRNH021",
+        "text": "<@U1KRNH021|sneha_komma> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473717602.000017"
+    },
+    {
+        "user": "U1KSYP1M5",
+        "text": "<@U1KSYP1M5|madison> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473717835.000018"
+    },
+    {
+        "user": "U1NUU2U9E",
+        "text": "<@U1NUU2U9E|kb5522> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473717971.000019"
+    },
+    {
+        "user": "U1L93SMGF",
+        "text": "<@U1L93SMGF|eric.reidelbach> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473718445.000020"
+    },
+    {
+        "user": "U1KSL7L7R",
+        "text": "<@U1KSL7L7R|dustinwicker> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473718564.000021"
+    },
+    {
+        "user": "U1KT2JJE8",
+        "text": "<@U1KT2JJE8|slwalke3> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473718703.000022"
+    },
+    {
+        "user": "U1L735VD4",
+        "text": "<@U1L735VD4|nimish_g> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473719962.000023"
+    },
+    {
+        "user": "U1M4QJD4P",
+        "text": "<@U1M4QJD4P|mike-rose> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473720038.000024"
+    },
+    {
+        "user": "U1KT9ATA5",
+        "text": "<@U1KT9ATA5|amir.lyall> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473720128.000025"
+    },
+    {
+        "user": "U1KRBFY3Z",
+        "text": "<@U1KRBFY3Z|sylviebrick> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473720143.000026"
+    },
+    {
+        "user": "U1L3PU7BJ",
+        "text": "<@U1L3PU7BJ|dmalave> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473720424.000027"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "When you run an ESM on the training data and look at the R^2 value, what does the value represent? Since the validation data is contained in a separate data set, I'm not sure how it's being evaluated.",
+        "ts": "1473720451.000028"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Isn't it just the amount of variation in the training data that is explained by the model? ",
+        "ts": "1473720633.000029"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "So, it just looks at the training data and is not related to the predictions?",
+        "ts": "1473720742.000030"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Right. Just as there is a mape for both the training and validation data set. There would be for R^2 as well. But the validation one is what we would care about when predicting. This goes back to what labarr was talking about between the difference in goodness of fit and accuracy. ",
+        "ts": "1473720945.000031"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Mape is obviously talking about time series, but it's the same kind of logic I'm fairly certain. ",
+        "ts": "1473720979.000032"
+    },
+    {
+        "user": "U1NFS178D",
+        "text": "<@U1NFS178D|maria> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473721147.000033"
+    },
+    {
+        "user": "U1N04S4LV",
+        "text": "<@U1N04S4LV|vsingh5> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473721187.000034"
+    },
+    {
+        "user": "U1KSBCBFG",
+        "text": "<@U1KSBCBFG|svsevala> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473721312.000035"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "Ok, I think that makes sense. Thanks!",
+        "ts": "1473722083.000036"
+    },
+    {
+        "user": "U1M7AD5L2",
+        "text": "<@U1M7AD5L2|kelly> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473722124.000037"
+    },
+    {
+        "user": "U1KRE1L9M",
+        "text": "<@U1KRE1L9M|kevin.danchisko> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473722336.000038"
+    },
+    {
+        "user": "U1KRNHQA1",
+        "text": "<@U1KRNHQA1|pavalent> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473722447.000039"
+    },
+    {
+        "user": "U1LK46TUJ",
+        "text": "<@U1LK46TUJ|taylormikkola> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473723950.000040"
+    },
+    {
+        "user": "U1KRNTXL5",
+        "text": "<@U1KRNTXL5|aprocter> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473725431.000041"
+    },
+    {
+        "user": "U1KSL7C10",
+        "text": "<@U1KSL7C10|shoshana> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473725557.000042"
+    },
+    {
+        "user": "U1KRBJP47",
+        "text": "<@U1KRBJP47|marina.burke> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473727740.000043"
+    },
+    {
+        "user": "U1KRF9BAP",
+        "text": "<@U1KRF9BAP|drewlanning> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473729267.000044"
+    },
+    {
+        "user": "U1Q5GHC2J",
+        "text": "<@U1Q5GHC2J|rwang10> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473732292.000045"
+    },
+    {
+        "user": "U1LAAMJ0M",
+        "text": "<@U1LAAMJ0M|carlanderson> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473734075.000046"
+    },
+    {
+        "user": "U1NDG6ULB",
+        "text": "<@U1NDG6ULB|cgreene> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473734189.000047"
+    },
+    {
+        "user": "U1L0RBZFH",
+        "text": "<@U1L0RBZFH|caroline-hughes> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473736240.000048"
+    },
+    {
+        "user": "U1P8QBBD1",
+        "text": "<@U1P8QBBD1|shpatel7> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473741870.000049"
+    },
+    {
+        "user": "U1KR891RC",
+        "text": "<@U1KR891RC|fkaiser> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473742547.000050"
+    },
+    {
+        "user": "U1L3G0YRJ",
+        "text": "<@U1L3G0YRJ|emmyburnett> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473746680.000051"
+    }
+]

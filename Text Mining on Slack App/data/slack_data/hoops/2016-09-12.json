@@ -1,0 +1,48 @@
+[
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "Good afternoon gentleman. Anyone up for an evening game this week?",
+        "ts": "1473701796.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "I should be free Tues or Wed evening if that works for anyone?",
+        "ts": "1473701820.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "I can play Wednesday after dinner, around 7",
+        "ts": "1473701891.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1PF7HWTF",
+        "text": "i cant tuesday but i think ill go this afternoon after class",
+        "ts": "1473705648.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "Basketball Wednesday at 2:15pm",
+        "ts": "1473710951.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "Some people live too far away to do evenings ",
+        "ts": "1473710972.000007",
+        "reactions": [
+            {
+                "name": "basketball",
+                "users": [
+                    "U1KS4UE2F",
+                    "U1MDE4NAG"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

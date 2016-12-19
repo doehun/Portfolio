@@ -1,0 +1,127 @@
+[
+    {
+        "type": "message",
+        "user": "U1LNGEV0B",
+        "text": "Running a few minutes late. Hopefully I still catch you guys this morning! ",
+        "ts": "1473157639.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Sorry guys my alarm is being dumb I just woke up you can leave without me",
+        "ts": "1473157846.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "hi friends. If people are up for it I'd love to lead a run in umstead on Thursday morning.  since we start at 10:30 that morning it would be a great day to head over there so we'll have time to get there and run (its a bit longer, closer to 5) and get ready after for class.  Let me know if y'll would want to do that!",
+        "ts": "1473175843.000002",
+        "reactions": [
+            {
+                "name": "raising_hand",
+                "users": [
+                    "U1KRZT11T",
+                    "U1NLH1CP8",
+                    "U1L5GU954",
+                    "U1N43E3E0",
+                    "U1L7ERY77"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "Yo yo yo",
+        "ts": "1473175843.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "I like it. Count me in.",
+        "ts": "1473176004.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<http:\/\/www.mapmyrun.com\/routes\/view\/1256648392>",
+        "ts": "1473193572.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "Route for Thursday morning. We're going to meet at the entrance on ebenezer church road. I'll get y'all a more specific address tomorrow ",
+        "ts": "1473193612.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "Jokes obviously don't know how to share routes. <@U1KRZT11T> will you show me how tomorrow?",
+        "ts": "1473193715.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "UPDATE - the link now works ",
+        "ts": "1473194308.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "Still 630am?",
+        "ts": "1473194833.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "Yep!",
+        "ts": "1473195254.000010"
+    },
+    {
+        "user": "U1KRQLFLY",
+        "text": "<@U1KRQLFLY|sean.ankenbruck> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473210090.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Hey everyone, is there an interest in adding a pub run club to our repertoire?  This may be an opportunity to engage some of the runners in the program who find 4+ miles out of their range as you can tailor the distance you go a little more.  I personally enjoy the Raleigh Brewing run club, there is trivia back at the brewery!",
+        "edited": {
+            "user": "U1N43E3E0",
+            "ts": "1473215315.000000"
+        },
+        "ts": "1473215296.000012",
+        "reactions": [
+            {
+                "name": "runner",
+                "users": [
+                    "U1KT5F4SZ",
+                    "U1LMHQY9E"
+                ],
+                "count": 2
+            },
+            {
+                "name": "beer",
+                "users": [
+                    "U1KT5F4SZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "<http:\/\/www.fleetfeetraleigh.com\/events\/pub-runs-run-clubs>",
+        "ts": "1473215298.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "Any runners doing the 9\/11 memorial run? Event day details: <https:\/\/docs.google.com\/a\/ncsu.edu\/forms\/d\/e\/1FAIpQLSfK8fNxOS8vhe18B-5ON9v7TLg0A1eKobNLooZsdclTp9IrsQ\/viewform>",
+        "ts": "1473217250.000015"
+    }
+]

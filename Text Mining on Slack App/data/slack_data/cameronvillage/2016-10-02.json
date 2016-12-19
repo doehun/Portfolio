@@ -1,0 +1,35 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQGRG2F",
+        "text": "Anyone want to drive to sas together on Tuesday? <!channel> ",
+        "ts": "1475436430.000002",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRBFY3Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "Yea I'd be down to carpool.",
+        "ts": "1475437041.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1M7AD5L2",
+        "text": "Id love to carpool as well",
+        "ts": "1475437446.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Same here ",
+        "ts": "1475437467.000005"
+    }
+]

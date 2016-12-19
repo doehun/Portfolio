@@ -1,0 +1,357 @@
+[
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1L1D4WG7> good ol' krobabilities",
+        "ts": "1478701069.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1MDHNYR5",
+        "text": "<@U1KRWUXFU>  is the fishbowl reserved for Business Analyst studying tonight?",
+        "ts": "1478721173.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "<@U1MDHNYR5> I didn't reserve it. Go ahead if it's open!",
+        "edited": {
+            "user": "U1KRWUXFU",
+            "ts": "1478721211.000000"
+        },
+        "ts": "1478721192.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1MDHNYR5",
+        "text": "I have fishbowl from 6:00pm to 11:00pm for those who want to study for Business Analyst!",
+        "ts": "1478721441.000016",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRWUXFU",
+                    "U1L6YQUSU"
+                ],
+                "count": 2
+            },
+            {
+                "name": "tropical_fish",
+                "users": [
+                    "U1L1D4WG7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I reserved the Fishbowl from 4:30-6:00 and am heading over there for anyone interested.",
+        "edited": {
+            "user": "U1L6YQUSU",
+            "ts": "1478726136.000000"
+        },
+        "ts": "1478726123.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Can someone explain question 15 on the practice test? ",
+        "ts": "1478732125.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "What is X and Y, why are they .05 and 10? ",
+        "ts": "1478732146.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "The 0.05 is from the scoring data.  The 10 is from that weird formula from the elearning we think.",
+        "ts": "1478732417.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "1 \/  (1 +  (9\/1))",
+        "ts": "1478732454.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "or something like that",
+        "edited": {
+            "user": "U1L6YQUSU",
+            "ts": "1478732491.000000"
+        },
+        "ts": "1478732477.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWJB7S",
+        "text": "bayes' rule",
+        "ts": "1478732517.000025"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": " Know that formula and understand it!",
+        "ts": "1478732902.000026"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "If it doesn't make sense to u guys feel free to get my attention through the @ thing and I'll be happy to check and explain it ",
+        "ts": "1478733050.000027"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<@U1KR9BP0E>  Jordan is saying that this question may not have a correct answer",
+        "ts": "1478733056.000028"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "It doesn't make sense <@U1KSBCBFG>",
+        "ts": "1478733066.000029"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "One sec let me read the ? And explain so that I don't do it wrong and it might be the one with the wrong answer ",
+        "ts": "1478733097.000030"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "I thought it was a typo and supposed to say .05 and .1",
+        "ts": "1478733138.000031"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "has anyone reasoned through question 60 yet?",
+        "ts": "1478733152.000032"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "typo makes sense <@U1L3PU7BJ>",
+        "ts": "1478733199.000033"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "Yep that is the one w the typo. Agree w Diego ",
+        "ts": "1478733285.000034"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<@U1L3PU7BJ> as for 60, i know that answer 'a' follows the general form for a logistic equation, which would be the probability",
+        "ts": "1478733354.000035"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "in 'b', the ODDS variable makes some math magic and then it works.  ta da!",
+        "ts": "1478733397.000036"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1KSBCBFG|svsevala> uploaded a file: <https:\/\/msa17.slack.com\/files\/svsevala\/F31BAU0H4\/slack_for_ios_upload._null_|Slack for iOS Upload>",
+        "file": {
+            "id": "F31BAU0H4",
+            "created": 1478733712,
+            "timestamp": 1478733712,
+            "name": "Slack for iOS Upload.(null)",
+            "title": "Slack for iOS Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U1KSBCBFG",
+            "editable": false,
+            "size": 4891470,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F31BAU0H4\/slack_for_ios_upload._null_?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F31BAU0H4\/download\/slack_for_ios_upload._null_?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31BAU0H4-7bc1bd3e3d\/slack_for_ios_upload_64.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31BAU0H4-7bc1bd3e3d\/slack_for_ios_upload_80.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31BAU0H4-7bc1bd3e3d\/slack_for_ios_upload_360.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360_w": 360,
+            "thumb_360_h": 270,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31BAU0H4-7bc1bd3e3d\/slack_for_ios_upload_480.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_480_w": 480,
+            "thumb_480_h": 360,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31BAU0H4-7bc1bd3e3d\/slack_for_ios_upload_160.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31BAU0H4-7bc1bd3e3d\/slack_for_ios_upload_720.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_720_w": 720,
+            "thumb_720_h": 540,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31BAU0H4-7bc1bd3e3d\/slack_for_ios_upload_960.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_960_w": 960,
+            "thumb_960_h": 720,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31BAU0H4-7bc1bd3e3d\/slack_for_ios_upload_1024.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 768,
+            "image_exif_rotation": 1,
+            "original_w": 4032,
+            "original_h": 3024,
+            "permalink": "https:\/\/msa17.slack.com\/files\/svsevala\/F31BAU0H4\/slack_for_ios_upload._null_",
+            "permalink_public": "https:\/\/slack-files.com\/T1KRCES8H-F31BAU0H4-d50e314529",
+            "channels": [
+                "C1LD3A0SU"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U1KSBCBFG",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1KSBCBFG|svsevala>",
+        "bot_id": null,
+        "ts": "1478733720.000037"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Yes it makes sense if it's .1. Thanks all. ",
+        "ts": "1478733727.000038"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "Frm summer with dr LaBarr. You would be doing the same thing on that ? Diego ",
+        "ts": "1478733761.000039"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "And I'm pretty sure odds = p\/(1-p) so u would have to use that in combo ",
+        "ts": "1478733960.000040"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "For question 61 - If AIC was an option that wouldn't be correct either right? Only things like MAE and MAPE let you compare models in a validation set",
+        "ts": "1478735864.000041"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "can someone explain the LINK\/ILINK to me? Not really following it.",
+        "ts": "1478739200.000042"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "This is the explanation on the website but I'm just not understanding it: \"The ILINK option in the SCORE statement requestes that predicted values be inversely transformed to the response scale. In this case, it is the predicted probability of . Output 66.1.1 shows the predicted probability for the new observation.\"",
+        "ts": "1478739352.000043"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "There are a few possible questions on this, all center around \"what is the output?\" 2 procs output logit datasets. \n\nProc Score and Proc PLM output Logits\n\n2 procs with options output probabilities.\nProc Logistic with Score Option, and Proc PLM with ILINK option",
+        "ts": "1478739659.000044"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "We made up that silly krobabilities mnemonic to remember that ilink outputs probabilities (and not logits)",
+        "ts": "1478739772.000045"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "OH I get it",
+        "ts": "1478739863.000046"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Thank you so much!",
+        "ts": "1478739868.000047"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "and proc logistic + score always outputs logits? is there an ilink option for that too, or just PLM?",
+        "ts": "1478739890.000048"
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "For those taking business analyst tomorrow: <https:\/\/sites.google.com\/a\/ncsu.edu\/msa-2017\/home\/sas> on that page there is a business analyst cheat sheet study guide from a previous student, it has a lot of stuff on it that was covered on the practice exam, might be a good additional resource to go over!",
+        "ts": "1478740785.000049"
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "whoops jk not on that page\u2026stay tuned for correct link",
+        "ts": "1478740848.000050"
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "<https:\/\/sites.google.com\/a\/ncsu.edu\/msa-2017\/home\/fall-2016---moodle-links\/linear-algebra-reference-sheets> correct link! (link says linear algebra reference sheet but it has all reference sheets including business analyst one)",
+        "edited": {
+            "user": "U1LBRCSEA",
+            "ts": "1478740926.000000"
+        },
+        "ts": "1478740873.000051"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "<@U1KR9BP0E> Proc logistic with score outputs probabilities. Proc PLM with ILINK also outputs probabilities. There are other ILINK options for other procs, but these are the only ones that I understand have been showing up on the test.",
+        "ts": "1478741669.000053"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "understood. thank you so much <@U1L1D4WG7>",
+        "ts": "1478741702.000054",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L1D4WG7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "In Summary\nProc Score --&gt; Logits\nProc PLM --&gt; Logits\nProc Logistic w\/ score option --&gt; Probabilities\nProc PLM w\/ ILINK --&gt; Probabilities",
+        "ts": "1478741749.000055",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KQGRG2F",
+                    "U1L6YQUSU",
+                    "U1LBRCSEA"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "So many procs....",
+        "ts": "1478741770.000056"
+    }
+]

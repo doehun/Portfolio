@@ -1,0 +1,54 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQGK2CB",
+        "text": "Where can we find the links to all the data mining google doc solutions?  I have the link for the CART one, but looking for the two after that",
+        "ts": "1477245845.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "I'm pretty sure they're on moodle!",
+        "ts": "1477246243.000015"
+    },
+    {
+        "user": "U1KRNTXL5",
+        "text": "<@U1KRNTXL5|aprocter> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477247288.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I think this is the link <@U1KQGK2CB>  <https:\/\/drive.google.com\/drive\/folders\/0BzDstgdErBC8VVc1THg1NVpqQUE>",
+        "ts": "1477247818.000017",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U1KQGK2CB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "Remember our quiz is directly on Moodle - the link on the data mining webpage doesn't work",
+        "ts": "1477248009.000019",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KQGK2CB",
+                    "U1L9DD1NY",
+                    "U1LBRCSEA"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

@@ -1,0 +1,195 @@
+[
+    {
+        "type": "message",
+        "user": "U1L40P4N9",
+        "text": "Volleyball? ... anyone???.. anytime?.... ",
+        "ts": "1467810079.000002",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U1KSH8676",
+                    "U1KRNHQA1",
+                    "U1KVBARR9"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "<@U1L40P4N9>: yes, me, this evening.  I expect to be free around 6.",
+        "ts": "1467823124.000003",
+        "reactions": [
+            {
+                "name": "stuck_out_tongue",
+                "users": [
+                    "U1L40P4N9",
+                    "U1KSH8676"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U1L735VD4",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L735VD4|nimish_g> has joined the channel",
+        "ts": "1467823758.000004"
+    },
+    {
+        "user": "U1P8QBBD1",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1P8QBBD1|shpatel7> has joined the channel",
+        "ts": "1467823984.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "A few of us in the email forum want to play volleyball tonight too.. does 6pm at Jaycee park work for everyone?",
+        "ts": "1467824358.000006"
+    },
+    {
+        "user": "U1L0RBZFH",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L0RBZFH|caroline-hughes> has joined the channel",
+        "ts": "1467824765.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1L0RBZFH",
+        "text": "That sounds good. See you then!",
+        "ts": "1467824778.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "I am going to end up passing on today, next time",
+        "ts": "1467824964.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1MDHNYR5",
+        "text": "So is anyone down to go rock climbing tomorrow? I was planning on going to Triangle Rock Club but could go to the NCSU wall if that's what people wanted to do.",
+        "ts": "1467828073.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1L2P17DZ",
+        "text": "How much does it cost to climb at the Rock Club\/ can you rent gear? The rock wall here is free with gear you can borrow, so I'm up for that! But if the Rock Club isn't too expensive I'd be willing to give it a shot! I've only climbed here so it would be cool to go somewhere else",
+        "ts": "1467828273.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "The first time you visit the Rock Club is free but it costs a little to rent gear (not too much).",
+        "ts": "1467828310.000012",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1MDHNYR5",
+                    "U1L2P17DZ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1MDHNYR5",
+        "text": "I also have a spare harness and chalk bag that someone could use.",
+        "ts": "1467828357.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "I am down for tomorrow for either",
+        "ts": "1467829965.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1LHLK8MR",
+        "text": "<@U1MDHNYR5> I'd go too haven't been climbing in a long time but always had a great time",
+        "ts": "1467830248.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "6pm Jaycee Park. Copy that.",
+        "ts": "1467830717.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "I'm mostly retired from climbing but I have gear someone can borrow.",
+        "ts": "1467830730.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1MDHNYR5",
+        "text": "So do you think we should go to the Morrisville TRC <@U1L7E8GSU> ? I haven't been to that one but I wouldn't mind checking it out.",
+        "ts": "1467834826.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1L40P4N9",
+        "text": "Probably can't make volleyball today but I would love to get something going weekly ... indoor or outdoor \n",
+        "ts": "1467835034.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "<@U1MDHNYR5>: TRC Morrisville is bigger and has way higher walls. IMO bouldering is better at North Raleigh.",
+        "ts": "1467852076.000020",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1MDHNYR5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "<@U1MDHNYR5>: I agree with <@U1M4QJD4P>.  But I haven't been to the state gym so can't compare to that! ",
+        "ts": "1467852207.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "I'm also belay certified so can belay people. ",
+        "ts": "1467852276.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1L2P17DZ",
+        "text": "State gym is modeled after real climbs in the NC mountains, there aren't the plastic handholds because you use the cracks\/jugs\/formations in the rock to the climb like in real outdoor climbing. It has a good range of easy climbs to difficult climbs and you're allowed to Boulder as well. You do have to take a quick belay certification test but it's straight forward! I've passed it every time there. Google NCSU rock wall to see pictures if you want!",
+        "ts": "1467852343.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "I'm belay certified too at TRC, but I can't make it tomorrow, let me know next time ya'll go!",
+        "ts": "1467852392.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1MDHNYR5",
+        "text": "Ok! Well I vote we go to Morrissville tomorrow and then I would be down to check out the ncsu wall on Sunday if anyone else wants to go! I got my belay certification there like a week ago but don't have it at TRC yet. \n\nWould  5 or 6 pm work for people?",
+        "ts": "1467855865.000025"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Yea I would be down but would most likely need a ride",
+        "ts": "1467856153.000026"
+    }
+]

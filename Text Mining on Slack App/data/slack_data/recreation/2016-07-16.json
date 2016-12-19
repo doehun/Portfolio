@@ -1,0 +1,63 @@
+[
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Hey Sean I'd be interested in linking with you on that.  I used to go to the nog club back when they were still at tir na nog. These days I often go Raleigh brewing run club on Wednesdays.",
+        "ts": "1468674786.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "Sean is it 6:15 am or pm?",
+        "attachments": [
+            {
+                "fallback": "[July 15th, 2016 11:02 AM] sean.ankenbruck: Any #runners in the area looking to run as a group?  I am a member of the nog run club  which meets 6:15 on Mondays at the Raleigh Beer Garden.  It is a great organization and there are routes of varying distances.  The Beer Garden also offers discounts on food after you run!",
+                "author_subname": "sean.ankenbruck",
+                "ts": "1468594928.000005",
+                "channel_id": "C1MDFA33N",
+                "channel_name": "recreation",
+                "is_msg_unfurl": true,
+                "text": "Any #runners in the area looking to run as a group?  I am a member of the nog run club  which meets 6:15 on Mondays at the Raleigh Beer Garden.  It is a great organization and there are routes of varying distances.  The Beer Garden also offers discounts on food after you run!",
+                "author_link": "https:\/\/msa17.slack.com\/team\/sean.ankenbruck",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/720a3f3f409b1e25b997cf38b67e8251.jpg?s=48&d=https%3A%2F%2Fh2.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0003-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/msa17.slack.com\/archives\/recreation\/p1468594928000005",
+                "is_share": true,
+                "footer": "Posted in #recreation"
+            }
+        ],
+        "ts": "1468675979.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "6:15 pm ",
+        "ts": "1468694233.000004",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L41DF9D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1KS1BFED",
+        "text": "<@U1KS1BFED|doug_nicholson> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468695407.000005"
+    },
+    {
+        "user": "U1KRF9BAP",
+        "text": "<@U1KRF9BAP|drewlanning> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468706290.000006"
+    }
+]

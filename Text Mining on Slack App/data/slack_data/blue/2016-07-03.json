@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1L7RPG1M",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L7RPG1M|carsonfutch> has joined the channel",
+        "ts": "1467581075.000002"
+    }
+]

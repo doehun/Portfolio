@@ -1,0 +1,8 @@
+[
+    {
+        "type": "message",
+        "user": "U1KSGHLPJ",
+        "text": "Does anyone have any documentation for variable selection for Random Forests or even GBM  in R? - The kaggle competition is all about prediction. So I am using all variables. The real question I am trying to answer is if I drop redundant or useless variables - will my accuracy suffer? I am testing this myself but Kaggle only allows 5 submissions per day.",
+        "ts": "1478264132.000082"
+    }
+]

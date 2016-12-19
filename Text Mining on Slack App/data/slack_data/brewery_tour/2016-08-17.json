@@ -1,0 +1,149 @@
+[
+    {
+        "user": "U1L6YQUSU",
+        "text": "<@U1L6YQUSU|johnbetzjr> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471481367.000002"
+    },
+    {
+        "user": "U1L6YQUSU",
+        "purpose": "Info on the 8\/27\/16 Brewery Tour",
+        "text": "<@U1L6YQUSU|johnbetzjr> set the channel purpose: Info on the 8\/27\/16 Brewery Tour",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1471481367.000003"
+    },
+    {
+        "user": "U1L7E8GSU",
+        "inviter": "U1L6YQUSU",
+        "text": "<@U1L7E8GSU|rachelkurtz> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471481477.000004"
+    },
+    {
+        "user": "U1M37FW5U",
+        "inviter": "U1L6YQUSU",
+        "text": "<@U1M37FW5U|alex_curcio> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471481477.000005"
+    },
+    {
+        "user": "U1MBURU4D",
+        "inviter": "U1L6YQUSU",
+        "text": "<@U1MBURU4D|marc_armbruster> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471481477.000006"
+    },
+    {
+        "user": "U1L5GU954",
+        "inviter": "U1L6YQUSU",
+        "text": "<@U1L5GU954|jrweston> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471481477.000007"
+    },
+    {
+        "user": "U1L974M70",
+        "inviter": "U1L6YQUSU",
+        "text": "<@U1L974M70|brshallo> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471481477.000008"
+    },
+    {
+        "user": "U1L735VD4",
+        "inviter": "U1L6YQUSU",
+        "text": "<@U1L735VD4|nimish_g> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471481477.000009"
+    },
+    {
+        "user": "U1KR9BP0E",
+        "inviter": "U1L6YQUSU",
+        "text": "<@U1KR9BP0E|sneha.raghavan> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471481477.000010"
+    },
+    {
+        "user": "U1KRTHAQZ",
+        "inviter": "U1L6YQUSU",
+        "text": "<@U1KRTHAQZ|pranavn20> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471481477.000011"
+    },
+    {
+        "user": "U1L914KNJ",
+        "inviter": "U1L6YQUSU",
+        "text": "<@U1L914KNJ|nikki> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471481477.000012"
+    },
+    {
+        "user": "U1N43E3E0",
+        "inviter": "U1L6YQUSU",
+        "text": "<@U1N43E3E0|ryan_w> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471481477.000013"
+    },
+    {
+        "user": "U1KT1RZ24",
+        "inviter": "U1L6YQUSU",
+        "text": "<@U1KT1RZ24|mike_hruska> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471481477.000014"
+    },
+    {
+        "user": "U1KRMNVGC",
+        "inviter": "U1L6YQUSU",
+        "text": "<@U1KRMNVGC|cncross> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471481477.000015"
+    },
+    {
+        "user": "U1LAAMJ0M",
+        "inviter": "U1L6YQUSU",
+        "text": "<@U1LAAMJ0M|carlanderson> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471481477.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Hey gang.  This is where I'll put info on the tour.  Tomorrow I should have info on the website\/payment instructions.  Looking forward to next Saturday!",
+        "ts": "1471481508.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": ":beers:",
+        "ts": "1471482245.000018",
+        "reactions": [
+            {
+                "name": "see_no_evil",
+                "users": [
+                    "U1LAAMJ0M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1LBRCSEA",
+        "text": "<@U1LBRCSEA|bethmoser> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471483286.000019"
+    }
+]

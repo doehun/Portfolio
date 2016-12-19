@@ -1,0 +1,36 @@
+[
+    {
+        "type": "message",
+        "user": "U1KSR4JP3",
+        "text": "what is the nlag= in proc arima? I\u2019m having trouble understanding it",
+        "ts": "1473726883.000049"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "<@U1KSR4JP3>: I think it has to do w how many past points back you want to go in terms of checking for auto correlation ",
+        "ts": "1473730494.000050"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR4JP3",
+        "text": "<@U1KSBCBFG>: ohhhhh okay! Thank you so much! ",
+        "ts": "1473730606.000051"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "<@U1KSR4JP3>:  Np :) also be careful w using proc arima because I think it is running on arima and I don't know if dr. LaBarr actually expects us to run proc arima to look at autocorrelation. I went back and listened to his lecture and he was saying he doesn't expect us to actually be able to run that proc right now ",
+        "ts": "1473731020.000052",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KSR4JP3",
+                    "U1L914KNJ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

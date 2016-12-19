@@ -1,0 +1,162 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Does anyone have any extra solo cups they can bring for the cider?",
+        "ts": "1479559607.000034"
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "I gotchu ",
+        "ts": "1479559674.000035"
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "Today is a great day to have a great day. ",
+        "ts": "1479559689.000036",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1L5GU954"
+                ],
+                "count": 1
+            },
+            {
+                "name": "football",
+                "users": [
+                    "U1L5GU954",
+                    "U1KT5F4SZ",
+                    "U1LBRCSEA"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSYP1M5",
+        "text": "<@U1KRB11QC>: where should I go? ",
+        "ts": "1479562508.000037"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "Where's the tailgate?",
+        "ts": "1479565507.000038"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "Two rows away from the street. About three telephone polls up from the entrance ",
+        "ts": "1479565550.000039",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRNHQA1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "We're at this point Dropped Pin\nnear 4169-4283 Trinity Rd, Raleigh, NC 27607\n<https:\/\/goo.gl\/maps\/6sdYYW7FDyB2>",
+        "ts": "1479565679.000040"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "<@U1KRB11QC> always gives great directions",
+        "ts": "1479565730.000041",
+        "reactions": [
+            {
+                "name": "world_map",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KRE1L9M"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "I don't have spike ball",
+        "ts": "1479567882.000042"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "<@U1KRNHQA1> bring our ids back. You have failed us. ",
+        "ts": "1479568071.000043"
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "^you're not even here ",
+        "ts": "1479568559.000044",
+        "reactions": [
+            {
+                "name": "celebration",
+                "users": [
+                    "U1KRNHQA1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "My id is there, so I'm there in spirit :angel: ",
+        "ts": "1479568597.000045",
+        "reactions": [
+            {
+                "name": "-1::skin-tone-2",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KRNHQA1",
+                    "U1L415ECD"
+                ],
+                "count": 3
+            },
+            {
+                "name": "credit_card",
+                "users": [
+                    "U1L415ECD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "Where is everyone sitting ",
+        "ts": "1479577820.000046"
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "Section 127",
+        "ts": "1479578282.000047"
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "Same end zone as the Jumbotron ",
+        "ts": "1479578309.000048"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Nor student section",
+        "ts": "1479578323.000049"
+    }
+]

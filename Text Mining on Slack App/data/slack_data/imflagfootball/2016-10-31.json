@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1MDE4NAG",
+        "text": "<@U1MDE4NAG|michaelbyman> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1477921118.000002"
+    }
+]

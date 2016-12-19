@@ -1,0 +1,37 @@
+[
+    {
+        "type": "message",
+        "user": "U1NDG6ULB",
+        "text": "No more camps! All courts open! ",
+        "ts": "1470696926.000002",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1KSL7L7R",
+                    "U1KS4UE2F"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1NDG6ULB",
+        "text": "Realizing I may be a week late with this info but it's about time ",
+        "ts": "1470696966.000003"
+    },
+    {
+        "user": "U1M37FW5U",
+        "text": "<@U1M37FW5U|alex_curcio> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1470698767.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "I'm heading over there soon if anyone wants to join!",
+        "ts": "1470699165.000005"
+    }
+]

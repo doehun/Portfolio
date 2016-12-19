@@ -1,0 +1,44 @@
+[
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I have a footrest in front of me.  I don't use it.  Not sure how it got there.  Anyone is welcome to it.",
+        "ts": "1476889256.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR4JP3",
+        "text": "<@U1L6YQUSU> can I call dibs?",
+        "ts": "1476889293.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "sure <@U1KSR4JP3>",
+        "ts": "1476889357.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "anyone else have a footrest they don't use?",
+        "ts": "1476889449.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "me! <@U1KR9BP0E>  it's all yours",
+        "ts": "1476889587.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1L40P4N9",
+        "text": "me too",
+        "ts": "1476891014.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "thanks <@U1L9DD1NY> :slightly_smiling_face:",
+        "ts": "1476900647.000025"
+    }
+]

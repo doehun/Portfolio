@@ -1,0 +1,100 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "my number is 4435597816 if anyone needs to reach me",
+        "ts": "1479987436.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "<@U1KQYG6SJ> 443 thats a maryland phone number isnt it?",
+        "ts": "1480007417.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "yep",
+        "ts": "1480007436.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "I was in MD for a couple of weeks when I first arrived in the US",
+        "ts": "1480007448.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "ohhh ok",
+        "ts": "1480008349.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "i recognized cuz i have a 443 number as well",
+        "ts": "1480008362.000019"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1KQYG6SJ|rose> uploaded a file: <https:\/\/msa17.slack.com\/files\/rose\/F37J1MZ9C\/slack_for_ios_upload.jpg|Slack for iOS Upload>",
+        "file": {
+            "id": "F37J1MZ9C",
+            "created": 1480036029,
+            "timestamp": 1480036029,
+            "name": "Slack for iOS Upload.jpg",
+            "title": "Slack for iOS Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U1KQYG6SJ",
+            "editable": false,
+            "size": 2377512,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F37J1MZ9C\/slack_for_ios_upload.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F37J1MZ9C\/download\/slack_for_ios_upload.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F37J1MZ9C-26616bf12a\/slack_for_ios_upload_64.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F37J1MZ9C-26616bf12a\/slack_for_ios_upload_80.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F37J1MZ9C-26616bf12a\/slack_for_ios_upload_360.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360_w": 270,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F37J1MZ9C-26616bf12a\/slack_for_ios_upload_480.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_480_w": 360,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F37J1MZ9C-26616bf12a\/slack_for_ios_upload_160.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F37J1MZ9C-26616bf12a\/slack_for_ios_upload_720.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_720_w": 540,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F37J1MZ9C-26616bf12a\/slack_for_ios_upload_960.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_960_w": 720,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F37J1MZ9C-26616bf12a\/slack_for_ios_upload_1024.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_1024_w": 768,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 3264,
+            "original_h": 2448,
+            "permalink": "https:\/\/msa17.slack.com\/files\/rose\/F37J1MZ9C\/slack_for_ios_upload.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T1KRCES8H-F37J1MZ9C-8183a4640b",
+            "channels": [
+                "C2P4NLWTW"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U1KQYG6SJ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1KQYG6SJ|rose>",
+        "bot_id": null,
+        "ts": "1480036034.000021"
+    }
+]

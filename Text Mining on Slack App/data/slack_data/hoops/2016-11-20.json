@@ -1,0 +1,35 @@
+[
+    {
+        "type": "message",
+        "user": "U1MPXSHN1",
+        "text": "Anyone interested in Racquetball tuesday morning? I haven't played at Carmichael gym so I'm not sure how it works with reserving courts but I'll check tomorrow.",
+        "ts": "1479695471.000057"
+    },
+    {
+        "type": "message",
+        "user": "U2LA4671B",
+        "text": "You don't really reserve a court",
+        "ts": "1479695735.000058"
+    },
+    {
+        "type": "message",
+        "user": "U2LA4671B",
+        "text": "Just take an open one. There are over a dozen.",
+        "ts": "1479695766.000059",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1MPXSHN1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "I saw you can request equipment, so that's covered. I'm in for Tuesday!",
+        "ts": "1479696644.000060"
+    }
+]

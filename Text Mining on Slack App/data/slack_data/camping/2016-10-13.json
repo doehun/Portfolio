@@ -1,0 +1,144 @@
+[
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "Camping Updates\/Reminders:\n\nIf you haven\u2019t signed up to camp, you still have time! :slightly_smiling_face:\n\nRides: Departing from the IAA (Alliance deck) at 6 or 7 depending on the hike.\n\nThe hikes: Be sure to bring warm layers, a rain\/wind jacket, and a backpack with food and water. Both hikes will meet at the summit of Mt. Mitchell together for group pictures and fun. If you decide not to hike (<@U1LMHQY9E>) try to meet us at the summit where there is a parking area around 3 PM.\n\nFood: David and I will provide burgers\/hotdogs and a few sides for dinner. You will want to bring food for the hikes, afternoon snacking, and breakfast. You should also plan to BYOB if you want.\n\nCamping: We will be outside. In the mountains. PLEASE bring warm clothes and jackets! It is better to have too many layers than not enough. Don\u2019t forget about gloves, hats, and scarves. You may also want to bring an extra blanket for warmth at night. David and I are actively trying to ensure everyone has sleeping bags, but you may have to rent them at Recreation Outdoors on Main Campus for $8 for the weekend. We will let you know by noon tomorrow.\n\nPayment: Remember to pay $15 via Venmo to ImDavidJordan by Friday at noon. You can also pay David via cash.",
+        "edited": {
+            "user": "U1L5GU954",
+            "ts": "1476379457.000000"
+        },
+        "ts": "1476379258.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "i'll be there, hopefully with fish for all",
+        "ts": "1476379309.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "but dont get your hopes up, im not much of a fisherman, basically just feed the fish",
+        "ts": "1476379330.000005",
+        "reactions": [
+            {
+                "name": "tropical_fish",
+                "users": [
+                    "U1L5GU954",
+                    "U1KRB11QC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U1L5GU954> is there a plan for where to leave cars overnight?",
+        "ts": "1476379887.000007"
+    },
+    {
+        "user": "U1L9669PD",
+        "text": "<@U1L9669PD|pmartin> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1476379933.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "<@U1KT5F4SZ> I don't think we should leave them at the IAA deck, but the rest of campus is free on the weekends. So one of the lots by the library should work",
+        "ts": "1476380215.000009",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KT5F4SZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "just meet at wolf ridge apts because there are plenty of spots and you can leave your car there",
+        "ts": "1476381109.000010",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L5GU954"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U1KRNHQA1",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[October 9th, 2016 10:55 AM] jrweston: Spreadsheet Link:\n<https:\/\/docs.google.com\/a\/ncsu.edu\/spreadsheets\/d\/141H8CV2_ztLwRLPpgOYt42nYSj-sKJKHdHPr0semDfM\/edit?usp=sharing>",
+                "ts": "1476035700.000005",
+                "author_subname": "jrweston",
+                "channel_id": "C2EV5KFBL",
+                "channel_name": "camping",
+                "is_msg_unfurl": true,
+                "text": "Spreadsheet Link:\n<https:\/\/docs.google.com\/a\/ncsu.edu\/spreadsheets\/d\/141H8CV2_ztLwRLPpgOYt42nYSj-sKJKHdHPr0semDfM\/edit?usp=sharing>",
+                "author_name": "James Weston",
+                "author_link": "https:\/\/msa17.slack.com\/team\/jrweston",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-07-01\/56308863890_69ced3d326c0ab8d17b7_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U1KRNHQA1|pavalent> pinned a message to this channel.",
+        "ts": "1476381775.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "Flashlights would also be a good idea! ",
+        "ts": "1476390821.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "Is there a drinking water faucet at the campsite?",
+        "ts": "1476407311.000013",
+        "reactions": [
+            {
+                "name": "beers",
+                "users": [
+                    "U1L5GU954"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1KRNTXL5>: there is water, and flush toilets. The campground nextdoor also has showers we can use. Plus a volleyball court and horseshoe pit",
+        "ts": "1476407535.000014",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1L3G0YRJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": ":slightly_smiling_face:",
+        "ts": "1476407672.000015"
+    }
+]

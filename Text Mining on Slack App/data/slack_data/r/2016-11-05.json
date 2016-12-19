@@ -1,0 +1,54 @@
+[
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "For the machine learning project,  I am trying to convert the levels of the categorical variables from 'A,B,C,D' to '1,2,3,4'. I've tried a few different approaches but nothing works. I keep getting the error \"Error: (list) object cannot be coerced to type 'double' \" Can anyone help me on this?",
+        "ts": "1478381670.000083"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "I'm an R newb btw",
+        "ts": "1478381698.000084",
+        "reactions": [
+            {
+                "name": "baby",
+                "users": [
+                    "U1KT9ATA5",
+                    "U1L9DD1NY"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L7ERY77",
+        "text": "this will map a new column with numerical levels <@U1KSL7L7R>",
+        "ts": "1478382471.000085"
+    },
+    {
+        "type": "message",
+        "user": "U1L7ERY77",
+        "text": "theater$cntynum &lt;- as.integer(mapvalues(theater$cnty, from=c('Chicago','Cook','DuPage','Lake','Other'),to=c(1,2,3,4,5)))",
+        "ts": "1478382473.000086"
+    },
+    {
+        "type": "message",
+        "user": "U1L7ERY77",
+        "text": "thats just an example",
+        "ts": "1478382480.000087"
+    },
+    {
+        "type": "message",
+        "user": "U1L7ERY77",
+        "text": "I think the function is from plyr or dplyr packages",
+        "ts": "1478382495.000088"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "Thank you for the help! I'll give it a go",
+        "ts": "1478382601.000089"
+    }
+]

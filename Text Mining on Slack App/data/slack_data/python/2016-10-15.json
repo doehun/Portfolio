@@ -1,0 +1,26 @@
+[
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "hey <@U1KT2JJE8> did you try the instructions that <@U1KS4UE2F> suggested? they are pinned in this group",
+        "ts": "1476566589.000159"
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "<@U1KT9ATA5>, stupid question, but how do I access pinned items?",
+        "ts": "1476566936.000160"
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "nvm, I found it...",
+        "ts": "1476566956.000161"
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "ok, that helped with nltk, but I'm still having the same problem installing gensim. It appears to be a problem with directory access but I'm signed in to administrator account...?",
+        "ts": "1476570675.000162"
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "Soccer Sunday Miller fields, 5pm. I'm in DC so I won't be there. ",
+        "ts": "1470425054.000003",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRNHQA1",
+                    "U1L8PJY4W"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "I'll be there",
+        "ts": "1470425116.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "Me too!",
+        "ts": "1470426811.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1L95JP1S",
+        "text": "Put me down as a maybe :thinking_face:",
+        "ts": "1470427446.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1L8PJY4W",
+        "text": "I'll be there",
+        "ts": "1470428630.000007"
+    },
+    {
+        "user": "U1KSBCBFG",
+        "text": "<@U1KSBCBFG|svsevala> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470431652.000008"
+    }
+]

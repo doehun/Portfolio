@@ -1,0 +1,113 @@
+[
+    {
+        "user": "U1KSL7L7R",
+        "text": "<@U1KSL7L7R|dustinwicker> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468519969.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Is tennis tomorrow still happening? I'd also be down for saturday or sunday if the courts are open on weekends...",
+        "ts": "1468524058.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "I would be down for doing it this weekend",
+        "ts": "1468524211.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KQTJ6BV",
+        "text": "I can play tomorrow or this weekend as well ",
+        "ts": "1468524576.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "I can play tomorrow or this weekend as well. The courts at nc state are open on the weekends and are first come, first serve.",
+        "ts": "1468524777.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Pun intended?",
+        "ts": "1468524813.000007",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KSL7L7R",
+                    "U1KRE1L9M"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "lets do saturday or sunday morning before it gets too hot? maybe 9?",
+        "ts": "1468524821.000008",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U1KRZT11T",
+                    "U1KSL7L7R",
+                    "U1KRNHQA1"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "ha, nice one <@U1KRZT11T>",
+        "ts": "1468524836.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "Pun intended :slightly_smiling_face:",
+        "ts": "1468525260.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1KQTJ6BV",
+        "text": "Saturday of sunday at 9:00 sounds good to me. I prefer Saturday but I can do Sunday as well ",
+        "ts": "1468528984.000011",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRZT11T",
+                    "U1KRNHQA1",
+                    "U1KR9BP0E"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "I'm up for tomorrow afternoon (if anyone else is) and Saturday morning.",
+        "ts": "1468532479.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Seems like the preference that works for everyone is sunday morning at 9 am.  See you guys at the courts!",
+        "ts": "1468547287.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "oops i mean SATURDAY MORNING at 9:00 am, sorry!",
+        "ts": "1468547311.000003"
+    }
+]

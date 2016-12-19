@@ -1,0 +1,15 @@
+[
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "thanks <@U1L974M70>",
+        "ts": "1467483883.000002"
+    },
+    {
+        "user": "U1L9669PD",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L9669PD|pmartin> has joined the channel",
+        "ts": "1467493449.000003"
+    }
+]

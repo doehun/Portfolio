@@ -1,0 +1,100 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Lunch and learn is moved to Bodie. ",
+        "ts": "1472486437.000026"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Can someone record the audio? Sorry I can't be there ",
+        "ts": "1472486745.000027"
+    },
+    {
+        "user": "U1L415ECD",
+        "text": "<@U1L415ECD|joeloftus> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472499436.000028"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "Interesting! I'm curious about what all this contains. Is it just the public channels or direct messages too? ",
+        "ts": "1472501435.000030"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "<@U1L6WB44A> Just public channels. The description of the files are in README.txt.  The csv file contains datetime, id, text, reaction, and reaction counts",
+        "ts": "1472501701.000031"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "<@U1KS4UE2F>: Awesome! ",
+        "ts": "1472501737.000032"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "<@U1KRQLFLY> It was super informative. Thank you!",
+        "ts": "1472503273.000035"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "wait, are we done with python classes? like forever?",
+        "ts": "1472520012.000046"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "just realized there's nothing on the calendar this week + subsequent weeks",
+        "ts": "1472520040.000047"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "I assume we have it for data mining, but more curious about the basic language instruction bit",
+        "ts": "1472520121.000048"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "<@U1KQYG6SJ> , I posed a similar question to Dr Labarr and what he told me is pretty much all of the advanced topics we'll be covering later in the semester will be taught with at least two programming languages (SAS and\/or Python and\/or R).  So it's safe to say we will see Python again.",
+        "ts": "1472520327.000050"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1KQYG6SJ>: but you are right in that this is it for pure Python instruction. Like that was our crash course in Python! ",
+        "ts": "1472520375.000051"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1KR9BP0E> yes, looks like it. Sean did a great job today teaching the basics about Objects in Python... I am sure that if there are enough people that want to do a few more of those \"lunch-and-learns\" on Python, it can be easily arranged. Am I right, <@U1KRQLFLY> ? :smile:",
+        "ts": "1472522018.000052"
+    },
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "Definitely <@U1NUU2U9E> ",
+        "ts": "1472522107.000053",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1KSPCE87",
+                    "U1KSL7C10",
+                    "U1KSL7L7R",
+                    "U1L914KNJ"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

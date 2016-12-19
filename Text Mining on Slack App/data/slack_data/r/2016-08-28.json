@@ -1,0 +1,29 @@
+[
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "I'm pretty sure the ! applies to the number after it in this case, rather than joining with the sign. Print (!2), for example, gives FALSE.",
+        "ts": "1472397708.000002"
+    },
+    {
+        "user": "U1L9669PD",
+        "text": "<@U1L9669PD|pmartin> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472427747.000003"
+    },
+    {
+        "user": "U1L0V1X61",
+        "text": "<@U1L0V1X61|raj> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472428751.000004"
+    },
+    {
+        "user": "U1KSR1MS4",
+        "text": "<@U1KSR1MS4|rocky_chen> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472438761.000005"
+    }
+]

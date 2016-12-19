@@ -1,0 +1,228 @@
+[
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "are we planning on running tomorrow morning?",
+        "ts": "1475687579.000070"
+    },
+    {
+        "type": "message",
+        "user": "U1NLH1CP8",
+        "text": "I am!",
+        "ts": "1475695438.000071"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "Yes please!",
+        "ts": "1475695508.000072"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE5NKZ",
+        "text": "Yes!",
+        "ts": "1475695636.000073"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "nice! how far are we gonna go?",
+        "ts": "1475695708.000074"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "More than 1 less than 26",
+        "ts": "1475697099.000075",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRZT11T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "nice, that leaves a high end",
+        "ts": "1475697142.000076"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Awesome, preference to start at institute or elsewhere?",
+        "ts": "1475697222.000077"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "I'm in",
+        "ts": "1475698349.000078"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Doesn't matter as long as I get to campus to shower",
+        "ts": "1475698595.000079"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Ok I will make a route",
+        "ts": "1475698631.000080"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "I was kidding about running 26 miles just in case you weren't sure Tommy ",
+        "ts": "1475698662.000081"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Yeah you never know with tommy",
+        "ts": "1475700745.000082"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "oh don't worry you said 25 not 26",
+        "ts": "1475701380.000083"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "So tomorrows run will start at Pullen Park by the mini train. It will be a 4 mile loop that goes through some places that you guys most likely have not been before. I would study up on the map beforehand so that you know the loop where you will be going.  Let me know if you have any questions",
+        "ts": "1475701632.000084"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "<http:\/\/www.mapmyrun.com\/routes\/view\/1304108104>",
+        "attachments": [
+            {
+                "service_name": "MapMyRun",
+                "title": "Fun Run",
+                "title_link": "http:\/\/www.mapmyrun.com\/routes\/view\/1304108104",
+                "text": "Route from MapMyRun",
+                "fallback": "MapMyRun: Fun Run",
+                "from_url": "http:\/\/www.mapmyrun.com\/routes\/view\/1304108104",
+                "thumb_url": "http:\/\/drzetlglcbfx.cloudfront.net\/routes\/thumbnail\/1304108104?size=200x200",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "http:\/\/d2i3r43q6ffvz8.cloudfront.net\/prod\/public\/images\/min\/icons\/favicons\/run\/apple-touch-icon.d37300696f2f.png",
+                "id": 1
+            }
+        ],
+        "ts": "1475701634.000085"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "4 miles?!",
+        "ts": "1475702732.000087"
+    },
+    {
+        "type": "message",
+        "user": "U1LNGEV0B",
+        "text": "<@U1L5GU954>: can you send me the link we were talking about at lunch so I can sign up for the tough howler thing please? Sorry if I'm the last one to sign up! Didn't know I needed what ever I need lol ",
+        "ts": "1475703023.000088"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Tommy you already put in for 3 teams?  Remind if I need to do something for that.",
+        "ts": "1475703572.000089"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "We should figure out our costumes regardless.",
+        "ts": "1475703582.000090"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "*team costumes",
+        "ts": "1475703593.000091"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "No I only put in my team I can't make teams for you",
+        "ts": "1475703779.000092"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U1LNGEV0B> <@U1LMHQY9E> <@U1L5GU954> we can get our team all set up tomorrow and figure out the details. I don't think any of us have done anything yet ",
+        "ts": "1475704024.000093",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L5GU954",
+                    "U1LMHQY9E"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LNGEV0B",
+        "text": "sounds good! just want to make sure I wasn't missing anything to sign up for it. thanks!",
+        "ts": "1475707927.000094"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE5NKZ",
+        "text": "<@U1KRZT11T> is there parking near the start? (Never been to Pullen Park)",
+        "ts": "1475711166.000095"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "From google maps it looks like there is but I have never driven there",
+        "ts": "1475712519.000096"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE5NKZ",
+        "text": "(tried to match it up to your map)",
+        "ts": "1475713009.000098"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "yea that looks right",
+        "ts": "1475713168.000099"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U1KRE5NKZ>:  There is a parking lot further down western. There is also street parking that is free until 8 if you drive across that bridge we took the other day to the other side of campus and keep going straight. You have to walk through the park to get to the meeting spot then though. ",
+        "ts": "1475713412.000100"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE5NKZ",
+        "text": "Thanks!  ..where are you going to park?",
+        "ts": "1475714169.000101"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U1KRE5NKZ>: probably along pullen road right by campus because that's closer to where I live. But it also might me a 6:25 am decision ",
+        "ts": "1475716633.000102"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Yeah there's a gravel parking lot around some softball fields and it's right at the roundabout near the hillsboro st roundabout ",
+        "ts": "1475716994.000103"
+    }
+]

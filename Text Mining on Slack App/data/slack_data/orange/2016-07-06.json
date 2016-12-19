@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1P8QBBD1",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1P8QBBD1|shpatel7> has joined the channel",
+        "ts": "1467823930.000002"
+    }
+]

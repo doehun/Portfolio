@@ -1,0 +1,128 @@
+[
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "Can anyone swipe me into the parking garage? I forgot I needed my card for this morning ",
+        "ts": "1472551919.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE5NKZ",
+        "text": "<@U1LNGEV0B> we missed you this morning!",
+        "ts": "1472556564.000008",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1NLH1CP8",
+                    "U1N43E3E0",
+                    "U1LNGEV0B"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "would anyone want to do this??",
+        "ts": "1472564373.000009",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L5GU954",
+                    "U1KRZT11T",
+                    "U1N43E3E0",
+                    "U1LNGEV0B"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<http:\/\/www.imleagues.com\/spa\/club\/5e8104afb444441885eb6b0fd41c48d4\/home>",
+        "ts": "1472564375.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "spoilers: it's the link for the tough howler that state is doing in october, could be fun",
+        "ts": "1472564406.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "I'm in, I saw that and thought I shared it, probably one of those times where I don't follow through on good ideas :slightly_smiling_face:",
+        "ts": "1472565575.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "I'm in! When is the sign up?",
+        "ts": "1472566594.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "September 12, so we have two weeks to figure out details.",
+        "ts": "1472567812.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "<@U1KT5F4SZ> I'm interested!",
+        "ts": "1472572093.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1NLH1CP8",
+        "text": "Ooh sounds fun!",
+        "ts": "1472584096.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "It sounds like we may even have enough interest for multiple teams.  Good find Hannah (and Phil apparently)!",
+        "ts": "1472585343.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE5NKZ",
+        "text": ":+1::skin-tone-2:",
+        "ts": "1472589164.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "looks like the sign ups start Sept 12 but you can sign up until October 21",
+        "ts": "1472590283.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "unless maybe there is a limit the number of teams",
+        "ts": "1472590296.000020"
+    },
+    {
+        "user": "U1KRNHQA1",
+        "text": "<@U1KRNHQA1|pavalent> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472590307.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1LNGEV0B",
+        "text": "Sorry I missed you guys this morning! I pulled my calf muscle slightly yesterday and didn't want to make it worse this morning. I'll be there on Thursday though! ",
+        "ts": "1472591589.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1LNGEV0B",
+        "text": "I'm in for the tough howler too!",
+        "ts": "1472591740.000023"
+    }
+]

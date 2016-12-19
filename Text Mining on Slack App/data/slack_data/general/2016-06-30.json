@@ -1,0 +1,137 @@
+[
+    {
+        "user": "U1MPXSHN1",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1MPXSHN1|reidbaughman> has joined the channel",
+        "ts": "1467298887.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1L7RPG1M",
+        "text": "For those of you who will  be around this weekend, I plan on hiking the 5.8 mile Company Mill Trail at Umstead State Park on Sunday afternoon.  Anyone is welcome to join. It should be pretty cool.",
+        "ts": "1467318365.000006",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L1WFNC8",
+                    "U1L2P17DZ",
+                    "U1KRBFY3Z",
+                    "U1L46HXCJ",
+                    "U1KRZT11T",
+                    "U1LBRCSEA",
+                    "U1KQ9523D",
+                    "U1KT3UELS",
+                    "U1LMHQY9E"
+                ],
+                "count": 9
+            },
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U1KQ9523D"
+                ],
+                "count": 1
+            },
+            {
+                "name": "grin",
+                "users": [
+                    "U1KQ9523D"
+                ],
+                "count": 1
+            },
+            {
+                "name": "mountain",
+                "users": [
+                    "U1KQ9523D"
+                ],
+                "count": 1
+            },
+            {
+                "name": "evergreen_tree",
+                "users": [
+                    "U1KQ9523D"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U1KQ9523D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L7RPG1M",
+        "text": "<http:\/\/www.ncparks.gov\/william-b-umstead-state-park\/trails>",
+        "attachments": [
+            {
+                "title": "Trails | NC State Parks",
+                "title_link": "http:\/\/www.ncparks.gov\/william-b-umstead-state-park\/trails",
+                "text": "More than twenty miles of hiking trails provide access to most of William B. Umstead State Park. Visitors may choose between a short stroll along a nature trail or a more extensive hike into the woods. Either choice will be rewarding as the beauty and diversity of the park's natural resources are best seen from any one of its many trails. Some of the trails at the park interconnect; to avoid becoming lost, pay close attention to trail markers. No bikes or horses are allowed on hiking trails.",
+                "fallback": "Trails | NC State Parks",
+                "from_url": "http:\/\/www.ncparks.gov\/william-b-umstead-state-park\/trails",
+                "service_icon": "http:\/\/www.ncparks.gov\/sites\/default\/files\/ncparks\/favicon.ico",
+                "service_name": "ncparks.gov",
+                "id": 1
+            }
+        ],
+        "ts": "1467318380.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "<@U1L7RPG1M>: I'm definitely interested. I live right next to umstead... Love hiking\/biking there.",
+        "ts": "1467319547.000009",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L7RPG1M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L2P17DZ",
+        "text": "I was thinking about going to Umpstead sometime too!",
+        "ts": "1467319692.000010",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L7RPG1M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L46HXCJ",
+        "text": "<@U1L7RPG1M>: I'm down!!!",
+        "ts": "1467325554.000011",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L7RPG1M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1N04S4LV",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1N04S4LV|vsingh5> has joined the channel",
+        "ts": "1467332962.000012"
+    }
+]

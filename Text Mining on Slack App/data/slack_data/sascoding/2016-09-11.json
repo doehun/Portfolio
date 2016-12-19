@@ -1,0 +1,144 @@
+[
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "Have we gone over how to use the validation data to look at forecast accuracy rather than just the training data\/goodness of fit? Anyone have any good resources on doing that?",
+        "ts": "1473614063.000032"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "<@U1L6WB44A> I haven't figured that out either. We have been calculating accuracy in Excel after generating the model parameters using the training data. We are assuming there is a proc score method somehow, but no idea how.",
+        "ts": "1473614266.000033",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L6WB44A"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "<@U1L6WB44A> I read on some SAS user guides that proc esm has a MAPE option but I haven\u2019t figured out the syntax on how to use it. I\u2019ll see if I can find the webpage I was looking at real quick!",
+        "ts": "1473614371.000034",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L6WB44A"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "<http:\/\/support.sas.com\/documentation\/cdl\/en\/etsug\/63939\/HTML\/default\/viewer.htm#etsug_esm_sect019.htm>",
+        "ts": "1473614411.000035"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Did LaBarr provide anyone with guidance on what to do with the missing values in the TimeSeries data?",
+        "ts": "1473620821.000036"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "\"need to fill in the values to make sure you have 24 hours in a day. Otherwise the seasonality calculations will be off. You can impute them a variety of different ways. For example, if you have a temperature at 9 and at 11, then you can rather easily come up with a guess for 10. As long as you explain what you do, you should be fine.\"",
+        "ts": "1473620877.000037"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "<@U1L1D4WG7>",
+        "ts": "1473620882.000038"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Thanks <@U1KRE1L9M> !  Averaging definitely does seem better than the SAS default. Wondering if there is a \"smarter\" process to use (linear trend etc) that LaBarr specifically likes.",
+        "ts": "1473621031.000039"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Even a trend only makes a small difference though... so avg seems like the easiest way to go.",
+        "ts": "1473621057.000040"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1L1D4WG7> , how easy do you find cleaning up data with R? haven't tried it yet, and not looking forward to doing that haha",
+        "ts": "1473621232.000041"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Haven't tried R yet... <@U1M4QJD4P> and <@U1PN82U67> have been tackling that for our team :slightly_smiling_face:",
+        "ts": "1473621504.000042"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1L1D4WG7> i know who sits close to me and i will be bugging with R code on Monday.... ( <@U1PN82U67> :smile: )",
+        "ts": "1473621874.000043"
+    },
+    {
+        "type": "message",
+        "user": "U1KRTHAQZ",
+        "text": "<@U1NUU2U9E>: I've been using Python for data cleaning and I've found it really straightforward",
+        "ts": "1473623213.000044",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1NUU2U9E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "<@U1KRE1L9M>: what is that quote from? Straight from labarr?",
+        "ts": "1473636507.000045"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "<@U1MDE4NAG> yes",
+        "ts": "1473637769.000046"
+    },
+    {
+        "type": "message",
+        "user": "U1L974M70",
+        "text": "What is the difference between the trend and the trend-cycle in the output from:\n\nproc timeseries data=Aug  plots=all seasonality=24 outdecomp=trendaug2;\nvar farenheit;\nrun;",
+        "ts": "1473638923.000047"
+    },
+    {
+        "type": "message",
+        "user": "U1L974M70",
+        "text": "If anyone is curious... the trend is just the trend, whereas the trend-cycle is both the trend and cycle... kind of obvious, but if you are looking to output JUST one or the other use the DECOMP statement, for details check out the pdf here: <https:\/\/support.sas.com\/documentation\/onlinedoc\/ets\/132\/timeseries.pdf>",
+        "ts": "1473645241.000048",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1KSL7C10",
+                    "U1KRB11QC",
+                    "U1L0RBZFH",
+                    "U1L914KNJ"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

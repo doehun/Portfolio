@@ -1,0 +1,50 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRTHAQZ",
+        "text": "<http:\/\/blogs.sas.com\/content\/sasdummy\/2016\/07\/13\/build-your-pokemon-library-using-sas\/>?",
+        "attachments": [
+            {
+                "service_name": "The SAS Dummy",
+                "title": "Build your Pok\u00e9mon library using SAS and the Pok\u00e9api",
+                "title_link": "http:\/\/blogs.sas.com\/content\/sasdummy\/2016\/07\/13\/build-your-pokemon-library-using-sas\/",
+                "text": "Today is #EmbraceYourGeekness day, and you are either reveling in this new crazy town inhabited by Pok\u00e9mon GO, or you are hiding in your house trying to avoid all of the Pok\u00e9mon GO zombies wandering around.",
+                "fallback": "The SAS Dummy: Build your Pok\u00e9mon library using SAS and the Pok\u00e9api",
+                "thumb_url": "http:\/\/blogs.sas.com\/content\/sasdummy\/wp-content\/blogs.dir\/23\/files\/userphoto\/53.png",
+                "from_url": "http:\/\/blogs.sas.com\/content\/sasdummy\/2016\/07\/13\/build-your-pokemon-library-using-sas\/",
+                "thumb_width": 150,
+                "thumb_height": 150,
+                "service_icon": "http:\/\/blogs.sas.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1468504732.000002",
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U1L8PJY4W",
+                    "U1MDHNYR5",
+                    "U1L7G5LR4",
+                    "U1LBRCSEA",
+                    "U1KT2JJE8"
+                ],
+                "count": 5
+            },
+            {
+                "name": "nerd_face",
+                "users": [
+                    "U1PF7HWTF",
+                    "U1KT9ATA5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "To whoever is interested, I've got a group of friends that plays ultimate frisbee on Fridays at 6 at Herndon park in Durham.  If anyone is interested let me know!",
+        "ts": "1468520521.000004"
+    }
+]

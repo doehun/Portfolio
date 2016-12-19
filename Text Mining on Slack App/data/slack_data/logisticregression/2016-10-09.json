@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1L97TR38",
+        "text": "<@U1L97TR38|scottdiebold> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1476045184.000428"
+    },
+    {
+        "user": "U1M37FW5U",
+        "text": "<@U1M37FW5U|alex_curcio> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1476056245.000429"
+    }
+]

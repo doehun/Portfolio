@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1PM77VSS",
+        "text": "<@U1PM77VSS|hpjones> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472736655.000002"
+    }
+]

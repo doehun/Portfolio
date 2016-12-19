@@ -1,0 +1,26 @@
+[
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<!channel> wednesday afternoon?",
+        "ts": "1476805659.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "5? ",
+        "ts": "1476810316.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "Sure",
+        "ts": "1476814249.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "Sure",
+        "ts": "1476815955.000005"
+    }
+]

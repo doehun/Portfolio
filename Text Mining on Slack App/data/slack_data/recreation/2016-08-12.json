@@ -1,0 +1,26 @@
+[
+    {
+        "user": "U1LAAMJ0M",
+        "text": "<@U1LAAMJ0M|carlanderson> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470993350.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "Soccer Sunday Miller fields, 5pm",
+        "ts": "1471035617.000003",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRNHQA1",
+                    "U1KSYP1M5",
+                    "U1KRE1L9M"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

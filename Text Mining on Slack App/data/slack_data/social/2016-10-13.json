@@ -1,0 +1,257 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "My wife and I are considering going to Rum Runners tomorrow night for dueling pianos. Would anyone else be interested in going?",
+        "ts": "1476381282.000347",
+        "reactions": [
+            {
+                "name": "party_ed",
+                "users": [
+                    "U1L3PU7BJ",
+                    "U1KRE1L9M"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1NUU2U9E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "what is this dueling pianos you speak of?",
+        "ts": "1476381796.000349"
+    },
+    {
+        "type": "message",
+        "user": "U1L1WFNC8",
+        "text": "I'm not sure if it is every day or just Wednesday's <@U1KRE1L9M> ",
+        "ts": "1476381840.000350"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Rum Runners does dueling pianos every day... or at least I know they also do Fridays <@U1L1WFNC8>",
+        "ts": "1476381936.000352"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "11:30 am to 2:00am with deals like that sounds dangerous",
+        "edited": {
+            "user": "U1LMHQY9E",
+            "ts": "1476382068.000000"
+        },
+        "ts": "1476382053.000353",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1KT5F4SZ",
+                    "U1LBRCSEA",
+                    "U1KSH8676",
+                    "U1KRB11QC"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1WFNC8",
+        "text": "Niicee, I did not know",
+        "ts": "1476382084.000355"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "<@U1KRE1L9M> what time are y'all thinking of going?",
+        "ts": "1476382822.000356"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "11:30 am",
+        "ts": "1476382933.000357",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KSH8676",
+                    "U1KQYG6SJ",
+                    "U1L9DD1NY",
+                    "U1L3PU7BJ",
+                    "U1KRLV1CG",
+                    "U1KQGRG2F",
+                    "U1NUU2U9E"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "#priorities",
+        "ts": "1476382942.000358"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "bold move <@U1LMHQY9E>",
+        "ts": "1476382949.000359"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "fashionably early",
+        "ts": "1476382965.000360",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KSL7L7R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Its always happy hour for <@U1LMHQY9E> <#C2LR2BGT1|happyhour>",
+        "edited": {
+            "user": "U1KRB11QC",
+            "ts": "1476383055.000000"
+        },
+        "ts": "1476382988.000361",
+        "reactions": [
+            {
+                "name": "small_edward_lim",
+                "users": [
+                    "U1LMHQY9E",
+                    "U1N43E3E0",
+                    "U1KSL7L7R",
+                    "U1L9DD1NY"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "No idea on time--whatever works for people. 11:30 might be too early this weekend, but I'm sure one weekend in the future we'll break early enough...",
+        "ts": "1476383416.000363"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "Also happening on Saturday: <http:\/\/humsub.net\/our-event\/cary-diwali\/>  This is for the Indian Festival of Lights. If you plan on attending, I would recommend coming in the evening (5pm onwards) - that's when the \"better\" performances begin.  And... there's food, too!",
+        "attachments": [
+            {
+                "title": "Cary Diwali | Hum Sub",
+                "title_link": "http:\/\/humsub.net\/our-event\/cary-diwali\/",
+                "text": "Hum Sub is a non-profit organization dedicated to share the social and cultural traditions of India with residents of the Research Triangle area of North Carolina.",
+                "fallback": "Cary Diwali | Hum Sub",
+                "from_url": "http:\/\/humsub.net\/our-event\/cary-diwali\/",
+                "service_name": "humsub.net",
+                "id": 1
+            }
+        ],
+        "ts": "1476386124.000364",
+        "reactions": [
+            {
+                "name": "fireworks",
+                "users": [
+                    "U1KRWJB7S",
+                    "U1L9DD1NY",
+                    "U1L735VD4",
+                    "U1P8QBBD1"
+                ],
+                "count": 4
+            },
+            {
+                "name": "candle",
+                "users": [
+                    "U1KRWJB7S",
+                    "U1L9DD1NY",
+                    "U1L735VD4",
+                    "U1P8QBBD1"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1L0V1X61> i'll be there! my cousin is dancing :slightly_smiling_face:",
+        "ts": "1476389132.000366"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "YALL -- the pool in my neighborhood is closing on Saturday so management is opening it for dogs from 4:30 - 6 tomorrow. If you have a dog that likes to swim or if watching a bunch of dogs swim together sounds like fun to you, I'm heading there around 5. I live in Woodland Court off Gorman :dog2:",
+        "ts": "1476413449.000367",
+        "reactions": [
+            {
+                "name": "dog2",
+                "users": [
+                    "U1KRQLFLY",
+                    "U1L9DD1NY"
+                ],
+                "count": 2
+            },
+            {
+                "name": "dog",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1KQGRG2F",
+                    "U1L914KNJ",
+                    "U1L9DD1NY",
+                    "U1LBRCSEA",
+                    "U1LMHQY9E"
+                ],
+                "count": 6
+            },
+            {
+                "name": "raising_hand",
+                "users": [
+                    "U1L46HXCJ",
+                    "U1KQGRG2F",
+                    "U1L9DD1NY"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "this might've been more random than social",
+        "ts": "1476413485.000368"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "It's social for the dogs, <@U1L3PU7BJ>",
+        "ts": "1476418499.000369",
+        "reactions": [
+            {
+                "name": "beers",
+                "users": [
+                    "U1L3PU7BJ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

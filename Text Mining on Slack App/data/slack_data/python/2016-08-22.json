@@ -1,0 +1,106 @@
+[
+    {
+        "user": "U1L90S3QC",
+        "text": "<@U1L90S3QC|cwstjeor> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471875081.000032"
+    },
+    {
+        "user": "U1L6WB44A",
+        "text": "<@U1L6WB44A|ekdoyel> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471880229.000033"
+    },
+    {
+        "user": "U1KVBARR9",
+        "text": "<@U1KVBARR9|sneha.bhalodia> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471898312.000034"
+    },
+    {
+        "user": "U1L0V1X61",
+        "text": "<@U1L0V1X61|raj> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471905269.000035"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "In case you have issues using the code provided to invoke the Weather Underground API - remember that you may need to run some import statements",
+        "ts": "1471905829.000036"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "You can find this info in the Weather Underground Code Samples - I think that's all I am \"permitted\" to say :slightly_smiling_face:",
+        "ts": "1471905888.000037",
+        "reactions": [
+            {
+                "name": "zipper_mouth_face",
+                "users": [
+                    "U1KT9ATA5",
+                    "U1KRB11QC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1KRB11QC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "Does anyone know what Dr. Healey is referring to in the homework here: \"Parse the JSON (JavaScript Object Notation) returned by the API to extract the full location name loc\"?\n\nI see a bunch of location variables, but I don't see any named 'loc'.",
+        "edited": {
+            "user": "U1KRSV7AN",
+            "ts": "1471917688.000000"
+        },
+        "ts": "1471917669.000038"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1KRSV7AN> if you scroll down the page, you will see a variable named 'loc'... it is a list of Cities for which you need to get the data. So in the example call to the API we get the info about Kelowna, CA. Now the challenge is to get the info for EVERY city in the list 'loc'. Does that make any sense?",
+        "ts": "1471918977.000040"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "I hope i understood your question correctly :smile:",
+        "ts": "1471919014.000041"
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "Oh jeese...Yes, that makes sense. I thought he meant a location variable in the actual json. <@U1NUU2U9E>, thank you!",
+        "ts": "1471919028.000042"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1KRSV7AN> glad i was able to help!",
+        "ts": "1471919071.000043"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1KRSV7AN> so as i am going through the problem im realizing that i didn't give you the full answer... in the loc list we have abbreviations, such as \"GH\/Accra.json\"... you need to look through the JSON that you get back from Wunderground's API to print \"Accra, Ghana\". I think that is what he means by \"extracting full location from loc\".",
+        "ts": "1471921164.000044"
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "That's the assumption I made, too. Thanks!",
+        "ts": "1471921498.000045"
+    }
+]

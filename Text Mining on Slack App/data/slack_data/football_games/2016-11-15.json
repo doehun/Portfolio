@@ -1,0 +1,93 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "For those who have tickets, James and I will be going to get parking passes at wolfridge at 3:45 tomorrow afternoon. Lets make this tailgate awesome! One final hoorah! Also <@U1KRNHQA1> will spike ball finally make an appearance? :upside_down_face:",
+        "ts": "1479227018.000007",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U1LBRCSEA",
+                    "U1L5GU954"
+                ],
+                "count": 2
+            },
+            {
+                "name": "football",
+                "users": [
+                    "U1LBRCSEA",
+                    "U1L5GU954"
+                ],
+                "count": 2
+            },
+            {
+                "name": "beers",
+                "users": [
+                    "U1LBRCSEA",
+                    "U1KRNHQA1",
+                    "U1L5GU954"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "I will try my best to make it happen",
+        "ts": "1479227088.000008",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U1KRB11QC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "<@U1KRB11QC> it's my first NCSU tailgate, anything needed from me there?  Or do you think those two cars will be enough it we carpool?",
+        "ts": "1479227232.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1L46HXCJ",
+        "text": "I can come with yall to get a pass and also drive if enough people are going!",
+        "ts": "1479227630.000010",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U1KRB11QC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "We should organize food\/games if people are interested in that. <@U1N43E3E0> We will also need to organize a time for everyone to get there together so our cars are next to each other",
+        "edited": {
+            "user": "U1KRB11QC",
+            "ts": "1479230447.000000"
+        },
+        "ts": "1479230412.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "Going to Reynolds Coliseum at 9 tomorrow :stadium:",
+        "ts": "1479257149.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "If anyone happens to have 1 more extra ticket, my sister wants to go too :)",
+        "ts": "1479263605.000014"
+    }
+]

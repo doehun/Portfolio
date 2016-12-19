@@ -1,0 +1,35 @@
+[
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "Raj for President",
+        "ts": "1476369523.000002",
+        "reactions": [
+            {
+                "name": "crown",
+                "users": [
+                    "U1L2P17DZ",
+                    "U1KR891RC",
+                    "U1L46HXCJ",
+                    "U1KRHCR7T",
+                    "U1L3G0YRJ",
+                    "U1M7AD5L2",
+                    "U1KRNH021",
+                    "U1L9DD1NY",
+                    "U1LAAMJ0M",
+                    "U1MBURU4D"
+                ],
+                "count": 10
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1LBRCSEA",
+                    "U1L9DD1NY"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,326 @@
+[
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "one more spot left",
+        "ts": "1477593493.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1NDG6ULB",
+        "text": "<@U1L7RPG1M>",
+        "ts": "1477594640.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "meant 1 more after carson",
+        "ts": "1477594755.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1L7RPG1M",
+        "text": "<mailto:cdfutch@ncsu.edu|cdfutch@ncsu.edu>",
+        "ts": "1477601103.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1L7RPG1M",
+        "text": "<@U2LA4671B>  : Yo, Hoss! Wanna play fantasy basketball?",
+        "ts": "1477609620.000006"
+    },
+    {
+        "user": "U2LA4671B",
+        "inviter": "U1L7RPG1M",
+        "text": "<@U2LA4671B|brandonbarbour> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477609627.000007"
+    },
+    {
+        "user": "U1KRB11QC",
+        "text": "<@U1KRB11QC|dsjorda2> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1477611685.000008"
+    },
+    {
+        "type": "message",
+        "user": "U2LA4671B",
+        "text": "never played fantasy basketball before.... but I'll give it a shot if you've still need someone",
+        "ts": "1477613896.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U2LA4671B> send me your email address you want the invite sent to",
+        "ts": "1477613992.000010"
+    },
+    {
+        "type": "message",
+        "user": "U2LA4671B",
+        "text": "<mailto:brandon.barbour@gmail.com|brandon.barbour@gmail.com>",
+        "ts": "1477614307.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "that makes 12 once <@U1PF7HWTF> and <@U1KSL7L7R> join",
+        "ts": "1477614359.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "i will send out a doodle invite with draft times. shouldnt take more than an hour",
+        "ts": "1477614385.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "if i am not mistaken you can draft from the espn fantasy app as well",
+        "ts": "1477614398.000014"
+    },
+    {
+        "type": "message",
+        "user": "U2LA4671B",
+        "text": "so how does the lineup work",
+        "ts": "1477614751.000015"
+    },
+    {
+        "type": "message",
+        "user": "U2LA4671B",
+        "text": "I saw that..",
+        "ts": "1477614799.000017"
+    },
+    {
+        "type": "message",
+        "user": "U2LA4671B",
+        "text": "I mean when do you set it, when can you change it, things like that",
+        "ts": "1477614813.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "oh sorry",
+        "ts": "1477614821.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "you will set it daily, not every player plays every day",
+        "ts": "1477614830.000020"
+    },
+    {
+        "type": "message",
+        "user": "U2LA4671B",
+        "text": "gotcha",
+        "ts": "1477614836.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "you can swap players out before their game starts",
+        "ts": "1477614849.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "and you can also add off the waiver before the first game of that day",
+        "ts": "1477614862.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "but once any game has begun on that day, you wont be able to start whoever you pick up until the next day",
+        "ts": "1477614884.000024"
+    },
+    {
+        "type": "message",
+        "user": "U2LA4671B",
+        "text": "ok... so it's a day lock",
+        "ts": "1477614906.000026"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "yep",
+        "ts": "1477614909.000027"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "for waivers...not for your players themselves",
+        "ts": "1477614923.000028"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "if that makes sense",
+        "ts": "1477614928.000029"
+    },
+    {
+        "type": "message",
+        "user": "U2LA4671B",
+        "text": "I think so",
+        "ts": "1477614932.000030"
+    },
+    {
+        "type": "message",
+        "user": "U2LA4671B",
+        "text": "I will ask about some detail in the morning",
+        "ts": "1477614940.000031"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "ok",
+        "ts": "1477614943.000032"
+    },
+    {
+        "type": "message",
+        "user": "U2LA4671B",
+        "text": "but I think I've got it",
+        "ts": "1477614945.000033"
+    },
+    {
+        "type": "message",
+        "user": "U2LA4671B",
+        "text": "Thanks for the invite",
+        "ts": "1477614980.000034"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "no prob",
+        "ts": "1477614998.000035"
+    },
+    {
+        "type": "message",
+        "user": "U1L7RPG1M",
+        "text": "<!channel> : Who's drafting Javale McGee?",
+        "ts": "1477615228.000036"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "my advice for first-timers, check out the player rater...it assigns players an overall score based on how they contribute in all categories, you can be beast in one category or decent at a bunch",
+        "ts": "1477615312.000037"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "but if you only score points you will get a crappy player rating",
+        "ts": "1477615338.000038"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "points aren't everything, it isnt like fantasy football",
+        "ts": "1477615355.000040"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<https:\/\/www.youtube.com\/watch?v=f69IDWEyBek>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Shaqtin' A Fool - The Best of the Worst of JaVale McGee",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=f69IDWEyBek",
+                "author_name": "jslv94",
+                "author_link": "https:\/\/www.youtube.com\/user\/Lakernation94",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/f69IDWEyBek\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Shaqtin' A Fool - The Best of the Worst of JaVale McGee",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/f69IDWEyBek?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=f69IDWEyBek",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1477615399.000041"
+    },
+    {
+        "type": "message",
+        "user": "U1L7RPG1M",
+        "text": "So James Harden shouldn't be selected?",
+        "ts": "1477615406.000043"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "nah he's trash...basically everyone in the top 10 sucks but i will pick them up so you dont have to",
+        "ts": "1477615477.000044",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KSL7L7R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L7RPG1M",
+        "text": "Cool. If I draft #1 I'll take Westbrook and trade him to you for Swaggy P.",
+        "ts": "1477615690.000045"
+    },
+    {
+        "type": "message",
+        "user": "U1NDG6ULB",
+        "text": "Harden for MVP ",
+        "ts": "1477615771.000046"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "anthony davis had 50, 16, 5, 7, and 4 so def. dont draft him",
+        "ts": "1477615879.000047"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<!channel> just sent the doodle poll. if we can get the draft in before monday then we will only miss one week of the season - i will probably have to adjust it either way",
+        "ts": "1477616564.000048"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "are we going to make bets?",
+        "ts": "1477617365.000049"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "if i beat you, you can do all my python coding",
+        "ts": "1477617448.000050"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "but i cant get better at python without practice t-t",
+        "ts": "1477618241.000053"
+    },
+    {
+        "type": "message",
+        "user": "U1NDG6ULB",
+        "text": "Winner takes all ",
+        "ts": "1477620745.000054",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KS4UE2F",
+                    "U1KSL7L7R"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

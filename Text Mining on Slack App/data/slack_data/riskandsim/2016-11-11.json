@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1L6WB44A",
+        "text": "<@U1L6WB44A|ekdoyel> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478877445.000055"
+    },
+    {
+        "user": "U1MDE4NAG",
+        "text": "<@U1MDE4NAG|michaelbyman> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478919551.000056"
+    }
+]

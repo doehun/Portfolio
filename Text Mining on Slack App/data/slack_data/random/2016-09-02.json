@@ -1,0 +1,57 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Am I dreaming or is today's high really 73? :raised_hands::skin-tone-5::raised_hands::skin-tone-5:",
+        "ts": "1472813540.000021",
+        "reactions": [
+            {
+                "name": "maple_leaf",
+                "users": [
+                    "U1L0RBZFH",
+                    "U1LBRCSEA",
+                    "U1L9DD1NY",
+                    "U1KRB11QC",
+                    "U1KR9BP0E",
+                    "U1LAAMJ0M",
+                    "U1KSL7L7R",
+                    "U1L41DF9D"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "It's Celsius",
+        "ts": "1472816307.000022",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1L0V1X61",
+                    "U1KRLV1CG",
+                    "U1KT9ATA5",
+                    "U1KQGK2CB",
+                    "U1KS4UE2F",
+                    "U1LBRCSEA",
+                    "U1KRNH021",
+                    "U1KRB11QC",
+                    "U1L2P17DZ",
+                    "U1L40P4N9",
+                    "U1L7RPG1M",
+                    "U1KSL7L7R"
+                ],
+                "count": 13
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "lol",
+        "ts": "1472818125.000023"
+    }
+]

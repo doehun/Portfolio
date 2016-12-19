@@ -1,0 +1,105 @@
+[
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "Friday afternoon ball at 2pm?",
+        "ts": "1475629431.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "3:30!",
+        "ts": "1475629469.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "i can do 230",
+        "ts": "1475629480.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "i have a meeting 1-2",
+        "ts": "1475629486.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "My meeting ends at 4 and can be there then",
+        "ts": "1475629888.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "6:30",
+        "ts": "1475629913.000007",
+        "reactions": [
+            {
+                "name": "-1",
+                "users": [
+                    "U1KT9ATA5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "whoa",
+        "ts": "1475630102.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "I prefer 6:30 AM aswell.",
+        "ts": "1475630309.000009",
+        "reactions": [
+            {
+                "name": "-1",
+                "users": [
+                    "U1KT9ATA5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "I'm fine with whatever time",
+        "ts": "1475630765.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "I'd like 6:30 AM as well.",
+        "ts": "1475631500.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1PF7HWTF",
+        "text": "Going bowling with practicum team In the afternoon :\/ Trying to become more well rounded as an athlete ",
+        "ts": "1475631669.000012",
+        "reactions": [
+            {
+                "name": "bowling",
+                "users": [
+                    "U1KT9ATA5",
+                    "U1KRTHAQZ",
+                    "U1L3PU7BJ",
+                    "U1L974M70"
+                ],
+                "count": 4
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U1LMHQY9E"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

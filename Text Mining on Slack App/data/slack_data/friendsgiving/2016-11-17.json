@@ -1,0 +1,155 @@
+[
+    {
+        "user": "U1L974M70",
+        "text": "<@U1L974M70|brshallo> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479444005.000002"
+    },
+    {
+        "user": "U1L974M70",
+        "purpose": "Friendship, Giving, Thanks.",
+        "text": "<@U1L974M70|brshallo> set the channel purpose: Friendship, Giving, Thanks.",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1479444005.000003"
+    },
+    {
+        "user": "U1KRS3S3X",
+        "inviter": "U1L974M70",
+        "text": "<@U1KRS3S3X|demoore> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479444005.000004"
+    },
+    {
+        "user": "U1KQGK2CB",
+        "inviter": "U1L974M70",
+        "text": "<@U1KQGK2CB|loganteal> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479444005.000005"
+    },
+    {
+        "user": "U1KRZT11T",
+        "inviter": "U1L974M70",
+        "text": "<@U1KRZT11T|tommy_darlington> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479444005.000006"
+    },
+    {
+        "user": "U1KRB11QC",
+        "inviter": "U1L974M70",
+        "text": "<@U1KRB11QC|dsjorda2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479444005.000007"
+    },
+    {
+        "user": "U1KRBFY3Z",
+        "inviter": "U1L974M70",
+        "text": "<@U1KRBFY3Z|sylviebrick> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479444005.000008"
+    },
+    {
+        "user": "U1KT5F4SZ",
+        "inviter": "U1L974M70",
+        "text": "<@U1KT5F4SZ|hannahh> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479444005.000009"
+    },
+    {
+        "user": "U1KQGRG2F",
+        "inviter": "U1L974M70",
+        "text": "<@U1KQGRG2F|annabelytics> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479444005.000010"
+    },
+    {
+        "user": "U1KRWUXFU",
+        "inviter": "U1L974M70",
+        "text": "<@U1KRWUXFU|jdemarest> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479444005.000011"
+    },
+    {
+        "user": "U1MDE4NAG",
+        "inviter": "U1L974M70",
+        "text": "<@U1MDE4NAG|michaelbyman> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479444005.000012"
+    },
+    {
+        "user": "U1L415ECD",
+        "inviter": "U1L974M70",
+        "text": "<@U1L415ECD|joeloftus> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479444005.000013"
+    },
+    {
+        "user": "U1L3G0YRJ",
+        "inviter": "U1L974M70",
+        "text": "<@U1L3G0YRJ|emmyburnett> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479444005.000014"
+    },
+    {
+        "user": "U1L46HXCJ",
+        "inviter": "U1L974M70",
+        "text": "<@U1L46HXCJ|kateykilmer> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479444006.000015"
+    },
+    {
+        "user": "U1L5GU954",
+        "inviter": "U1L974M70",
+        "text": "<@U1L5GU954|jrweston> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479444006.000016"
+    },
+    {
+        "user": "U1KSYP1M5",
+        "inviter": "U1L974M70",
+        "text": "<@U1KSYP1M5|madison> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479444006.000017"
+    },
+    {
+        "user": "U1KRLV1CG",
+        "inviter": "U1L974M70",
+        "text": "<@U1KRLV1CG|ioannis_loukakis> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479444006.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1L974M70",
+        "text": "<!channel> Hello Friends.  We look forward to hosting and feasting with you all tomorrow.  A couple of notes:\n-Please BYOB (David, Logan and I purchased a box of wine, but that is all)\n-We are 5 chairs short.  Please post here if you have any fold-ups\/can BYOC.",
+        "ts": "1479444600.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "I have 2 camp chairs I can bring",
+        "ts": "1479445187.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "<@U1L974M70>: I also have a camp chair i can bring ",
+        "ts": "1479445243.000021"
+    }
+]

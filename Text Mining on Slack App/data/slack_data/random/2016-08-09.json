@@ -1,0 +1,23 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "Ok I don't know if they have soup dumplings or deliver, but David's Dumpling and Noodle Bar is decent.",
+        "ts": "1470767171.000004",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KS4UE2F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Thanks Andrew!",
+        "ts": "1470774652.000005"
+    }
+]

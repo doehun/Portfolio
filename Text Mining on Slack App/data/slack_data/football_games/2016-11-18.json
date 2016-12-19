@@ -1,0 +1,148 @@
+[
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "Does anyone have an extra ticket for the game tomorrow? I am trying to get one for my brother",
+        "ts": "1479488578.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "i do! <@U1KSL7L7R>  :slightly_smiling_face:",
+        "ts": "1479488651.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "There are a few people who want to tailgate starting at 9. So we are going to meet at wolfridge around 8:30 to drive over to the lot tomorrow morning ",
+        "ts": "1479504394.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1KT5F4SZ>: <@U1L415ECD> <@U1L5GU954> ",
+        "ts": "1479504442.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": ":+1:",
+        "ts": "1479504467.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": ":+1: ",
+        "ts": "1479505515.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": ":+1:",
+        "ts": "1479507232.000025"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": ":+1:",
+        "ts": "1479507265.000026"
+    },
+    {
+        "user": "U1L6WB44A",
+        "text": "<@U1L6WB44A|ekdoyel> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479508446.000027",
+        "reactions": [
+            {
+                "name": "football",
+                "users": [
+                    "U1KRNHQA1",
+                    "U1LBRCSEA",
+                    "U1N43E3E0",
+                    "U1KRB11QC"
+                ],
+                "count": 4
+            },
+            {
+                "name": "celebration",
+                "users": [
+                    "U1KRB11QC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": ":thumbsup: :thumbsup:",
+        "ts": "1479509625.000028",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1N43E3E0",
+                    "U1KRB11QC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "text": "Awesome!",
+        "type": "message",
+        "subtype": "slackbot_response",
+        "user": "USLACKBOT",
+        "ts": "1479509625.000029"
+    },
+    {
+        "type": "message",
+        "user": "U1LK46TUJ",
+        "text": "Ended up getting a ticket! Does any car happen to have a spot left? I can try to meet up there otherwise!",
+        "ts": "1479520408.000030",
+        "reactions": [
+            {
+                "name": "celebration",
+                "users": [
+                    "U1KRB11QC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U1LK46TUJ>: I have one spot!",
+        "ts": "1479520887.000031"
+    },
+    {
+        "type": "message",
+        "user": "U1LK46TUJ",
+        "text": "<@U1KT5F4SZ>: oh perfect, thanks! I'd love to join then!",
+        "ts": "1479521298.000032"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U1LK46TUJ>: of course! Just meet us around 8:30 at wolf ridge ",
+        "ts": "1479521380.000033",
+        "reactions": [
+            {
+                "name": "wolf",
+                "users": [
+                    "U1N43E3E0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1LK46TUJ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

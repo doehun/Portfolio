@@ -1,0 +1,27 @@
+[
+    {
+        "user": "U1Q5GHC2J",
+        "text": "<@U1Q5GHC2J|rwang10> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478980882.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1Q5GHC2J",
+        "text": "One trick can be useful:\nTo import data from excel, you can actually do copy and paste in a \"R\" way. use this:\n data = read.table(\"clipboard\")\nYou need to copy the data in excel spread sheet first, then the \"clipboard\" piece of code acts as \"paste\". This can be really helpful if you only want to look at a small part of data. Just like our simulation hw where you only want 48 observations.",
+        "ts": "1478981197.000007",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1KRWUXFU",
+                    "U1KSL7L7R",
+                    "U1KSGHLPJ",
+                    "U1L1WFNC8"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

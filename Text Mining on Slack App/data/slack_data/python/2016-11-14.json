@@ -1,0 +1,277 @@
+[
+    {
+        "type": "message",
+        "user": "U1KSGHLPJ",
+        "text": "Installing XGBOOST to Python - 4 steps: <https:\/\/www.kaggle.com\/c\/allstate-claims-severity\/forums\/t\/24419\/installing-xgboost-version-0-6-0-on-windows\/139694> - use the post by Mathusuthan Kannan",
+        "attachments": [
+            {
+                "title": "Installing XGboost version 0.6-0 on Windows  - Allstate Claims Severity | Kaggle",
+                "title_link": "https:\/\/www.kaggle.com\/c\/allstate-claims-severity\/forums\/t\/24419\/installing-xgboost-version-0-6-0-on-windows\/139694",
+                "text": "Kaggle is your home for data science. Learn new skills, build your career, collaborate with other data scientists, and compete in world-class machine learning challenges.",
+                "fallback": "Installing XGboost version 0.6-0 on Windows  - Allstate Claims Severity | Kaggle",
+                "from_url": "https:\/\/www.kaggle.com\/c\/allstate-claims-severity\/forums\/t\/24419\/installing-xgboost-version-0-6-0-on-windows\/139694",
+                "service_icon": "https:\/\/www.kaggle.com\/content\/v\/1e4cdaa83f46\/kaggle\/img\/apple-touch-icon.png",
+                "service_name": "kaggle.com",
+                "id": 1
+            }
+        ],
+        "ts": "1479175826.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1KSGHLPJ",
+        "text": "<@U1KT9ATA5>  - above is the easiest method I could find.",
+        "ts": "1479175856.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": ":+1: ",
+        "ts": "1479177816.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "After messing with this for over an hour, in order to install the 0.6 version you need this link <http:\/\/www.picnet.com.au\/blogs\/guido\/post\/2016\/09\/22\/xgboost-windows-x64-binaries-for-download\/>\nand the following 4 steps. SUPER SIMPLE.",
+        "ts": "1479186341.000023"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1NUU2U9E|kb5522> uploaded a file: <https:\/\/msa17.slack.com\/files\/kb5522\/F32LGANF6\/pasted_image_at_2016_11_15_12_05_am.png|Pasted image at 2016-11-15, 12:05 AM>",
+        "file": {
+            "id": "F32LGANF6",
+            "created": 1479186344,
+            "timestamp": 1479186344,
+            "name": "Pasted image at 2016_11_15 12_05 AM.png",
+            "title": "Pasted image at 2016-11-15, 12:05 AM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U1NUU2U9E",
+            "editable": false,
+            "size": 48466,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F32LGANF6\/pasted_image_at_2016_11_15_12_05_am.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F32LGANF6\/download\/pasted_image_at_2016_11_15_12_05_am.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32LGANF6-a4fcbf198f\/pasted_image_at_2016_11_15_12_05_am_64.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32LGANF6-a4fcbf198f\/pasted_image_at_2016_11_15_12_05_am_80.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32LGANF6-a4fcbf198f\/pasted_image_at_2016_11_15_12_05_am_360.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360_w": 360,
+            "thumb_360_h": 125,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32LGANF6-a4fcbf198f\/pasted_image_at_2016_11_15_12_05_am_480.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_480_w": 480,
+            "thumb_480_h": 167,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32LGANF6-a4fcbf198f\/pasted_image_at_2016_11_15_12_05_am_160.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F32LGANF6-a4fcbf198f\/pasted_image_at_2016_11_15_12_05_am_720.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_720_w": 720,
+            "thumb_720_h": 251,
+            "image_exif_rotation": 1,
+            "original_w": 870,
+            "original_h": 303,
+            "permalink": "https:\/\/msa17.slack.com\/files\/kb5522\/F32LGANF6\/pasted_image_at_2016_11_15_12_05_am.png",
+            "permalink_public": "https:\/\/slack-files.com\/T1KRCES8H-F32LGANF6-fc23ffc2df",
+            "channels": [
+                "C1WNCHYSC"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U1NUU2U9E",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1NUU2U9E|kb5522>",
+        "bot_id": null,
+        "ts": "1479186410.000025"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U1NUU2U9E",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[November 14th, 2016 9:05 PM] kb5522: After messing with this for over an hour, in order to install the 0.6 version you need this link <http:\/\/www.picnet.com.au\/blogs\/guido\/post\/2016\/09\/22\/xgboost-windows-x64-binaries-for-download\/>\nand the following 4 steps. SUPER SIMPLE.",
+                "ts": "1479186341.000023",
+                "author_subname": "kb5522",
+                "channel_id": "C1WNCHYSC",
+                "channel_name": "python",
+                "is_msg_unfurl": true,
+                "text": "After messing with this for over an hour, in order to install the 0.6 version you need this link <http:\/\/www.picnet.com.au\/blogs\/guido\/post\/2016\/09\/22\/xgboost-windows-x64-binaries-for-download\/>\nand the following 4 steps. SUPER SIMPLE.",
+                "author_name": "Kosta Blank",
+                "author_link": "https:\/\/msa17.slack.com\/team\/kb5522",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-07-10\/58388719926_03268b54a49f3190cb6a_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U1NUU2U9E|kb5522> pinned a message to this channel.",
+        "ts": "1479187884.000027"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1NUU2U9E|kb5522> uploaded a file: <https:\/\/msa17.slack.com\/files\/kb5522\/F339622B1\/pasted_image_at_2016_11_15_12_34_am.png|Pasted image at 2016-11-15, 12:34 AM> and commented: If anyone is trying to run R from within Python:\nFollow the top answer from <http:\/\/stackoverflow.com\/questions\/5068760\/bizzarre-issue-trying-to-make-rpy2-2-1-9-work-with-r-2-12-1-using-python-2-6-un>",
+        "file": {
+            "id": "F339622B1",
+            "created": 1479188082,
+            "timestamp": 1479188082,
+            "name": "Pasted image at 2016_11_15 12_34 AM.png",
+            "title": "Pasted image at 2016-11-15, 12:34 AM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U1NUU2U9E",
+            "editable": false,
+            "size": 73174,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F339622B1\/pasted_image_at_2016_11_15_12_34_am.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F339622B1\/download\/pasted_image_at_2016_11_15_12_34_am.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F339622B1-8fd8e698fe\/pasted_image_at_2016_11_15_12_34_am_64.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F339622B1-8fd8e698fe\/pasted_image_at_2016_11_15_12_34_am_80.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F339622B1-8fd8e698fe\/pasted_image_at_2016_11_15_12_34_am_360.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360_w": 360,
+            "thumb_360_h": 107,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F339622B1-8fd8e698fe\/pasted_image_at_2016_11_15_12_34_am_480.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_480_w": 480,
+            "thumb_480_h": 143,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F339622B1-8fd8e698fe\/pasted_image_at_2016_11_15_12_34_am_160.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F339622B1-8fd8e698fe\/pasted_image_at_2016_11_15_12_34_am_720.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_720_w": 720,
+            "thumb_720_h": 215,
+            "image_exif_rotation": 1,
+            "original_w": 932,
+            "original_h": 278,
+            "permalink": "https:\/\/msa17.slack.com\/files\/kb5522\/F339622B1\/pasted_image_at_2016_11_15_12_34_am.png",
+            "permalink_public": "https:\/\/slack-files.com\/T1KRCES8H-F339622B1-92d3d00dc0",
+            "channels": [
+                "C1WNCHYSC"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc32GDBANP",
+                "created": 1479188082,
+                "timestamp": 1479188082,
+                "user": "U1NUU2U9E",
+                "is_intro": true,
+                "comment": "If anyone is trying to run R from within Python:\nFollow the top answer from <http:\/\/stackoverflow.com\/questions\/5068760\/bizzarre-issue-trying-to-make-rpy2-2-1-9-work-with-r-2-12-1-using-python-2-6-un>",
+                "channel": ""
+            },
+            "pinned_to": [
+                "C1WNCHYSC"
+            ]
+        },
+        "user": "U1NUU2U9E",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1NUU2U9E|kb5522>",
+        "bot_id": null,
+        "ts": "1479188085.000028"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U1NUU2U9E",
+        "item_type": "F",
+        "text": "<@U1NUU2U9E|kb5522> pinned their Image <https:\/\/msa17.slack.com\/files\/kb5522\/F339622B1\/pasted_image_at_2016_11_15_12_34_am.png|Pasted image at 2016-11-15, 12:34 AM> to this channel.",
+        "item": {
+            "id": "F339622B1",
+            "created": 1479188082,
+            "timestamp": 1479188082,
+            "name": "Pasted image at 2016_11_15 12_34 AM.png",
+            "title": "Pasted image at 2016-11-15, 12:34 AM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U1NUU2U9E",
+            "editable": false,
+            "size": 73174,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F339622B1\/pasted_image_at_2016_11_15_12_34_am.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F339622B1\/download\/pasted_image_at_2016_11_15_12_34_am.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F339622B1-8fd8e698fe\/pasted_image_at_2016_11_15_12_34_am_64.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F339622B1-8fd8e698fe\/pasted_image_at_2016_11_15_12_34_am_80.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F339622B1-8fd8e698fe\/pasted_image_at_2016_11_15_12_34_am_360.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360_w": 360,
+            "thumb_360_h": 107,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F339622B1-8fd8e698fe\/pasted_image_at_2016_11_15_12_34_am_480.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_480_w": 480,
+            "thumb_480_h": 143,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F339622B1-8fd8e698fe\/pasted_image_at_2016_11_15_12_34_am_160.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F339622B1-8fd8e698fe\/pasted_image_at_2016_11_15_12_34_am_720.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_720_w": 720,
+            "thumb_720_h": 215,
+            "image_exif_rotation": 1,
+            "original_w": 932,
+            "original_h": 278,
+            "permalink": "https:\/\/msa17.slack.com\/files\/kb5522\/F339622B1\/pasted_image_at_2016_11_15_12_34_am.png",
+            "permalink_public": "https:\/\/slack-files.com\/T1KRCES8H-F339622B1-92d3d00dc0",
+            "channels": [
+                "C1WNCHYSC"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc32GDBANP",
+                "created": 1479188082,
+                "timestamp": 1479188082,
+                "user": "U1NUU2U9E",
+                "is_intro": true,
+                "comment": "If anyone is trying to run R from within Python:\nFollow the top answer from <http:\/\/stackoverflow.com\/questions\/5068760\/bizzarre-issue-trying-to-make-rpy2-2-1-9-work-with-r-2-12-1-using-python-2-6-un>",
+                "channel": ""
+            },
+            "pinned_to": [
+                "C1WNCHYSC"
+            ]
+        },
+        "ts": "1479188095.000029"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U1NUU2U9E",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[November 14th, 2016 6:10 PM] krjones9: Installing XGBOOST to Python - 4 steps: <https:\/\/www.kaggle.com\/c\/allstate-claims-severity\/forums\/t\/24419\/installing-xgboost-version-0-6-0-on-windows\/139694> - use the post by Mathusuthan Kannan",
+                "ts": "1479175826.000019",
+                "author_subname": "krjones9",
+                "channel_id": "C1WNCHYSC",
+                "channel_name": "python",
+                "is_msg_unfurl": true,
+                "text": "Installing XGBOOST to Python - 4 steps: <https:\/\/www.kaggle.com\/c\/allstate-claims-severity\/forums\/t\/24419\/installing-xgboost-version-0-6-0-on-windows\/139694> - use the post by Mathusuthan Kannan",
+                "author_name": "Kasey Jones",
+                "author_link": "https:\/\/msa17.slack.com\/team\/krjones9",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-08-25\/73067782000_6904e8c6ffea607a2db5_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U1NUU2U9E|kb5522> pinned a message to this channel.",
+        "ts": "1479188358.000030"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "type": "message",
+        "user": "U1L0K4RQ8",
+        "text": "sure",
+        "ts": "1469234977.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "See you guys there",
+        "ts": "1469240698.000003",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KT5F4SZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Gonna miss tomorrow. But I'll be back in the fall! ",
+        "ts": "1469247002.000002"
+    }
+]

@@ -1,0 +1,168 @@
+[
+    {
+        "user": "U1KRS3S3X",
+        "text": "<@U1KRS3S3X|demoore> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471569166.000002"
+    },
+    {
+        "user": "U1L974M70",
+        "inviter": "U1KRS3S3X",
+        "text": "<@U1L974M70|brshallo> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471569166.000003"
+    },
+    {
+        "user": "U1KQGK2CB",
+        "inviter": "U1KRS3S3X",
+        "text": "<@U1KQGK2CB|loganteal> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471569166.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KRS3S3X",
+        "text": "<https:\/\/www.youtube.com\/watch?v=9VoNgLnjzVg>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "SAUSAGE PARTY - Official Restricted Trailer - In Cinemas August 11",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=9VoNgLnjzVg",
+                "author_name": "Sony Pictures Releasing Australia",
+                "author_link": "https:\/\/www.youtube.com\/user\/SonyPicturesAUS",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/9VoNgLnjzVg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: SAUSAGE PARTY - Official Restricted Trailer - In Cinemas August 11",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/9VoNgLnjzVg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=9VoNgLnjzVg",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1471569241.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KRS3S3X",
+        "text": "who wants in?",
+        "ts": "1471569247.000007"
+    },
+    {
+        "user": "U1L6YQUSU",
+        "text": "<@U1L6YQUSU|johnbetzjr> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471569311.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KRS3S3X",
+        "text": "excellent first add",
+        "ts": "1471569320.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "The restricted trailer?",
+        "ts": "1471569322.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1KRS3S3X",
+        "text": "glad it was you",
+        "ts": "1471569322.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1KRS3S3X",
+        "text": "I have inside influence",
+        "ts": "1471569333.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Nice work.  ",
+        "ts": "1471569333.000013"
+    },
+    {
+        "user": "U1KRB11QC",
+        "text": "<@U1KRB11QC|dsjorda2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471569343.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1KRS3S3X",
+        "text": "we're trying to round up a group to go see this",
+        "ts": "1471569344.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I'd go",
+        "ts": "1471569360.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Ive heard really positive things from people who have gone to see it",
+        "ts": "1471569363.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1KRS3S3X",
+        "text": "excellent",
+        "ts": "1471569369.000018"
+    },
+    {
+        "user": "U1KQYG6SJ",
+        "text": "<@U1KQYG6SJ|rose> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471570121.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "I was planning on seeing this over the weekend!",
+        "ts": "1471570132.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "The Mission Valley theater on Avent Ferry has movies for cheap",
+        "edited": {
+            "user": "U1KQYG6SJ",
+            "ts": "1471570161.000000"
+        },
+        "ts": "1471570150.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "I'd be interested in seeing it tomorrow night or Sunday ",
+        "ts": "1471570289.000023"
+    },
+    {
+        "user": "U1KRNHQA1",
+        "text": "<@U1KRNHQA1|pavalent> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471570375.000024"
+    },
+    {
+        "user": "U1KRHCR7T",
+        "text": "<@U1KRHCR7T|zack_schwartz> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471570914.000025"
+    }
+]

@@ -1,0 +1,171 @@
+[
+    {
+        "user": "U1L6YQUSU",
+        "text": "<@U1L6YQUSU|johnbetzjr> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470776546.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<@U1KVBARR9>: ",
+        "ts": "1470776556.000003"
+    },
+    {
+        "user": "U1KVBARR9",
+        "inviter": "U1L6YQUSU",
+        "text": "<@U1KVBARR9|sneha.bhalodia> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470776565.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<@U1MBT6FRB>: ",
+        "ts": "1470776582.000005"
+    },
+    {
+        "user": "U1MBT6FRB",
+        "inviter": "U1L6YQUSU",
+        "text": "<@U1MBT6FRB|dtoliver> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470776584.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<@U1KRF9BAP>: ",
+        "ts": "1470776589.000007"
+    },
+    {
+        "user": "U1KRF9BAP",
+        "inviter": "U1L6YQUSU",
+        "text": "<@U1KRF9BAP|drewlanning> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470776594.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<@U1LV6EH3M>: ",
+        "ts": "1470776599.000009"
+    },
+    {
+        "user": "U1LV6EH3M",
+        "inviter": "U1L6YQUSU",
+        "text": "<@U1LV6EH3M|mmspenc2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470776601.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "FYI I don't think I made this properly private, but it's only for a day so it shouldn't matter",
+        "ts": "1470776863.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1KVBARR9",
+        "text": "this was an interesting article on all the different data Pandora collects",
+        "ts": "1470788294.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KVBARR9",
+        "text": "<http:\/\/www.forbes.com\/sites\/amadoudiallo\/2013\/10\/06\/pandora-radios-dominance-built-on-big-data-edge\/#3b2c7104b332>",
+        "attachments": [
+            {
+                "service_name": "Forbes",
+                "title": "Pandora Radio's Dominance Built On Big Data Edge",
+                "title_link": "http:\/\/www.forbes.com\/sites\/amadoudiallo\/2013\/10\/06\/pandora-radios-dominance-built-on-big-data-edge\/#3b2c7104b332",
+                "text": "Pandora leverages big data to maintain its dominance in streaming radio.",
+                "fallback": "Forbes: Pandora Radio's Dominance Built On Big Data Edge",
+                "image_url": "http:\/\/blogs-images.forbes.com\/thumbnails\/blog_2674\/pt_2674_1168_o.jpg?t=1381932836",
+                "from_url": "http:\/\/www.forbes.com\/sites\/amadoudiallo\/2013\/10\/06\/pandora-radios-dominance-built-on-big-data-edge\/#3b2c7104b332",
+                "image_width": 200,
+                "image_height": 250,
+                "image_bytes": 34851,
+                "service_icon": "http:\/\/i.forbesimg.com\/media\/assets\/appicons\/forbes-app-icon_57x57.png",
+                "id": 1
+            }
+        ],
+        "ts": "1470788295.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "That's an awesome article.",
+        "ts": "1470788870.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I've asked my FB friends who uses SPSS and have gotten zero responses.....and I feel I'll probably get zero by tomorrow.",
+        "ts": "1470788893.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KVBARR9",
+        "text": "maybe no one uses it...",
+        "ts": "1470788938.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "you're probably right.  I also found this:  <http:\/\/www.nedsi.org\/proc\/2010\/proc\/p091112001.pdf>",
+        "ts": "1470788949.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KVBARR9",
+        "text": "based on things online it seems very simple",
+        "ts": "1470788954.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "this article lists some advantages and disadvantages of SPSS, R and Excel.",
+        "ts": "1470788973.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1KVBARR9",
+        "text": "that's great. So it looks like SPSS is now actually PASW?",
+        "ts": "1470789116.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "it might be.  i haven't gotten that far in checking, nor has anything else popped up that said PASW",
+        "ts": "1470789158.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Here's another ad\/disad for SPSS, R and SAS for people to look at  <http:\/\/blog.alpha-analysis.com\/2010\/05\/best-statistical-software-package.html>",
+        "attachments": [
+            {
+                "title": "Data Science, Data Mining and Predictive Analytics: Best Statistical Software Package",
+                "title_link": "http:\/\/blog.alpha-analysis.com\/2010\/05\/best-statistical-software-package.html",
+                "text": "The best statistical software package is the tool that works best for the user based upon objective, cost, and what works best with existing infrastructure",
+                "fallback": "Data Science, Data Mining and Predictive Analytics: Best Statistical Software Package",
+                "from_url": "http:\/\/blog.alpha-analysis.com\/2010\/05\/best-statistical-software-package.html",
+                "service_icon": "http:\/\/blog.alpha-analysis.com\/favicon.ico",
+                "service_name": "blog.alpha-analysis.com",
+                "id": 1
+            }
+        ],
+        "ts": "1470789195.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1KRF9BAP",
+        "text": "I found this presentation that gives pros and cons for each of the softwares except Tableau, but it seems like tableau isn't very useful for in depth analysis from what I've read.",
+        "ts": "1470795710.000016"
+    }
+]

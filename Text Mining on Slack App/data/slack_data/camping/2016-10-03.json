@@ -1,0 +1,157 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Who is interested in renting a tent from NCSU Recreation? Please react by tonight so that we can get them reserved. James and I will organize the rental and determine the cost of the trip soon (Expected to be $15.00)",
+        "edited": {
+            "user": "U1KRB11QC",
+            "ts": "1475527281.000000"
+        },
+        "ts": "1475526399.000003",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRWJB7S",
+                    "U1KQTJ6BV"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "I need a tent",
+        "ts": "1475527245.000005",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KQ9523D",
+                    "U1KR891RC"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "I have a tent that claims to hold 4, but probably 3 comfortably",
+        "ts": "1475527270.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "I have 4 (really 3) and 2 person tents. And a bunch of sleeping bags and camping equipment (stove lantern etc...). Also my uncle lives nearby and he might have some stuff we can borrow as well ",
+        "ts": "1475527519.000009",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1KRB11QC",
+                    "U1L5GU954",
+                    "U1KQ9523D",
+                    "U1KR891RC"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U1L4RTKCM",
+        "text": "<@U1L4RTKCM|gheyne> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475527521.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "More carpool info\/plans to come later, but like this if you can drive (and have a large-ish car). ",
+        "ts": "1475528079.000011",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRNHQA1",
+                    "U1KRB11QC",
+                    "U1L7E8GSU",
+                    "U1KT5F4SZ",
+                    "U1M37FW5U",
+                    "U1L3G0YRJ",
+                    "U1KRZT11T"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "I have a 4 person tent somewhere and some camping equipment ",
+        "ts": "1475530780.000012",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRB11QC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1M37FW5U",
+        "text": "<@U1M37FW5U|alex_curcio> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475531480.000013"
+    },
+    {
+        "user": "U1L7G5LR4",
+        "text": "<@U1L7G5LR4|arkadius> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475531539.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "I have an \"8-person\" tent that could hold 4 people comfortably, and I could drive my smallish car.",
+        "ts": "1475531871.000015",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRB11QC",
+                    "U1L5GU954"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U1L9669PD",
+        "text": "<@U1L9669PD|pmartin> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475546498.000016"
+    },
+    {
+        "user": "U1L6WB44A",
+        "text": "<@U1L6WB44A|ekdoyel> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475546856.000017"
+    },
+    {
+        "user": "U1KQGK2CB",
+        "text": "<@U1KQGK2CB|loganteal> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475547147.000018"
+    }
+]

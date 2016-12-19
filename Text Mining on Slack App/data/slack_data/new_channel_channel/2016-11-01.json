@@ -1,0 +1,24 @@
+[
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "created four new channels for our new classes: <#C2WUVMNAG|survivalanalysis> <#C2X03K6BU|riskandsim> <#C2X03MND8|marketing> <#C2X03T8US|machinelearning>",
+        "ts": "1478015581.000026",
+        "reactions": [
+            {
+                "name": "astonished",
+                "users": [
+                    "U1KQGK2CB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1Q5GHC2J",
+        "text": "<@U1Q5GHC2J|rwang10> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1478037661.000027"
+    }
+]

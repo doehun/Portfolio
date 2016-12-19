@@ -1,0 +1,48 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "I need to get gas on my way over. We will need to walk over to my car that is parked in Wolf Ridge after the presentation.",
+        "ts": "1475592538.000007",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U1KRB11QC",
+                    "U1L3G0YRJ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "What time are we meeting?",
+        "ts": "1475592824.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1MBURU4D",
+        "text": "What time do we need to leave ?",
+        "ts": "1475594355.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Where are you guys at",
+        "ts": "1475596838.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1MBURU4D",
+        "text": "I'm in the institute",
+        "ts": "1475596946.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "We are in the kitchen ",
+        "ts": "1475596968.000012"
+    }
+]

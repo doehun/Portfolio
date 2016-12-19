@@ -1,0 +1,151 @@
+[
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "Someone left a casio calculator on my desk yesterday.  Feel free to come and get it!  (after class of course, or during, up to you)",
+        "ts": "1478700635.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I thought we all agreed never to speak of confounding again.",
+        "ts": "1478708171.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1L40P4N9",
+        "text": "LOL",
+        "ts": "1478708423.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1L40P4N9",
+        "text": "\/giphy lmfao",
+        "bot_id": "B1KPWTUUB",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/cat-funny-T8pgGGblQ9Zks>",
+                "image_url": "http:\/\/media0.giphy.com\/media\/T8pgGGblQ9Zks\/giphy.gif",
+                "image_width": 500,
+                "image_height": 283,
+                "image_bytes": 998706,
+                "is_animated": true,
+                "title": "lmfao",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/cat-funny-T8pgGGblQ9Zks"
+            }
+        ],
+        "ts": "1478708425.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Clearly the second most famous Efron",
+        "ts": "1478709048.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1L2P17DZ",
+        "text": "\/giphy zac efron",
+        "bot_id": "B1KPWTUUB",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/zac-efron-emily-ratajkowski-max-joseph-lj8UZJAdIZtbG>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/lj8UZJAdIZtbG\/giphy.gif",
+                "image_width": 300,
+                "image_height": 160,
+                "image_bytes": 728044,
+                "is_animated": true,
+                "title": "zac efron",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/zac-efron-emily-ratajkowski-max-joseph-lj8UZJAdIZtbG"
+            }
+        ],
+        "ts": "1478709105.000007",
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1KR9BP0E",
+                    "U1L9DD1NY",
+                    "U1LBRCSEA",
+                    "U1KT3UELS"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "No Giphys for Brad Efron apparently",
+        "ts": "1478709393.000010"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1L6YQUSU|johnbetzjr> uploaded a file: <https:\/\/msa17.slack.com\/files\/johnbetzjr\/F30HAHQJH\/bradefron.jpg|bradefron.jpg>",
+        "file": {
+            "id": "F30HAHQJH",
+            "created": 1478709404,
+            "timestamp": 1478709404,
+            "name": "bradefron.jpg",
+            "title": "bradefron.jpg",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U1L6YQUSU",
+            "editable": false,
+            "size": 25860,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F30HAHQJH\/bradefron.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F30HAHQJH\/download\/bradefron.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F30HAHQJH-6f09c5cbca\/bradefron_64.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F30HAHQJH-6f09c5cbca\/bradefron_80.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F30HAHQJH-6f09c5cbca\/bradefron_360.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360_w": 250,
+            "thumb_360_h": 344,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F30HAHQJH-6f09c5cbca\/bradefron_160.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "image_exif_rotation": 1,
+            "original_w": 250,
+            "original_h": 344,
+            "permalink": "https:\/\/msa17.slack.com\/files\/johnbetzjr\/F30HAHQJH\/bradefron.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T1KRCES8H-F30HAHQJH-6cc04a81bc",
+            "channels": [
+                "C1KR7U5N3"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0,
+            "reactions": [
+                {
+                    "name": "joy",
+                    "users": [
+                        "U1L2P17DZ",
+                        "U1L9DD1NY",
+                        "U1LBRCSEA",
+                        "U1LJRDPLP",
+                        "U1KR9BP0E",
+                        "U1KT3UELS",
+                        "U1L5GU954",
+                        "U1KSL7L7R"
+                    ],
+                    "count": 8
+                }
+            ]
+        },
+        "user": "U1L6YQUSU",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1L6YQUSU|johnbetzjr>",
+        "bot_id": null,
+        "ts": "1478709407.000011"
+    }
+]

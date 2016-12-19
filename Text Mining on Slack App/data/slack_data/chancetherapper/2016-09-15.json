@@ -1,0 +1,34 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRBFY3Z",
+        "text": "In case anyone missed this gem from today <http:\/\/www.thefader.com\/2016\/09\/15\/chance-the-rapper-lil-wayne-2-chainz-ellen> :heart:",
+        "attachments": [
+            {
+                "service_name": "The FADER",
+                "title": "Watch Chance The Rapper, Lil Wayne, And 2 Chainz Bring Chaos To Ellen",
+                "title_link": "http:\/\/www.thefader.com\/2016\/09\/15\/chance-the-rapper-lil-wayne-2-chainz-ellen",
+                "text": "Check out their \u201cNo Problem\u201d performance now.",
+                "fallback": "The FADER: Watch Chance The Rapper, Lil Wayne, And 2 Chainz Bring Chaos To Ellen",
+                "image_url": "http:\/\/res.cloudinary.com\/thefader\/image\/upload\/c_limit,w_1024\/c_crop,h_364,w_700,x_0,y_78,f_auto,q_auto:best\/Screen-Shot-2016-09-14-at-9.16.57-PM_ziic1e.jpg",
+                "image_width": 481,
+                "image_height": 250,
+                "from_url": "http:\/\/www.thefader.com\/2016\/09\/15\/chance-the-rapper-lil-wayne-2-chainz-ellen",
+                "image_bytes": 44109,
+                "service_icon": "http:\/\/www.thefader.com\/assets\/apple-touch-icon-a0928f2c44f9e558067d4beef8cc5559.png",
+                "id": 1
+            }
+        ],
+        "ts": "1473990032.000002",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U1L4RTKCM",
+                    "U1L415ECD"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "Can we keep it until after the concert? I think we'll all want to be able to talk to each other leading up to it. ",
+        "ts": "1471264798.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Sure!",
+        "ts": "1471265225.000003"
+    },
+    {
+        "user": "U1KQYG6SJ",
+        "text": "<@U1KQYG6SJ|rose> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1471265247.000004"
+    }
+]

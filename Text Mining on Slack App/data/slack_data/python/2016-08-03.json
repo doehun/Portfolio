@@ -1,0 +1,53 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "<@U1NUU2U9E> thanks for posting that website!  For some reason I couldn't download the text file for the exercise you posted.  Would you mind just posting the text there?  Very cool collage btw.",
+        "ts": "1470266174.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1KRNTXL5>: thanks for pointing out the issue :smile: , i will post it here and try to fix it on the web site as well.",
+        "ts": "1470273205.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1KRNTXL5>: here is the list of numbers. You can copy and paste it into a .txt file",
+        "ts": "1470273255.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "-9.9 -13.3 -76.4 78.7 52.8 -12.7 -1.2 88.7 -65.7 63.0 21.7 6.1 -89.9 82.2 15.9 -33.7 26.7 -43.6 80.5 23.0 -32.0 12.3 15.2 23.4 60.7 74.5 44.5 78.8 -68.2 -9.6 2.3 31.1 41.0 -10.5 51.0 66.8 0.4 -24.4 -69.4 -13.3 -2.0 5.7 -56.9 -11.3 -90.4 -8.3 46.1 -63.1 -4.6 -45.4 -80.2 -19.1 -99.4 22.7 -8.5 -22.2 -78.1 23.9 -88.4 -37.7 -78.0 20.4 -21.5 68.9 -52.4 56.3 41.1 -66.2 -68.4 86.8 96.3 -62.5 59.8 68.5 82.5 7.9 -37.4 -99.0 -14.3 38.3 -99.5 34.4 48.6 89.5 -27.9 47.1 18.6 -98.3 93.2 -58.8 93.5 46.1 67.1 53.2 58.0 92.1 47.3 -14.9 7.7 -97.3",
+        "ts": "1470273257.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "have fun exploring!",
+        "ts": "1470273270.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<!channel>: hey everyone, i have fixed the page with the project and also posted the code of a possible solution. Keep in mind that this is A solution. There are many ways to solve a problem and if your way is different, it is totally fine, share it with all of us!\nHere is the page of the project: <https:\/\/sites.google.com\/a\/ncsu.edu\/learning-python-for-data-science\/home\/averages_project>",
+        "ts": "1470275433.000009",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1P8QBBD1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "Are we using Python 2 or Python 3?",
+        "ts": "1470282484.000010"
+    }
+]

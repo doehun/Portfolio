@@ -1,0 +1,159 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<!channel> Laura has posted the slides for this lecture on the machine learning page",
+        "edited": {
+            "user": "U1KRB11QC",
+            "ts": "1478187889.000000"
+        },
+        "ts": "1478186482.000037",
+        "reactions": [
+            {
+                "name": "pray::skin-tone-3",
+                "users": [
+                    "U1KQGK2CB",
+                    "U1LNGEV0B",
+                    "U1P8QBBD1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U1NUU2U9E"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U1P8QBBD1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "<https:\/\/moodle-courses1617.wolfware.ncsu.edu\/pluginfile.php\/375125\/mod_page\/content\/7\/FeatureSelectionLecture_Analytics.pdf> for the lazy",
+        "ts": "1478186551.000038"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "(good use of the channel notification feature <@U1KRB11QC>!)",
+        "ts": "1478186566.000039",
+        "reactions": [
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U1KRB11QC",
+                    "U1LNGEV0B",
+                    "U1L1WFNC8",
+                    "U1P8QBBD1"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "You're selfishly keeping these for orange?",
+        "ts": "1478187602.000040"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1L6YQUSU> just forgot to post to blue :upside_down_face: I'm not even a member of the blue channel. Posted in <#C1KR6TMD3|general> for everyone.",
+        "edited": {
+            "user": "U1KRB11QC",
+            "ts": "1478187745.000000"
+        },
+        "ts": "1478187638.000041",
+        "reactions": [
+            {
+                "name": "large_orange_diamond",
+                "users": [
+                    "U1LMHQY9E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "R you ready kids?",
+        "ts": "1478199423.000046",
+        "reactions": [
+            {
+                "name": "ghost",
+                "users": [
+                    "U1P8QBBD1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pirate",
+                "users": [
+                    "U1KRB11QC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "aye-aye captain!",
+        "ts": "1478199529.000047"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "\/giphy spongebob",
+        "bot_id": "B1KPWTUUB",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/spongebob-squarepants-nope-leave-RHS4uBLwvRNUA>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/RHS4uBLwvRNUA\/giphy.gif",
+                "image_width": 353,
+                "image_height": 234,
+                "image_bytes": 1274790,
+                "is_animated": true,
+                "title": "spongebob",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/spongebob-squarepants-nope-leave-RHS4uBLwvRNUA"
+            }
+        ],
+        "ts": "1478199533.000048",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1P8QBBD1",
+                    "U1KRB11QC",
+                    "U1LMHQY9E"
+                ],
+                "count": 3
+            },
+            {
+                "name": "crab",
+                "users": [
+                    "U1N43E3E0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fish",
+                "users": [
+                    "U1N43E3E0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

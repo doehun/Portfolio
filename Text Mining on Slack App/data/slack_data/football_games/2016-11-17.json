@@ -1,0 +1,63 @@
+[
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "<https:\/\/docs.google.com\/a\/ncsu.edu\/spreadsheets\/d\/1fNExTnmvIeDFhvCvq68JGKKzDXaVsPeRRE0AIuXVERo\/edit?usp=sharing> -&gt; Spreadsheet to organize the Miami tailgate this Saturday! Basically just copied the format for the spreadsheet made for the ND game",
+        "ts": "1479396404.000011",
+        "reactions": [
+            {
+                "name": "celebration",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KT5F4SZ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L46HXCJ",
+        "text": "Yo so I got a parking pass but i would prefer not to drive.  If anyone doesnt mind driving you can have the pass if not ill drive (and be sad)",
+        "ts": "1479398108.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U1L46HXCJ> I can drive",
+        "ts": "1479398130.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1L46HXCJ",
+        "text": "<@U1KT5F4SZ> :the_horns:",
+        "ts": "1479401023.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1L46HXCJ",
+        "text": "rock on",
+        "ts": "1479401028.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1LJRDPLP",
+        "text": "Is there anyone that still has room that I could grab a ride with?",
+        "ts": "1479411285.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "<@U1N43E3E0>: you can have mine",
+        "ts": "1479412508.000017",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U1N43E3E0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

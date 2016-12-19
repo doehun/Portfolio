@@ -1,0 +1,336 @@
+[
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Hey I just checked out the menu! A lot of the entrees are 15-19 dollars... :see_no_evil: is everyone okay with that or should we try and find a cheaper option ?",
+        "ts": "1468504177.000002",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRZT11T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1L0RBZFH",
+        "text": "<@U1L0RBZFH|caroline-hughes> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468505834.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "That's fine with me!",
+        "ts": "1468511120.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1M1L5G6L",
+        "text": "virgil's is downtown and it's like 4 dollars a taco and a cool space <https:\/\/www.facebook.com\/virgilstacos\/>",
+        "ts": "1468512058.000005"
+    },
+    {
+        "user": "U1KRWJB7S",
+        "text": "<@U1KRWJB7S|brandon_mayer> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468521248.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR1MS4",
+        "text": "I'm down for Mexican!",
+        "ts": "1468523535.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "so am i! can someone give me a ride?",
+        "ts": "1468524059.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "For anyone who hasn't seen Moneyball (or those who want to see it again), I'm going to be showing it after class tomorrow (4-6ish) in Bodie. Let's pop some popcorn and get excited about analytics!",
+        "ts": "1468525040.000009",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KR9BP0E",
+                    "U1KRB11QC",
+                    "U1KRNHQA1",
+                    "U1KRQLFLY",
+                    "U1L2P17DZ",
+                    "U1L9DD1NY",
+                    "U1L6WB44A",
+                    "U1L914KNJ",
+                    "U1L7G5LR4",
+                    "U1KVBARR9",
+                    "U1LBRCSEA",
+                    "U1L3G0YRJ",
+                    "U1L1D4WG7"
+                ],
+                "count": 13
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "<@U1L5GU954>: Sweet! I'm in. :film_projector:",
+        "ts": "1468525218.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "The popcorn will of course will have to be consumed in the kitchen\/lunch area:sweat_smile:",
+        "ts": "1468525226.000011",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KQ9523D",
+                    "U1KRB11QC",
+                    "U1L9DD1NY",
+                    "U1KRLV1CG",
+                    "U1KQGK2CB"
+                ],
+                "count": 5
+            },
+            {
+                "name": "popcorn",
+                "users": [
+                    "U1L8PJY4W",
+                    "U1KRB11QC",
+                    "U1L6YQUSU",
+                    "U1L2P17DZ"
+                ],
+                "count": 4
+            },
+            {
+                "name": "neutral_face",
+                "users": [
+                    "U1L95JP1S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Social events of interest:\n\nFirst, is anyone interested in doing another (or first) escape room?  We get out at noon on Friday the 22nd.  Let me know via the Escape room channel or email.\n\nSecond, The Alley has $5 all-you-can-bowl bowling in Mondays. Anyone interested in heading over there after our assessments Monday to unwind?  It's over on Hillsborough street.",
+        "ts": "1468527012.000012",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRQLFLY",
+                    "U1KRZT11T",
+                    "U1KRB11QC",
+                    "U1KQ9523D",
+                    "U1L9DD1NY",
+                    "U1L6WB44A",
+                    "U1L914KNJ",
+                    "U1KSR1MS4",
+                    "U1KS4UE2F",
+                    "U1KSL7L7R",
+                    "U1L7G5LR4",
+                    "U1KRHCR7T",
+                    "U1L40P4N9",
+                    "U1KT3UELS",
+                    "U1L41DF9D",
+                    "U1NUU2U9E",
+                    "U1P8QBBD1"
+                ],
+                "count": 17
+            },
+            {
+                "name": "bowling",
+                "users": [
+                    "U1KQ9523D",
+                    "U1KRWUXFU",
+                    "U1L6WB44A",
+                    "U1KRNHQA1",
+                    "U1KRHCR7T",
+                    "U1L1WFNC8",
+                    "U1KR9BP0E",
+                    "U1KSR1MS4",
+                    "U1KRE1L9M",
+                    "U1KT5F4SZ",
+                    "U1LBRCSEA",
+                    "U1L2P17DZ",
+                    "U1KT3UELS",
+                    "U1P8QBBD1",
+                    "U1KRNTXL5"
+                ],
+                "count": 15
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "\/giphy [bowling]",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/GJsj4VueZiYHC>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/GJsj4VueZiYHC\/giphy.gif",
+                "image_width": 320,
+                "image_height": 240,
+                "image_bytes": 1454373,
+                "is_animated": true,
+                "title": "[bowling]",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/GJsj4VueZiYHC"
+            }
+        ],
+        "ts": "1468527058.000013",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1L7G5LR4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "(I'd schedule the escape room for 2pm again on the 22nd in Durham) ",
+        "ts": "1468527067.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "&lt;---- giphy novice",
+        "ts": "1468527218.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "Bowling!!!!",
+        "ts": "1468529904.000022",
+        "reactions": [
+            {
+                "name": "bowling",
+                "users": [
+                    "U1KQ9523D",
+                    "U1L2P17DZ",
+                    "U1KRHCR7T"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQGRG2F",
+        "text": "I think we should all do Virgil's at seven! Does that sound good? Thanks for the tip Shelby!",
+        "ts": "1468532069.000023",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1KRZT11T",
+                    "U1KQGRG2F",
+                    "U1KSR1MS4",
+                    "U1L9DD1NY"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1M1L5G6L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "Sounds good! ",
+        "ts": "1468532532.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "I'm picking up tommy near centennial if anyone who lives near there needs a ride :)",
+        "ts": "1468533742.000025"
+    },
+    {
+        "type": "message",
+        "user": "U1KQGRG2F",
+        "text": "I'm picking up sylvie from Cameron village if anyone needs a ride from here",
+        "ts": "1468535117.000026"
+    },
+    {
+        "type": "message",
+        "user": "U1L40P4N9",
+        "text": "<@U1L6YQUSU>: BOWLLLLLINGG YESSSS. ",
+        "ts": "1468535313.000027"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "<@U1L9DD1NY>: centennial campus or the centennial apartments?",
+        "ts": "1468536503.000028"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Campus",
+        "ts": "1468536536.000029"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "I live on Gorman St (off Avent Ferry) if you can pick me up!",
+        "ts": "1468536537.000030"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "It's a 5 minute drive from the institute",
+        "ts": "1468536557.000031"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "<@U1L6YQUSU>: Bowling!! Yes! ",
+        "ts": "1468536600.000032"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Yea sure !! <@U1KQYG6SJ>  can u txt me the exact address ?",
+        "ts": "1468536702.000033"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Just did",
+        "ts": "1468536740.000034"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Be there in ten <@U1KQGRG2F> !! Save us 3 spots :-) ",
+        "ts": "1468537377.000035"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Moment of the night: the queso _doesn't_ come with chips?!",
+        "ts": "1468551494.000036"
+    }
+]

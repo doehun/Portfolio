@@ -1,0 +1,100 @@
+[
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "does anyone know when hw5 is supposed to be posted?",
+        "ts": "1476819347.000334"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I thought he said today.",
+        "ts": "1476819480.000335",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRE1L9M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "<@U1LMHQY9E>: it is posted",
+        "ts": "1476822626.000336",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1LMHQY9E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Is anyone in the lib ? I have a quick question about time series hw ",
+        "ts": "1476829675.000337"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "Did Dr. LaBarr give us examples how to do \"step interventions\" in SAS? All i found was point interventions... not sure how different those 2 are code-wise",
+        "edited": {
+            "user": "U1NUU2U9E",
+            "ts": "1476841237.000000"
+        },
+        "ts": "1476841186.000338"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "No he didn't I don't think <@U1NUU2U9E> I just tried putting the variable itself in but I'm not sure if that's actually right ",
+        "ts": "1476841824.000340"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Hmm interesting, since we already have the seizure variable dummy coded with 1's after the event occurs we don't need to include the data step correct? ",
+        "ts": "1476844683.000342"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "<@U1NUU2U9E>",
+        "ts": "1476844711.000343"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "thats right, <@U1L9DD1NY>",
+        "ts": "1476844769.000344"
+    },
+    {
+        "type": "message",
+        "user": "U1PF7HWTF",
+        "text": "To compare whether there was a difference before and after, does it make sense just to do a 2 sample t-test?",
+        "ts": "1476847548.000345"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Yea <@U1PF7HWTF> I did a one way anova but same thing I think ",
+        "ts": "1476851945.000346",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1PF7HWTF",
+                    "U1KQGRG2F"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

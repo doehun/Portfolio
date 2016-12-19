@@ -1,0 +1,97 @@
+[
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1M7AD5L2>: I think I'm gonna have to pass on the park today, just FYI. Got lots of work to do! ",
+        "ts": "1469287580.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1M7AD5L2",
+        "text": "Sounds good - I was planning on skipping as well. I'm in the same boat as you!",
+        "ts": "1469287635.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Outing for Greek food is rescheduled for tomorrow night. Stay tuned for more info.",
+        "ts": "1469302133.000006",
+        "reactions": [
+            {
+                "name": "hugging_face",
+                "users": [
+                    "U1KQ9523D",
+                    "U1L9DD1NY",
+                    "U1KT3UELS"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Is anyone going out toniiiiight",
+        "ts": "1469322940.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KSEJ01W",
+        "text": "Looking to, where are you headed ",
+        "ts": "1469322965.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Can't decide yet but I'll let ya know!",
+        "ts": "1469323346.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KSEJ01W",
+        "text": "Cool! Lemme know ",
+        "ts": "1469323481.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1NDG6ULB",
+        "text": "At milk on glenwood rn shooting some pool heading to Fayetteville st soon",
+        "ts": "1469326453.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1KSEJ01W",
+        "text": "I live right down there lemme know where you end up ",
+        "ts": "1469326518.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1NDG6ULB",
+        "text": "Will do ",
+        "ts": "1469326661.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "I hunk I'm going to fayetville in a little ",
+        "ts": "1469329505.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Think**",
+        "ts": "1469329514.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1KSEJ01W",
+        "text": "Big easy right now ",
+        "ts": "1469329735.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Going to capital city!",
+        "ts": "1469332016.000017"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "type": "message",
+        "user": "U1L2P17DZ",
+        "text": "<http:\/\/www.wral.com\/without-traffic-signals-many-drivers-don-t-know-what-to-do\/16104309\/>",
+        "attachments": [
+            {
+                "service_name": "WRAL.com",
+                "title": "Without traffic signals, many drivers don't know what to do :: WRAL.com",
+                "title_link": "http:\/\/www.wral.com\/without-traffic-signals-many-drivers-don-t-know-what-to-do\/16104309\/",
+                "text": "A glance at some busy roads in Raleigh Monday showed that not every driver knew what to do when approaching a darkened signal. The rule is clear: If the light is out, treat the intersection like a four-way stop, granting right-of-way to the driver on the right.",
+                "fallback": "WRAL.com: Without traffic signals, many drivers don't know what to do :: WRAL.com",
+                "thumb_url": "https:\/\/wwwcache.wral.com\/asset\/traffic\/2016\/10\/10\/16104582\/16104582-1476128612-646x485.jpg",
+                "ts": 1476128640,
+                "from_url": "http:\/\/www.wral.com\/without-traffic-signals-many-drivers-don-t-know-what-to-do\/16104309\/",
+                "thumb_width": 646,
+                "thumb_height": 485,
+                "service_icon": "https:\/\/wwwcache.wral.com\/presentation\/v3\/images\/ui\/touch_icons\/wral\/apple-touch-icon-144x144-precomposed.png",
+                "id": 1
+            }
+        ],
+        "ts": "1476134030.000455"
+    },
+    {
+        "type": "message",
+        "user": "U1L2P17DZ",
+        "text": "They specifically reference avent ferry and varsity :see_no_evil: ",
+        "edited": {
+            "user": "U1L2P17DZ",
+            "ts": "1476134064.000000"
+        },
+        "ts": "1476134050.000457",
+        "reactions": [
+            {
+                "name": "see_no_evil",
+                "users": [
+                    "U1KS4UE2F",
+                    "U1L6WB44A",
+                    "U1KRB11QC",
+                    "U1MBT6FRB",
+                    "U1N43E3E0",
+                    "U1KRZT11T",
+                    "U1KRHCR7T",
+                    "U1KT9ATA5"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "<@U1L2P17DZ> It's like playing Frogger out there!",
+        "ts": "1476142506.000459",
+        "reactions": [
+            {
+                "name": "frog",
+                "users": [
+                    "U1KS4UE2F",
+                    "U1MH8UXHD",
+                    "U1L2P17DZ",
+                    "U1SMADBU4"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

@@ -1,0 +1,184 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRS3S3X",
+        "text": "Hey everyone, just wanted to pass this info along. It's a data science competition hosted by Kaggle and Booz Allen in December. Looks pretty cool. For more info click the link (but first gently scroll over it and look at the bottom left corner of your screen to make sure I'm not scamming you). Happy studying!  <http:\/\/www.datasciencebowl.com\/>",
+        "ts": "1474979839.000547"
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "To all who have taken the Strengths Finder Assessment: You, like me, may be a bit lost on how to use your results. I just did an exercise that I found was really helpful. This exercise helped me sythesize the information into one digestable visual, helping inform me of what career paths are good gits. Here it is: I read my talent sections in the book and organized the points that stuck out to me on a spreadsheet. Then I bolded the points that really stuck out to me. Try it out and please share other ideas of how to use it!",
+        "ts": "1474985248.000549",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1LMHQY9E",
+                    "U1P8QBBD1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "<@U1KR80QMS>: are you also a woo??? I've been looking for another woo!  I also have positivity, so you've done 2\/5 for me- thanks! ",
+        "ts": "1474987490.000551"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "There needs to be a \"woo\" emoji for <@U1KRWUXFU>",
+        "ts": "1474989074.000552"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Slack needs to get on that.",
+        "ts": "1474989092.000553",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1KRWUXFU",
+                    "U1NUU2U9E",
+                    "U1L9DD1NY"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "<https:\/\/media2.giphy.com\/media\/ZB1PEaUkHwXg4\/giphy.gif>",
+        "attachments": [
+            {
+                "fallback": "500x200px image",
+                "image_url": "https:\/\/media2.giphy.com\/media\/ZB1PEaUkHwXg4\/giphy.gif",
+                "image_width": 500,
+                "image_height": 200,
+                "image_bytes": 571031,
+                "is_animated": true,
+                "from_url": "https:\/\/media2.giphy.com\/media\/ZB1PEaUkHwXg4\/giphy.gif",
+                "id": 1
+            }
+        ],
+        "ts": "1474989940.000555",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KRB11QC",
+                    "U1L6WB44A",
+                    "U1KRZT11T",
+                    "U1L7RPG1M",
+                    "U1KRTHAQZ",
+                    "U1KRWUXFU",
+                    "U1KR891RC",
+                    "U1KR80QMS",
+                    "U1L735VD4",
+                    "U1L7G5LR4",
+                    "U1KT9ATA5"
+                ],
+                "count": 11
+            },
+            {
+                "name": "grin",
+                "users": [
+                    "U1KRZT11T"
+                ],
+                "count": 1
+            },
+            {
+                "name": "laughing",
+                "users": [
+                    "U1L1D4WG7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Fun fact, you can add custom emoji to slack",
+        "ts": "1474992090.000557"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "So feel free to",
+        "ts": "1474992093.000558"
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "You're welcome <@U1KRWUXFU> !! It's nice to know I'm not alone!",
+        "ts": "1474992119.000559"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "<https:\/\/katiestjohnshin.files.wordpress.com\/2016\/03\/emoji-happy-thumbs-up.jpg>",
+        "attachments": [
+            {
+                "fallback": "2020x1486px image",
+                "image_url": "https:\/\/katiestjohnshin.files.wordpress.com\/2016\/03\/emoji-happy-thumbs-up.jpg",
+                "image_width": 2020,
+                "image_height": 1486,
+                "image_bytes": 433386,
+                "from_url": "https:\/\/katiestjohnshin.files.wordpress.com\/2016\/03\/emoji-happy-thumbs-up.jpg",
+                "id": 1
+            }
+        ],
+        "ts": "1474992572.000560",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRWUXFU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Dedicated to <@U1KRWUXFU> and <@U1KR80QMS>",
+        "ts": "1474992603.000562"
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "Haha! Nice <@U1L1D4WG7> ",
+        "ts": "1474992645.000563"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "don't forget to do your grad student online orientation in Moodle y'all!",
+        "ts": "1475034072.000565",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRWUXFU",
+                    "U1M37FW5U",
+                    "U1KRB11QC",
+                    "U1KQGK2CB"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "(due on the 30th)",
+        "ts": "1475034512.000566"
+    }
+]

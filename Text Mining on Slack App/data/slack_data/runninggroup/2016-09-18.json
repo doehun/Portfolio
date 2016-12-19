@@ -1,0 +1,71 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Hey everyone, on Tuesday our run is going to start in the small shopping center parking lot off of Avent Ferry Rd. and Gorman St. (In the lot near Walgreens). The route is a little over 4 miles. It will be an out and back so people are welcome to turn around early if you want to do less. Hope to see you there! <http:\/\/www.mapmyrun.com\/routes\/view\/1277021017>",
+        "attachments": [
+            {
+                "service_name": "MapMyRun",
+                "title": "Lake Johnson and back",
+                "title_link": "http:\/\/www.mapmyrun.com\/routes\/view\/1277021017",
+                "text": "Route from MapMyRun",
+                "fallback": "MapMyRun: Lake Johnson and back",
+                "from_url": "http:\/\/www.mapmyrun.com\/routes\/view\/1277021017",
+                "thumb_url": "http:\/\/drzetlglcbfx.cloudfront.net\/routes\/thumbnail\/1277021017?size=200x200",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "http:\/\/d2i3r43q6ffvz8.cloudfront.net\/prod\/public\/images\/min\/icons\/favicons\/run\/apple-touch-icon.d37300696f2f.png",
+                "id": 1
+            }
+        ],
+        "ts": "1474215185.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "6:30 AM",
+        "ts": "1474215197.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Hah, its almost like I pressed the out and back button...",
+        "ts": "1474216752.000008",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KQGK2CB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Ideally I think the best run would be if I could find a hill that when you did the out and back it would be a bell shaped curve",
+        "ts": "1474216920.000009",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1L5GU954"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "Ew that sounds dreadful ",
+        "ts": "1474217072.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Not to a hill and statistics enthusiast like me",
+        "ts": "1474217120.000011"
+    }
+]

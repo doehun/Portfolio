@@ -1,0 +1,100 @@
+[
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Is anyone by chance still in the building? I think I may have left my laptop charger at my desk in the back row of the orange classroom. Anyone willing to help me check? ",
+        "ts": "1468355051.000051"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I can check ",
+        "ts": "1468355079.000052"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Thanks <@U1L6YQUSU>! ",
+        "ts": "1468355095.000053"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "No charger at your space back here ",
+        "ts": "1468355156.000054"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1L6YQUSU>: oh man where did I put it... thanks for checking. ",
+        "ts": "1468355182.000055"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Does anyone have Adobe Acrobat or adobe illustrator on their computer? In preparation for the Stats tests on Monday, I noticed the practice assessments Labarr gave us access to don't have answer keys. So I was wondering if someone could make a google doc real quick so we could work on them together and make sure all answers are correct. I tried to do it, but I don't have Adobe stuff, so none of the formatting or charts\/graphs\/tables would copy over. ",
+        "ts": "1468365644.000057"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "<@U1KRMNVGC>: I like that idea but I am not sure I have the software either",
+        "ts": "1468366499.000058"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "Hey Conner Cross &amp; Tommy I uploaded the assessments on the google drive.",
+        "ts": "1468369142.000059"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Perfect. Thank you so much. ",
+        "ts": "1468369197.000060"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "The folder is assessable only with the ncsu email id.",
+        "ts": "1468369578.000061"
+    },
+    {
+        "type": "message",
+        "user": "U1L46HXCJ",
+        "text": "hey yall so we are trying to work on the programming practice test and there is no bottle data set in the sasuser library or sashelp or bootcamp or anyhting. we cant find the data. has anyone done this yet",
+        "ts": "1468374861.000063",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U1L2P17DZ",
+                    "U1KSR4JP3",
+                    "U1L415ECD"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSR4JP3",
+        "text": "I asked Dr. L about it and he's not going to upload those data sets. He said use the ones we used in class. ",
+        "ts": "1468374970.000065",
+        "reactions": [
+            {
+                "name": "heart_eyes_cat",
+                "users": [
+                    "U1L46HXCJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Hey everyone.  If you changed cohorts, don't forget to change\/add the appropriate other color channel here in Slack so you can keep up with your new group.",
+        "ts": "1468380386.000066"
+    }
+]

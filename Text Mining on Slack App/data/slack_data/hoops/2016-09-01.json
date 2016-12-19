@@ -1,0 +1,67 @@
+[
+    {
+        "user": "U1MPXSHN1",
+        "text": "<@U1MPXSHN1|reidbaughman> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472735949.000066"
+    },
+    {
+        "type": "message",
+        "user": "U1MPXSHN1",
+        "text": "Hi guys, I'm planning to lend my height to the hoops cause. What time tomorrow are you guys playing?  How does it work with parking and stuff - should I try to carpool in?",
+        "ts": "1472736009.000067"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "Well hi there!",
+        "ts": "1472736009.000068"
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "We are playing at 6:30 <@U1MPXSHN1>. Parking is either 3 or 4$. There are showers there and you can rent towels for free with your ID card. Let me know if you have more questions!",
+        "ts": "1472739772.000069",
+        "reactions": [
+            {
+                "name": "basketball",
+                "users": [
+                    "U1MPXSHN1",
+                    "U1KRSV7AN"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "can somebody lend this poor soul a ride tomorrow? ",
+        "ts": "1472761112.000070"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "<@U1KS4UE2F>: I will if you text me and remind me tonight haha",
+        "ts": "1472763557.000071"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "<tel:919-413-9511|919-413-9511>",
+        "ts": "1472763567.000072"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1MDE4NAG>: are you caving in for morning?? ",
+        "ts": "1472763653.000073"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "Yep! I'm weak, I know",
+        "ts": "1472764833.000074"
+    }
+]

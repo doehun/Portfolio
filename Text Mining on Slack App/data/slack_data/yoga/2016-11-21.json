@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1MDHNYR5",
+        "text": "<@U1MDHNYR5|jordan_pfaff> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1479736718.000003"
+    }
+]

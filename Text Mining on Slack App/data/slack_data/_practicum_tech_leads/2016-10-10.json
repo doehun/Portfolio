@@ -1,0 +1,33 @@
+[
+    {
+        "type": "message",
+        "user": "U1L0RBZFH",
+        "text": "to the people that have access to their server already: Do you have access to SAS on it?",
+        "ts": "1476130480.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L0RBZFH",
+        "text": "We can't find it on our server",
+        "ts": "1476130486.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1L0RBZFH> it took a bit to show up on ours but it eventually just appeared",
+        "ts": "1476130743.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1L0RBZFH",
+        "text": "Haha awesome ",
+        "ts": "1476130782.000005"
+    },
+    {
+        "user": "U2LA4671B",
+        "text": "<@U2LA4671B|brandonbarbour> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476148687.000006"
+    }
+]

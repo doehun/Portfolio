@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1KT9ATA5",
+        "text": "<@U1KT9ATA5|amir.lyall> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1476041871.000016"
+    }
+]

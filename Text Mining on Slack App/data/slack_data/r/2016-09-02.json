@@ -1,0 +1,80 @@
+[
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "<http:\/\/www.stat.columbia.edu\/~tzheng\/files\/Rcolor.pdf> \nin case you want to see all the colors r has!",
+        "ts": "1472839689.000028",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1P8QBBD1",
+                    "U1NUU2U9E"
+                ],
+                "count": 2
+            },
+            {
+                "name": "rainbow",
+                "users": [
+                    "U1KT9ATA5",
+                    "U1NUU2U9E",
+                    "U1KSL7L7R"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "and shapes: <https:\/\/www.google.com\/search?q=pch+in+r&amp;espv=2&amp;biw=1440&amp;bih=826&amp;tbm=isch&amp;imgil=9g4nF3_-9IBbZM%253A%253B1TrVQ1zKVtELYM%253Bhttp%25253A%25252F%25252Fwww.statmethods.net%25252Fadvgraphs%25252Fparameters.html&amp;source=iu&amp;pf=m&amp;fir=9g4nF3_-9IBbZM%253A%252C1TrVQ1zKVtELYM%252C_&amp;usg=__wAlkuBuzVFA-ZnZ26evTOFn__rQ%3D&amp;ved=0ahUKEwjZxJCKo_HOAhUG5yYKHUhjCRAQyjcIKQ&amp;ei=sb_JV5moJobOmwHIxqWAAQ#imgrc=41tUO8Bd25itpM%3A>",
+        "ts": "1472839931.000029",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1LBRCSEA",
+                    "U1NUU2U9E"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U1M4QJD4P",
+        "text": "<@U1M4QJD4P|mike-rose> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472850916.000030"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "Heads up-in the r homework it throws an error when trying to access columns in Data1 like Data1$Population.  This workaround seemed to work:  pop = Data1[,'Population']\ninc = Data1[,'Income']\ncor.test(inc, pop)",
+        "ts": "1472853665.000031",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L1D4WG7",
+                    "U1KSL7C10",
+                    "U1KR9BP0E"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Hey thanks, <@U1KRNTXL5> I was having trouble with that! ",
+        "ts": "1472854974.000032"
+    },
+    {
+        "user": "U1NFS178D",
+        "text": "<@U1NFS178D|maria> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472865366.000033"
+    }
+]

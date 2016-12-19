@@ -1,0 +1,195 @@
+[
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Just throwing this out there:",
+        "ts": "1475506044.000287"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "<http:\/\/allaboutbeer.com\/gather-for-beer\/world-beer-festival\/durham-nc\/>",
+        "attachments": [
+            {
+                "service_name": "All About Beer",
+                "title": "World Beer Festival Durham 2016 - All About Beer",
+                "title_link": "http:\/\/allaboutbeer.com\/gather-for-beer\/world-beer-festival\/durham-nc\/",
+                "text": "Cheers to 21 years! World Beer Festival Durham returns on Saturday, Oct. 15.",
+                "fallback": "All About Beer: World Beer Festival Durham 2016 - All About Beer",
+                "thumb_url": "http:\/\/allaboutbeer.com\/wp-content\/uploads\/2009\/06\/World-Beer-Festival-Featured.png",
+                "from_url": "http:\/\/allaboutbeer.com\/gather-for-beer\/world-beer-festival\/durham-nc\/",
+                "thumb_width": 688,
+                "thumb_height": 362,
+                "id": 1
+            }
+        ],
+        "ts": "1475506044.000288"
+    },
+    {
+        "type": "message",
+        "user": "U1L97TR38",
+        "text": "For any hockey fans out there, this friday theres a Hurricanes hockey game at 7:30. If anyone is interest shoot me a message! Going to grab some tickets soon (15 bucks)",
+        "ts": "1475532185.000290"
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "Go canes!! Student tickets are super cheap to canes games most nights!!",
+        "ts": "1475535378.000291"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "<@U1L97TR38> Friday will be tough for me as I'm going to bed early for my race Saturday.  The Caps play in Raleigh Nov 12 and Dec 16 I've got those dates circled for trying to go!",
+        "ts": "1475535926.000292"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "This Friday won't work for me, but I'm definitely interested in future games!",
+        "ts": "1475536214.000293",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L46HXCJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L97TR38",
+        "text": "no worries <@U1N43E3E0> <@U1KRE1L9M>   there'll be plenty of games to go to!",
+        "ts": "1475538357.000294"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I'm definitely interested in hockey and will also be rooting for the CAPS",
+        "ts": "1475544128.000295",
+        "reactions": [
+            {
+                "name": "ice_hockey_stick_and_puck",
+                "users": [
+                    "U1N43E3E0",
+                    "U1KRWUXFU",
+                    "U1L97TR38"
+                ],
+                "count": 3
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "U1N43E3E0",
+                    "U1KRNHQA1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I have my CAPS jersey ready to go",
+        "ts": "1475544763.000296"
+    },
+    {
+        "type": "message",
+        "user": "U1L97TR38",
+        "text": "just set up <#C2JT5V361|canesgames> channel for future games!",
+        "ts": "1475545086.000297"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "I would be up for one  in the future as well. If it would be a flyers game that would be even better",
+        "ts": "1475546082.000298",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1KRWUXFU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "<@U1KRZT11T>: Oct 30",
+        "ts": "1475546182.000299"
+    },
+    {
+        "type": "message",
+        "user": "U1KQGRG2F",
+        "text": "Hey guys! I'm hosting a luau party for us Friday, November 4th 6pm-10pm at Rum Runners mark it on your calendars! (Free entry and apps and discounted :tropical_drink:) ",
+        "ts": "1475547691.000300",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U1KRBFY3Z",
+                    "U1NUU2U9E",
+                    "U1KRNHQA1",
+                    "U1KRB11QC",
+                    "U1KRE1L9M",
+                    "U1KR891RC",
+                    "U1L7G5LR4",
+                    "U1L9DD1NY",
+                    "U1M37FW5U",
+                    "U1KT3UELS",
+                    "U1LK46TUJ",
+                    "U1L3PU7BJ",
+                    "U1KSL7L7R",
+                    "U1L46HXCJ",
+                    "U1KRMNVGC",
+                    "U1L40P4N9",
+                    "U1KT9ATA5",
+                    "U1LBRCSEA",
+                    "U1L41DF9D",
+                    "U1L5GU954",
+                    "U1L97TR38",
+                    "U1KRZT11T",
+                    "U1LAAMJ0M",
+                    "U1L1WFNC8",
+                    "U1KQ9523D"
+                ],
+                "count": 25
+            },
+            {
+                "name": "palm_tree",
+                "users": [
+                    "U1N43E3E0",
+                    "U1KT9ATA5",
+                    "U1L9DD1NY",
+                    "U1KQ9523D"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "Fun! Thanks, Annabel, for organizing this! ",
+        "ts": "1475547732.000301",
+        "reactions": [
+            {
+                "name": "hugging_face",
+                "users": [
+                    "U1KQGRG2F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Sounds dangerous <@U1KQGRG2F> can't wait :clap::dancer:",
+        "ts": "1475548526.000302"
+    }
+]

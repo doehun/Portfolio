@@ -1,0 +1,47 @@
+[
+    {
+        "user": "U1L6XBH6W",
+        "text": "<@U1L6XBH6W|shannon_muldoon> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472303342.000002"
+    },
+    {
+        "user": "U1MBURU4D",
+        "text": "<@U1MBURU4D|marc_armbruster> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472306263.000003"
+    },
+    {
+        "user": "U1KQ9523D",
+        "text": "<@U1KQ9523D|lisaholbach> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472329690.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "<!channel> Hey I was just trying to get a better grasp of what people are looking for. If you could fill out this form that would help <https:\/\/docs.google.com\/a\/ncsu.edu\/forms\/d\/e\/1FAIpQLSfFSo5d7nDl-ZbyNc7PTud7kk_qkBkHTwJ_57hMTrhhwr0yEQ\/viewform>",
+        "ts": "1472352550.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L7ERY77",
+        "text": "Says I need permission? ",
+        "ts": "1472352946.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U1L7ERY77>: make sure you're on the right email. ",
+        "ts": "1472354632.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "try it now",
+        "ts": "1472357030.000006"
+    }
+]

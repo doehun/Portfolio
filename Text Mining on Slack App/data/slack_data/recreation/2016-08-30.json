@@ -1,0 +1,96 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "anyone interested in hiking this weekend?",
+        "ts": "1472600443.000003",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KSL7L7R",
+                    "U1L7RPG1M"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L2P17DZ",
+        "text": "<@U1KRHCR7T>: what day were you thinking about going?",
+        "ts": "1472600857.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "no plans yet, just gauging interest",
+        "ts": "1472600889.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "yeah, hiking at Umstead could be fun",
+        "ts": "1472607434.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "I am tentatively in, with the family, depending on the trail and time",
+        "ts": "1472607517.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1L1WFNC8",
+        "text": "<@U1KRHCR7T>  where do you usually go hike around here?",
+        "edited": {
+            "user": "U1L1WFNC8",
+            "ts": "1472612464.000000"
+        },
+        "ts": "1472611780.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1L6XBH6W",
+        "text": "I would be up for hiking as well ",
+        "ts": "1472612526.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "<http:\/\/m.indyweek.com\/indyweek\/the-triangle-has-lots-of-great-hiking-trails-here-are-seven-of-our-favorites\/Content?oid=5060071>",
+        "attachments": [
+            {
+                "service_name": "Indy Week",
+                "title": "The Triangle Has Lots of Great Hiking Trails. Here Are Seven of Our Favorites.",
+                "title_link": "http:\/\/m.indyweek.com\/indyweek\/the-triangle-has-lots-of-great-hiking-trails-here-are-seven-of-our-favorites\/Content?oid=5060071",
+                "text": "Looking for a serene nature walk? Something more challenging? Here you go.",
+                "fallback": "Indy Week: The Triangle Has Lots of Great Hiking Trails. Here Are Seven of Our Favorites.",
+                "image_url": "http:\/\/media2.fdncms.com\/indyweek\/imager\/u\/slideshow\/5060272\/trailsupdated.jpg",
+                "image_width": 343,
+                "image_height": 250,
+                "from_url": "http:\/\/m.indyweek.com\/indyweek\/the-triangle-has-lots-of-great-hiking-trails-here-are-seven-of-our-favorites\/Content?oid=5060071",
+                "image_bytes": 74190,
+                "service_icon": "http:\/\/m.indyweek.com\/apple-touch-icon-iphone.png",
+                "id": 1
+            }
+        ],
+        "ts": "1472614852.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "<@U1L1WFNC8> I\u2019ve only hiked at Umstead thus far. But I\u2019ve heard good things about Raven Rock State Park, though it\u2019s a bit more of a drive (just under an hour). And obviously lots of other good options too",
+        "ts": "1472615307.000013",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L1WFNC8",
+                    "U1L735VD4"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "Is soccer still happening?",
+        "ts": "1470599606.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "I can't make it today",
+        "ts": "1470599703.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MDHNYR5",
+        "text": "It looks like we might get rained on",
+        "ts": "1470599757.000004",
+        "reactions": [
+            {
+                "name": "sweat",
+                "users": [
+                    "U1KRNHQA1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "I think miller fields will be closed but I'm still up to play at Armory fields if anyone wants to",
+        "ts": "1470599792.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1LDKB3AN",
+        "text": "I'm still down",
+        "ts": "1470599918.000006",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRNHQA1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "So yeah we're playing? ",
+        "ts": "1470602078.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "Yep I'm headed there now. I'll let you know if miller is closed. If so, I'll head to Armory ",
+        "ts": "1470602148.000008",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KT5F4SZ",
+                    "U1LDKB3AN"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "I'm gonna be a little late ",
+        "ts": "1470602790.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "It's closed so going to armory ",
+        "ts": "1470603243.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1L974M70",
+        "text": "On my way. Will be 20 mins late",
+        "ts": "1470603912.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "2400 Fraternity Ct, Raleigh, NC 27606",
+        "ts": "1470604269.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "^^ address for Armory Fields",
+        "edited": {
+            "user": "U1KT5F4SZ",
+            "ts": "1470604289.000000"
+        },
+        "ts": "1470604281.000013"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U1L40P4N9",
+        "text": "<@U1L40P4N9|jaewonjung> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478266936.000004"
+    },
+    {
+        "user": "U1LAAMJ0M",
+        "text": "<@U1LAAMJ0M|carlanderson> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478286474.000005"
+    },
+    {
+        "user": "U1L7RPG1M",
+        "text": "<@U1L7RPG1M|carsonfutch> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478300138.000006"
+    }
+]

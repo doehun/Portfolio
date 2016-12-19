@@ -1,0 +1,27 @@
+[
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U1NUU2U9E",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[November 9th, 2016 7:56 PM] zack_schwartz: This is really useful <https:\/\/assets.datacamp.com\/blog_assets\/PandasPythonForDataScience.pdf>",
+                "ts": "1478750165.000006",
+                "author_subname": "zack_schwartz",
+                "channel_id": "C1WNCHYSC",
+                "channel_name": "python",
+                "is_msg_unfurl": true,
+                "text": "This is really useful <https:\/\/assets.datacamp.com\/blog_assets\/PandasPythonForDataScience.pdf>",
+                "author_name": "Zack Schwartz",
+                "author_link": "https:\/\/msa17.slack.com\/team\/zack_schwartz",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-06-26\/54385689042_770a47916de386f96f5b_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U1NUU2U9E|kb5522> pinned a message to this channel.",
+        "ts": "1478822613.000007"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "user": "U1L7RPG1M",
+        "text": "<@U1L7RPG1M|carsonfutch> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469258025.000002"
+    },
+    {
+        "user": "U1NDG6ULB",
+        "text": "<@U1NDG6ULB|cgreene> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469273623.000002"
+    },
+    {
+        "user": "U1KQ9523D",
+        "text": "<@U1KQ9523D|lisaholbach> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469281256.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "Neomonde is amazing! I'd be down for that :grin:",
+        "ts": "1469281305.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "I am also in for Neomonde",
+        "ts": "1469282394.000004"
+    },
+    {
+        "user": "U1M1L5G6L",
+        "text": "<@U1M1L5G6L|shelbyklemm> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469283475.000005"
+    },
+    {
+        "user": "U1KRHCR7T",
+        "text": "<@U1KRHCR7T|zack_schwartz> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469284745.000006"
+    },
+    {
+        "user": "U1MDHNYR5",
+        "text": "<@U1MDHNYR5|jordan_pfaff> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469285002.000007"
+    },
+    {
+        "user": "U1KRNHQA1",
+        "text": "<@U1KRNHQA1|pavalent> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469285069.000008"
+    },
+    {
+        "user": "U1LJRDPLP",
+        "text": "<@U1LJRDPLP|alexhorowitz> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469285118.000009"
+    },
+    {
+        "user": "U1KRBFY3Z",
+        "text": "<@U1KRBFY3Z|sylviebrick> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469285284.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "I'm out of town but I'm down for whatever outing we pick next weekend! Thanks for making this David!",
+        "ts": "1469285736.000011",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRB11QC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1KVBARR9",
+        "text": "<@U1KVBARR9|sneha.bhalodia> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469286184.000012"
+    },
+    {
+        "user": "U1M37FW5U",
+        "text": "<@U1M37FW5U|alex_curcio> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469287656.000013"
+    },
+    {
+        "user": "U1L7E8GSU",
+        "text": "<@U1L7E8GSU|rachelkurtz> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469287766.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Foodie outing for tonight: Mediterranean food at Neomonde at 6:30. ",
+        "ts": "1469288046.000015"
+    },
+    {
+        "user": "U1LK46TUJ",
+        "text": "<@U1LK46TUJ|taylormikkola> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469288547.000016"
+    },
+    {
+        "user": "U1M7AD5L2",
+        "text": "<@U1M7AD5L2|kelly> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469289203.000017"
+    },
+    {
+        "user": "U1L735VD4",
+        "text": "<@U1L735VD4|nimish_g> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469290830.000018"
+    },
+    {
+        "user": "U1KRBJP47",
+        "text": "<@U1KRBJP47|marina.burke> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469291325.000019"
+    },
+    {
+        "user": "U1L7ERY77",
+        "text": "<@U1L7ERY77|maxwarburg> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469291629.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "Awe man, I thought this was plans for Sunday! I have dinner plans for tonight but I will def join you guys next weekend!!! Enjoy Neomonde, it is one of my faves :yum:",
+        "ts": "1469291762.000021"
+    },
+    {
+        "user": "U1KSYP1M5",
+        "text": "<@U1KSYP1M5|madison> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469293965.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "We could do Sunday if that works for more people.",
+        "ts": "1469301879.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "That would work better for me too! ",
+        "ts": "1469301917.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Sunday night it is. I also heard from a local that there is a better greek place on Glenwood if we want to try it out",
+        "ts": "1469301952.000025",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KQ9523D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1NDG6ULB",
+        "text": "Taverna agora is a little pricey but is really really good if you want to try it out. Great place to eat ",
+        "ts": "1469309619.000026"
+    }
+]

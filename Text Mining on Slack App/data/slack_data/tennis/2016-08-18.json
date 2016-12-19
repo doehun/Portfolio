@@ -1,0 +1,53 @@
+[
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "Tennis Saturday morning?",
+        "ts": "1471563917.000002",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRZT11T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "I'm not gonna be here this weekend :confused: ",
+        "ts": "1471563982.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "I'll be moving into a new apartment so I won't be able to play either",
+        "ts": "1471564539.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "8?",
+        "ts": "1471566410.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "I'm in",
+        "ts": "1471566414.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "Put me down for a maybe ",
+        "ts": "1471566510.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "Can't this weekend sorry ",
+        "ts": "1471566514.000008"
+    }
+]

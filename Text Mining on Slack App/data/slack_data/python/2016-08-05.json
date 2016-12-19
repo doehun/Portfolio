@@ -1,0 +1,59 @@
+[
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "I only know Python basics and the two versions treat division differently. If you do 3\/4, you would get 3 I think in one version and 0.75 in another ",
+        "ts": "1470431474.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "I don't know about other differences but I know this one ",
+        "ts": "1470431492.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1KSBCBFG>: here is a good article about the division :smile: <http:\/\/www.informit.com\/articles\/article.aspx?p=1439189>",
+        "attachments": [
+            {
+                "title": "Python's \"New\" Division: Python 2 Versus Python 3 | New Division Functionality | InformIT",
+                "title_link": "http:\/\/www.informit.com\/articles\/article.aspx?p=1439189",
+                "text": "Among the changes in the new version of Python is the way the division operator works. In this article, Python book and video author Wesley Chun explains how the math function has worked since Python was created and how it changes as the dynamic language moves towards the future.",
+                "fallback": "Python's \"New\" Division: Python 2 Versus Python 3 | New Division Functionality | InformIT",
+                "from_url": "http:\/\/www.informit.com\/articles\/article.aspx?p=1439189",
+                "service_icon": "http:\/\/www.informit.com\/display\/InformIT\/images\/objects\/touch_icons\/apple-touch-icon-144x144-precomposed.png",
+                "service_name": "informit.com",
+                "id": 1
+            }
+        ],
+        "ts": "1470432463.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<!channel>: Hi everyone, hope those of us who did the certification test passed it! \nI put up a new project on the website so if you have some time - go out there and explore. Lets learn and share the knowledge!",
+        "ts": "1470432610.000018"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "Yo yo yo",
+        "ts": "1470432610.000019",
+        "reactions": [
+            {
+                "name": "key",
+                "users": [
+                    "U1P8QBBD1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "Thanks kosta! Just finished my certification exam today so will start looking into this ",
+        "ts": "1470433776.000020"
+    }
+]

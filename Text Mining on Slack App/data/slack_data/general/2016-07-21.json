@@ -1,0 +1,60 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "fun with R: <http:\/\/people.duke.edu\/~aql3\/gotta-plot-them-all\/>",
+        "attachments": [
+            {
+                "service_name": "Anh Le",
+                "title": "Gotta plot \u2018em all!",
+                "title_link": "http:\/\/people.duke.edu\/~aql3\/gotta-plot-them-all\/",
+                "text": "Visualize 151 Pokemons with Principal Component Analysis",
+                "fallback": "Anh Le: Gotta plot \u2018em all!",
+                "ts": 1468774800,
+                "from_url": "http:\/\/people.duke.edu\/~aql3\/gotta-plot-them-all\/",
+                "id": 1
+            }
+        ],
+        "ts": "1469119799.000002",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1LBRCSEA",
+                    "U1L41DF9D",
+                    "U1L8PJY4W"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "Yo yo yo",
+        "ts": "1469125255.000005"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "Well hi there!",
+        "ts": "1469125279.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "did someone post a greeting and then delete it to make it look like slackbot was going crazy?",
+        "ts": "1469131204.000010",
+        "reactions": [
+            {
+                "name": "smirk",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1KRLV1CG",
+                    "U1KRB11QC"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

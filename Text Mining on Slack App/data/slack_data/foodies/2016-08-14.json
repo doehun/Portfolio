@@ -1,0 +1,83 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Foodie outing for today: Duck's Dounts this afternoon <@U1KSYP1M5> <@U1KRWUXFU> ",
+        "ts": "1471189449.000002",
+        "reactions": [
+            {
+                "name": "doughnut",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1KSYP1M5",
+                    "U1KRWUXFU",
+                    "U1LBRCSEA"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSYP1M5",
+        "text": "I'm free anytime after 1!  ",
+        "ts": "1471190452.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "I was thinking about sometime between 2 and 2:30. I can give up to 3 people a ride there.",
+        "ts": "1471190499.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "I can do 2:30! ",
+        "ts": "1471192442.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "<@U1KRB11QC>: which location??",
+        "ts": "1471194040.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "I think this one is closest 100 Wrenn Dr #101, Cary, NC 27511",
+        "ts": "1471195579.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KSYP1M5",
+        "text": "I can drive up to 4 people! But I need to stop at the target in Cary afterwards to pick up a few things! ",
+        "ts": "1471196894.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "See you all soon",
+        "ts": "1471197809.000009",
+        "reactions": [
+            {
+                "name": "doughnut",
+                "users": [
+                    "U1KRWUXFU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": ":doughnut::doughnut::doughnut:",
+        "ts": "1471197818.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "I'm inside! ",
+        "ts": "1471199714.000011"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "user": "U1LMHQY9E",
+        "text": "<@U1LMHQY9E|pmaychek> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475862655.000002"
+    },
+    {
+        "user": "U1LMHQY9E",
+        "purpose": "happy hour planning, for those who aren't in the social, but wants to get an hour of being happy",
+        "text": "<@U1LMHQY9E|pmaychek> set the channel purpose: happy hour planning, for those who aren't in the social, but wants to get an hour of being happy",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1475862655.000003"
+    },
+    {
+        "user": "U1KSYP1M5",
+        "text": "<@U1KSYP1M5|madison> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475864077.000004"
+    },
+    {
+        "user": "U1KT9ATA5",
+        "text": "<@U1KT9ATA5|amir.lyall> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475868549.000002"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "J crew\/J crew factory\/Banana Republic are also having big holiday sales! Excellent for versatile business basics.",
+        "ts": "1467552265.000002"
+    },
+    {
+        "user": "U1NDG6ULB",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1NDG6ULB|cgreene> has joined the channel",
+        "ts": "1467575659.000003"
+    },
+    {
+        "user": "U1NFS178D",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1NFS178D|maria> has joined the channel",
+        "ts": "1467595767.000004"
+    }
+]

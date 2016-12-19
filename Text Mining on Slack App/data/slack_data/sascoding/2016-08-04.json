@@ -1,0 +1,84 @@
+[
+    {
+        "user": "U1XCJ1X4H",
+        "text": "<@U1XCJ1X4H|ladrie> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470313993.000085"
+    },
+    {
+        "type": "message",
+        "user": "U1XCJ1X4H",
+        "text": "You only need your license or student ID. You DO NOT need two forms of ID.",
+        "ts": "1470314023.000086",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L1D4WG7",
+                    "U1L914KNJ",
+                    "U1KRLV1CG",
+                    "U1P8QBBD1",
+                    "U1NUU2U9E"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Thanks <@U1XCJ1X4H> !! ",
+        "ts": "1470316160.000087"
+    },
+    {
+        "user": "U1KRWJB7S",
+        "text": "<@U1KRWJB7S|brandon_mayer> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470323636.000088"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "USE THE FORUM PEOPLE :joy:",
+        "ts": "1470324288.000089",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L7E8GSU",
+                    "U1KT9ATA5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U1NLH1CP8",
+        "text": "<@U1NLH1CP8|catherine_burton> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470324295.000090"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "(if you want answers from Andrea)",
+        "ts": "1470324368.000091"
+    },
+    {
+        "user": "U1L6WB44A",
+        "text": "<@U1L6WB44A|ekdoyel> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470346006.000092"
+    },
+    {
+        "user": "U1LV6EH3M",
+        "text": "<@U1LV6EH3M|mmspenc2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470348653.000093"
+    }
+]

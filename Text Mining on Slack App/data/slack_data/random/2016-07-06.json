@@ -1,0 +1,60 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "Heyy! I brought a re-usable K-Kup and some ground coffee for the Keurig downstairs. I put a tablespoon in the ground coffee. Only use two tablespoons otherwise you'll clog the Keurig :slightly_smiling_face: Anyone is welcome to it.",
+        "ts": "1467809055.000002",
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KT3UELS",
+                    "U1MDHNYR5",
+                    "U1KRNHQA1",
+                    "U1KSYP1M5",
+                    "U1KSL7L7R",
+                    "U1LMHQY9E"
+                ],
+                "count": 7
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U1LBRCSEA",
+                    "U1LMHQY9E"
+                ],
+                "count": 2
+            },
+            {
+                "name": "coffee",
+                "users": [
+                    "U1L8PJY4W",
+                    "U1LMHQY9E"
+                ],
+                "count": 2
+            },
+            {
+                "name": "grin",
+                "users": [
+                    "U1L41DF9D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1P8QBBD1",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1P8QBBD1|shpatel7> has joined the channel",
+        "ts": "1467823608.000003"
+    },
+    {
+        "user": "U1PF7HWTF",
+        "text": "<@U1PF7HWTF|nickweimer> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1467859320.000004"
+    }
+]

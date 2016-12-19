@@ -1,0 +1,116 @@
+[
+    {
+        "user": "U1KSL7C10",
+        "text": "<@U1KSL7C10|shoshana> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472997930.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "I got that as well <@U1L1D4WG7> . I did it twice and got 'Illiteracy' and 'HS Grad' both times. Any luck today?",
+        "ts": "1473003196.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "<@U1L1D4WG7> <@U1KSL7L7R>  I just did it again and got the same thing you got :thinking_face:",
+        "ts": "1473004271.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "I got the same as Dr L in terms of significant variables, but I was unable to run the VIF function. Anyone else have trouble with that?",
+        "ts": "1473004752.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "Zack the VIF function will not run if one of the package fails to execute. ",
+        "ts": "1473005408.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "I had a problem with the fma package. The installation was successful but when I executed library(fma) the package failed. ",
+        "ts": "1473005633.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "<@U1KQ9523D> <@U1KSL7L7R> I looked at my results again and realized I was using the p-values from the global test (anova function) instead of the individual t-test values (summary function). When I remove the highest p-values using t-test results, I get the same as LaBarr.",
+        "ts": "1473009946.000009",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1KQ9523D",
+                    "U1L7ERY77",
+                    "U1KSR1MS4",
+                    "U1KSL7L7R"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1KRNTXL5> do you know why it won't let us use the $ notation? I'm concerned since that seems to be all the notation going forward and I don't want to have to declare it each time as a separate object... (Did you also get the error about atomic vectors?)",
+        "ts": "1473021958.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "<@U1KR9BP0E>: it is because Data1 is a matrix and not a data frame. If you run the line \"Data1 &lt;- data.frame(Data1)\" then the $ should work just fine!",
+        "ts": "1473022204.000011",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KSR1MS4",
+                    "U1L1D4WG7",
+                    "U1KRHCR7T",
+                    "U1KT2JJE8",
+                    "U1KSL7L7R"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1L3G0YRJ> Thank you!!! Super helpful",
+        "ts": "1473022244.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "You're welcome <@U1KR9BP0E>!",
+        "ts": "1473022269.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1KRHCR7T> I re-installed the packages and it worked fine. Did you try that too?",
+        "ts": "1473022530.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR1MS4",
+        "text": "My vif function didn't show the df or gvif^(1\/(2*df)) - anyone know why? Edit: I just realized - is it bc i didn't identify any categorical vars?",
+        "edited": {
+            "user": "U1KSR1MS4",
+            "ts": "1473023156.000000"
+        },
+        "ts": "1473022944.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "<@U1KRNH021> + <@U1KR9BP0E> Yep, seems like the issue had to do with packages. I reinstalled all of them and the VIF worked. Thanks!",
+        "ts": "1473029715.000018"
+    }
+]

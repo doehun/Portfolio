@@ -1,0 +1,116 @@
+[
+    {
+        "user": "U1KSPCE87",
+        "text": "<@U1KSPCE87|jessie> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474207769.000002"
+    },
+    {
+        "user": "U1LV6EH3M",
+        "text": "<@U1LV6EH3M|mmspenc2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474218694.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "If you were wondering: \"gene expression\" means whether a particular gene is turned up or down.  Each gene contains the instructions for building a protein.  So if a gene is highly expressed it is building a lot of that protein, and if expression is low, it's not building much of it.  (Sorry, I couldn't resist!)  Bio folks, does this sound reasonable?",
+        "ts": "1474234142.000004",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1NFS178D",
+                    "U1N43E3E0",
+                    "U1L914KNJ",
+                    "U1KRBJP47",
+                    "U1KRHCR7T",
+                    "U1KR9BP0E",
+                    "U1KRNHQA1",
+                    "U1KT9ATA5",
+                    "U1KRF9BAP",
+                    "U1KRZT11T",
+                    "U1KQGK2CB",
+                    "U1NUU2U9E",
+                    "U1L9DD1NY",
+                    "U1LBRCSEA",
+                    "U1KT2JJE8",
+                    "U1P8QBBD1"
+                ],
+                "count": 16
+            },
+            {
+                "name": "nerd_face",
+                "users": [
+                    "U1L6YQUSU",
+                    "U1L9DD1NY"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Thanks <@U1KRNTXL5> that helps add some context to the problem.",
+        "ts": "1474234346.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "in the chicken example we went through in class, when we changed the values of diet to factors, does anyone know the reasoning for choosing those specific values? Why did Dr Race use 5, 6, 8, and 9 instead of 1, 2, 3, and 4?",
+        "ts": "1474237159.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "Those are actually the number of times each value of the factor is repeated! She puts each value inside a rep() function, which means repeat, creating a vector containing each diet repeated a pre-known number of times.",
+        "ts": "1474237307.000007",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1N43E3E0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "ah, that makes a lot more sense now. thank you!",
+        "ts": "1474237384.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "so what is a good way to group our variables, <@U1KRNTXL5> <@U1L3G0YRJ> ? we need to group them to make pretty charts... since the color of the dots on the graph would depend on the group... any clues? :smile:",
+        "ts": "1474248800.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "Check the last column of the data frame!",
+        "ts": "1474248884.000010",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1L974M70"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U1MBURU4D",
+        "text": "<@U1MBURU4D|marc_armbruster> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474254002.000011"
+    }
+]

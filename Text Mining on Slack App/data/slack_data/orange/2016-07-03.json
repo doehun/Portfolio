@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1NDG6ULB",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1NDG6ULB|cgreene> has joined the channel",
+        "ts": "1467576212.000002"
+    },
+    {
+        "user": "U1L7RPG1M",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L7RPG1M|carsonfutch> has joined the channel",
+        "ts": "1467581061.000003"
+    }
+]

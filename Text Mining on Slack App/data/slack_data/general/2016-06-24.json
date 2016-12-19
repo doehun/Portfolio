@@ -1,0 +1,359 @@
+[
+    {
+        "user": "U1L0K4RQ8",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L0K4RQ8|sakimel> has joined the channel",
+        "ts": "1466766721.000065"
+    },
+    {
+        "user": "U1L0RBZFH",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L0RBZFH|caroline-hughes> has joined the channel",
+        "ts": "1466767277.000066"
+    },
+    {
+        "user": "U1L0V1X61",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L0V1X61|raj> has joined the channel",
+        "ts": "1466768323.000067"
+    },
+    {
+        "user": "U1KVBARR9",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KVBARR9|sneha.bhalodia> has joined the channel",
+        "ts": "1466772939.000068"
+    },
+    {
+        "user": "U1L1D4WG7",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L1D4WG7|edpreble> has joined the channel",
+        "ts": "1466773089.000069"
+    },
+    {
+        "user": "U1L1D4UG6",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L1D4UG6|laurahc55> has joined the channel",
+        "ts": "1466774668.000070"
+    },
+    {
+        "user": "U1L1WFNC8",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L1WFNC8|wrighton88> has joined the channel",
+        "ts": "1466777031.000071"
+    },
+    {
+        "user": "U1L2QDX7Y",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L2QDX7Y|semoore9> has joined the channel",
+        "ts": "1466781900.000072"
+    },
+    {
+        "user": "U1L3G0YRJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L3G0YRJ|emmyburnett> has joined the channel",
+        "ts": "1466786239.000073"
+    },
+    {
+        "user": "U1L3PU7BJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L3PU7BJ|dmalave> has joined the channel",
+        "ts": "1466786533.000074"
+    },
+    {
+        "user": "U1L46HXCJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L46HXCJ|kateykilmer> has joined the channel",
+        "ts": "1466786802.000075"
+    },
+    {
+        "type": "message",
+        "user": "U1L46HXCJ",
+        "text": "Hey! We are thinking of getting a group to go downtown on Saturday would anyone be interested? ",
+        "ts": "1466787127.000076",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KT3UELS",
+                    "U1L41DF9D",
+                    "U1KQ9523D",
+                    "U1L3G0YRJ",
+                    "U1KRB11QC",
+                    "U1KRZT11T",
+                    "U1L5GU954",
+                    "U1KSH8676",
+                    "U1KRBFY3Z",
+                    "U1KRE1L9M",
+                    "U1KSEJ01W",
+                    "U1KRNH021",
+                    "U1L1WFNC8",
+                    "U1KRQLFLY",
+                    "U1KSR1MS4",
+                    "U1L7B7188",
+                    "U1L8PJY4W",
+                    "U1KS4UE2F",
+                    "U1L415ECD"
+                ],
+                "count": 19
+            }
+        ]
+    },
+    {
+        "user": "U1L40P4N9",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L40P4N9|jaewonjung> has joined the channel",
+        "ts": "1466787550.000077"
+    },
+    {
+        "user": "U1L415ECD",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L415ECD|joeloftus> has joined the channel",
+        "ts": "1466787609.000078"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "I'm down for that",
+        "ts": "1466787641.000079"
+    },
+    {
+        "user": "U1L41DF9D",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L41DF9D|cacolli6> has joined the channel",
+        "ts": "1466787674.000080"
+    },
+    {
+        "user": "U1L2P17DZ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L2P17DZ|kailistevens> has joined the channel",
+        "ts": "1466788124.000081"
+    },
+    {
+        "user": "U1L4RTKCM",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L4RTKCM|gheyne> has joined the channel",
+        "ts": "1466791696.000082"
+    },
+    {
+        "user": "U1L3K1AKD",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L3K1AKD|ccupito> has joined the channel",
+        "ts": "1466793113.000083"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "I'd join as well. Anyone interested in getting a pickup soccer game going at some point on Sunday?",
+        "ts": "1466794644.000084",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRZT11T",
+                    "U1L1WFNC8",
+                    "U1KRQLFLY",
+                    "U1L90S3QC"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U1L5GU954",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L5GU954|jrweston> has joined the channel",
+        "ts": "1466797609.000085"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "On Saturday would anyone be down to play, a round of disc golf, ultimate Frisbee, or go on a run?",
+        "ts": "1466797643.000086",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KSH8676"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSH8676",
+        "text": "I'll play some disc golf, there's a good course on Kaplan. ",
+        "ts": "1466799935.000087"
+    },
+    {
+        "type": "message",
+        "user": "U1KSEJ01W",
+        "text": "id be in for that I live right down there",
+        "ts": "1466800454.000088"
+    },
+    {
+        "type": "message",
+        "user": "U1L1WFNC8",
+        "text": "I'm in for heading DT, I also live about 3 blocks away",
+        "ts": "1466802378.000089"
+    },
+    {
+        "user": "U1L6WB44A",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L6WB44A|ekdoyel> has joined the channel",
+        "ts": "1466803442.000090"
+    },
+    {
+        "user": "U1L6XBH6W",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L6XBH6W|shannon_muldoon> has joined the channel",
+        "ts": "1466803671.000091"
+    },
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "I am in for meeting up downtown, might I suggest the Raleigh Times as a meeting place or did you have another place in mind <@U1L46HXCJ>?",
+        "ts": "1466806719.000092"
+    },
+    {
+        "user": "U1L6YQUSU",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L6YQUSU|johnbetzjr> has joined the channel",
+        "ts": "1466808166.000093"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "I am in as well. ",
+        "ts": "1466810308.000094"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "I might be in for downtown! Have some tentative plans with family but definitely keep me in the loop. Also if everyone texts their numbers I'm happy to start making a contact list of phone numbers!",
+        "ts": "1466810362.000095"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "my number is 404 988 9650",
+        "ts": "1466810366.000096"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Unless a contact list already exists somewhere?",
+        "ts": "1466810411.000097"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I don't think a contact list exists yet.  That's a great idea.",
+        "ts": "1466810560.000098"
+    },
+    {
+        "user": "U1L735VD4",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L735VD4|nimish_g> has joined the channel",
+        "ts": "1466811114.000099"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWJB7S",
+        "text": "Downtown and sports sound good to me. ",
+        "ts": "1466812139.000100"
+    },
+    {
+        "user": "U1L7ERY77",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L7ERY77|maxwarburg> has joined the channel",
+        "ts": "1466812472.000101"
+    },
+    {
+        "type": "message",
+        "user": "U1L735VD4",
+        "text": "Downtown sounds great! I'm in.",
+        "ts": "1466812718.000102"
+    },
+    {
+        "user": "U1L7B7188",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L7B7188|john_paton> has joined the channel",
+        "ts": "1466812919.000103"
+    },
+    {
+        "type": "message",
+        "user": "U1L7B7188",
+        "text": "I'm in for DT also. Raleigh Times sounds good to me.",
+        "ts": "1466813352.000104"
+    },
+    {
+        "user": "U1L7E8GSU",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L7E8GSU|rachelkurtz> has joined the channel",
+        "ts": "1466814433.000105"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "I'd be down for possibly something downtown tomorrow night!",
+        "ts": "1466815128.000106"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "I'm in for DT as well!",
+        "ts": "1466815255.000107"
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "Me too!",
+        "ts": "1466815280.000108"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Same for me also! I need to clear out a few neurons for new ideas from our professors :-)",
+        "ts": "1466816126.000109"
+    },
+    {
+        "user": "U1L7G5LR4",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L7G5LR4|arkadius> has joined the channel",
+        "ts": "1466817787.000110"
+    },
+    {
+        "user": "U1L7RPG1M",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L7RPG1M|carsonfutch> has joined the channel",
+        "ts": "1466818575.000111"
+    }
+]

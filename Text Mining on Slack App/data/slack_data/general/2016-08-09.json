@@ -1,0 +1,54 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRLV1CG",
+        "text": "Not sure I like the name of this emoticon... <@U1L9DD1NY> was not meant for a facepunch! lol",
+        "ts": "1470743709.000009",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KQ9523D",
+                    "U1L9DD1NY",
+                    "U1KT9ATA5",
+                    "U1KT3UELS",
+                    "U1L735VD4"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1KRLV1CG>: fist bump! ",
+        "ts": "1470758496.000010",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRLV1CG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "Anyone interested in getting lunch at chick fil a in Cameron village? I've gotta swing by bank of America also ",
+        "ts": "1470758535.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I wish you had sent this 10 minutes ago <@U1KT9ATA5> ",
+        "ts": "1470758553.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": ":( why",
+        "ts": "1470758620.000013"
+    }
+]

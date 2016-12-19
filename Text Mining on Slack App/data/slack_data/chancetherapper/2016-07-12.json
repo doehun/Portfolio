@@ -1,0 +1,72 @@
+[
+    {
+        "user": "U1L415ECD",
+        "text": "<@U1L415ECD|joeloftus> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468336613.000002"
+    },
+    {
+        "user": "U1KRBFY3Z",
+        "text": "<@U1KRBFY3Z|sylviebrick> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468336812.000003"
+    },
+    {
+        "user": "U1KRNH021",
+        "text": "<@U1KRNH021|sneha_komma> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468342013.000002"
+    },
+    {
+        "user": "U1MDHNYR5",
+        "text": "<@U1MDHNYR5|jordan_pfaff> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468342486.000002"
+    },
+    {
+        "user": "U1L46HXCJ",
+        "text": "<@U1L46HXCJ|kateykilmer> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468342902.000003"
+    },
+    {
+        "user": "U1KSL7L7R",
+        "text": "<@U1KSL7L7R|dustinwicker> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468345128.000004"
+    },
+    {
+        "user": "U1KSEJ01W",
+        "text": "<@U1KSEJ01W|ajborelli> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468353524.000005"
+    },
+    {
+        "user": "U1KSYP1M5",
+        "text": "<@U1KSYP1M5|madison> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468356816.000006"
+    },
+    {
+        "user": "U1L4RTKCM",
+        "text": "<@U1L4RTKCM|gheyne> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468365244.000007"
+    },
+    {
+        "user": "U1KR891RC",
+        "text": "<@U1KR891RC|fkaiser> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468367184.000008"
+    }
+]

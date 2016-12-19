@@ -1,0 +1,39 @@
+[
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "I am going for Power Yoga today at 5:15pm, in case anyone wants to join ...\n\n<@U1KQGK2CB>: Maggie said that you have her schedule for this week - do you know if she's the one leading at 5:15pm? Thanks!",
+        "ts": "1470324744.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KQGK2CB",
+        "text": "Here is Maggie's schedule for August 1-August 14th <@U1L0V1X61>\nTuesday: 5:15pm Yoga Power, 6:30pm Yoga Flow\nWednesday: 5:15pm Restorative Yoga\nThursday: 5:15pm Yoga Power, 6:30pm Yoga Flow\nFriday: 12:10pm Yoga Flow",
+        "ts": "1470330534.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "Thanks @logan !",
+        "ts": "1470330636.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1L8PJY4W",
+        "text": "Hitting up Indigo Hot Yoga tomorrow at 9am (located in Cameron Village). It's a 45min flow class if anyone wants to join... If you haven't been, I will say it is pretty intense but you can modify each pose to fit your level. They give you iced cold lavender towels at the end during savasana... Def makes the whole class worth it :raised_hands::skin-tone-4:",
+        "edited": {
+            "user": "U1L8PJY4W",
+            "ts": "1470356491.000000"
+        },
+        "ts": "1470355691.000005",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1L7E8GSU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

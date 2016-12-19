@@ -1,0 +1,175 @@
+[
+    {
+        "user": "U1KT2JJE8",
+        "text": "<@U1KT2JJE8|slwalke3> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477416882.000031"
+    },
+    {
+        "type": "message",
+        "user": "U1M1L5G6L",
+        "text": "Is the lift of b -&gt; a the same as the lift of a -&gt; b?",
+        "ts": "1477429169.000032"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "if it's not sequence it should be",
+        "ts": "1477429278.000033"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "if it's association it is",
+        "ts": "1477429291.000034"
+    },
+    {
+        "type": "message",
+        "user": "U1M1L5G6L",
+        "text": "yeah I was talking about association",
+        "ts": "1477429300.000035"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "yep!",
+        "ts": "1477429316.000036"
+    },
+    {
+        "type": "message",
+        "user": "U1M1L5G6L",
+        "text": "thanks",
+        "ts": "1477429318.000037"
+    },
+    {
+        "user": "U1L41DF9D",
+        "text": "<@U1L41DF9D|cacolli6> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477443922.000038"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "I'm going to post a quizlet sometime tomorrow for the data mining test. In process of compiling it now and about halfway through.",
+        "ts": "1477444019.000039",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1LMHQY9E",
+                    "U1KT9ATA5",
+                    "U1LBRCSEA",
+                    "U1L1WFNC8",
+                    "U1KT3UELS",
+                    "U1NUU2U9E"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "Anyone know why it's called pseudolift for sequences but lift for association?",
+        "ts": "1477444773.000040"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "i feel like dr. race said it was a SASism",
+        "ts": "1477444821.000041"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "pseudosequence",
+        "ts": "1477444849.000042"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "boom. mnemonic",
+        "ts": "1477444853.000043"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "same calculation",
+        "ts": "1477444859.000044"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "??",
+        "ts": "1477444997.000045"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "there's no difference in the calculation, just a different name for sequence",
+        "ts": "1477445175.000046"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I think it's a different name so you can distinguish the one that uses the sequence.  But that's just a theory.",
+        "ts": "1477446272.000047"
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "I agree with <@U1L6YQUSU>. I'm under the impression that lift is what you call it when the two things happen together in the same transaction, and pseudolift is what you call it when they happen sequentially.",
+        "ts": "1477451128.000048"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "This is what I  have so far for my quizlet - I'll probably add more to it tomorrow, but this at least covers the basis of it. I think looking at this and the worksheets will help out most people. <https:\/\/quizlet.com\/_2oxc2z>",
+        "attachments": [
+            {
+                "title": "Data Mining - IAA Flashcards | Quizlet",
+                "title_link": "https:\/\/quizlet.com\/_2oxc2z",
+                "text": "Start studying Data Mining - IAA. Learn vocabulary, terms, and more with flashcards, games, and other study tools.",
+                "fallback": "Data Mining - IAA Flashcards | Quizlet",
+                "from_url": "https:\/\/quizlet.com\/_2oxc2z",
+                "service_icon": "https:\/\/quizlet.com\/a\/i\/favicon.MDra.ico",
+                "service_name": "quizlet.com",
+                "id": 1
+            }
+        ],
+        "ts": "1477452597.000049",
+        "reactions": [
+            {
+                "name": "party_ed",
+                "users": [
+                    "U1L6YQUSU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "metal",
+                "users": [
+                    "U1L1D4WG7",
+                    "U1KRB11QC",
+                    "U1L974M70"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT3UELS",
+        "text": "Thanks for always sharing, <@U1L41DF9D> !! Really big fan of your quizlets! ",
+        "ts": "1477452805.000051"
+    },
+    {
+        "user": "U1LJRDPLP",
+        "text": "<@U1LJRDPLP|alexhorowitz> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477456575.000052"
+    }
+]

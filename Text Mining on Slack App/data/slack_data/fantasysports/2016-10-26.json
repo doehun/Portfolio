@@ -1,0 +1,142 @@
+[
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<!channel> anyone interested in a fantasy basketball league?",
+        "ts": "1477492168.000002",
+        "reactions": [
+            {
+                "name": "basketball",
+                "users": [
+                    "U1MBURU4D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1MBURU4D",
+        "text": "Yes. I would join.",
+        "ts": "1477492239.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1PF7HWTF",
+        "text": "im in",
+        "ts": "1477493901.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "i figure we can do a standard espn league, 8 categories head to head...any objections?",
+        "ts": "1477494107.000005",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1MBURU4D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "send me your email if you are interested and i will send the invite",
+        "ts": "1477494544.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1MBURU4D",
+        "text": "<mailto:mjarmbru@ncsu.edu|mjarmbru@ncsu.edu>",
+        "ts": "1477494563.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1KS4UE2F>",
+        "ts": "1477494761.000008"
+    },
+    {
+        "user": "U1KS4UE2F",
+        "inviter": "U1KT9ATA5",
+        "text": "<@U1KS4UE2F|edward_lim> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477494768.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1L7RPG1M",
+        "text": "<@U1Q5GHC2J>",
+        "ts": "1477495321.000010"
+    },
+    {
+        "user": "U1Q5GHC2J",
+        "inviter": "U1L7RPG1M",
+        "text": "<@U1Q5GHC2J|rwang10> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477495331.000011"
+    },
+    {
+        "user": "U1NDG6ULB",
+        "text": "<@U1NDG6ULB|cgreene> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477495894.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1NDG6ULB",
+        "text": "Dirks going out on top this year",
+        "ts": "1477495955.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "I'm down",
+        "ts": "1477495987.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1KSL7L7R> email?",
+        "ts": "1477503252.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "<mailto:dlwicker@ncsu.edu|dlwicker@ncsu.edu>",
+        "ts": "1477503268.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "5 spots left",
+        "ts": "1477504184.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1Q5GHC2J",
+        "text": "I have never played fantasy sports before. But sounds fun.",
+        "ts": "1477505898.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1Q5GHC2J",
+        "text": "I'm in. <mailto:rwang10@ncsu.edu|rwang10@ncsu.edu>",
+        "ts": "1477505915.000019",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1PF7HWTF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

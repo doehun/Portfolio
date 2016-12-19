@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U1KQYG6SJ",
+        "text": "<@U1KQYG6SJ|rose> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472929171.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "sooo... ok to archive this channel? <@U1L7ERY77>",
+        "ts": "1472929201.000003"
+    },
+    {
+        "user": "U1LMHQY9E",
+        "text": "<@U1LMHQY9E|pmaychek> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472929633.000004"
+    },
+    {
+        "user": "U1KQYG6SJ",
+        "members": [
+            "U1KQ9523D",
+            "U1KQYG6SJ",
+            "U1KRBFY3Z",
+            "U1KRMNVGC",
+            "U1KSL7L7R",
+            "U1KT2JJE8",
+            "U1L1WFNC8",
+            "U1L2QDX7Y",
+            "U1L3G0YRJ",
+            "U1L415ECD",
+            "U1L46HXCJ",
+            "U1L5GU954",
+            "U1L6YQUSU",
+            "U1L735VD4",
+            "U1L7ERY77",
+            "U1L8PJY4W",
+            "U1L914KNJ",
+            "U1LBRCSEA",
+            "U1M7AD5L2",
+            "U23JW15TP"
+        ],
+        "text": "<@U1KQYG6SJ|rose> archived the channel (w\/ 20 members)",
+        "type": "message",
+        "subtype": "channel_archive",
+        "ts": "1472935792.000005"
+    }
+]

@@ -1,0 +1,111 @@
+[
+    {
+        "user": "U1KRMNVGC",
+        "text": "<@U1KRMNVGC|cncross> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475770093.000002"
+    },
+    {
+        "user": "U1L6YQUSU",
+        "text": "<@U1L6YQUSU|johnbetzjr> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475770817.000003"
+    },
+    {
+        "user": "U1KRHCR7T",
+        "text": "<@U1KRHCR7T|zack_schwartz> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475806628.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "On the second set of exercises, question 1a, when calculating the lift for jelly based on someone having purchased bread, why is the denominator 10,000?",
+        "edited": {
+            "user": "U1KRHCR7T",
+            "ts": "1475806853.000000"
+        },
+        "ts": "1475806700.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "<@U1KRHCR7T>: r u looking at the answer key?",
+        "ts": "1475807341.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "Yes",
+        "ts": "1475807354.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "I wrote that part....not sure if it's right....rose is going to submit the whole thing once it's done to see ",
+        "ts": "1475807419.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "But you have to get the p(jelly) or p(peanut butter) ",
+        "ts": "1475807440.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "And to get that it would involve the 10,000",
+        "ts": "1475807452.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "Does that make sense?",
+        "ts": "1475807502.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "I'm not seeing where the 10,000 is coming from",
+        "ts": "1475807756.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "The 10,000 was because there were 10,000 total transactions ",
+        "ts": "1475808031.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "Technically speaking I think you would write out everything as a prob value in relation to the whole data set of 10,000 transactions but I was being lazy and didn't do it ",
+        "ts": "1475808105.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "Am I making sense?",
+        "ts": "1475808110.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "oh ok, I get it now. I missed that sentence at the top about the total number of transactions :flushed:",
+        "ts": "1475809057.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "thank you!",
+        "ts": "1475809061.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "Np :) that sentence was really not needed until u got to the lift so it didn't matter all too much ",
+        "ts": "1475809231.000017"
+    }
+]

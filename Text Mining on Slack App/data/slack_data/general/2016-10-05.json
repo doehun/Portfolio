@@ -1,0 +1,244 @@
+[
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "@orange there are (broken) pumpkin chocolate chip cookies in the blue classroom please come eat them!",
+        "ts": "1475676292.000813",
+        "reactions": [
+            {
+                "name": "cookie",
+                "users": [
+                    "U1L914KNJ",
+                    "U1KRB11QC",
+                    "U1LNGEV0B",
+                    "U1KRWUXFU",
+                    "U1M1L5G6L",
+                    "U1LMHQY9E"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "WHY DID I JUST SEE THIS??",
+        "ts": "1475680070.000814"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "hey everyone, drive to hold linear algebra exercise solutions at <https:\/\/drive.google.com\/drive\/folders\/0BzDstgdErBC8VVc1THg1NVpqQUE?usp=sharing>",
+        "attachments": [
+            {
+                "title": "Meet Google Drive \u2013 One place for all your files",
+                "title_link": "https:\/\/drive.google.com\/drive\/folders\/0BzDstgdErBC8VVc1THg1NVpqQUE?usp=sharing",
+                "text": "Google Drive is a free way to keep your files backed up and easy to reach from any phone, tablet, or computer. Start with 15GB of Google storage \u2013 free.",
+                "fallback": "Meet Google Drive \u2013 One place for all your files",
+                "from_url": "https:\/\/drive.google.com\/drive\/folders\/0BzDstgdErBC8VVc1THg1NVpqQUE?usp=sharing",
+                "service_icon": "https:\/\/accounts.google.com\/favicon.ico",
+                "service_name": "accounts.google.com",
+                "id": 1
+            }
+        ],
+        "ts": "1475687470.000815",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L1D4WG7",
+                    "U1L1WFNC8",
+                    "U1P8QBBD1",
+                    "U1KRTU0UQ"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "I've put a document in there for exercise 1 -- please edit as you see fit",
+        "ts": "1475687484.000817"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "I'll send that over to Dr. Race by EOD today",
+        "ts": "1475687491.000818"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "and feel free to get started on exercise 2",
+        "ts": "1475687643.000819"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "aiming to send that out by end of Friday",
+        "ts": "1475687661.000820"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "#DataMining",
+        "ts": "1475687696.000821"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "lol",
+        "ts": "1475687802.000822"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "yes, data mining",
+        "ts": "1475687805.000823"
+    },
+    {
+        "type": "message",
+        "user": "U1L40P4N9",
+        "text": "Someone left a black iPhone charger in Macon! Claim meow or ... I don't know. ",
+        "ts": "1475688257.000824",
+        "reactions": [
+            {
+                "name": "octocat",
+                "users": [
+                    "U1KSH8676",
+                    "U1L7E8GSU",
+                    "U1L5GU954"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "free food in the 2nd floor kitchen!",
+        "ts": "1475692763.000825",
+        "reactions": [
+            {
+                "name": "knife_fork_plate",
+                "users": [
+                    "U1KT3UELS",
+                    "U1P8QBBD1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "cookie",
+                "users": [
+                    "U1L6YQUSU",
+                    "U1P8QBBD1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "bagels, cookies, other stuff",
+        "ts": "1475692769.000826"
+    },
+    {
+        "type": "message",
+        "user": "U1KQGRG2F",
+        "text": "anyone know how to look at the alumni's resume book?",
+        "ts": "1475707072.000827"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "may have been <@U1L0V1X61>",
+        "ts": "1475707833.000829"
+    },
+    {
+        "type": "message",
+        "user": "U1KQGRG2F",
+        "text": "THANK YOU SO MUCH!!! <@U1L0V1X61> <@U1KT9ATA5> <@U1M4QJD4P>",
+        "ts": "1475710121.000830"
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "Today's adventures with Enterprise Miner have, I think, finally pushed me over the tipping point with my Mac after several rounds of virtual machine issues. Anyone have a Windows computer they'd recommend?  I'm preferably looking for something lightweight (in pounds not power!)",
+        "ts": "1475719288.000831"
+    },
+    {
+        "type": "message",
+        "user": "U1KT3UELS",
+        "text": "<@U1KT2JJE8>: I was talking to Brandon yesterday about future computer investment and he had some really great advice based on just about any personal preferences! ",
+        "ts": "1475719530.000832"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "<@U1KT2JJE8> I have a Dell Latitude E7470 and I like it a lot. It's pretty lightweight at 3.1 lbs",
+        "ts": "1475719985.000833"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "I have a Dell XPS 15 -- I've seen a couple of people with the lighter version (XPS 13). I love mine, and those with the 13-inch model seem to like theirs too!",
+        "ts": "1475720504.000834",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRNHQA1",
+                    "U1MDE4NAG",
+                    "U1L914KNJ",
+                    "U1L0V1X61",
+                    "U1NFS178D",
+                    "U1KRSV7AN",
+                    "U1KRLV1CG"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "I love my XPS 13",
+        "ts": "1475720586.000835"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "I have an HP Spectre that I think is pretty light and I love it.",
+        "ts": "1475720587.000836"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I'm with <@U1L7E8GSU>.  Love my Spectre.",
+        "ts": "1475720622.000837"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Ditto <@U1KRNHQA1> and my xps13.",
+        "ts": "1475720987.000838"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "<@U1KT2JJE8>  my priorities might be different than yours (I value cost efficiency and high performance over physical weight) but I'm very satisfied with my XPS 15.   What is \"light weight\" to you?   Due to Moore's law, you may find that if you're replacing an older laptop you can actually get something pretty powerful while still getting something lighter than you're used to.",
+        "edited": {
+            "user": "U1N43E3E0",
+            "ts": "1475722009.000000"
+        },
+        "ts": "1475721973.000839"
+    },
+    {
+        "type": "message",
+        "user": "U1KQGRG2F",
+        "text": "<@U1KT2JJE8>  my 15 inch lenovo yoga is super light and was cheap for having a solid state drive and intel i7",
+        "ts": "1475722360.000841"
+    }
+]

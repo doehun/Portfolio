@@ -1,0 +1,89 @@
+[
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1KRZT11T>: let me know what it's like. I'm super curious! ",
+        "ts": "1470739982.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "I'm curious too Tommy! Sounded like a drum session from the studio next door!",
+        "ts": "1470764831.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "It basically is",
+        "ts": "1470764866.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Ha! Is it mostly upper body work?",
+        "ts": "1470764941.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Even though you are drumming most of the time, you do lower body stuff as well",
+        "ts": "1470765005.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Interesting ",
+        "ts": "1470765032.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "And you didn't feel like death afterwards?",
+        "ts": "1470765049.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Idk I haven't done it yet. I am basing in on the description",
+        "ts": "1470765106.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Oh! Oops -- I thought it was this morning!",
+        "ts": "1470765178.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Looking forward to your report back :slightly_smiling_face:",
+        "ts": "1470765198.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1KRZT11T>: how was it?",
+        "ts": "1470790217.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "<@U1KR9BP0E>: <@U1KQYG6SJ> l learned that I may be rhythmically challenged. I think that the class is worth trying because it is right up you alley. It wasn't the hardest workout I have ever done but it was a fun way to get moving ",
+        "ts": "1470790390.000014",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1NDG6ULB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Great! Thanks for letting us know!",
+        "ts": "1470790440.000015"
+    }
+]

@@ -1,0 +1,155 @@
+[
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "it guessed 1 for 6, i tricked them :sunglasses:",
+        "ts": "1479389766.000843"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "The stuff it could figure out, it figured out immediately, sometimes before I could finish.",
+        "ts": "1479390271.000844"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "The stuff I feel like it struggles with or the images where there's multiple ways to draw something.  For example, do you draw a frying pan from the top or side?",
+        "ts": "1479390393.000845"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "it couldnt figure out cookie, i thought that one was pretty straightforward",
+        "ts": "1479390508.000846",
+        "reactions": [
+            {
+                "name": "cookie",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KSL7L7R",
+                    "U1SMADBU4"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "0\/6 :slightly_frowning_face:",
+        "ts": "1479390614.000847",
+        "reactions": [
+            {
+                "name": "grimacing",
+                "users": [
+                    "U1P8QBBD1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "don't frown, thats something to be proud of, you beat the system!",
+        "ts": "1479390702.000848",
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U1KRNHQA1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1KR891RC|fkaiser> uploaded a file: <https:\/\/msa17.slack.com\/files\/fkaiser\/F34A73W93\/slack_for_ios_upload._null_|Slack for iOS Upload> and commented: Github-Party.. it's happening! :raised_hands:",
+        "file": {
+            "id": "F34A73W93",
+            "created": 1479432209,
+            "timestamp": 1479432209,
+            "name": "Slack for iOS Upload.(null)",
+            "title": "Slack for iOS Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U1KR891RC",
+            "editable": false,
+            "size": 2226499,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F34A73W93\/slack_for_ios_upload._null_?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F34A73W93\/download\/slack_for_ios_upload._null_?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F34A73W93-d67a1f3990\/slack_for_ios_upload_64.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F34A73W93-d67a1f3990\/slack_for_ios_upload_80.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F34A73W93-d67a1f3990\/slack_for_ios_upload_360.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360_w": 270,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F34A73W93-d67a1f3990\/slack_for_ios_upload_480.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_480_w": 360,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F34A73W93-d67a1f3990\/slack_for_ios_upload_160.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F34A73W93-d67a1f3990\/slack_for_ios_upload_720.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_720_w": 540,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F34A73W93-d67a1f3990\/slack_for_ios_upload_960.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_960_w": 720,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F34A73W93-d67a1f3990\/slack_for_ios_upload_1024.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_1024_w": 768,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 2448,
+            "original_h": 3264,
+            "permalink": "https:\/\/msa17.slack.com\/files\/fkaiser\/F34A73W93\/slack_for_ios_upload._null_",
+            "permalink_public": "https:\/\/slack-files.com\/T1KRCES8H-F34A73W93-66a4a1b0ff",
+            "channels": [
+                "C1KR6MDP1"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc349W0WMS",
+                "created": 1479432209,
+                "timestamp": 1479432209,
+                "user": "U1KR891RC",
+                "is_intro": true,
+                "comment": "Github-Party.. it's happening! :raised_hands:",
+                "channel": ""
+            },
+            "reactions": [
+                {
+                    "name": "celebration",
+                    "users": [
+                        "U1KSL7L7R",
+                        "U1KS4UE2F",
+                        "U1KQGRG2F",
+                        "U1KRBJP47",
+                        "U1P8QBBD1",
+                        "U1L6YQUSU",
+                        "U1KRZT11T",
+                        "U1KT9ATA5",
+                        "U1KSGHLPJ"
+                    ],
+                    "count": 9
+                }
+            ]
+        },
+        "user": "U1KR891RC",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1KR891RC|fkaiser>",
+        "bot_id": null,
+        "ts": "1479432214.000849"
+    }
+]

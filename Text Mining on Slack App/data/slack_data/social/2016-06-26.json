@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1L7E8GSU",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L7E8GSU|rachelkurtz> has joined the channel",
+        "ts": "1466988023.000002"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U1KQYG6SJ",
+        "text": "<@U1KQYG6SJ|rose> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474121096.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "anyone want to join me at The Morning Times?",
+        "ts": "1474121115.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "<@U1KQYG6SJ>: Sparkcon the creative festival is happening downtown today.  You should check out the exhibits and the street chalk art on Fayetteville! ",
+        "ts": "1474122198.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "I'm a little confused lol",
+        "ts": "1474122249.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "do they have breakfast at this festival, or is this a separate suggestion? :smile:",
+        "ts": "1474122269.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "While you enjoy your coffee from The Morning Times, you should walk around and take in the sites! ",
+        "ts": "1474122302.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "Breakfast not included :-1:",
+        "ts": "1474122356.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "gotcha",
+        "ts": "1474123140.000009"
+    }
+]

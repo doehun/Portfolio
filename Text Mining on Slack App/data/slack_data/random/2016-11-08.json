@@ -1,0 +1,70 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "America needs to get rid of this daylight savings thing :unamused:",
+        "ts": "1478598732.000716",
+        "reactions": [
+            {
+                "name": "flag-us",
+                "users": [
+                    "U1L3PU7BJ",
+                    "U1KRB11QC",
+                    "U1N43E3E0"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U2LA4671B",
+        "text": "<@U1KQYG6SJ> Yeah, I\"m on board with that",
+        "ts": "1478613749.000721"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "<@U1KQYG6SJ>: you didnt like the extra hour of sleep?",
+        "ts": "1478616657.000723"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "<@U1KS4UE2F>  I don't like driving home in pitch black, especially when I used all the daylight inside my office\/classroom.",
+        "ts": "1478616860.000724"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "<@U1KS4UE2F> my issue is not with the day that the hour goes back, but with all the days that follow",
+        "edited": {
+            "user": "U1KQYG6SJ",
+            "ts": "1478617254.000000"
+        },
+        "ts": "1478617245.000725"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "ah i see",
+        "ts": "1478617275.000727"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U1KQYG6SJ>: <@U1N43E3E0> just move to Arizona. They don't participate in daylight savings ",
+        "ts": "1478617289.000728",
+        "reactions": [
+            {
+                "name": "cactus",
+                "users": [
+                    "U1KQGK2CB",
+                    "U1LBRCSEA",
+                    "U1L5GU954"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,1281 @@
+[
+    {
+        "user": "U1KRLV1CG",
+        "text": "<@U1KRLV1CG|ioannis_loukakis> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475154813.000171"
+    },
+    {
+        "user": "U1L6WB44A",
+        "text": "<@U1L6WB44A|ekdoyel> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475155741.000172"
+    },
+    {
+        "user": "U1KRZT11T",
+        "text": "<@U1KRZT11T|tommy_darlington> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475160809.000173"
+    },
+    {
+        "user": "U1LMHQY9E",
+        "text": "<@U1LMHQY9E|pmaychek> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475172355.000174"
+    },
+    {
+        "type": "message",
+        "user": "U1KQGRG2F",
+        "text": "<!channel>: anyone group studying in the library ",
+        "ts": "1475175364.000175"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "We're group studying in the Nash conference room, you in the library?",
+        "ts": "1475175393.000176"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "James and I are working in a room at the library",
+        "edited": {
+            "user": "U1KT5F4SZ",
+            "ts": "1475175420.000000"
+        },
+        "ts": "1475175410.000177",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KQGRG2F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "How long you going to be there, <@U1KT5F4SZ> ?",
+        "ts": "1475175521.000179"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U1L7E8GSU> minimum another hour",
+        "ts": "1475175588.000180"
+    },
+    {
+        "type": "message",
+        "user": "U1KSH8676",
+        "text": "I'm at the library",
+        "ts": "1475176655.000181"
+    },
+    {
+        "user": "U1PM77VSS",
+        "text": "<@U1PM77VSS|hpjones> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475176877.000182"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "<https:\/\/quizlet.com\/155050858\/iaa-logistic-regression-flash-cards\/> - here is the flashcards for logistic regression",
+        "attachments": [
+            {
+                "title": "IAA - Logistic Regression Flashcards | Quizlet",
+                "title_link": "https:\/\/quizlet.com\/155050858\/iaa-logistic-regression-flash-cards\/",
+                "text": "Start studying IAA - Logistic Regression. Learn vocabulary, terms, and more with flashcards, games, and other study tools.",
+                "fallback": "IAA - Logistic Regression Flashcards | Quizlet",
+                "from_url": "https:\/\/quizlet.com\/155050858\/iaa-logistic-regression-flash-cards\/",
+                "service_icon": "https:\/\/quizlet.com\/a\/i\/favicon.MDra.ico",
+                "service_name": "quizlet.com",
+                "id": 1
+            }
+        ],
+        "ts": "1475178944.000183",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1KRB11QC",
+                    "U1L1D4WG7",
+                    "U1M37FW5U",
+                    "U1LBRCSEA",
+                    "U1KT3UELS",
+                    "U1KSL7L7R",
+                    "U1KRHCR7T",
+                    "U1LMHQY9E",
+                    "U1NUU2U9E",
+                    "U1LNGEV0B",
+                    "U1MBT6FRB",
+                    "U1KR80QMS",
+                    "U1KT2JJE8"
+                ],
+                "count": 13
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT3UELS",
+        "text": "You rock, <@U1L41DF9D> !! The flash cards for linear algebra were so helpful too! ",
+        "ts": "1475179800.000185"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "you're the best!",
+        "ts": "1475179917.000186"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "so does logistic regression not care for model hierarchy?",
+        "ts": "1475181132.000188"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "thanks!",
+        "ts": "1475181416.000191"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR1MS4",
+        "text": "Long shot: did anyone happen to record the logistic review sesh today? I know dr. Simmons said she'd record but it's not uploaded yet -- I've emailed her about it",
+        "ts": "1475181446.000192"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "It is uploaded",
+        "ts": "1475181460.000193"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "its up there.  9\/29 review session",
+        "ts": "1475181469.000194"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR1MS4",
+        "text": "I'm an idiot",
+        "ts": "1475181483.000195"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR1MS4",
+        "text": "Thanks <@U1L7E8GSU> <@U1KT5F4SZ> ",
+        "ts": "1475181504.000196"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "When would we use the exact tests? Is it just when we have a small sample size or sparse data set?",
+        "ts": "1475181703.000197"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "<@U1KSL7L7R> For small sample sizes (&gt;20% of expected counts are less than 5)",
+        "ts": "1475181746.000198"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "Thank you <@U1KRE1L9M>",
+        "ts": "1475181796.000199"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "I'm confused about CMH vs BDT. What's the difference?",
+        "ts": "1475181958.000200"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "<@U1KS4UE2F> - if you're still on campus, John Betz is in nash and is pretty good at explaining it",
+        "ts": "1475182007.000201"
+    },
+    {
+        "type": "message",
+        "user": "U1M1L5G6L",
+        "text": "<@U1L6YQUSU> share with the class, please!",
+        "ts": "1475182081.000202",
+        "reactions": [
+            {
+                "name": "nerd_face",
+                "users": [
+                    "U1L6YQUSU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "yeah actually i'm having trouble with this one too <@U1KS4UE2F> <@U1L6YQUSU>  any help is appreciated",
+        "ts": "1475182107.000203"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Let me type something up.  One moment please.",
+        "ts": "1475182128.000204",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U1KR9BP0E",
+                    "U1LBRCSEA",
+                    "U1M1L5G6L"
+                ],
+                "count": 3
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U1KS4UE2F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "So, let's say you have 2 variables, A &amp; B and they have some sort of relationship.  We want to know if there's an association between A and B even if we break them down further into categories of a 3rd variable, C.",
+        "ts": "1475182235.000205"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "So we're stratifying by C.  It kind of looks like this.",
+        "ts": "1475182251.000206"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Do we still have an association between A and B, even though we've split them up by C?  That's what the CMH tells us.  The Null Hyp is that there is no association between A and B.  The alternative is that there is an association between A and B.",
+        "ts": "1475182365.000208"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Although you don't need to know this aspect, you're actually checking to see if there's confounding.",
+        "ts": "1475182389.000209",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L3PU7BJ",
+                    "U1KRNH021",
+                    "U1KRB11QC",
+                    "U1L2P17DZ",
+                    "U1L735VD4"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "The BMT is a test to see if there's an interaction between A and B, which is a different thing.",
+        "ts": "1475182415.000210"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "The BMT tells us whether or not there's an interaction by seeing if we have common (adjusted) odds ratios in each of these little subsets",
+        "ts": "1475182449.000212",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L3PU7BJ",
+                    "U1LMHQY9E",
+                    "U1KRB11QC",
+                    "U1L2P17DZ"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "The null for BMT is that there's no interaction (i.e. you have common odds ratios)",
+        "ts": "1475182473.000214"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "The alternative is that there IS an interaction and you DON'T have common odds ratios.",
+        "ts": "1475182490.000215"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "My follow-up question is -- if there's no association in the CMH, is there still a possibility that you would use an interaction\/there is a common odds ratio?",
+        "ts": "1475182504.000216"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "so is the logical order of testing: reject CMH -&gt; BDT?",
+        "ts": "1475182584.000217"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "That sounds right, <@U1KS4UE2F> .   If you reject CMH, that means there is an association, which to me means that you could go further to see if you would consider them to have an interaction.",
+        "ts": "1475182643.000218",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRB11QC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "If there's no relationship, <@U1KR9BP0E>, then I'd find it hard to believe there's an interaction",
+        "ts": "1475182662.000219"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "ok, got it. thanks so much <@U1L6YQUSU>!",
+        "ts": "1475182671.000220",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L6YQUSU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "ya thanks jbj! u keep saying bmt but i think thats a sandwich :stuck_out_tongue:",
+        "ts": "1475182744.000221",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1LMHQY9E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "thanks John! different question for anyone: After you see the Likelihood Ratio test in the Testing Global Hypothesis table is significant, then you can check your Likelihood Estimates table for the p-values of individual predictor variables. Can someone explain when the Type 3 table comes in to play? Is it when you are dealing only with interactions?",
+        "ts": "1475182769.000222"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "MLT is a delicious sandwich.",
+        "ts": "1475182771.000223"
+    },
+    {
+        "type": "message",
+        "user": "U1L2P17DZ",
+        "text": "<@U1L6YQUSU>: \"Mutton Lettuce and Tomato?\" :joy:",
+        "ts": "1475183132.000224",
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "U1KRZT11T",
+                    "U1L7E8GSU",
+                    "U1NFS178D",
+                    "U1KRE1L9M"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1L3PU7BJ> if i recall, type 3 is to see if the variable is significant to the model or not. if it is, you include all levels of it",
+        "ts": "1475183207.000225",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L6YQUSU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Yes <@U1L2P17DZ>.  Thanks for getting the reference. :sunglasses:",
+        "ts": "1475183230.000226",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L2P17DZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Do you think we will be alive tomorrow... It would take a miracle ",
+        "ts": "1475183287.000227",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1L2P17DZ",
+                    "U1L6YQUSU",
+                    "U1KR80QMS",
+                    "U1NFS178D",
+                    "U1L9DD1NY",
+                    "U1P8QBBD1"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "<@U1KT9ATA5> gotcha thanks",
+        "ts": "1475183289.000228"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "<@U1KRZT11T> Alive\/Dead is binary, so you need to do an odds ratio test.",
+        "ts": "1475183439.000229",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KS4UE2F",
+                    "U1KRB11QC",
+                    "U1KT9ATA5",
+                    "U1KSL7L7R",
+                    "U1L2P17DZ",
+                    "U1KRNH021",
+                    "U1L6YQUSU",
+                    "U1L3G0YRJ",
+                    "U1L0V1X61",
+                    "U1KRBJP47",
+                    "U1KRTHAQZ",
+                    "U1KR80QMS",
+                    "U1NUU2U9E",
+                    "U1KT2JJE8",
+                    "U1KRE1L9M",
+                    "U1KRLV1CG",
+                    "U1P8QBBD1"
+                ],
+                "count": 17
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "oh Lord",
+        "ts": "1475183451.000230"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "stahp",
+        "ts": "1475183455.000231"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": " <@U1L1D4WG7>  It's not binary because there is also the possibility of mostly dead",
+        "ts": "1475183546.000232",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KRMNVGC",
+                    "U1L2P17DZ",
+                    "U1L7E8GSU",
+                    "U1KSL7C10",
+                    "U1KT2JJE8",
+                    "U1P8QBBD1"
+                ],
+                "count": 6
+            },
+            {
+                "name": "zombie",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KS4UE2F",
+                    "U1KT9ATA5",
+                    "U1LBRCSEA",
+                    "U1KSL7L7R",
+                    "U1L6YQUSU",
+                    "U1P8QBBD1"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Point: <@U1KRZT11T> ",
+        "ts": "1475183626.000233"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Miracle\/No Miracle is also binary. Alive\/Mostly Dead\/Dead is ordinal then, so I'm going with Pearson. Mostly because I can't spell Hansel Gretyl.",
+        "ts": "1475183680.000234",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L2P17DZ",
+                    "U1L7E8GSU",
+                    "U1LBRCSEA",
+                    "U1L6YQUSU",
+                    "U1KRWUXFU",
+                    "U1KRLV1CG",
+                    "U1P8QBBD1"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "<@U1L6YQUSU> What's BMT? Breslow day tarone?",
+        "ts": "1475183689.000235"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<@U1M37FW5U>: BMT is a sandwich at Subway ",
+        "ts": "1475183726.000236"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "BMT = sandwich at subway\nBDT = Breslow Day Tarone",
+        "ts": "1475183747.000238"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "I think this mutton conversation may be the best set of references and stats jokes intertwined that we've ever accomplished. Well done everyone ",
+        "ts": "1475184080.000241",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U1L2P17DZ",
+                    "U1L6WB44A",
+                    "U1L7E8GSU",
+                    "U1L6YQUSU",
+                    "U1KSL7L7R",
+                    "U1KRB11QC"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "<@U1L1D4WG7> <https:\/\/media.giphy.com\/media\/GfIcmKflAHAmk\/giphy.gif>",
+        "attachments": [
+            {
+                "fallback": "480x270px image",
+                "image_url": "https:\/\/media.giphy.com\/media\/GfIcmKflAHAmk\/giphy.gif",
+                "image_width": 480,
+                "image_height": 270,
+                "image_bytes": 1871336,
+                "is_animated": true,
+                "from_url": "https:\/\/media.giphy.com\/media\/GfIcmKflAHAmk\/giphy.gif",
+                "id": 1
+            }
+        ],
+        "ts": "1475184108.000242",
+        "reactions": [
+            {
+                "name": "scream_cat",
+                "users": [
+                    "U1L1D4WG7",
+                    "U1L3PU7BJ",
+                    "U1P8QBBD1"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Sooooo what's the difference between quasi complete separation and complete ?",
+        "ts": "1475186796.000244"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Like how come that is quasi and not complete ",
+        "ts": "1475186851.000246"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Also why is quasi complete separation bad? I know that it's because one variable perfectly predicts something but why is that necessarily bad? Sorry rambling here",
+        "ts": "1475186902.000247"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "quasi complete only separates a zero from the rest of the variables. It's \"partly\" separated. Complete separation I think happens in binary when all of the 1's are in one category, and all of the 0's are in another category.",
+        "ts": "1475186939.000248"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "I'm  not sure that is actually a good explanation",
+        "ts": "1475186959.000249"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "makes sense to me",
+        "ts": "1475186990.000250"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "If you have complete separation, you don't need to model it. it is already perfectly modeled.",
+        "ts": "1475187006.000251",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRWUXFU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Gotcha okay thank you!",
+        "ts": "1475187033.000252"
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "Anyone in there library now?",
+        "ts": "1475188515.000253"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "<@U1L3G0YRJ>: I'm heading there in 10 minutes! ",
+        "ts": "1475188555.000254"
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "I'm setting up camp on the fourth floor overlooking the lake if anyone wants to join!",
+        "ts": "1475188638.000255"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Bunch of us in the fishbowl",
+        "ts": "1475189122.000256"
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "Did Dr.Simmons say if the test was going to be a mix of MC, T\/F and short answer or is it all going to be short answer like the QFTs?",
+        "ts": "1475189309.000257"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "I think she said it's going to be all the above.  MC, T\/F, and short answer",
+        "ts": "1475189331.000258"
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "Ok perfect, thank you! <@U1L7E8GSU>",
+        "ts": "1475189349.000259"
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "I believe you look at llogl! <@U1L9DD1NY>",
+        "ts": "1475189445.000261"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "look at the variable that is x * log(x).  If it's p value is significant than the logit calculation is not appropriate and you need to calculate a different logit.",
+        "ts": "1475189500.000262",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KQGRG2F",
+                    "U1KT9ATA5",
+                    "U1L9DD1NY"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Today Dr Simmons talked about some kind of test to tell whether you should use an ordinal categorical variable or quantitative variable.  Can someone point to me where in the slides and\/or videos this is discussed?  I can't seem to find that in my notes.",
+        "ts": "1475189694.000263"
+    },
+    {
+        "type": "message",
+        "user": "U1MBURU4D",
+        "text": "<@U1N43E3E0>  I think what you're looking for is the LRT (likelihood ratio test).",
+        "ts": "1475189801.000264"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Oh I see <@U1MBURU4D> .  Thanks.  Somehow I had that written down as a way to test whether a parsimonious model is more appropriate.  Looks like it can be used for both.",
+        "ts": "1475189948.000265"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "<@U1N43E3E0> Yep, the LRT can be used for both purposes. Think of it like this: When you're testing whether a variable should be continuous or categorical, you're testing a simpler model (variable is continuous) against a more complex one (variable is categorical)",
+        "ts": "1475190055.000266"
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "In the section on \"how to test nested models\", she gives us that 5 step formula and in the following slide she uses gives an example. Except, in the example it looks like she uses the AIC instead of the -2LogL - that was a mistake right? I though she mentioned it but wasn't sure.",
+        "ts": "1475190952.000267"
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "Never mind. It was definitely a mistake. She's got another example where she uses only the -2LogL in the formula.",
+        "ts": "1475191092.000268"
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "<@U1KRHCR7T>, are you sure the continuous model is the simpler one and not the more complex one? To make them into nested models wouldn't you have to bin the continuous variable into a larger number of bins?",
+        "ts": "1475191972.000269"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "<@U1KT2JJE8> In my notes from today's review session, I wrote \"When a variable is treated as continuous, this is a subset of the model where it is categorical (continuous assumes constant odds ratio, whereas categorical allows the odds ratio to change)\"",
+        "ts": "1475192106.000270"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "but perhaps I misheard something...",
+        "ts": "1475192132.000271"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I agree with <@U1KRHCR7T>.  The reduced model is the one where the variable is continuous.",
+        "ts": "1475192146.000272",
+        "reactions": [
+            {
+                "name": "dollar",
+                "users": [
+                    "U1KRWJB7S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "so is the null that simpler model is best, which is also saying the variable should be treated as continuous?",
+        "ts": "1475192404.000273"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Yes, <@U1LBRCSEA>",
+        "ts": "1475192445.000274",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1LBRCSEA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "but if it's a numerical continuous variable vs. a bunch of ordinal variables, how would the computer know that it was a nested model? Couldn't you then extend the test to comparing non-nested models where there one had a continuous variable and the other had a (completely unrelated) ordinal variable?",
+        "ts": "1475192556.000275"
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "Or are we just taking the same old binned categorical variable and not putting it in the class statement and that's what makes it seem like a nested model, computationally speaking?",
+        "ts": "1475192612.000276"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "The computer doesn't know they're nested models because you're running both separately.  It's up to you to know that.",
+        "ts": "1475192656.000277"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I think the point of this test is just to give you a way to decide how you should treat a specific variable.",
+        "ts": "1475192708.000278"
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "so the requirement to compare models with LRT only if one is nested is really a way of trying to ensure the ROC curves don't cross?",
+        "ts": "1475192801.000279"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1KT2JJE8> as far as i understood, continuous variable takes only 1 degree of freedom from the model, where as categorical would take away \"the number of levels minus one\" degrees of freedom. Hence, the continuous model is \"simpler\". And LRT can tell you if the additional variables are significant or not.",
+        "edited": {
+            "user": "U1NUU2U9E",
+            "ts": "1475193015.000000"
+        },
+        "ts": "1475192873.000280",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KT2JJE8",
+                    "U1L914KNJ",
+                    "U1Q5GHC2J",
+                    "U1N43E3E0"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U1L7G5LR4",
+        "text": "<@U1L7G5LR4|arkadius> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475192910.000281"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I'm with her :arrow_up:",
+        "ts": "1475193520.000286",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1M1L5G6L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "Agreed. And if you go down a slide or two, she's got another example where it's shown correctly. I think the initial slides she posted had a mistake in the first example.",
+        "ts": "1475193587.000289"
+    },
+    {
+        "user": "U1MPXSHN1",
+        "text": "<@U1MPXSHN1|reidbaughman> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475197612.000294"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "I remember someone was talking about confounding....  just stumbled upon the fact that confounding and interaction are mutually exclusive according to Dr. LaBarr's videos :slightly_smiling_face: Just FYI",
+        "ts": "1475198461.000296",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1LBRCSEA",
+                    "U1KRB11QC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "lol... I just hit that part of Dr. LaBarr's videos",
+        "edited": {
+            "user": "U1KQYG6SJ",
+            "ts": "1475198689.000000"
+        },
+        "ts": "1475198682.000297"
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "So if the confounding variables can't have interactions, then those are the ones where we reject H0 for the CMH, but then don't reject it for the BDT, and end up using a common odds ratio?",
+        "ts": "1475199567.000299"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "<@U1KT2JJE8> i think that's when this chart helps",
+        "ts": "1475199694.000301"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "so in your case, you'd go left then right on the tree",
+        "ts": "1475199782.000303"
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": ":bulb: thanks, <@U1KS4UE2F>!",
+        "ts": "1475199936.000304"
+    },
+    {
+        "type": "message",
+        "user": "U1KSH8676",
+        "text": "Didn't she say \"The word confounding will not show up on the test\"? Right?",
+        "ts": "1475200272.000305"
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "yes",
+        "ts": "1475200294.000306"
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "no confounding, no youden, and binary logistic regression only.",
+        "ts": "1475200331.000307"
+    },
+    {
+        "type": "message",
+        "user": "U1KSH8676",
+        "text": "Thanks!",
+        "ts": "1475200350.000308"
+    },
+    {
+        "user": "U1L7RPG1M",
+        "text": "<@U1L7RPG1M|carsonfutch> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475200642.000309",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1NUU2U9E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "did dr simmons mention today if we need to know the formulas for calculating any of the exact tests or do we just need to know when to use them?",
+        "ts": "1475201827.000324"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "I don't think you need to know how to calculate them",
+        "edited": {
+            "user": "U1KQYG6SJ",
+            "ts": "1475201956.000000"
+        },
+        "ts": "1475201948.000326"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "I think the only thing she expects us to be able to calculate are: odds ratios (given a two by two table), test stat with df for LRT, maybe chi-sq stats (ie. obs-exp^2\/exp)?",
+        "edited": {
+            "user": "U1KQYG6SJ",
+            "ts": "1475202123.000000"
+        },
+        "ts": "1475202028.000328"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "thanks!",
+        "ts": "1475202554.000337"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "<@U1KQYG6SJ> <@U1KT5F4SZ>: I highly doubt we'll have to calculate chi square stats",
+        "ts": "1475203031.000340",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KSL7L7R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Can you smell what the ROC is cooking?",
+        "ts": "1475203426.000342",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1L7G5LR4",
+                    "U1P8QBBD1",
+                    "U1L735VD4",
+                    "U1KT9ATA5"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "How do we calculate the LRT for 2 models we compare? Simmons said we will have to do it by hand, right?",
+        "ts": "1475203836.000348"
+    },
+    {
+        "type": "message",
+        "user": "U1L7G5LR4",
+        "text": "<@U1NUU2U9E> look at the bottom of Logan's cheat sheet",
+        "ts": "1475203896.000349",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1KRB11QC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<@U1NUU2U9E> Run both models.  Subtract the -2logL terms.  Subtract the 2 Degree of Freedom terms.  Use a calculator to find the area under the chi-squared curve.",
+        "ts": "1475203927.000350",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1NUU2U9E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "corresponding to that Chi-squared value and those degrees of freedom you just calculated",
+        "ts": "1475203947.000351"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1L7G5LR4> it is my clue to go to sleep...",
+        "ts": "1475203965.000352",
+        "reactions": [
+            {
+                "name": "coffee",
+                "users": [
+                    "U1L7G5LR4",
+                    "U1KRB11QC",
+                    "U1L6YQUSU",
+                    "U1L93SMGF",
+                    "U1KRNH021",
+                    "U1KSL7L7R",
+                    "U1P8QBBD1",
+                    "U1L735VD4"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "<@U1KQGK2CB> looks you might have a typo.  Cramer's V is bounded from 0 to 1, not -1 to 1.",
+        "ts": "1475204295.000353"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR4JP3",
+        "text": "It's bounded from -1 to 1 when it's a 2x2 table but when you have something other than that it's from 0-1 ",
+        "ts": "1475204487.000354"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR4JP3",
+        "text": "It was in one of LaBarr's lectures. ",
+        "ts": "1475204502.000356"
+    },
+    {
+        "type": "message",
+        "user": "U1KQGK2CB",
+        "text": "Yeah I used that <@U1KSR4JP3>. But I guess we wouldn't have a 2x2 table in this case (as that would be odds ratio).  Your right <@U1N43E3E0>",
+        "edited": {
+            "user": "U1KQGK2CB",
+            "ts": "1475204671.000000"
+        },
+        "ts": "1475204620.000357"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "I actually wasn't aware of that little nuance, so good catch <@U1KSR4JP3>.\n\nInterestingly if you google Cramer's V, everything I can find just says it's from 0 to 1.  It seems to be a lesser known property of the statistic since I guess in practice, like <@U1KQGK2CB> said, the odds ratio is the more useful statistic for a 2x2 matrix.",
+        "ts": "1475205442.000365"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Some other resources",
+        "ts": "1475205783.000367"
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "Good evening everyone, do I need to know how to get a p-value out of my TI-89??",
+        "ts": "1475205855.000369"
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "or can we pull our laptops out and use R?",
+        "ts": "1475205875.000370"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "She said we wouldn\u2019t have to calculate the p-value",
+        "ts": "1475205878.000371"
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "sweet.",
+        "ts": "1475205888.000372"
+    },
+    {
+        "type": "message",
+        "user": "U1KQGK2CB",
+        "text": "Can someone explain how we use the LRT to see if ordinal variables can be treated as categorical or continuous?",
+        "ts": "1475206065.000373"
+    },
+    {
+        "type": "message",
+        "user": "U1PN82U67",
+        "text": "Anybody has an extra calculator? I just find that my calculator disappeared magically. Cry!",
+        "ts": "1475206137.000376"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1KQGK2CB> In your full model you would put the variable in the class model and in your reduced model you would not put it in the class variable. Then you would go through the LRT steps to see if there is a difference. If the difference is significant, you would treat it as continuous over categorical",
+        "ts": "1475206172.000378"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "so, looking at the review sheet, \"2.\tUnderstand dummy variable coding (and calculating odds ratios when using reference coding)\"",
+        "ts": "1475208171.000388"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "re: calculating odds ratios when using reference coding, is this referring to when we have the estimates per level?",
+        "ts": "1475208189.000389"
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "I think that's referring to calculating the odds ratio by taking e^parameter estimate",
+        "ts": "1475208598.000390"
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "When you do reference coding the parameter estimates are the difference between the logit of the reference level and the logit of that level",
+        "ts": "1475208625.000391"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "cool, thanks!",
+        "edited": {
+            "user": "U1KQYG6SJ",
+            "ts": "1475208799.000000"
+        },
+        "ts": "1475208796.000392"
+    }
+]

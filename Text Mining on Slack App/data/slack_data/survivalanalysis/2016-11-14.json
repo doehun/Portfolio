@@ -1,0 +1,32 @@
+[
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I knew I could count on you.  <@U1L1D4WG7> ",
+        "ts": "1479131764.000032",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U1KRB11QC",
+                    "U1P8QBBD1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U1L1WFNC8",
+        "text": "<@U1L1WFNC8|wrighton88> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479156908.000037"
+    },
+    {
+        "user": "U1KRE5NKZ",
+        "text": "<@U1KRE5NKZ|laura.sweeney> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479176632.000038"
+    }
+]

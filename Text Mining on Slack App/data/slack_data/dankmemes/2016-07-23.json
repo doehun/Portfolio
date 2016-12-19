@@ -1,0 +1,65 @@
+[
+    {
+        "user": "U1KQ9523D",
+        "text": "<@U1KQ9523D|lisaholbach> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469281262.000002"
+    },
+    {
+        "user": "U1KRBFY3Z",
+        "text": "<@U1KRBFY3Z|sylviebrick> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469285264.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1L8PJY4W",
+        "text": "<@U1L7ERY77>: dying",
+        "ts": "1469286435.000006"
+    },
+    {
+        "user": "U1KSYP1M5",
+        "text": "<@U1KSYP1M5|madison> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469294108.000008"
+    },
+    {
+        "user": "U1KSYP1M5",
+        "text": "<@U1KSYP1M5|madison> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1469294128.000009"
+    },
+    {
+        "user": "U1L46HXCJ",
+        "text": "<@U1L46HXCJ|kateykilmer> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469309058.000002"
+    },
+    {
+        "user": "U1L415ECD",
+        "text": "<@U1L415ECD|joeloftus> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469325666.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "This channel exists... ",
+        "ts": "1469325704.000004",
+        "reactions": [
+            {
+                "name": "upside_down_face",
+                "users": [
+                    "U1L8PJY4W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

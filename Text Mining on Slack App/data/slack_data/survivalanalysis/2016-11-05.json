@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U1LHLK8MR",
+        "text": "<@U1LHLK8MR|mtnorthe> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478376697.000011"
+    },
+    {
+        "user": "U1KRSV7AN",
+        "text": "<@U1KRSV7AN|jstauss> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478376896.000012"
+    },
+    {
+        "user": "U1L41DF9D",
+        "text": "<@U1L41DF9D|cacolli6> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478383169.000013"
+    }
+]

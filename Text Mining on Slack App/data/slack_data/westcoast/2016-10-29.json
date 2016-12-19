@@ -1,0 +1,49 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "<@U1KS4UE2F> still planning on studying today?",
+        "ts": "1477741584.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1KS4UE2F>: I'm also down to study for a bit today. ",
+        "ts": "1477748763.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "gotcha what time guys?",
+        "ts": "1477750830.000009"
+    },
+    {
+        "user": "U1KT9ATA5",
+        "text": "<@U1KT9ATA5|amir.lyall> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1477754575.000010"
+    },
+    {
+        "user": "U1M4QJD4P",
+        "text": "<@U1M4QJD4P|mike-rose> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477761761.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "im here at the grad lounge! planning study @3",
+        "ts": "1477765482.000012",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U1KRB11QC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,303 @@
+[
+    {
+        "type": "message",
+        "user": "U2LA4671B",
+        "text": "FYI: Election results are not an excused absence. See you in class folks :wink: ",
+        "ts": "1478691566.002171",
+        "reactions": [
+            {
+                "name": "face_with_head_bandage",
+                "users": [
+                    "U1P8QBBD1",
+                    "U1L9DD1NY",
+                    "U1SMADBU4",
+                    "U1L1WFNC8"
+                ],
+                "count": 4
+            },
+            {
+                "name": "face_with_thermometer",
+                "users": [
+                    "U1P8QBBD1",
+                    "U1L9DD1NY",
+                    "U1KSL7L7R",
+                    "U1KR891RC"
+                ],
+                "count": 4
+            },
+            {
+                "name": "grinning",
+                "users": [
+                    "U1KRLV1CG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "cry",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KRNH021",
+                    "U1L9DD1NY",
+                    "U1KSYP1M5",
+                    "U1P8QBBD1",
+                    "U1KT9ATA5",
+                    "U1KQGRG2F"
+                ],
+                "count": 7
+            },
+            {
+                "name": "upside_down_face",
+                "users": [
+                    "U1NDG6ULB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "Chocolate in the kitchen to help us get through this sad day ",
+        "ts": "1478699519.002173",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1LJRDPLP",
+                    "U1KSL7C10",
+                    "U1P8QBBD1",
+                    "U1L2P17DZ",
+                    "U1KRLV1CG",
+                    "U1L3G0YRJ",
+                    "U1KQGRG2F",
+                    "U1M1L5G6L"
+                ],
+                "count": 9
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1L6YQUSU",
+                    "U1KT9ATA5",
+                    "U1KS4UE2F",
+                    "U1KRLV1CG"
+                ],
+                "count": 4
+            },
+            {
+                "name": "chocolate_bar",
+                "users": [
+                    "U1KRHCR7T",
+                    "U1KRLV1CG",
+                    "U1L3G0YRJ",
+                    "U1M1L5G6L"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1MDHNYR5",
+        "text": "I have fishbowl from 6:00pm to 11:00pm for those who want to study for Business Analyst!",
+        "ts": "1478721500.002175",
+        "reactions": [
+            {
+                "name": "cool",
+                "users": [
+                    "U1L415ECD",
+                    "U1KQGK2CB"
+                ],
+                "count": 2
+            },
+            {
+                "name": "fish",
+                "users": [
+                    "U1KRWJB7S",
+                    "U1L2P17DZ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1L6YQUSU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I reserved the Fishbowl from 4:30-6:00 to tack onto Jordan's reservation...",
+        "ts": "1478726157.002176",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1MDHNYR5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "just confirming that tomorrow's Web Analytics lecture is optional for those who are already GA certified?",
+        "ts": "1478730547.002177"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1KRHCR7T> I remember her saying that",
+        "ts": "1478730628.002178"
+    },
+    {
+        "type": "message",
+        "user": "U1L4RTKCM",
+        "text": "One more reminder, please remember Thanksgiving bags tomorrow.  Three cheers for the teams who already brought them in!  Thank you!",
+        "ts": "1478732985.002179",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1KRBFY3Z",
+                    "U1L3G0YRJ",
+                    "U1L9DD1NY",
+                    "U1P8QBBD1",
+                    "U1L7G5LR4"
+                ],
+                "count": 5
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1L1D4WG7",
+                    "U1L9DD1NY",
+                    "U1KRE1L9M",
+                    "U1KRWUXFU",
+                    "U1P8QBBD1"
+                ],
+                "count": 5
+            },
+            {
+                "name": "poultry_leg",
+                "users": [
+                    "U1L1D4WG7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSGHLPJ",
+        "text": "I am sure you all know this, but <@U1M4QJD4P> is the man. The MSA program is better because he is here. Thank you for all of your help!",
+        "edited": {
+            "user": "U1KSGHLPJ",
+            "ts": "1478753058.000000"
+        },
+        "ts": "1478746645.002180",
+        "reactions": [
+            {
+                "name": "celebration",
+                "users": [
+                    "U1L7E8GSU",
+                    "U1KR80QMS",
+                    "U1KSL7L7R",
+                    "U1KRBFY3Z",
+                    "U1KT3UELS",
+                    "U1KR9BP0E",
+                    "U1KRLV1CG"
+                ],
+                "count": 7
+            },
+            {
+                "name": "superman",
+                "users": [
+                    "U1L1D4WG7",
+                    "U1KR80QMS",
+                    "U1KRZT11T",
+                    "U1L2P17DZ",
+                    "U1L9DD1NY",
+                    "U1KRLV1CG"
+                ],
+                "count": 6
+            },
+            {
+                "name": "mikerose",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KR891RC",
+                    "U1L6YQUSU",
+                    "U1KS4UE2F",
+                    "U1L0V1X61",
+                    "U1KSL7C10",
+                    "U1KRLV1CG",
+                    "U1L5GU954"
+                ],
+                "count": 8
+            },
+            {
+                "name": "boot",
+                "users": [
+                    "U1M4QJD4P",
+                    "U1KRLV1CG"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<@U1KSGHLPJ> We all knew it, but now we can show it.  I present you: the <@U1M4QJD4P> emoji",
+        "edited": {
+            "user": "U1L6YQUSU",
+            "ts": "1478748032.000000"
+        },
+        "ts": "1478748006.002181",
+        "reactions": [
+            {
+                "name": "mikerose",
+                "users": [
+                    "U1L6YQUSU",
+                    "U1KRB11QC",
+                    "U1KR891RC",
+                    "U1KRBFY3Z",
+                    "U1L7E8GSU",
+                    "U1KS1BFED",
+                    "U1KRWJB7S",
+                    "U1KR80QMS",
+                    "U1KRBJP47",
+                    "U1KS4UE2F",
+                    "U1KSL7L7R",
+                    "U1L2P17DZ",
+                    "U1SMADBU4",
+                    "U1KSGHLPJ",
+                    "U1KT3UELS",
+                    "U1L735VD4",
+                    "U1L0RBZFH",
+                    "U1LDKB3AN",
+                    "U1KR9BP0E",
+                    "U1L9DD1NY",
+                    "U1KRLV1CG",
+                    "U1L5GU954",
+                    "U1L3G0YRJ",
+                    "U1KQ9523D"
+                ],
+                "count": 24
+            },
+            {
+                "name": "small_edward_lim",
+                "users": [
+                    "U1M4QJD4P"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

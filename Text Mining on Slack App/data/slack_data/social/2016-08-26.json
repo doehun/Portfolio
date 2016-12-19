@@ -1,0 +1,98 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Anyone doing anything tonight?",
+        "ts": "1472242558.000086",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRB11QC",
+                    "U1L415ECD",
+                    "U1KR891RC"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "I'm most likely going out <@U1KRZT11T> ",
+        "ts": "1472243102.000087"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "I'm not sure what I'm doing yet but anyone is welcome to come over beforehand ! ",
+        "ts": "1472243343.000088",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRZT11T",
+                    "U1KRB11QC",
+                    "U1L415ECD",
+                    "U1KR891RC",
+                    "U1L1WFNC8"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "I'm down to go out too",
+        "ts": "1472243402.000089"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "I'm up for going out. ",
+        "ts": "1472244200.000092"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Is anyone else or downtown? Bunch of us are at architect ",
+        "ts": "1472268892.000093"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Hey a lot of us are at big easy ",
+        "ts": "1472269506.000094"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "How much longer will y'all be there? ",
+        "ts": "1472270678.000097"
+    },
+    {
+        "type": "message",
+        "user": "U1KQTJ6BV",
+        "text": "We can't get into Capitol city :\/",
+        "ts": "1472270727.000098"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "We're at capital city. Where are y'all",
+        "ts": "1472272056.000099"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Where is everyone I'm trying to meet up with people!",
+        "ts": "1472272562.000100"
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "Cap city ",
+        "ts": "1472272820.000101"
+    }
+]

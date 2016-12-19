@@ -1,0 +1,73 @@
+[
+    {
+        "user": "U1KR9BP0E",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KR9BP0E|sneha.raghavan> has joined the channel",
+        "ts": "1467305097.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "If anyone's around after class and wants a study buddy I'm at the graduate student lounge at Hunt until around 4.30!",
+        "ts": "1467305120.000003"
+    },
+    {
+        "user": "U1KSL7L7R",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KSL7L7R|dustinwicker> has joined the channel",
+        "ts": "1467315630.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1L974M70",
+        "text": "Here is the youtube cahnnel I'd mentioned to a few of you that goes a little more in depth into the math or logic behind a few of the concepts we're going thorugh in STATS .  <https:\/\/www.youtube.com\/user\/SpartacanUsuals> <@U1KSL7L7R> <@U1KR9BP0E> <@U1KRZT11T>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "title": "Ben Lambert",
+                "title_link": "https:\/\/www.youtube.com\/user\/SpartacanUsuals",
+                "text": "This channel is intended to provide a detailed explanation of the majority of undergraduate &amp; graduate courses in econometrics, with as much emphasis as poss...",
+                "fallback": "YouTube: Ben Lambert",
+                "thumb_url": "https:\/\/yt3.ggpht.com\/-QipYhwgx5G0\/AAAAAAAAAAI\/AAAAAAAAAAA\/yFlT15k2Meo\/s900-c-k-no-rj-c0xffffff\/photo.jpg",
+                "from_url": "https:\/\/www.youtube.com\/user\/SpartacanUsuals",
+                "thumb_width": 900,
+                "thumb_height": 900,
+                "service_icon": "https:\/\/s.ytimg.com\/yts\/img\/favicon-vflz7uhzw.ico",
+                "id": 1
+            }
+        ],
+        "edited": {
+            "user": "U1L974M70",
+            "ts": "1467333672.000000"
+        },
+        "ts": "1467333558.000005",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRZT11T",
+                    "U1L735VD4",
+                    "U1KSL7L7R",
+                    "U1L5GU954"
+                ],
+                "count": 4
+            },
+            {
+                "name": "grinning",
+                "users": [
+                    "U1KRWUXFU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "nerd_face",
+                "users": [
+                    "U1L7RPG1M"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

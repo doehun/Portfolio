@@ -1,0 +1,394 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "Anyone going to the fair tonight?",
+        "ts": "1476885929.000457"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "<@U1KRWUXFU>  burn! now i know how rose felt",
+        "ts": "1476886208.000458"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "ummm... what?",
+        "ts": "1476886312.000459"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "i was ditched last night",
+        "ts": "1476886338.000460"
+    },
+    {
+        "type": "message",
+        "user": "U1KSYP1M5",
+        "text": "Speaking of the fair... Since Friday is discount for college night I was thinking we could all go together after our information session! If we go in the day, hopefully we can beat a little bit of the crowd! ",
+        "ts": "1476886533.000461",
+        "reactions": [
+            {
+                "name": "party_ed",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1L9DD1NY",
+                    "U1KT5F4SZ",
+                    "U1KRNHQA1"
+                ],
+                "count": 4
+            },
+            {
+                "name": "raising_hand",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1L7E8GSU",
+                    "U1L9DD1NY",
+                    "U1KRZT11T",
+                    "U1KT5F4SZ",
+                    "U1L6XBH6W"
+                ],
+                "count": 6
+            },
+            {
+                "name": "lollipop",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1L9DD1NY"
+                ],
+                "count": 2
+            },
+            {
+                "name": "poultry_leg",
+                "users": [
+                    "U1L3G0YRJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ferris_wheel",
+                "users": [
+                    "U1KT5F4SZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "<@U1KSYP1M5> We'd have to go in our suits, right",
+        "ts": "1476886805.000462",
+        "reactions": [
+            {
+                "name": "skull",
+                "users": [
+                    "U1KSL7C10",
+                    "U1P8QBBD1",
+                    "U1L41DF9D",
+                    "U1L3G0YRJ",
+                    "U1KT5F4SZ",
+                    "U1L2P17DZ"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "<@U1KSYP1M5> I want to go!  I'll definitely bring a change of clothes though.",
+        "ts": "1476888088.000463"
+    },
+    {
+        "type": "message",
+        "user": "U1KSYP1M5",
+        "text": "Ohh gosh no I would not wish that on anybody! We should all take time to change, I was just thinking the sooner the better! :hugging_face:",
+        "ts": "1476888348.000464"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "I'm in",
+        "ts": "1476889764.000465"
+    },
+    {
+        "type": "message",
+        "user": "U1KSH8676",
+        "text": "count me in",
+        "ts": "1476889831.000466"
+    },
+    {
+        "type": "message",
+        "user": "U1L2P17DZ",
+        "text": "That sounds fun!",
+        "ts": "1476889870.000467"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "I\u2019m in for Friday afternoon",
+        "ts": "1476889908.000468"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "Yes. Please! I love the fair!",
+        "ts": "1476905780.000469"
+    },
+    {
+        "type": "message",
+        "user": "U1KQGK2CB",
+        "text": "Are there any thrill seekers who will go on rides?",
+        "ts": "1476905845.000470"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "YES",
+        "ts": "1476905856.000471"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "Me! Depending on the ride. ",
+        "ts": "1476905862.000472"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "But only a few because I'm a poor thrill seeker",
+        "ts": "1476905880.000473"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1KQGK2CB>: I love the fair rides ",
+        "ts": "1476905943.000474"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1L6WB44A>: same",
+        "ts": "1476905949.000475"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "You look incredibly happy, <@U1KRE1L9M>",
+        "ts": "1476908395.000477",
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U1KRE1L9M",
+                    "U1P8QBBD1",
+                    "U1L9DD1NY"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Have you ever seen someone who didn't look incredibly happy while petting a bunny <@U1L6YQUSU> ?",
+        "ts": "1476908973.000486"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "when I see bunny, I see yummy :confused:",
+        "ts": "1476909515.000491",
+        "reactions": [
+            {
+                "name": "-1::skin-tone-2",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1KRB11QC",
+                    "U1KT5F4SZ",
+                    "U1KRWUXFU"
+                ],
+                "count": 4
+            },
+            {
+                "name": "scream",
+                "users": [
+                    "U1KQ9523D",
+                    "U1L6WB44A"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<@U1N43E3E0>",
+        "ts": "1476910131.000493"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "In your defense, it did take quite a while to find this photo.",
+        "ts": "1476910151.000494"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "^ see I'm not the only person who is scared of bunnies <@U1L7E8GSU> <@U1LAAMJ0M> ",
+        "ts": "1476910718.000499",
+        "reactions": [
+            {
+                "name": "party_ed",
+                "users": [
+                    "U1LAAMJ0M",
+                    "U1KQGRG2F",
+                    "U1P8QBBD1",
+                    "U1L735VD4"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "That's because they're not petting it <@U1L6YQUSU> .  I don't think we can reject the null in this case guys. We have to assume bunnies=happiness.",
+        "ts": "1476912236.000505"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "<@U1N43E3E0>: just because you fail to reject the null, doesn't imply happiness . That only means that there is not enough evidence to say that it doesn't imply happiness ",
+        "ts": "1476920508.000510",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U1L914KNJ",
+                    "U1L6YQUSU"
+                ],
+                "count": 2
+            },
+            {
+                "name": "-1",
+                "users": [
+                    "U1L3G0YRJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "small_edward_lim",
+                "users": [
+                    "U1KRB11QC",
+                    "U1L7RPG1M",
+                    "U1KS4UE2F"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1KRZT11T> that depends on what the null hypothesis is, right? :wink:",
+        "ts": "1476921858.000511"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Truth",
+        "ts": "1476921928.000512"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "So what's our null?  Petting bunnies equals happiness?  Also maybe those babies pet the bunnies the instant before the photo. ",
+        "edited": {
+            "user": "U1L6YQUSU",
+            "ts": "1476925213.000000"
+        },
+        "ts": "1476923328.000513"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "#toofar",
+        "ts": "1476927549.000515",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KT3UELS",
+                    "U1KT5F4SZ",
+                    "U1NUU2U9E"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L7RPG1M",
+        "text": "<@U1KQYG6SJ> : The Institute will not tolerate Bunny Cruelty.",
+        "ts": "1476928232.000516",
+        "reactions": [
+            {
+                "name": "small_officer_futch",
+                "users": [
+                    "U1KT9ATA5",
+                    "U1L1D4WG7",
+                    "U1L735VD4",
+                    "U1KR891RC",
+                    "U1L2P17DZ",
+                    "U1LBRCSEA",
+                    "U1KQ9523D",
+                    "U1KRB11QC",
+                    "U1L0V1X61",
+                    "U1N43E3E0",
+                    "U1NUU2U9E",
+                    "U1KT5F4SZ",
+                    "U1P8QBBD1",
+                    "U1Q5GHC2J"
+                ],
+                "count": 14
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "<@U1KRZT11T> That's why I called it an assumption. Pretty sure I've heard Dr L use the same verbiage. \n<http:\/\/www.retirebyfiddy.com\/blog\/wp-content\/uploads\/2015\/02\/check_yoself-300x300.jpg>",
+        "attachments": [
+            {
+                "fallback": "300x300px image",
+                "image_url": "http:\/\/www.retirebyfiddy.com\/blog\/wp-content\/uploads\/2015\/02\/check_yoself-300x300.jpg",
+                "image_width": 300,
+                "image_height": 300,
+                "image_bytes": 16058,
+                "from_url": "http:\/\/www.retirebyfiddy.com\/blog\/wp-content\/uploads\/2015\/02\/check_yoself-300x300.jpg",
+                "id": 1
+            }
+        ],
+        "ts": "1476929566.000517"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "On a lighter note: \n<http:\/\/info.ncagr.gov\/DeepFried\/wp-content\/uploads\/2015\/09\/IMG_0057.jpg>",
+        "attachments": [
+            {
+                "fallback": "3456x5184px image",
+                "image_url": "http:\/\/info.ncagr.gov\/DeepFried\/wp-content\/uploads\/2015\/09\/IMG_0057.jpg",
+                "image_width": 3456,
+                "image_height": 5184,
+                "image_bytes": 8740588,
+                "from_url": "http:\/\/info.ncagr.gov\/DeepFried\/wp-content\/uploads\/2015\/09\/IMG_0057.jpg",
+                "id": 1
+            }
+        ],
+        "ts": "1476929770.000519"
+    }
+]

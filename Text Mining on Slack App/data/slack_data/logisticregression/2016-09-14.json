@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U1L6XBH6W",
+        "text": "<@U1L6XBH6W|shannon_muldoon> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473874389.000007"
+    },
+    {
+        "user": "U1KQGRG2F",
+        "text": "<@U1KQGRG2F|annabelytics> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473892039.000008"
+    },
+    {
+        "user": "U1L974M70",
+        "text": "<@U1L974M70|brshallo> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473916070.000009"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "Anyone want to get dinner tonight? ",
+        "ts": "1472331802.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Where are you thinking about going?",
+        "ts": "1472332398.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "One idea is there's a really good cheap taco place about 10 minutes from the institute! But I'm flexible!",
+        "ts": "1472332555.000004"
+    },
+    {
+        "user": "U1SMADBU4",
+        "text": "<@U1SMADBU4|ajohnst2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472334340.000005"
+    }
+]

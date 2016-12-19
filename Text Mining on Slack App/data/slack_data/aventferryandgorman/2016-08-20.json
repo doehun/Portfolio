@@ -1,0 +1,126 @@
+[
+    {
+        "user": "U1L3G0YRJ",
+        "text": "<@U1L3G0YRJ|emmyburnett> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471748600.000002"
+    },
+    {
+        "user": "U1L3G0YRJ",
+        "purpose": "For people who live near Avent Ferry or Gorman",
+        "text": "<@U1L3G0YRJ|emmyburnett> set the channel purpose: For people who live near Avent Ferry or Gorman",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1471748601.000003"
+    },
+    {
+        "user": "U1L5GU954",
+        "text": "<@U1L5GU954|jrweston> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471748626.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "<@U1L5GU954>: <@U1KRE5NKZ> <@U1L4RTKCM> <@U1KQYG6SJ> <@U1KRWUXFU> <@U1KRE1L9M> <@U1KRHCR7T> <@U1KRNH021> <@U1KRBJP47> <@U1MBURU4D> <@U1L3K1AKD> <@U1KRZT11T> <@U1KRB11QC> ",
+        "ts": "1471748684.000005"
+    },
+    {
+        "user": "U1KRHCR7T",
+        "inviter": "U1L3G0YRJ",
+        "text": "<@U1KRHCR7T|zack_schwartz> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471748694.000006"
+    },
+    {
+        "user": "U1KQYG6SJ",
+        "inviter": "U1L3G0YRJ",
+        "text": "<@U1KQYG6SJ|rose> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471748694.000007"
+    },
+    {
+        "user": "U1KRWUXFU",
+        "inviter": "U1L3G0YRJ",
+        "text": "<@U1KRWUXFU|jdemarest> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471748694.000008"
+    },
+    {
+        "user": "U1KRE5NKZ",
+        "inviter": "U1L3G0YRJ",
+        "text": "<@U1KRE5NKZ|laura.sweeney> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471748694.000009"
+    },
+    {
+        "user": "U1L4RTKCM",
+        "inviter": "U1L3G0YRJ",
+        "text": "<@U1L4RTKCM|gheyne> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471748694.000010"
+    },
+    {
+        "user": "U1KRNH021",
+        "inviter": "U1L3G0YRJ",
+        "text": "<@U1KRNH021|sneha_komma> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471748694.000011"
+    },
+    {
+        "user": "U1KRZT11T",
+        "inviter": "U1L3G0YRJ",
+        "text": "<@U1KRZT11T|tommy_darlington> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471748694.000012"
+    },
+    {
+        "user": "U1KRBJP47",
+        "inviter": "U1L3G0YRJ",
+        "text": "<@U1KRBJP47|marina.burke> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471748694.000013"
+    },
+    {
+        "user": "U1KRB11QC",
+        "inviter": "U1L3G0YRJ",
+        "text": "<@U1KRB11QC|dsjorda2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471748694.000014"
+    },
+    {
+        "user": "U1KRE1L9M",
+        "inviter": "U1L3G0YRJ",
+        "text": "<@U1KRE1L9M|kevin.danchisko> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471748694.000015"
+    },
+    {
+        "user": "U1MBURU4D",
+        "inviter": "U1L3G0YRJ",
+        "text": "<@U1MBURU4D|marc_armbruster> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471748694.000016"
+    },
+    {
+        "user": "U1L3K1AKD",
+        "inviter": "U1L3G0YRJ",
+        "text": "<@U1L3K1AKD|ccupito> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471748694.000017"
+    }
+]

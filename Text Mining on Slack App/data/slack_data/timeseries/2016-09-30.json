@@ -1,0 +1,63 @@
+[
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<!channel> test available for pickup in Dr. L's office",
+        "ts": "1475257136.000155"
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "Does anyone know if LaBarr is leaving early for Friday? Will he still be around you think if I show up in 30 min?",
+        "ts": "1475262173.000156"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "he's still got office hours for another half hour or so",
+        "ts": "1475262248.000157"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "til 4 actually",
+        "ts": "1475262257.000158"
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "sweet",
+        "ts": "1475262379.000159"
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "thanks <@U1LMHQY9E>",
+        "ts": "1475262384.000160"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "He's still here right now.",
+        "ts": "1475262840.000161"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<@U1L914KNJ>",
+        "ts": "1475262849.000162"
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "thanks!",
+        "ts": "1475262858.000163"
+    },
+    {
+        "user": "U1LHLK8MR",
+        "text": "<@U1LHLK8MR|mtnorthe> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475285677.000164"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "user": "U1KT9ATA5",
+        "text": "<@U1KT9ATA5|amir.lyall> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1475502449.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KSEJ01W",
+        "text": "Hey for anyone looking for tickets my family is actually coming into town this weekend so I don't believe I'll be able to make it. You would be able to buy my ticket off me ",
+        "ts": "1475510476.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KRBFY3Z",
+        "text": "<@U1KSR1MS4>: ",
+        "ts": "1475510565.000005"
+    }
+]

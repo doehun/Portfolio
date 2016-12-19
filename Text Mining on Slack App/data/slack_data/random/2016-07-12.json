@@ -1,0 +1,101 @@
+[
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Does Python have a slackbot response yet?  Hello?",
+        "ts": "1468375755.000019"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "Yo yo yo",
+        "ts": "1468375756.000020",
+        "reactions": [
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U1P8QBBD1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "<@U1L6YQUSU>: it doesn't. Feel free to add one though!",
+        "ts": "1468379444.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I'm not an administrator <@U1KQYG6SJ> , so I don't think I can ",
+        "ts": "1468379587.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "changed that setting -- use wisely :slightly_smiling_face:",
+        "ts": "1468379872.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "<https:\/\/msa17.slack.com\/customize\/slackbot>",
+        "ts": "1468379873.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I'll see what I can do",
+        "ts": "1468380077.000025"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Ok.  Slackbot is ready.",
+        "ts": "1468380209.000026"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "python",
+        "ts": "1468380215.000027"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "Snakes.  Why'd it have to be snakes?",
+        "ts": "1468380215.000028",
+        "reactions": [
+            {
+                "name": "snake",
+                "users": [
+                    "U1KT3UELS",
+                    "U1L735VD4",
+                    "U1NUU2U9E",
+                    "U1L6WB44A",
+                    "U1L2P17DZ",
+                    "U1P8QBBD1",
+                    "U1KSL7L7R",
+                    "U1KT2JJE8"
+                ],
+                "count": 8
+            },
+            {
+                "name": "scream",
+                "users": [
+                    "U1L8PJY4W"
+                ],
+                "count": 1
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U1NDG6ULB"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

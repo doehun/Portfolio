@@ -1,0 +1,54 @@
+[
+    {
+        "type": "message",
+        "user": "U1KSH8676",
+        "text": "<https:\/\/pokevision.com\/#\/@35.77353614091867,-78.67446899414062>",
+        "attachments": [
+            {
+                "title": "Pok\u00e9Vision \u2014 Real-Time Pok\u00e9mon Go Map",
+                "title_link": "https:\/\/pokevision.com\/#\/@35.77353614091867,-78.67446899414062",
+                "text": "Find all Pok\u00e9mon near you (or a selected target location) in real time for Pok\u00e9mon Go. No login necessary!",
+                "fallback": "Pok\u00e9Vision \u2014 Real-Time Pok\u00e9mon Go Map",
+                "thumb_url": "https:\/\/pokevision.com\/asset\/image\/twitter-card.jpg",
+                "from_url": "https:\/\/pokevision.com\/#\/@35.77353614091867,-78.67446899414062",
+                "thumb_width": 240,
+                "thumb_height": 240,
+                "service_icon": "https:\/\/pokevision.com\/asset\/image\/favicon.ico?9d18283",
+                "service_name": "pokevision.com",
+                "id": 1
+            }
+        ],
+        "ts": "1469884207.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KSH8676",
+        "text": "You're welcome",
+        "ts": "1469884223.000004",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1L7E8GSU",
+                    "U1KT9ATA5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "There's an app version of that too - pokewhere on iPhone :)",
+        "ts": "1469912691.000002",
+        "reactions": [
+            {
+                "name": "facepunch",
+                "users": [
+                    "U1KT9ATA5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

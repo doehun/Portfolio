@@ -1,0 +1,169 @@
+[
+    {
+        "type": "message",
+        "user": "U1M1L5G6L",
+        "text": "Some of us are going to go to wine authority in raleigh around 6 for a few end of week drinks! ",
+        "ts": "1467992684.000002",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L1WFNC8",
+                    "U1MBURU4D"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "I'm going to watch the Euros final (France v Ronaldo) *Sunday 3pm* at the London Bridge Pub 110 E. Hargett Street if anyone wants to come. They also have an outdoor patio if you don't care about soccer but want to hang out!",
+        "edited": {
+            "user": "U1L914KNJ",
+            "ts": "1467992817.000000"
+        },
+        "ts": "1467992787.000003",
+        "reactions": [
+            {
+                "name": "soccer",
+                "users": [
+                    "U1KT5F4SZ",
+                    "U1L1WFNC8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1M1L5G6L>: if you guys are still there around 7, I might join!",
+        "ts": "1467995267.000005",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1M1L5G6L",
+                    "U1L41DF9D"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U1M7AD5L2",
+        "text": "<@U1M7AD5L2|kelly> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1467996775.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Anyone want to get a group together to grab dinner or go to downtown later? I'm up for suggestions ",
+        "ts": "1468011455.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U1KRMNVGC>: a couple of us talked about checking out the flying saucer later tonight. And then seeing where the night goes from there. ",
+        "ts": "1468011581.000008",
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U1L7E8GSU",
+                    "U1L974M70"
+                ],
+                "count": 2
+            },
+            {
+                "name": "beers",
+                "users": [
+                    "U1L1WFNC8"
+                ],
+                "count": 1
+            },
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U1L95JP1S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Alright alright alright. What time?",
+        "ts": "1468011822.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "Like 9:30\/10ish",
+        "ts": "1468012406.000010"
+    },
+    {
+        "user": "U1LQB808J",
+        "text": "<@U1LQB808J|wohaus> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468013863.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1LQB808J",
+        "text": "Conner and i are discussing a trip to the farmers market tomorrow. Anyone want to go?",
+        "ts": "1468014240.000012",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRMNVGC",
+                    "U1L6WB44A"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U1Q5GHC2J",
+        "text": "<@U1Q5GHC2J|rwang10> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468014627.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1L8PJY4W",
+        "text": "Couldn't make it to wine authority but cheers to the weekend to everyone! ",
+        "ts": "1468019293.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "<@U1KT5F4SZ>: are y'all at flying saucer yet?",
+        "ts": "1468027621.000033"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "<@U1KT5F4SZ>: <@U1KRMNVGC> still planning on going? ",
+        "ts": "1468030035.000035"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Ya I just got here ",
+        "ts": "1468030149.000036"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "<@U1KRMNVGC>: be there in a few! ",
+        "ts": "1468030197.000037"
+    }
+]

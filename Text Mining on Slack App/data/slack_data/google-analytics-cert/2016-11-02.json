@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1L735VD4",
+        "text": "<@U1L735VD4|nimish_g> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1478128415.000011"
+    },
+    {
+        "user": "U1L0RBZFH",
+        "text": "<@U1L0RBZFH|caroline-hughes> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1478138548.000012"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "user": "U1PF7HWTF",
+        "text": "<@U1PF7HWTF|nickweimer> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476711994.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Anyone remember how to get Enterprise Miner to run the exhaustive decision tree that we can edit easily?",
+        "ts": "1476743297.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KS1BFED",
+        "text": "<@U1L1D4WG7> After you run the decision tree node, click on  interactive ellipsis (in the side panel)",
+        "ts": "1476743563.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Thanks <@U1KS1BFED> !",
+        "ts": "1476743627.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "I was looking for options before running the thing.  Do you know how to increase the purity of a node?",
+        "ts": "1476743655.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1KS1BFED",
+        "text": "I've just been fiddling around with the trees manually. Like pruning stuff with very low observation counts (probably overfitting?), where the branches don't significantly change the purity, or building a tree using only 3 or 4 of the most important variables",
+        "ts": "1476743986.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "I'm having trouble inserting variables where we want them. e.g. if we don't want a tree to start with variable A, how can we force it to use something else?",
+        "ts": "1476744065.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1KS1BFED",
+        "text": "If you right click on the node,  and then click Split node, you should get all the variable options",
+        "ts": "1476744227.000014",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L0RBZFH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Thanks again <@U1KS1BFED> !",
+        "ts": "1476744538.000016"
+    },
+    {
+        "user": "U1L46HXCJ",
+        "text": "<@U1L46HXCJ|kateykilmer> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476754342.000017"
+    },
+    {
+        "user": "U1LNGEV0B",
+        "text": "<@U1LNGEV0B|kespina> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476754354.000018"
+    }
+]

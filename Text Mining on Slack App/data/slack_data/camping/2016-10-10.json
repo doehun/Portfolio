@@ -1,0 +1,95 @@
+[
+    {
+        "user": "U1L97TR38",
+        "text": "<@U1L97TR38|scottdiebold> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476110267.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "perfect hiking weather!",
+        "ts": "1476112836.000007",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U1KRB11QC",
+                    "U1L6WB44A",
+                    "U1KR891RC"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U1MBURU4D",
+        "text": "<@U1MBURU4D|marc_armbruster> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476129502.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "is there a water source on site that could be used for fishing?",
+        "ts": "1476136730.000011",
+        "reactions": [
+            {
+                "name": "fishing_pole_and_fish",
+                "users": [
+                    "U1KRNHQA1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "noise",
+        "ts": "1476136919.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "<@U1L3G0YRJ> <@U1KRWUXFU> and <@U1L5GU954> converted me at lunch! Robin and I are definitely in for camping! Also, we will bring stuff for s'mores and banana boats for everyone!",
+        "ts": "1476148491.000014",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KRNH021"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1L5GU954",
+                    "U1L7E8GSU",
+                    "U1KT5F4SZ",
+                    "U1L2P17DZ",
+                    "U1KRZT11T"
+                ],
+                "count": 5
+            },
+            {
+                "name": "banana",
+                "users": [
+                    "U1L5GU954",
+                    "U1KRNHQA1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "^yum!",
+        "ts": "1476148517.000015"
+    }
+]

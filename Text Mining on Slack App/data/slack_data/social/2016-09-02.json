@@ -1,0 +1,169 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "Anyone doing anything tonight? ",
+        "ts": "1472843149.000052",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRZT11T",
+                    "U1KQGRG2F"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Netflix + sleeping",
+        "ts": "1472846178.000053",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1LBRCSEA",
+                    "U1KT9ATA5",
+                    "U1L9DD1NY",
+                    "U1KRLV1CG"
+                ],
+                "count": 5
+            },
+            {
+                "name": "raising_hand",
+                "users": [
+                    "U1KQ9523D",
+                    "U1LBRCSEA"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Anyone want to just hang out and watch a movie or play board games tonight?",
+        "edited": {
+            "user": "U1KRZT11T",
+            "ts": "1472850904.000000"
+        },
+        "ts": "1472850897.000054",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L7RPG1M",
+                    "U1L5GU954"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L7RPG1M",
+        "text": "<@U1KRZT11T>: Settlers of Catan?",
+        "ts": "1472851757.000056",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KS4UE2F",
+                    "U1LAAMJ0M",
+                    "U1L415ECD",
+                    "U1N43E3E0",
+                    "U1L735VD4",
+                    "U1KRZT11T",
+                    "U1KQ9523D"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Yea lets play!",
+        "ts": "1472851803.000057"
+    },
+    {
+        "type": "message",
+        "user": "U1L7RPG1M",
+        "text": "What time you thinkin?",
+        "ts": "1472853475.000058"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "8  you are welcome at my place",
+        "ts": "1472853610.000059"
+    },
+    {
+        "type": "message",
+        "user": "U1L7RPG1M",
+        "text": "Cool, man! You got the board, too?",
+        "ts": "1472853676.000060"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Yea and 5-6 player extension if we can get more people",
+        "ts": "1472854842.000061"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Hard to tell if the six likes are all people who want to come, but it seems like the interest is there",
+        "edited": {
+            "user": "U1N43E3E0",
+            "ts": "1472854896.000000"
+        },
+        "ts": "1472854886.000062"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Hah didn't see that I will message people ",
+        "ts": "1472854963.000064",
+        "reactions": [
+            {
+                "name": "raising_hand",
+                "users": [
+                    "U1KQ9523D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "Is anyone out?",
+        "ts": "1472869270.000065"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "<@U1KQGRG2F> and I are about to go out",
+        "ts": "1472872709.000066"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "I'll be out tomorrow night ",
+        "ts": "1472874310.000067",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L1WFNC8",
+                    "U1L95JP1S"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

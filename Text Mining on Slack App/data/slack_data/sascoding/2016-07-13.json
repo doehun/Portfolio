@@ -1,0 +1,56 @@
+[
+    {
+        "user": "U1MDE4NAG",
+        "text": "<@U1MDE4NAG|michaelbyman> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468448449.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Hey Rose, I feel you, I've been burned by that a few times.  This doesn't help for all procedures, but especially when using proc print or a select statement in SQL, I try to make a habit of capping the number of observations it will return.  In proc print that is the obs= option. in SQL that is the top option like so: select top 100 * from orion.sales;",
+        "ts": "1468452138.000003",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U1P8QBBD1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Is anyone else a little lost with the SAS Chapter 10 formats, cntlin and cntlout stuff? That chapter and exercises do not make any sense to me at all. Output isn't given in the answers for problem 1, and it is talking about proc SQL steps that are not there... :confused:",
+        "ts": "1468454416.000004",
+        "reactions": [
+            {
+                "name": "hand",
+                "users": [
+                    "U1KRMNVGC",
+                    "U1KSL7L7R",
+                    "U1KRNHQA1",
+                    "U1KR9BP0E",
+                    "U1L2P17DZ"
+                ],
+                "count": 5
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1NUU2U9E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Ok, so the book chapter is completely -worthless- IMO, but the e-learning for chapter 10 is a bit more reasonable. It's pretty random stuff, but at least it is explained in plain english.",
+        "ts": "1468455362.000005"
+    }
+]

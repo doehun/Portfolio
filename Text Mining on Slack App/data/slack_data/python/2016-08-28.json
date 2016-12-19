@@ -1,0 +1,196 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "I highly recommend Udemy courses, if you\u2019re looking for an outlet to help in expanding your python knowledge. I\u2019m currently enrolled in the Complete Python Bootcamp course and have found it very helpful thus far. The course normally cost $195, but its on sale for $10 right now. There are also a lot of other python courses on sale. <https:\/\/www.udemy.com\/courses\/search\/?q=Python&amp;src=ukw&amp;lang=en>",
+        "attachments": [
+            {
+                "service_name": "Udemy",
+                "title": "Best Online Courses | Udemy",
+                "title_link": "https:\/\/www.udemy.com\/courses\/search\/?q=Python&src=ukw&lang=en",
+                "text": "Udemy is the world's largest destination for online courses. Discover an online course on <http:\/\/Udemy.com|Udemy.com> and start learning a new skill today.",
+                "fallback": "Udemy: Best Online Courses | Udemy",
+                "thumb_url": "https:\/\/www.udemy.com\/staticx\/udemy\/images\/v4\/logo.jpg",
+                "from_url": "https:\/\/www.udemy.com\/courses\/search\/?q=Python&src=ukw&lang=en",
+                "thumb_width": 1024,
+                "thumb_height": 1024,
+                "service_icon": "https:\/\/www.udemy.com\/staticx\/udemy\/images\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "ts": "1472402971.000006",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRQLFLY",
+                    "U1KR9BP0E",
+                    "U1LAAMJ0M",
+                    "U1L0V1X61",
+                    "U1L9DD1NY"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<@U1KRB11QC>  I clicked on the link and it said $195.  Did I miss the sale or is there some sort of code?  :disappointed:",
+        "ts": "1472403772.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Sorry about that. Use this coupon code: UDMY10ALL at checkout",
+        "ts": "1472403930.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Also, this code will let you get other classes for $10 as well. So if you\u2019re interested in R or other things you can get those courses.",
+        "edited": {
+            "user": "U1KRB11QC",
+            "ts": "1472404130.000000"
+        },
+        "ts": "1472404109.000010",
+        "reactions": [
+            {
+                "name": "hugging_face",
+                "users": [
+                    "U1L7G5LR4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "I used to work at edX, and we'd make fun of Udemy's ridiculous pricing all the time :upside_down_face:",
+        "ts": "1472404312.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1KRHCR7T> the pricing structure is horrible, but when they\u2019re on sale for $10 its worth it",
+        "edited": {
+            "user": "U1KRB11QC",
+            "ts": "1472404498.000000"
+        },
+        "ts": "1472404483.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "For sure, a lot of the courses are really good and $10 is a steal. It's just gimmicky how they do their pricing",
+        "ts": "1472404573.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "Hey everyone, I have spoken to several people and there seems to be a common question that keeps popping up. Why? Why are we creating and storing data, how do we do it, what is the point? I can get the right answer, but I am not completely comfortable describing how I got the right answer. \n\nIf you fall into one of these categories then I would like to invite you to a Lunch and Learn  tomorrow in Onslow from 12-1PM. I am going to break down objects in Python in a way that makes it really easy to understand the overarching concepts. Whether you are a seasoned programmer or this is the first time you have ever seen code in action, I invite you to stop by!",
+        "ts": "1472405394.000016",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRZT11T",
+                    "U1L0V1X61",
+                    "U1KRBJP47",
+                    "U1KRB11QC",
+                    "U1KRE5NKZ",
+                    "U1KR9BP0E",
+                    "U1L735VD4",
+                    "U1L9DD1NY",
+                    "U1NUU2U9E",
+                    "U1KR891RC",
+                    "U1KRWUXFU",
+                    "U1L3PU7BJ",
+                    "U1KQ9523D",
+                    "U1M1L5G6L",
+                    "U1KT9ATA5",
+                    "U1NDG6ULB",
+                    "U1SMADBU4",
+                    "U1L7G5LR4"
+                ],
+                "count": 18
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1KRQLFLY> for those of us with team meetings during lunch tomorrow could you see if there is a way to record the breakdown. Even if it is just audio.",
+        "edited": {
+            "user": "U1KRB11QC",
+            "ts": "1472405748.000000"
+        },
+        "ts": "1472405741.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "<@U1KRB11QC>, I thought that might be an issue.  I could either record the session or just hold another one later this week to go over the same items.",
+        "ts": "1472405874.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1KRQLFLY> which ever option works best for you. You may be able to use the software the professors use to record class sessions. Brandon may be able to help",
+        "ts": "1472405954.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Thanks so much <@U1KRB11QC>! Just went on a shopping spree :slightly_smiling_face:",
+        "ts": "1472406222.000021",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KSL7L7R",
+                    "U1P8QBBD1",
+                    "U1L9DD1NY",
+                    "U1M1L5G6L"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "Hey everyone, any help on where do I have the full name for GH? ",
+        "ts": "1472421130.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "I remembering checking it in forecast 10 days dictionary but not able to figure it out now :( ",
+        "ts": "1472421166.000023"
+    },
+    {
+        "user": "U1L9669PD",
+        "text": "<@U1L9669PD|pmartin> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472427737.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "Hey guys I found the solution. Thanks. ",
+        "ts": "1472440003.000025",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L9DD1NY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

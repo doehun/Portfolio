@@ -1,0 +1,32 @@
+[
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "How do you do that? #slackingontechnology",
+        "ts": "1468419288.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1LMHQY9E>:  To leave a channel you can type \/leave and then you can add the new channel from the menu on the left",
+        "ts": "1468419414.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "You have to press the plus sign next to \"channels\" to get a list.  Gotta join them all!",
+        "ts": "1468419640.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KSEJ01W",
+        "text": "Hey guys, I am currently in communications 2 and certification 1. Would anyone be willing to switch the communications week with me so I can travel the next week? If you do, drinks are on me. ",
+        "ts": "1468447749.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1L97TR38",
+        "text": "I am in communications 2 as well . If anyone else would like to switch so I could travel during that week just let me know. Thanks",
+        "ts": "1468459830.000006"
+    }
+]

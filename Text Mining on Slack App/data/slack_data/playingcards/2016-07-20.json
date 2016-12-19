@@ -1,0 +1,117 @@
+[
+    {
+        "user": "U1L6YQUSU",
+        "text": "<@U1L6YQUSU|johnbetzjr> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469067101.000002"
+    },
+    {
+        "user": "U1L6YQUSU",
+        "purpose": "People who like playing card games identify yourselves....",
+        "text": "<@U1L6YQUSU|johnbetzjr> set the channel purpose: People who like playing card games identify yourselves....",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1469067102.000003"
+    },
+    {
+        "user": "U1KRB11QC",
+        "text": "<@U1KRB11QC|dsjorda2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469067281.000004"
+    },
+    {
+        "user": "U1KRZT11T",
+        "text": "<@U1KRZT11T|tommy_darlington> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469067316.000005"
+    },
+    {
+        "user": "U1KRHCR7T",
+        "text": "<@U1KRHCR7T|zack_schwartz> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469067775.000006"
+    },
+    {
+        "user": "U1KQ9523D",
+        "text": "<@U1KQ9523D|lisaholbach> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469068070.000007"
+    },
+    {
+        "user": "U1L7E8GSU",
+        "text": "<@U1L7E8GSU|rachelkurtz> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469068515.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "Rummyyyy :heart:",
+        "ts": "1469068588.000009"
+    },
+    {
+        "user": "U1L3G0YRJ",
+        "text": "<@U1L3G0YRJ|emmyburnett> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469068648.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "It's been a long time but I used to play gin\/rummy with my great-grandparents!",
+        "ts": "1469068999.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Black Jack, Poker, or Rummy",
+        "ts": "1469069023.000012"
+    },
+    {
+        "user": "U1KSYP1M5",
+        "text": "<@U1KSYP1M5|madison> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469069361.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1KSYP1M5",
+        "text": "Black jack, spades, learning how to play poker...",
+        "ts": "1469069390.000014"
+    },
+    {
+        "user": "U1P8QBBD1",
+        "text": "<@U1P8QBBD1|shpatel7> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469069708.000015"
+    },
+    {
+        "user": "U1L2P17DZ",
+        "text": "<@U1L2P17DZ|kailistevens> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469069847.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1L2P17DZ",
+        "text": "My family and I play all sorts of card games and I'm always up for learning new ones! :blush:",
+        "ts": "1469069898.000017"
+    },
+    {
+        "user": "U1KVBARR9",
+        "text": "<@U1KVBARR9|sneha.bhalodia> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469070020.000018"
+    }
+]

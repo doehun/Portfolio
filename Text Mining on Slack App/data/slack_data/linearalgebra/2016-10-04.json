@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1KT1RZ24",
+        "text": "<@U1KT1RZ24|mike_hruska> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1475623558.000141"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Anyone want to grab lunch?",
+        "ts": "1479315725.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "Interested!",
+        "ts": "1479315804.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "I'm thinking about going to Jasmin Mediterranean ",
+        "ts": "1479315853.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "Definitely in! Where do you want to meet?",
+        "ts": "1479315879.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "I'm grabbing my car now and can meet you back at the institute in 10",
+        "ts": "1479315905.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "Awesome, I'll be ready!",
+        "ts": "1479315919.000011"
+    }
+]

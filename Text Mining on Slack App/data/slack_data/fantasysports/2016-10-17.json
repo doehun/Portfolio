@@ -1,0 +1,156 @@
+[
+    {
+        "user": "U1PF7HWTF",
+        "text": "<@U1PF7HWTF|nickweimer> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476718700.000002"
+    },
+    {
+        "user": "U1KRMNVGC",
+        "inviter": "U1PF7HWTF",
+        "text": "<@U1KRMNVGC|cncross> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476718859.000003"
+    },
+    {
+        "user": "U1KT9ATA5",
+        "inviter": "U1PF7HWTF",
+        "text": "<@U1KT9ATA5|amir.lyall> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476718859.000004"
+    },
+    {
+        "user": "U1MDE4NAG",
+        "inviter": "U1PF7HWTF",
+        "text": "<@U1MDE4NAG|michaelbyman> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476718859.000005"
+    },
+    {
+        "user": "U1L7RPG1M",
+        "inviter": "U1PF7HWTF",
+        "text": "<@U1L7RPG1M|carsonfutch> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476718859.000006"
+    },
+    {
+        "user": "U1LAAMJ0M",
+        "inviter": "U1PF7HWTF",
+        "text": "<@U1LAAMJ0M|carlanderson> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476718859.000007"
+    },
+    {
+        "user": "U1KSEJ01W",
+        "inviter": "U1PF7HWTF",
+        "text": "<@U1KSEJ01W|ajborelli> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476718859.000008"
+    },
+    {
+        "user": "U1MBURU4D",
+        "inviter": "U1PF7HWTF",
+        "text": "<@U1MBURU4D|marc_armbruster> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476718859.000009"
+    },
+    {
+        "user": "U1LDKB3AN",
+        "inviter": "U1PF7HWTF",
+        "text": "<@U1LDKB3AN|preston_burns> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476718860.000010"
+    },
+    {
+        "user": "U1KSL7L7R",
+        "inviter": "U1PF7HWTF",
+        "text": "<@U1KSL7L7R|dustinwicker> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476718860.000011"
+    },
+    {
+        "user": "U1KSR1MS4",
+        "inviter": "U1PF7HWTF",
+        "text": "<@U1KSR1MS4|rocky_chen> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476718860.000012"
+    },
+    {
+        "user": "U1KRE1L9M",
+        "inviter": "U1PF7HWTF",
+        "text": "<@U1KRE1L9M|kevin.danchisko> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476718860.000013"
+    },
+    {
+        "user": "U1L97TR38",
+        "inviter": "U1PF7HWTF",
+        "text": "<@U1L97TR38|scottdiebold> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476718860.000014"
+    },
+    {
+        "user": "U1LNGEV0B",
+        "inviter": "U1PF7HWTF",
+        "text": "<@U1LNGEV0B|kespina> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476718860.000015"
+    },
+    {
+        "user": "U1KRB11QC",
+        "text": "<@U1KRB11QC|dsjorda2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476719154.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1PF7HWTF",
+        "text": "should be able to get actual salaries soon",
+        "ts": "1476719237.000018",
+        "reactions": [
+            {
+                "name": "dollar",
+                "users": [
+                    "U1KT9ATA5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1KRMNVGC",
+        "text": "<@U1KRMNVGC|cncross> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1476719526.000019"
+    },
+    {
+        "user": "U1L97TR38",
+        "text": "<@U1L97TR38|scottdiebold> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1476725863.000020"
+    },
+    {
+        "user": "U1MDE4NAG",
+        "text": "<@U1MDE4NAG|michaelbyman> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1476735139.000021"
+    }
+]

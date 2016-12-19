@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1KSR1MS4",
+        "text": "<@U1KSR1MS4|rocky_chen> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1479871998.000003"
+    }
+]

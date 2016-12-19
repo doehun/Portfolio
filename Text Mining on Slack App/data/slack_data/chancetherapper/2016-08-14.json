@@ -1,0 +1,25 @@
+[
+    {
+        "user": "U1KQYG6SJ",
+        "text": "<@U1KQYG6SJ|rose> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471229779.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Hi everyone! Doing some housecleaning, and I'm thinking of archiving this channel at the end of tomorrow, if I receive no opposition",
+        "ts": "1471229848.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "the conversation history will still be viewable via <http:\/\/my.slack.com\/archives>",
+        "edited": {
+            "user": "U1KQYG6SJ",
+            "ts": "1471229870.000000"
+        },
+        "ts": "1471229854.000005"
+    }
+]

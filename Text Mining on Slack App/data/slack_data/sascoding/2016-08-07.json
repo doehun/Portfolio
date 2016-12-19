@@ -1,0 +1,137 @@
+[
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Anyone worked on the Chapter 12 quiz in the prep book yet? In question 2, why is option D not a correct answer? Wouldn't it provide the exact same output?",
+        "ts": "1470601635.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "I think D has a merge and it would have problems because the datasets have prop in common, not just actor! So the set and merge wouldn't do the same thing!",
+        "edited": {
+            "user": "U1L6WB44A",
+            "ts": "1470601961.000000"
+        },
+        "ts": "1470601940.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KRLV1CG",
+        "text": "Yes, <@U1L6WB44A>  this is correct. The Merge statement would cause the prop variable of actors.props2 to overwrite the prop variable of Actors.props1.",
+        "ts": "1470602135.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Oh I get it. So in option D if they specified \"by actor prop\" then the result would be identical as the result of option C? ",
+        "ts": "1470602196.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "Yes, agree with <@U1L6WB44A> and <@U1KRLV1CG>. Interleaving is the same as concatenating, but it also puts the observations in order. In a merge, you'd end up with just one value of Prop for each actor.",
+        "ts": "1470602201.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Just wanted you guys to know that if you include \"Prop\" in the \"By\" statement as <@U1KR9BP0E> suggested, you actually won't get the same output as option C.",
+        "ts": "1470603700.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1L6YQUSU>: what's the difference in that case? ",
+        "ts": "1470603739.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "\"Pliers\" comes alphabetically before \"Poker.\"  When SAS realizes the actor name is the same, it will use prop to decide the next entry.",
+        "ts": "1470603788.000013",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L6WB44A",
+                    "U1KR9BP0E",
+                    "U1KRLV1CG"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Interleaving just picks the first data set entry because it's listed first.",
+        "ts": "1470603815.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "That's why the answer appears the way it does for \"C\"",
+        "ts": "1470603836.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1L6YQUSU>: thanks, I get it now. :+1::skin-tone-4:",
+        "ts": "1470603844.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "No problem.  I'm still keeping an eye on this channel even though my test is over.  I'll be glad to help when I can.",
+        "ts": "1470603891.000017",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KT9ATA5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "So now your advice is certified! :tada: ",
+        "ts": "1470603938.000018",
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1KR9BP0E",
+                    "U1L6YQUSU",
+                    "U1LBRCSEA",
+                    "U1NUU2U9E"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Yes, technically you're receiving Certified Advice.",
+        "ts": "1470604248.000019",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRWUXFU",
+                    "U1KSL7L7R",
+                    "U1LBRCSEA",
+                    "U1L8PJY4W",
+                    "U1NUU2U9E",
+                    "U1SMADBU4"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

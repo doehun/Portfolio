@@ -1,0 +1,91 @@
+[
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "If anyone needs a ride tomorrow let me know, I can fit 2-3 more people! ",
+        "ts": "1467291350.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Ya I can drive too. I have 4 extra seats",
+        "ts": "1467295152.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1LJRDPLP",
+        "text": "It'd be great if I could get a ride from one of you guys!",
+        "ts": "1467297723.000004"
+    },
+    {
+        "user": "U1KT5F4SZ",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U1KT5F4SZ|hannahh> has left the channel",
+        "ts": "1467297741.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1L1WFNC8",
+        "text": "Thanks for setting this up <@U1L6YQUSU>",
+        "ts": "1467298470.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "<@U1LJRDPLP>: you can ride w me! Two other people claimed spots so I have room for one more!",
+        "ts": "1467301587.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KSYP1M5",
+        "text": "If I could ride with somebody, that would be great too! ",
+        "ts": "1467302122.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "You got it ! <@U1KSYP1M5> we are gonna leave from centennial around 1:15!",
+        "ts": "1467302218.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KSYP1M5",
+        "text": "Okay perfect thanks <@U1L9DD1NY> ! :relieved: ",
+        "ts": "1467302289.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "Can someone give me a ride? I don't want to have to walk there :disappointed:",
+        "edited": {
+            "user": "U1KS4UE2F",
+            "ts": "1467327731.000000"
+        },
+        "ts": "1467327568.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Ya hop in with me ",
+        "ts": "1467330535.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "So far it's me, you, and Ed. Two more spots open ",
+        "ts": "1467330556.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "woohoo thanks!",
+        "ts": "1467331197.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "If Connor's car fills up, I can also drive and take 3 in my car.",
+        "ts": "1467331846.000016"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Just signed up for 6.30 yoga flow today! Anyone else?",
+        "ts": "1468940769.000002",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L5GU954",
+                    "U1L6WB44A"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "I have to skip this week, coz I have guests in town... I will join you all next week...",
+        "ts": "1468940881.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "I'm in! <@U1KR9BP0E> ",
+        "ts": "1468943672.000004"
+    }
+]

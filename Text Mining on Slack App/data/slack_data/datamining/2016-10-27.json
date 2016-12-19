@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1KRNH021",
+        "text": "<@U1KRNH021|sneha_komma> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477576612.000203"
+    },
+    {
+        "user": "U1LJRDPLP",
+        "text": "<@U1LJRDPLP|alexhorowitz> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1477595263.000204"
+    }
+]

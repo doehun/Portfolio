@@ -1,0 +1,59 @@
+[
+    {
+        "type": "message",
+        "user": "U1NLH1CP8",
+        "text": "We should figure out our teams for the tough howler on our next run!",
+        "ts": "1473630577.000002",
+        "reactions": [
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U1N43E3E0",
+                    "U1KT5F4SZ",
+                    "U1KRZT11T"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "Totally. Has anyone done the tough howler before? Is there a big advantage to having four on a team vs. two?",
+        "ts": "1473632740.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "I've done a tough mudder. It was really fun with 4 people.",
+        "ts": "1473632836.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "Yeah, I would assume a team of four would be better",
+        "ts": "1473632859.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "It's cheaper with four people. That's the best advantage ",
+        "ts": "1473635057.000006",
+        "reactions": [
+            {
+                "name": "moneybag",
+                "users": [
+                    "U1KRHCR7T",
+                    "U1L5GU954"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "Good enough for me",
+        "ts": "1473635874.000007"
+    }
+]

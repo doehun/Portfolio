@@ -1,0 +1,38 @@
+[
+    {
+        "user": "U1LDKB3AN",
+        "text": "<@U1LDKB3AN|preston_burns> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469729335.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L974M70",
+        "text": "Bball today anyone?",
+        "edited": {
+            "user": "U1L974M70",
+            "ts": "1469730279.000000"
+        },
+        "ts": "1469730208.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "I would play if others would",
+        "ts": "1469732687.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "Headed to the gym now ",
+        "ts": "1469733659.000006"
+    },
+    {
+        "user": "U1KQYG6SJ",
+        "text": "<@U1KQYG6SJ|rose> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469737397.000007"
+    }
+]

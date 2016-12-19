@@ -1,0 +1,46 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "I just had the _brilliant_ idea to just plan out my meals for the _next month_...and then it hit me that I was a little too excited about planning out my meals so far in advance :grimacing:",
+        "ts": "1472078675.000072",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1L6WB44A",
+                    "U1L914KNJ",
+                    "U1LBRCSEA",
+                    "U1KRLV1CG"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Team J for teh win",
+        "ts": "1472079115.000073",
+        "reactions": [
+            {
+                "name": "metal",
+                "users": [
+                    "U1L914KNJ",
+                    "U1LBRCSEA",
+                    "U1KRB11QC",
+                    "U1KRLV1CG",
+                    "U1KQYG6SJ"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "does anyone else use Habitica? Just got my first quest and looking for people to join my party :slightly_smiling_face:",
+        "ts": "1472095821.000074"
+    }
+]

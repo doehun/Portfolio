@@ -1,0 +1,31 @@
+[
+    {
+        "user": "U1L6YQUSU",
+        "members": [
+            "U1KQGRG2F",
+            "U1KQTJ6BV",
+            "U1KRBFY3Z",
+            "U1KRBJP47",
+            "U1KRE1L9M",
+            "U1KRHCR7T",
+            "U1KRMNVGC",
+            "U1KSBCBFG",
+            "U1L1WFNC8",
+            "U1L2P17DZ",
+            "U1L3G0YRJ",
+            "U1L46HXCJ",
+            "U1L5GU954",
+            "U1L6YQUSU",
+            "U1L8PJY4W",
+            "U1L9DD1NY",
+            "U1LAAMJ0M",
+            "U1LK46TUJ",
+            "U1LV6EH3M",
+            "U23JW15TP"
+        ],
+        "text": "<@U1L6YQUSU|johnbetzjr> archived the channel (w\/ 20 members)",
+        "type": "message",
+        "subtype": "channel_archive",
+        "ts": "1473452350.000002"
+    }
+]

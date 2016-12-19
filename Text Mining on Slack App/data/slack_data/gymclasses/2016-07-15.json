@@ -1,0 +1,169 @@
+[
+    {
+        "user": "U1KQYG6SJ",
+        "text": "<@U1KQYG6SJ|rose> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468625127.000002"
+    },
+    {
+        "user": "U1KQYG6SJ",
+        "purpose": "For group classes at Carmichael",
+        "text": "<@U1KQYG6SJ|rose> set the channel purpose: For group classes at Carmichael",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1468625128.000003"
+    },
+    {
+        "user": "U1KR9BP0E",
+        "inviter": "U1KQYG6SJ",
+        "text": "<@U1KR9BP0E|sneha.raghavan> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468625128.000004"
+    },
+    {
+        "user": "U1KRWUXFU",
+        "inviter": "U1KQYG6SJ",
+        "text": "<@U1KRWUXFU|jdemarest> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468625128.000005"
+    },
+    {
+        "user": "U1KT5F4SZ",
+        "inviter": "U1KQYG6SJ",
+        "text": "<@U1KT5F4SZ|hannahh> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468625128.000006"
+    },
+    {
+        "user": "U1KSR1MS4",
+        "inviter": "U1KQYG6SJ",
+        "text": "<@U1KSR1MS4|rocky_chen> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468625128.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Hello everyone! I created this channel so we can coordinate going to gym classes!",
+        "ts": "1468625183.000008"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "Yo yo yo",
+        "ts": "1468625183.000009"
+    },
+    {
+        "user": "U1L5GU954",
+        "text": "<@U1L5GU954|jrweston> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468625286.000010"
+    },
+    {
+        "user": "U1LMHQY9E",
+        "text": "<@U1LMHQY9E|pmaychek> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468625426.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Are they free?",
+        "ts": "1468625444.000012"
+    },
+    {
+        "user": "U1M7AD5L2",
+        "text": "<@U1M7AD5L2|kelly> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468625449.000013"
+    },
+    {
+        "user": "U1NDG6ULB",
+        "text": "<@U1NDG6ULB|cgreene> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468626166.000014"
+    },
+    {
+        "user": "U1KSYP1M5",
+        "text": "<@U1KSYP1M5|madison> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468626656.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "yup!",
+        "ts": "1468627282.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "you have to register to save a spot -- some classes fill up faster than others (eg: bodypump usually fills up within 2-3 hours after registration opens",
+        "ts": "1468627350.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "you can check out <https:\/\/recreation.dasa.ncsu.edu\/fitness\/group-fitness\/> for the schedule\/ the link to register",
+        "ts": "1468627363.000018"
+    },
+    {
+        "user": "U1KRE5NKZ",
+        "text": "<@U1KRE5NKZ|laura.sweeney> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468628011.000019"
+    },
+    {
+        "user": "U1KRHCR7T",
+        "text": "<@U1KRHCR7T|zack_schwartz> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468628424.000020"
+    },
+    {
+        "user": "U1KQGK2CB",
+        "text": "<@U1KQGK2CB|loganteal> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468630915.000021"
+    },
+    {
+        "user": "U1L6WB44A",
+        "text": "<@U1L6WB44A|ekdoyel> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468633713.000002"
+    },
+    {
+        "user": "U1L914KNJ",
+        "text": "<@U1L914KNJ|nikki> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468634033.000003"
+    },
+    {
+        "user": "U1KRZT11T",
+        "text": "<@U1KRZT11T|tommy_darlington> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468634895.000004"
+    },
+    {
+        "user": "U1KT1RZ24",
+        "text": "<@U1KT1RZ24|mike_hruska> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468639204.000005"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Anyone ever been to the crepe place?",
+        "ts": "1478357082.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "On Hillsborough",
+        "ts": "1478357135.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "<@U1KQYG6SJ> it's good. I really liked their veggie crepe",
+        "ts": "1478360240.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": ":the_horns::skin-tone-5:",
+        "ts": "1478360266.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Any of the foodies want to try the Fiction Kitchen tomorrow night ",
+        "ts": "1478360319.000006",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U1KRB11QC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Can confirm what <@U1L5GU954> said: the veggie cr\u00eape=delicious ",
+        "ts": "1478372169.000007"
+    }
+]
