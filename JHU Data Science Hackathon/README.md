@@ -1,10 +1,9 @@
 
 # Welcome to the JHU DaSH!
 ## JHU Data Science Hackathon was held from Sep 21, 2015 to Sep 23, 2015
-## Here is the link to the event: [\title]https://www.regonline.com/builder/site/Default.aspx?EventID=1692764&[title]
+## Here is the link to the event: https://www.regonline.com/builder/site/Default.aspx?EventID=1692764&
 
-* This is a copy of the repository, originally from https://github.com/emilliman5/Alzheimers_Dash
-* We were on the team studying effects of Alzheimer
+* This is a copy of the repository, originally from https://github.com/emilliman5/Alzheimers_Dash 
 
 ## tl;dr
 
