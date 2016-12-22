@@ -1,0 +1,22 @@
+[
+    {
+        "user": "U1L1D4WG7",
+        "text": "<@U1L1D4WG7|edpreble> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470317806.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1KS4UE2F>: I decided to use python 3, but it's up to you to decide. They have very minor differences, as far as I know",
+        "ts": "1470325744.000012"
+    },
+    {
+        "user": "U1SMADBU4",
+        "text": "<@U1SMADBU4|ajohnst2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470356602.000013"
+    }
+]

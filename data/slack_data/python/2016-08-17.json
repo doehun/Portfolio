@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U1LHLK8MR",
+        "text": "<@U1LHLK8MR|mtnorthe> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471451536.000002"
+    },
+    {
+        "user": "U1KRMNVGC",
+        "text": "<@U1KRMNVGC|cncross> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471458734.000003"
+    },
+    {
+        "user": "U1L7RPG1M",
+        "text": "<@U1L7RPG1M|carsonfutch> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471463166.000004"
+    },
+    {
+        "user": "U1L735VD4",
+        "text": "<@U1L735VD4|nimish_g> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471467275.000005"
+    },
+    {
+        "user": "U1LNGEV0B",
+        "text": "<@U1LNGEV0B|kespina> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471478154.000006"
+    },
+    {
+        "user": "U1Q7LP4V9",
+        "text": "<@U1Q7LP4V9|jestover> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471480661.000007"
+    },
+    {
+        "user": "U1KRNH021",
+        "text": "<@U1KRNH021|sneha_komma> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471489628.000008"
+    }
+]

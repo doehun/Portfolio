@@ -1,0 +1,263 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Don't forget: text mining quiz due tomorrow ",
+        "ts": "1476642033.001349",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1L0V1X61",
+                    "U1L6WB44A"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "(at 5pm, not midnight)",
+        "ts": "1476642785.001350"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Text mining site is down  :cry:",
+        "ts": "1476647875.001351"
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "Dr Healeys site you mean?",
+        "ts": "1476647943.001352"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "yea",
+        "ts": "1476647998.001353"
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "no prob, I have the whole thing here",
+        "ts": "1476648010.001354"
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "it doesn't have all the detail you might want, like the snippets for NLTK, but maybe it will help?",
+        "ts": "1476648098.001356"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "<@U1L914KNJ> is a fabulous person",
+        "ts": "1476648141.001357"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Thanks so much!",
+        "ts": "1476648157.001358",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U1KSL7C10",
+                    "U1L1D4WG7"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "no problem. I guess I was just lucky I had it open and cached :slightly_smiling_face:",
+        "ts": "1476648189.001359"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "I had some of the text in onenote, but none of the code snippets. Thanks again!",
+        "ts": "1476648231.001360"
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "they are cached as well if there's one you need let me know and I can copy\/paste it  foryou",
+        "ts": "1476648289.001361"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Can anyone recommend a competent computer repair person\/service that I can recommend to my in-laws? They got an unexpected windows 10 upgrade on an old dell laptop that bricked it, so they want to get their pictures off the hard drive.",
+        "ts": "1476648770.001362"
+    },
+    {
+        "type": "message",
+        "user": "U1KRTHAQZ",
+        "text": "<@U1L1D4WG7> Intrex computers is pretty good. They have locations in Raleigh, Cary and a few other places. I think their prices are pretty reasonable as well. ",
+        "ts": "1476649336.001363"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Thanks <@U1KRTHAQZ> !",
+        "ts": "1476649620.001364"
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "I have a usb to SATA cable if they just want to access the hard drive.",
+        "ts": "1476649943.001365"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Alas <@U1M4QJD4P>, the scope creep potential on this one is semi infinite in nature. Additionally, my mom-in-law is upset that my dad-in-law didn't take my auto-cloud backup advice, so she wants him to feel some financial pain on this one to encourage proper advice listening in the future LOL",
+        "ts": "1476650796.001366",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KRWUXFU",
+                    "U1KT5F4SZ",
+                    "U1L914KNJ",
+                    "U1KRLV1CG",
+                    "U1NUU2U9E",
+                    "U1P8QBBD1",
+                    "U1LBRCSEA",
+                    "U1L6WB44A",
+                    "U1PN82U67"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "I think I have the code snippets and the course videos for text mining....let me know if anyone needs it ",
+        "ts": "1476653525.001367"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "Website is up again too ",
+        "ts": "1476653541.001368"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "Just checked it ",
+        "ts": "1476653581.001369"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "hey everybody, looks like we have an info session tomorrow, so remember to suit up",
+        "ts": "1476661594.001370",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U1KSH8676"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U1LMHQY9E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L2P17DZ",
+        "text": "Where did you see that?",
+        "ts": "1476661669.001371"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1LMHQY9E> I think there is one on Tuesday but not tomorrow",
+        "ts": "1476661685.001372"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "nvm haha yeah i thought JMP was a company",
+        "ts": "1476661698.001373"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "Oh, you were freaking me out! ",
+        "ts": "1476661715.001374"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "well. just a reminder for everybody to download jmp for tomorrow!",
+        "ts": "1476661716.001375",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KSL7C10",
+                    "U1L2P17DZ",
+                    "U1KR9BP0E",
+                    "U1KSYP1M5",
+                    "U1KT3UELS",
+                    "U1KRLV1CG",
+                    "U1KQGK2CB",
+                    "U1L3G0YRJ",
+                    "U1L5GU954",
+                    "U1KT2JJE8",
+                    "U1L9DD1NY",
+                    "U1KS4UE2F",
+                    "U1KT9ATA5",
+                    "U1NUU2U9E",
+                    "U1L7G5LR4",
+                    "U1KQYG6SJ",
+                    "U1M37FW5U"
+                ],
+                "count": 18
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L2P17DZ",
+        "text": "Blue has JMP on Wednesday, Orange has it tomorrow, just FYI as well! :blush:",
+        "ts": "1476661769.001376",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1L9DD1NY",
+                    "U1KS4UE2F",
+                    "U1L735VD4"
+                ],
+                "count": 4
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1L5GU954"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

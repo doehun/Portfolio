@@ -1,0 +1,401 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "if you're like me and you still fall asleep after speeding up the video: you can click the blue button at the top left to get a transcript of the video",
+        "ts": "1475566400.000101"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "3:33 AM! :scream:",
+        "ts": "1475588162.000103",
+        "reactions": [
+            {
+                "name": "fearful",
+                "users": [
+                    "U1N43E3E0",
+                    "U1L735VD4"
+                ],
+                "count": 2
+            },
+            {
+                "name": "astonished",
+                "users": [
+                    "U1L9DD1NY"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sleeping",
+                "users": [
+                    "U1PM77VSS",
+                    "U1KRB11QC",
+                    "U1L914KNJ",
+                    "U1KSL7L7R"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "haha... I slept so early that I woke up for about an hour around 3am",
+        "ts": "1475588577.000104"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "and the guy put me right back",
+        "ts": "1475588584.000105",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1LBRCSEA",
+                    "U1L1WFNC8",
+                    "U1KT9ATA5",
+                    "U1L7G5LR4",
+                    "U1LAAMJ0M",
+                    "U1P8QBBD1",
+                    "U1L0V1X61"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "user": "U1KRS3S3X",
+        "text": "<@U1KRS3S3X|demoore> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475619984.000109"
+    },
+    {
+        "type": "message",
+        "user": "U1MH8UXHD",
+        "text": "Dinners control plot ",
+        "ts": "1475625285.000111"
+    },
+    {
+        "type": "message",
+        "user": "U1MH8UXHD",
+        "text": "*dunnet",
+        "ts": "1475625293.000112"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "ah, yeah, that's what it was",
+        "ts": "1475625697.000113"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "thank you!",
+        "ts": "1475625700.000114"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Anyone understand why question 15 on the practice exam is B?",
+        "ts": "1475626881.000115"
+    },
+    {
+        "type": "message",
+        "user": "U1PM77VSS",
+        "text": "That was one of the questions I marked as I thought the answer given was wrong. If it is actually correct, I have no idea why.",
+        "ts": "1475627004.000116"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Yea.. a few of us here in the library are thinking that also...",
+        "ts": "1475627054.000117"
+    },
+    {
+        "type": "message",
+        "user": "U1PM77VSS",
+        "text": "There were a few I questioned. Hoping to clear them up with Google and maybe e-learning",
+        "ts": "1475627092.000118"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Unfortunately there's a question on the exam like that too. I took a blind guess. ",
+        "ts": "1475627230.000119"
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "The answer should be choice B but it should say Y=0.10",
+        "ts": "1475627258.000120"
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "You can get that cutoff probability using Bayes rule I think",
+        "ts": "1475627283.000121"
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "I also had a question exactly like that on my exam",
+        "ts": "1475627342.000122",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1M4QJD4P",
+                    "U1KSL7L7R",
+                    "U1MH8UXHD"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "pretty sure the choices were as written on the practice question so don't be surprised if x=0.05, y=0.10 is not an option",
+        "ts": "1475627578.000123"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "We're having trouble understanding how the 0.10 would be calculated.",
+        "ts": "1475627694.000124"
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "yeah me too. I'm also having trouble with 'Solicit = P_1 &gt; y' in a data step.\nshouldn't there be a 'where' in there or something?",
+        "ts": "1475627831.000125"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1L1D4WG7> 1\/(1+(9\/1)) if i am interpreting what joe mentioned correctly",
+        "edited": {
+            "user": "U1KT9ATA5",
+            "ts": "1475628043.000000"
+        },
+        "ts": "1475628011.000127",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1M4QJD4P",
+                    "U1KSL7L7R",
+                    "U1L9DD1NY",
+                    "U1P8QBBD1",
+                    "U1L735VD4",
+                    "U1KQ9523D"
+                ],
+                "count": 6
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1L1D4WG7",
+                    "U1L0RBZFH",
+                    "U1P8QBBD1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1P8QBBD1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "I was wondering the same thing as <@U1M4QJD4P> about the Solicit= stsatement",
+        "ts": "1475629371.000129"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Feels like a subsetting type of statement to me... Solicit if expression is true. So if P_1 &gt; 0.10, then it is \"True\", so solicit gets assigned true. No idea in practice if that is actually correct syntax... there are so many typos in this thing.",
+        "ts": "1475629847.000130"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "if you're doing profit analysis then you use Baye's Rule to calculate the cut off because that's the point at which profits are maximized. So you use the formula that Amir posted and the values from the cost of true positives and positive predicted values to calculate the 0.10",
+        "ts": "1475630438.000131",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L0RBZFH",
+                    "U1KRZT11T"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1Q7LP4V9",
+        "text": "Could someone explain the answer to this question:",
+        "ts": "1475633890.000132"
+    },
+    {
+        "type": "message",
+        "user": "U1Q7LP4V9",
+        "text": "When selecting variables or effects using SELECTION=BACKWARD in the LOGISTIC procedure, the business analyst's model selection terminated at Step 3. \n\nWhat happened between Step 1 and Step 2?\na) DF increased.\nb) AIC increased.\nc) Pr &gt; Chisq increased.\nd) - 2 Log L increased.\ncorrect_answer = \"D\"",
+        "ts": "1475633914.000133"
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "So, I'm not positive, but I believe that each step of a backward elimination, by definition, must improve the model (it removes the least significant variable in the model). So, an increase in -2 Log L would mean the model improved.\n\n-AIC increased: would mean the model gets worse\n-Pr &gt; Chisq increased: would mean the model gets worse if this is for the global F-test (you want low p-values)",
+        "ts": "1475634329.000134"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "sounds plausible",
+        "ts": "1475634378.000135",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KSL7L7R",
+                    "U1P8QBBD1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "baha...yeah...",
+        "ts": "1475634393.000136"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "A good model tries to minimize -2 log L. So just like AIC, smaller -2 log L is better. However, -2 log L always decreases when new variables are added to the model (kind of like how R-square always increases), so when variables are removed in backwards selection, -2 log L increases",
+        "edited": {
+            "user": "U1KRNHQA1",
+            "ts": "1475635362.000000"
+        },
+        "ts": "1475635330.000137",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1L914KNJ",
+                    "U1KR891RC",
+                    "U1KRB11QC",
+                    "U1KSL7C10"
+                ],
+                "count": 4
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U1Q7LP4V9",
+                    "U1P8QBBD1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "<@U1KRNHQA1>: thanks, I forgot that about -2 Log L. ",
+        "ts": "1475635497.000139",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRNHQA1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "Also, AIC is just -2 log L with an added penalty for additional variables, so it's kind of like the adjusted R-square for -2 log L",
+        "ts": "1475635534.000140",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1P8QBBD1",
+                    "U1KRB11QC",
+                    "U1N43E3E0",
+                    "U1L0RBZFH"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "<@U1KRNHQA1>  was that in the elearning or did you already know that somehow?  That question seems evil.",
+        "ts": "1475636285.000141"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "<@U1N43E3E0> I think Dr. LaBarr mentioned it in the summer, I didn't see it in the elearning ",
+        "ts": "1475636559.000142",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1N43E3E0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1N43E3E0> it is discussed in the book toward the beginning of the first chapter",
+        "ts": "1475636801.000143",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1N43E3E0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "can someone explain question 23 on the practice exam to me?",
+        "ts": "1475637756.000144"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "<@U1KT2JJE8> That question is asking for the R-squared. So you'd do the SSM\/SST = 15716.87902\/20761.44481 = ~76%",
+        "ts": "1475638062.000145"
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "thanks <@U1KRHCR7T> !",
+        "ts": "1475638128.000146"
+    }
+]

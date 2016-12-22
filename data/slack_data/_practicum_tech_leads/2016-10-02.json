@@ -1,0 +1,114 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "Having issues logging into my system, when I type in \"access security grid\" too many times my system locks up.\n\n<https:\/\/jurassicsystems.com\/>\n\nSee if anyone else can take a crack at it.",
+        "ts": "1475451850.000002",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KT9ATA5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "Some of the late 90s kids won't get this reference...",
+        "ts": "1475451911.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "PLEASEEEEEEEE",
+        "ts": "1475453569.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1L974M70",
+        "text": "I would like someone in this group should do a Share 20 or host an optional class on using GIT.  <!channel>",
+        "ts": "1475455024.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "GIT is my jam! But I will defer to someone else if there is a more interested party.",
+        "ts": "1475456669.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "<@U1KRQLFLY>:  u should do a talk!",
+        "ts": "1475456836.000007",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1L5GU954",
+                    "U1N43E3E0"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "Is anyone into their practicum server yet? The reason I hesitate <@U1L974M70> is because GIT is primarily a cloud based software and I know that is FORBIDDEN by John for practicum. If there are local instances of it running on the servers then it could be a great resource, especially for anyone doing their projects in R or Python. SAS...not so much lol",
+        "ts": "1475457268.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "<@U1KRQLFLY>: john says maybe well get access monday. i talked to him on friday. we dont want to learn git for the practicum, its cuz its a prevalent tool. ",
+        "ts": "1475457726.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1L0RBZFH",
+        "text": "what are you using for version controlling your code if you aren't using git?",
+        "ts": "1475457789.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "ive always wondered about that for the practicum..",
+        "ts": "1475458134.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "Right now, I think we are going to set up a drive \/ folder for each person and then have an overall S: drive where we will keep finalized versions of code.",
+        "ts": "1475459386.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1L0RBZFH",
+        "text": "Ok thanks! When you say local instances of GitHub running on the server are you talking about the desktop client?",
+        "ts": "1475459712.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "Yes, exactly!",
+        "ts": "1475459799.000014",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L0RBZFH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "<@U1KRQLFLY> I'd be interested in a demo in github if you are kind enough to demonstrate :slightly_smiling_face:.  It's a good thing to know how to do and I'm sure a lot of us will have to use it at some point in our careers.\n\nMy old office used clearcase so personally I'm not completely unfamiliar with how something like github would work, but I still feel like I would get something out of seeing github given how popular it is.",
+        "ts": "1475460698.000015"
+    }
+]

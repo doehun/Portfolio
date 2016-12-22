@@ -1,0 +1,85 @@
+[
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Do we meet in the same spot as usual for the coaching at 1015?",
+        "ts": "1467208765.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Yep",
+        "ts": "1467209012.000003"
+    },
+    {
+        "user": "U1MBURU4D",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1MBURU4D|marc_armbruster> has joined the channel",
+        "ts": "1467214989.000004"
+    },
+    {
+        "user": "U1LK46TUJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1LK46TUJ|taylormikkola> has joined the channel",
+        "ts": "1467219324.000005"
+    },
+    {
+        "user": "U1MDHNYR5",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1MDHNYR5|jordan_pfaff> has joined the channel",
+        "ts": "1467227434.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1L974M70",
+        "text": "What was the exercise LaBar assigned to us in class yesterday?",
+        "ts": "1467232231.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "Chapter 2 Exercise 2",
+        "ts": "1467232437.000008",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L974M70",
+                    "U1KQGK2CB"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U1L2QDX7Y",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L2QDX7Y|semoore9> has joined the channel",
+        "ts": "1467232631.000009"
+    },
+    {
+        "user": "U1KQGRG2F",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KQGRG2F|annabelytics> has joined the channel",
+        "ts": "1467233274.000010"
+    },
+    {
+        "user": "U1KQ9523D",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KQ9523D|lisaholbach> has joined the channel",
+        "ts": "1467239013.000011"
+    },
+    {
+        "user": "U1KQTJ6BV",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KQTJ6BV|andreazadia> has joined the channel",
+        "ts": "1467248035.000012"
+    }
+]

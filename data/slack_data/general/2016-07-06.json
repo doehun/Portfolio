@@ -1,0 +1,75 @@
+[
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Hmm.. Try going to <http:\/\/support.sas.com\/edu\/viewmyelearn.html|support.sas.com\/edu\/viewmyelearn.html> there should be a box to activate a new product, if you enter the code there it will open everything",
+        "ts": "1467810730.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "<@U1LMHQY9E>:  I helped <@U1KRNH021> solve that problem - she's good to go!",
+        "ts": "1467810889.000003"
+    },
+    {
+        "user": "U1P8QBBD1",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1P8QBBD1|shpatel7> has joined the channel",
+        "ts": "1467823608.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "Just wanted to throw it out there to everyone that just got a new NCSU email for coming back to school, that we should qualify for a free six month trial of Amazon Prime Student!",
+        "ts": "1467845622.000005",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1KRZT11T",
+                    "U1KSR1MS4",
+                    "U1L7E8GSU"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRWUXFU",
+                    "U1NUU2U9E",
+                    "U1KRNHQA1",
+                    "U1LLWQ02E"
+                ],
+                "count": 4
+            },
+            {
+                "name": "smiley",
+                "users": [
+                    "U1L7RPG1M",
+                    "U1L8PJY4W"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "Just as Emily said :+1: ",
+        "ts": "1467853405.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "<@U1L6WB44A>: Thanks! Not only that - annual cost is cheaper as well ($49 \/ year instead of the regular $99 \/ year)",
+        "ts": "1467854560.000008"
+    },
+    {
+        "user": "U1PF7HWTF",
+        "text": "<@U1PF7HWTF|nickweimer> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1467859320.000009"
+    }
+]

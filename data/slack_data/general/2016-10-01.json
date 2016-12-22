@@ -1,0 +1,247 @@
+[
+    {
+        "type": "message",
+        "user": "U1L3K1AKD",
+        "text": "Quick question: for business analyst, what is the elearning that we are supposed to study EM 7.1 or 6.2?",
+        "ts": "1475331563.000728"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "<@U1L3K1AKD> At: <https:\/\/support.sas.com\/edu\/schedules.html?id=1860&amp;ctry=IN> it points to \"Statistics 1: Introduction to ANOVA, Regression, and Logistic Regression\" and \"Predictive Modeling Using Logistic Regression (released June 2016)\".",
+        "attachments": [
+            {
+                "title": "SAS Training in India -- SAS Certified Statistical Business Analyst Using SAS 9",
+                "title_link": "https:\/\/support.sas.com\/edu\/schedules.html?id=1860&ctry=IN",
+                "text": "This course is designed for SAS professionals who use SAS\/STAT software to conduct and interpret complex statistical data analysis. It covers analysis of variance, linear and logistic regression, preparing inputs for predictive models, and measuring model performance.",
+                "fallback": "SAS Training in India -- SAS Certified Statistical Business Analyst Using SAS 9",
+                "from_url": "https:\/\/support.sas.com\/edu\/schedules.html?id=1860&ctry=IN",
+                "service_icon": "https:\/\/support.sas.com\/favicon.ico",
+                "service_name": "support.sas.com",
+                "id": 1
+            }
+        ],
+        "ts": "1475332180.000729"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "I know that says india,  but other pages are consistent with that.",
+        "ts": "1475332243.000731"
+    },
+    {
+        "type": "message",
+        "user": "U1L3K1AKD",
+        "text": "Oh really?? haha Thank you <@U1L1D4WG7>",
+        "ts": "1475332253.000732"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Maybe this is a better page for confirmation: <https:\/\/support.sas.com\/certify\/creds\/sba.html#s1=3>",
+        "attachments": [
+            {
+                "title": "SAS Global Certification program",
+                "title_link": "https:\/\/support.sas.com\/certify\/creds\/sba.html#s1=3",
+                "text": "SAS Certification credentials and exams",
+                "fallback": "SAS Global Certification program",
+                "from_url": "https:\/\/support.sas.com\/certify\/creds\/sba.html#s1=3",
+                "service_icon": "https:\/\/support.sas.com\/favicon.ico",
+                "service_name": "support.sas.com",
+                "id": 1
+            }
+        ],
+        "ts": "1475332294.000733",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L3K1AKD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "It lists the same modules. Conner took it yesterday and confirmed these 2 modules.",
+        "ts": "1475332314.000735"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR4JP3",
+        "text": "What are the hours for IAA today? I can't find the email :upside_down_face:",
+        "ts": "1475332791.000736"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "9-12",
+        "ts": "1475332813.000737"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "1st floor only",
+        "ts": "1475332823.000738"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR4JP3",
+        "text": "Thank you! ",
+        "ts": "1475332827.000739",
+        "reactions": [
+            {
+                "name": "wink",
+                "users": [
+                    "U1KQYG6SJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L40P4N9",
+        "text": "I know rose beat me to it... But since I made the effort to screenshot it ",
+        "ts": "1475332909.000741",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L7E8GSU",
+                    "U1KSR4JP3"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "haha",
+        "ts": "1475332926.000742"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1KSR4JP3> the hours are also listed on the MSA google site home page",
+        "ts": "1475333291.000746"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Ya^^^... that page has everything. Bookmark worthy :slightly_smiling_face:  <https:\/\/sites.google.com\/a\/ncsu.edu\/msa-2017\/?pli=1>",
+        "ts": "1475333413.000747",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1KRWUXFU",
+                    "U1NUU2U9E"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSR4JP3",
+        "text": "<@U1L1D4WG7> I\u2019m guilty for not bookmarking the site\u2026.",
+        "ts": "1475333733.000748"
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "Has anyone been able to find where Sarah posted the returned resumes? I can't find it. :confused:",
+        "ts": "1475340647.000749",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRLV1CG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT3UELS",
+        "text": "<@U1KRSV7AN>: navigate to the same place where you submitted it and then scroll to the very bottom, it's kinda hidden down there randomly!",
+        "ts": "1475340766.000750",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRLV1CG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "Oh, the whole scroll down so you can actually see what else is on the page trick...Got it. Thank you!",
+        "ts": "1475340822.000751"
+    },
+    {
+        "type": "message",
+        "user": "U1KT3UELS",
+        "text": "<@U1KRSV7AN>: no problem! Took me forever to find it!",
+        "ts": "1475340903.000752"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "When r we supposed to signup for sessions w her?",
+        "ts": "1475347659.000753"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "<@U1KSBCBFG> Sarah sent out an email on Sept 9 with the signup link",
+        "ts": "1475347794.000754"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "<http:\/\/www.meetme.so\/MSA_Appointments>",
+        "attachments": [
+            {
+                "title": "  BookNow.SO ",
+                "title_link": "http:\/\/www.meetme.so\/MSA_Appointments",
+                "text": "BookNow.SO \u2013 Easily book online | . Please follow the instructions to book online. Thank you.",
+                "fallback": "  BookNow.SO ",
+                "from_url": "http:\/\/www.meetme.so\/MSA_Appointments",
+                "service_icon": "http:\/\/www.meetme.so\/favicon.ico",
+                "service_name": "meetme.so",
+                "id": 1
+            }
+        ],
+        "ts": "1475347820.000755",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L0V1X61"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "Don't think I got that...might have gone to my spam :\/ ",
+        "ts": "1475347853.000757"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "Thank u both!",
+        "ts": "1475347861.000758"
+    }
+]

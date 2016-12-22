@@ -1,0 +1,58 @@
+[
+    {
+        "user": "U1KSL7C10",
+        "text": "<@U1KSL7C10|shoshana> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468668265.000002"
+    },
+    {
+        "user": "U1L4RTKCM",
+        "text": "<@U1L4RTKCM|gheyne> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468674671.000003"
+    },
+    {
+        "user": "U1L41DF9D",
+        "text": "<@U1L41DF9D|cacolli6> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468676029.000004"
+    },
+    {
+        "user": "U1L3G0YRJ",
+        "text": "<@U1L3G0YRJ|emmyburnett> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468677302.000005"
+    },
+    {
+        "user": "U1L0RBZFH",
+        "text": "<@U1L0RBZFH|caroline-hughes> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468682499.000006"
+    },
+    {
+        "user": "U1KS1BFED",
+        "text": "<@U1KS1BFED|doug_nicholson> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468695365.000007"
+    },
+    {
+        "user": "U1KRBFY3Z",
+        "text": "<@U1KRBFY3Z|sylviebrick> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468703141.000008"
+    },
+    {
+        "user": "U1L7ERY77",
+        "text": "<@U1L7ERY77|maxwarburg> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468708154.000009"
+    }
+]

@@ -1,0 +1,151 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "does anyone else purposefully click ads sometimes so companies get charged? :smile:",
+        "ts": "1477488901.000604",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1P8QBBD1",
+                    "U1NUU2U9E",
+                    "U1KRB11QC",
+                    "U1M7AD5L2",
+                    "U1KRLV1CG",
+                    "U1KSBCBFG"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "no never",
+        "ts": "1477492251.000607",
+        "reactions": [
+            {
+                "name": "small_edward_lim",
+                "users": [
+                    "U1N43E3E0",
+                    "U1KQGK2CB",
+                    "U1KRSV7AN",
+                    "U1L3G0YRJ"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "at one of my past companies, we were told to do that to our competitors :japanese_goblin:",
+        "ts": "1477492292.000608"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Lol seriously <@U1KRHCR7T> ?  Seems shady, but I'm not surprised.",
+        "ts": "1477492342.000609"
+    },
+    {
+        "type": "message",
+        "user": "U1MH8UXHD",
+        "text": "gotta have something for the interns to do all day",
+        "ts": "1477492373.000610",
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1KSBCBFG"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Just saw this commercial.  Holy Correlation != causation.",
+        "ts": "1477525212.000611",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1NUU2U9E",
+                    "U1LMHQY9E"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "<https:\/\/www.youtube.com\/watch?v=_182kIOPRvo>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "#FinishIT | Smoking Gap | truth",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=_182kIOPRvo&amp;rel=0&amp;showinfo=0",
+                "author_name": "truthorange",
+                "author_link": "https:\/\/www.youtube.com\/user\/truthorange",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/_182kIOPRvo\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: #FinishIT | Smoking Gap | truth",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/_182kIOPRvo?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=_182kIOPRvo&amp;rel=0&amp;showinfo=0",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1477525213.000612"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "I say this as a non-smoker.",
+        "ts": "1477525667.000614",
+        "reactions": [
+            {
+                "name": "smoking",
+                "users": [
+                    "U1L6YQUSU",
+                    "U2LA4671B",
+                    "U1L1WFNC8",
+                    "U1KQGK2CB"
+                ],
+                "count": 4
+            },
+            {
+                "name": "skull_and_crossbones",
+                "users": [
+                    "U1L6YQUSU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I never got to use the cigarette emoji before, so that was fun.  ",
+        "ts": "1477525802.000615",
+        "reactions": [
+            {
+                "name": "smoking",
+                "users": [
+                    "U2LA4671B"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

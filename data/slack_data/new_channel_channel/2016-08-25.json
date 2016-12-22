@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1KRTHAQZ",
+        "text": "<@U1KRTHAQZ|pranavn20> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472144641.000163"
+    },
+    {
+        "user": "U1M37FW5U",
+        "text": "<@U1M37FW5U|alex_curcio> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472168229.000164"
+    }
+]

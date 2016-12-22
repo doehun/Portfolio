@@ -1,0 +1,28 @@
+[
+    {
+        "user": "U1KRNTXL5",
+        "text": "<@U1KRNTXL5|aprocter> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479158901.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "Does anyone know if we have a machine learning exam?  Dr Race did mention a review session.",
+        "ts": "1479158961.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "I want to say we have two quizzes (the one this Thursday she called a midterm and the second quiz she called a final) and both are online but don't hold me to that :grin: <@U221V3PEY> ",
+        "ts": "1479159822.000015"
+    },
+    {
+        "user": "U1KRE5NKZ",
+        "text": "<@U1KRE5NKZ|laura.sweeney> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479176557.000016"
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "super hypothetical, but if there is no shift in a CCF Plot, but there are say 3 significant spikes, 1 being at 0, then 2 more, would this be indicative of a numerator effect of 2? Or would this be a situation where we wouldn't add this as a transfer function?",
+        "ts": "1476970118.000359"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1LMHQY9E> could you go any more granular with your correlated variable?",
+        "ts": "1476970175.000360"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "not sure i follow",
+        "ts": "1476970246.000361"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "picture or it never happened :slightly_smiling_face:",
+        "ts": "1476970275.000362"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1LMHQY9E>",
+        "ts": "1476970278.000363"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "lol",
+        "ts": "1476970279.000364"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "security",
+        "ts": "1476970358.000366"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1LMHQY9E> you say there is no shift which implies it is happening at the exact same time, not leading or lagging, but could that be because you are looking at months vs. days vs. hours etc.",
+        "ts": "1476970362.000367",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U1NUU2U9E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "ah.. yeah, i can't really get more granular at this point",
+        "ts": "1476970388.000368"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1LMHQY9E> in the book on page 411 (5-35)...looks like it is perfectly correlated",
+        "ts": "1476970891.000370"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1LMHQY9E> sicne there are 2 significant spikes after the big spike, the numerator of 2 seems to be reasonable.",
+        "ts": "1476970949.000371"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "nice. thanks guys!",
+        "ts": "1476970987.000372"
+    },
+    {
+        "type": "message",
+        "user": "U1KRLV1CG",
+        "text": "ummm.... Monet maybe?",
+        "ts": "1477007931.000376"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "That's probably it, <@U1KRLV1CG> .  I heard Monet used SAS as inspiration for his paintings.",
+        "edited": {
+            "user": "U1L6YQUSU",
+            "ts": "1477010461.000000"
+        },
+        "ts": "1477010452.000387",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KRLV1CG",
+                    "U1KRWUXFU",
+                    "U1KT2JJE8",
+                    "U1PN82U67",
+                    "U1KRZT11T",
+                    "U1L0RBZFH"
+                ],
+                "count": 7
+            }
+        ]
+    }
+]

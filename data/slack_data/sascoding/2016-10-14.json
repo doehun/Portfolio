@@ -1,0 +1,46 @@
+[
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "if you want to import text files into sas with delimiters other than a comma, check this article out\n<http:\/\/www.howtogeek.com\/howto\/21456\/export-or-save-excel-files-with-pipe-or-other-delimiters-instead-of-commas\/>",
+        "edited": {
+            "user": "U1KT9ATA5",
+            "ts": "1476456633.000000"
+        },
+        "ts": "1476456585.000264"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1L5GU954> says that tab delimiter in SAS is dlm='09'x in the infile statement",
+        "ts": "1476456627.000266"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "enterprise miner doesn't do sentiment analysis, does it?",
+        "ts": "1476475674.000269"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "tried digging around on google, but sas has so many products that I'm confused",
+        "ts": "1476475686.000270"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "I think it does, but it's an extra package we don't have",
+        "ts": "1476475739.000271",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRE1L9M",
+                    "U1P8QBBD1"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "The ticket request for next week\u2019s home game is open!",
+        "edited": {
+            "user": "U1KRB11QC",
+            "ts": "1473595456.000000"
+        },
+        "ts": "1473595448.000017",
+        "reactions": [
+            {
+                "name": "football",
+                "users": [
+                    "U1KRNHQA1",
+                    "U1LBRCSEA",
+                    "U1L90S3QC",
+                    "U1KSL7L7R"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

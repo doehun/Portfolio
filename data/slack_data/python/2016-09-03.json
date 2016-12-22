@@ -1,0 +1,34 @@
+[
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "Do you need to use a certain program to run it?",
+        "ts": "1472911144.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1M37FW5U>: I just saved it and ran it using my command line! ",
+        "ts": "1472911401.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "Posted another project to work on for anyone who is interested in doing some additional python programming. Will send an email to everyone later today. Check out the project at the bottom of the page : <https:\/\/sites.google.com\/a\/ncsu.edu\/learning-python-for-data-science\/>",
+        "ts": "1472922645.000004",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KRTHAQZ",
+                    "U1P8QBBD1",
+                    "U1KRHCR7T",
+                    "U1KS4UE2F",
+                    "U1L0RBZFH"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "user": "U1KT5F4SZ",
+        "text": "<@U1KT5F4SZ|hannahh> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475073148.000002"
+    },
+    {
+        "user": "U1L2P17DZ",
+        "text": "<@U1L2P17DZ|kailistevens> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475076936.000003"
+    },
+    {
+        "user": "U1MDHNYR5",
+        "text": "<@U1MDHNYR5|jordan_pfaff> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475084170.000004"
+    },
+    {
+        "user": "U1L735VD4",
+        "text": "<@U1L735VD4|nimish_g> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475116728.000005"
+    }
+]

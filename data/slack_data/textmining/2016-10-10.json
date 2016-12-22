@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U1SMADBU4",
+        "text": "<@U1SMADBU4|ajohnst2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476109841.000002"
+    },
+    {
+        "user": "U1L5GU954",
+        "text": "<@U1L5GU954|jrweston> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476126811.000003"
+    },
+    {
+        "user": "U1MDE4NAG",
+        "text": "<@U1MDE4NAG|michaelbyman> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476136831.000004"
+    }
+]

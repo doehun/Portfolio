@@ -1,0 +1,77 @@
+[
+    {
+        "user": "U1M37FW5U",
+        "text": "<@U1M37FW5U|alex_curcio> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474891442.000038"
+    },
+    {
+        "user": "U1L5GU954",
+        "text": "<@U1L5GU954|jrweston> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474899118.000039"
+    },
+    {
+        "user": "U1KS4UE2F",
+        "text": "<@U1KS4UE2F|edward_lim> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474906872.000040"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "Has anyone done the last Questions for Thought? For #7, I am confused when she says 'Above, I went with the simpler model.' Is she referring to #3, where she asked us to leave out serious2 and slogs, as the simpler model?",
+        "ts": "1474922075.000041"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Which elearning modules are useful for our Logistic class? Is it the \"predictive modeling using logistic regression\" or is it the end of the \"intro to ANOVA, regression, and logistic regression portion\". Or is it both.",
+        "ts": "1474922253.000042"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7C10",
+        "text": "<@U1L1D4WG7>: both",
+        "ts": "1474925896.000043"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7C10",
+        "text": "The intro one covers mostly what we went over in boot camp, but also some of what we went over in lr class. In Predictive Modeling, some sections may be more relevant to class topics than others, but all could be on the Business Analyst exam",
+        "ts": "1474926142.000044"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "Both",
+        "ts": "1474928678.000045"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Thanks <@U1KSL7C10> and <@U1KRNH021> :slightly_smiling_face:",
+        "ts": "1474930775.000046"
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "Did Dr Simmons give us an answer key for the previous assessment?",
+        "ts": "1474938065.000047"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1KT2JJE8>: no but it was labarrs test. Has anyone tried asking him?",
+        "ts": "1474938099.000048"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "I mailed her couple of hours ago.",
+        "ts": "1474938930.000049"
+    }
+]

@@ -1,0 +1,232 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "Ok--to be a little more constructive--is the issue just too many files posted or do we have a limit to the amount of text posts also?",
+        "ts": "1477141973.001645"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": " I think we get 5GB of storage for free.  We were at 5.8 last time I looked.  I don't think the posts are the issue.",
+        "ts": "1477143702.001646"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "I have the the fish bowl from 1-6:30 today if anyone needs a place to study ",
+        "ts": "1477144571.001647"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "<@U1KRNTXL5> I don't believe the posts are an issue either",
+        "ts": "1477151195.001662"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "hmm...wonder if deleting inactive channels would help?  They'd have to be ones ppl wouldn't revisit for reference.",
+        "ts": "1477151960.001664"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "In analyzing this kind of issue at a past job that had server storage limits, we typically found ~50 files taking up 50% of the space. Is it possible for slack admins to sort the files by size? I bet there are a bunch of 100MB+ files that are taking a huge chunk.",
+        "edited": {
+            "user": "U1L1D4WG7",
+            "ts": "1477152202.000000"
+        },
+        "ts": "1477152196.001699"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "the problem is that admins cannot see private files",
+        "ts": "1477152212.001701"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "so files in private channels\/direct messages are invisible to me",
+        "ts": "1477152223.001702",
+        "reactions": [
+            {
+                "name": "small_officer_futch",
+                "users": [
+                    "U1L1D4WG7",
+                    "U1L41DF9D"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "<@U1KRNTXL5> I already do that -- I typically go through the list of channels once a month to clear out any channels that have had no activity and won't have any activity (typically, one member of the channel confirms before I do this)",
+        "ts": "1477152290.001703"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "I found a python script to clear out old slack files in public channels so I didn't have to delete them manually. It's currently set to clear out any files that were uploaded more than 20 days ago. I'm going to be running it every weekend from now on.",
+        "ts": "1477152573.001712"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "I'll wait for the stats to refresh on how much space we have left. If we're still 1GB over, I'll shrink the window and see if helps",
+        "ts": "1477152611.001713"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "else, we'll just have to live with being over quota I guess",
+        "ts": "1477152621.001714",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U1KRNTXL5",
+                    "U1KRB11QC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": ":thought_balloon: *Reflections on the Women in Analytics Panel* :thought_balloon:\nAt times, the opinions of the panelists seemed disjointed but one thing was clear. _Sexism is lurking in social norms and undermining our progress towards equality, and also preventing a lot of really talented women from participating and contributing to their full potential._ A few people are content with the status quo but as one of many who is not, here are my goals:\n\n1.    Speak up, politely calling attention to any potentially discriminatory or exclusive behavior\n2.    Not feel shame or guilt if someone calls me out for having an implicit bias\n3.    Keep an awareness of my privilege\n4.    Include female and gender-neutral pronouns in hypotheticals\n\nIf anyone feels like they're being blamed for things they didn't do, consider shifting your focus to what you can do.\n\nI\u2019ll admit that I have a long way to go. Women disproportionately assuming the note-taker role wasn\u2019t on my radar before Thursday. Subconsciously, it felt natural. I\u2019m thankful it was brought to my attention and I'll be mindful going forward.",
+        "ts": "1477155620.001715",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1P8QBBD1",
+                    "U1KS1BFED",
+                    "U1L4RTKCM",
+                    "U1KR9BP0E",
+                    "U1L0V1X61",
+                    "U1KRZT11T",
+                    "U1L1D4WG7",
+                    "U1KRBFY3Z",
+                    "U1M1L5G6L",
+                    "U1L3G0YRJ",
+                    "U1L9DD1NY",
+                    "U1KT3UELS",
+                    "U1L41DF9D",
+                    "U1KQGRG2F",
+                    "U1LAAMJ0M",
+                    "U1NLH1CP8",
+                    "U1KRBJP47",
+                    "U1L40P4N9",
+                    "U1KRLV1CG",
+                    "U1SMADBU4",
+                    "U1L914KNJ",
+                    "U1KSPCE87"
+                ],
+                "count": 22
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1P8QBBD1",
+                    "U1M1L5G6L",
+                    "U1L3G0YRJ",
+                    "U1L9DD1NY",
+                    "U1KQGRG2F",
+                    "U1LMHQY9E",
+                    "U1L40P4N9",
+                    "U1KRLV1CG",
+                    "U1L914KNJ"
+                ],
+                "count": 9
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1P8QBBD1",
+                    "U1L4RTKCM",
+                    "U1KRBFY3Z",
+                    "U1L3G0YRJ",
+                    "U1L9DD1NY",
+                    "U1L6YQUSU",
+                    "U1L40P4N9",
+                    "U1KRLV1CG",
+                    "U1L914KNJ"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Fish bowl is open:tropical_fish::blowfish::fish:",
+        "ts": "1477156051.001717",
+        "reactions": [
+            {
+                "name": "tropical_fish",
+                "users": [
+                    "U1KS4UE2F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "where is the fishbowl? i'm in the grad lounge and got some jerks talking on their cell phones at my table.",
+        "ts": "1477162305.001719"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "their world, i'm just living in it",
+        "ts": "1477162319.001720",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1P8QBBD1",
+                    "U1KT2JJE8",
+                    "U1LDKB3AN"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Across from the staircase on the same floor",
+        "ts": "1477162351.001721"
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "For anyone who missed getting the flu shot the other day I'm gonna drive over to Main Campus during lunch on Tuesday where they are giving them out again and would love company!",
+        "ts": "1477167894.001722",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1N43E3E0",
+                    "U1KRB11QC",
+                    "U1L0RBZFH",
+                    "U1M37FW5U",
+                    "U1KT3UELS",
+                    "U1KSL7L7R",
+                    "U1L1WFNC8",
+                    "U1KRBJP47",
+                    "U1KT2JJE8"
+                ],
+                "count": 9
+            }
+        ]
+    }
+]

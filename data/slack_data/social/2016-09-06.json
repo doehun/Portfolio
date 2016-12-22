@@ -1,0 +1,87 @@
+[
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "Classy drinks after our classy dinner at Fox Liquor Bar for those interested! :cocktail::cocktail:",
+        "ts": "1473190828.000012",
+        "reactions": [
+            {
+                "name": "hugging_face",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1L1WFNC8",
+                    "U1KRMNVGC",
+                    "U1KRNH021",
+                    "U1LBRCSEA"
+                ],
+                "count": 5
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1KQTJ6BV",
+                    "U1M37FW5U"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "That place is so awesome!!!",
+        "ts": "1473191411.000013",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L5GU954"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "This place is amazing ",
+        "ts": "1473204765.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Send a pic! ",
+        "ts": "1473204781.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Lol come join and I won't have to ",
+        "ts": "1473204931.000019",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L5GU954",
+                    "U1KRLV1CG"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "Conner send the picture :) ",
+        "ts": "1473206047.000021",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U1KT9ATA5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

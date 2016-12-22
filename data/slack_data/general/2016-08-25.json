@@ -1,0 +1,311 @@
+[
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "Happy Birthday Dustin! <@U1KSL7L7R>",
+        "ts": "1472126998.000189",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U1KRB11QC",
+                    "U1L914KNJ",
+                    "U1KT9ATA5",
+                    "U1KRBJP47",
+                    "U1KSYP1M5",
+                    "U1KT5F4SZ",
+                    "U1KRNHQA1",
+                    "U1LBRCSEA",
+                    "U1KRSV7AN",
+                    "U1M1L5G6L",
+                    "U1KRQLFLY",
+                    "U1KQYG6SJ",
+                    "U1L2P17DZ",
+                    "U1KRHCR7T",
+                    "U1L415ECD",
+                    "U1KRBFY3Z",
+                    "U1L0V1X61",
+                    "U1KRE1L9M",
+                    "U1KQGK2CB",
+                    "U1SMADBU4",
+                    "U1NUU2U9E",
+                    "U1L6YQUSU",
+                    "U1P8QBBD1",
+                    "U1L9DD1NY",
+                    "U1KSL7L7R",
+                    "U1NDG6ULB"
+                ],
+                "count": 26
+            },
+            {
+                "name": "birthday",
+                "users": [
+                    "U1KSL7L7R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "Gotta sing in class... ",
+        "ts": "1472133369.000190",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1P8QBBD1",
+                    "U1KSL7L7R"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "We sang. <@U1NUU2U9E> ",
+        "ts": "1472133418.000191",
+        "reactions": [
+            {
+                "name": "birthday",
+                "users": [
+                    "U1KSL7L7R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "Someone left a white Bible at my desk (blue cohort, middle, right side of the classroom). It'll be here waiting for you. If you were just trying to drop a hint, I'm always open to chat! :wink::innocent:",
+        "ts": "1472133810.000192",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1P8QBBD1",
+                    "U1L9DD1NY",
+                    "U1L3PU7BJ",
+                    "U1KQYG6SJ",
+                    "U1KR9BP0E",
+                    "U1KT3UELS",
+                    "U1LAAMJ0M",
+                    "U1NUU2U9E",
+                    "U1L735VD4"
+                ],
+                "count": 10
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U1NUU2U9E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "I forgot to send the message earlier - tea is served! :slightly_smiling_face:",
+        "ts": "1472134119.000193"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "I love that singing on people's birthdays is a thing now",
+        "ts": "1472136427.000194",
+        "reactions": [
+            {
+                "name": "birthday",
+                "users": [
+                    "U1KSL7L7R",
+                    "U1NUU2U9E",
+                    "U1KRLV1CG",
+                    "U1SMADBU4"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1L0V1X61> im coming for ya",
+        "ts": "1472136515.000195",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L0V1X61",
+                    "U1L9DD1NY"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "I have heard that some people are having difficulty signing into Eduroam internet connection. You need to download eduroad for you to be able to access it. Go to this website and follow the instructions <https:\/\/net00xpc.comtech.ncsu.edu\/enroll\/NCSU\/Production\/process>",
+        "ts": "1472136653.000196"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Should work for phone too",
+        "ts": "1472136688.000197"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Hey <@U1KRZT11T>  did you talk to Brandon regarding Eduroam issues?  When I spoke with him he said that he changed his mind about Eduroam and was recommending that students just switch to using the NCSU network from now on.",
+        "ts": "1472140559.000198"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "<@U1KRZT11T> <@U1N43E3E0> I had similar eduroam issues and Brandon told me to just use NCSU going forward. He was able to set it up so that I automatically connect to it without having to authenticate each time",
+        "ts": "1472140753.000199"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "ditto",
+        "ts": "1472140778.000200"
+    },
+    {
+        "type": "message",
+        "user": "U1LNGEV0B",
+        "text": "<@U1KRHCR7T>: any idea what Brandon did so you don't have to authenticate each time? Also, can your phone be setup so you don't have to authenticate each time as well? ",
+        "ts": "1472142341.000201"
+    },
+    {
+        "type": "message",
+        "user": "U1PM77VSS",
+        "text": "<https:\/\/sites.google.com\/a\/ncsu.edu\/iaa-it-support\/documentation\/networking\/nomad-device-registration>",
+        "attachments": [
+            {
+                "title": "Nomad Device Registration - IAA IT Support",
+                "title_link": "https:\/\/sites.google.com\/a\/ncsu.edu\/iaa-it-support\/documentation\/networking\/nomad-device-registration",
+                "fallback": "Nomad Device Registration - IAA IT Support",
+                "image_url": "https:\/\/lh6.googleusercontent.com\/nuMY2XSEua1LBA6huQEK2k-UldX4OhGU1qM3rqUQuQC8G3om4KlesoC9bxpVwoFbBHgJkZcYJraJxAwTu7AYD_fJMC4zlqL8funjiFjQqg3kRhvuytqI0NsiNGGYKcyBbw",
+                "from_url": "https:\/\/sites.google.com\/a\/ncsu.edu\/iaa-it-support\/documentation\/networking\/nomad-device-registration",
+                "image_width": 641,
+                "image_height": 250,
+                "image_bytes": 130378,
+                "service_icon": "https:\/\/ssl.gstatic.com\/sites\/p\/c3bda0\/system\/app\/images\/apple-touch-icon.png",
+                "service_name": "sites.google.com",
+                "id": 1
+            }
+        ],
+        "ts": "1472142501.000202"
+    },
+    {
+        "type": "message",
+        "user": "U1PM77VSS",
+        "text": "Here is the link Brandon gave me for NSCU",
+        "ts": "1472142518.000204",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRSV7AN",
+                    "U1LNGEV0B",
+                    "U1NUU2U9E"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LNGEV0B",
+        "text": "Thank you!",
+        "ts": "1472143390.000205"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "Join <#C25143747|imflagfootball> if you want to play intramural flag football",
+        "ts": "1472144495.000206"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "woah <@U1KRNHQA1>  that is out of place",
+        "ts": "1472144550.000207",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1KRNHQA1",
+                    "U1KT9ATA5",
+                    "U1KSBCBFG"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "<@U1LNGEV0B> Yep, the link that Holden posted is what Brandon helped me with. I'm still on eduroam with my phone, and I haven't had any trouble with that.",
+        "ts": "1472144688.000208"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I promise this is the last brewery tour message.  We have 20 people going Saturday and there are about 10 tickets left.  If your plans have changed or want to come along, please check the brewery_tour channel or message me for any info and details.  Friends\/family are welcome as well.  Payment is ahead of time online via the link in that channel.  It runs from about 12:00 - 4:00 this Saturday.  Thanks!",
+        "ts": "1472152272.000209",
+        "reactions": [
+            {
+                "name": "beer",
+                "users": [
+                    "U1N43E3E0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LNGEV0B",
+        "text": "<@U1KRHCR7T>: thanks for the info!",
+        "ts": "1472165538.000210"
+    },
+    {
+        "type": "message",
+        "user": "U1MBURU4D",
+        "text": "<@U1KR9BP0E>: are you still trying to sell your brewery ticket?",
+        "ts": "1472166778.000211"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1MBURU4D> I managed to sell it! :slightly_smiling_face:",
+        "edited": {
+            "user": "U1KR9BP0E",
+            "ts": "1472166869.000000"
+        },
+        "ts": "1472166849.000212"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "John has extra tickets though :point_up_2:",
+        "ts": "1472166898.000214"
+    },
+    {
+        "type": "message",
+        "user": "U1MBURU4D",
+        "text": "<@U1KR9BP0E>: Ok cool. Figured I'd check with you first before I bought another from the website.",
+        "ts": "1472168468.000215"
+    }
+]

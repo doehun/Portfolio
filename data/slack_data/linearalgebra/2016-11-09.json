@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1Q7LP4V9",
+        "text": "<@U1Q7LP4V9|jestover> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1478721466.000002"
+    }
+]

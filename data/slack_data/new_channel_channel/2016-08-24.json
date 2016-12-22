@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U23JW15TP",
+        "text": "<@U23JW15TP|spanago> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472067908.000161"
+    },
+    {
+        "user": "U1L974M70",
+        "text": "<@U1L974M70|brshallo> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472096725.000162"
+    }
+]

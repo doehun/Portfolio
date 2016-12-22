@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U1M7AD5L2",
+        "text": "<@U1M7AD5L2|kelly> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476800215.000002"
+    },
+    {
+        "user": "U1KR9BP0E",
+        "text": "<@U1KR9BP0E|sneha.raghavan> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476800834.000003"
+    },
+    {
+        "user": "U1L974M70",
+        "text": "<@U1L974M70|brshallo> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476830937.000004"
+    }
+]

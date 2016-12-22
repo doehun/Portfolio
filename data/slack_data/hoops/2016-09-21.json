@@ -1,0 +1,96 @@
+[
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "Basketball today?",
+        "ts": "1474490674.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "<@U1MDE4NAG>: I'm in, when? ",
+        "ts": "1474491190.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "I'm planning on playing this evening - 9ish -",
+        "ts": "1474491298.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "<@U1L3PU7BJ>: 5:30?",
+        "ts": "1474492011.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1PF7HWTF",
+        "text": "I'd go at 6",
+        "ts": "1474492025.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "<@U1PF7HWTF>: 5:45? Compromise?",
+        "ts": "1474492050.000007",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRE1L9M",
+                    "U1PF7HWTF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "<@U1KRE1L9M>: does that mean you're in?",
+        "ts": "1474492191.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "yup",
+        "ts": "1474492198.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "Cool",
+        "ts": "1474492364.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "See y'all in 30",
+        "ts": "1474492987.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "Which courts?",
+        "ts": "1474493691.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "I'm on 8 stretching right now",
+        "ts": "1474494161.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "K",
+        "ts": "1474494170.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "Court 2 now ",
+        "ts": "1474494300.000015"
+    }
+]

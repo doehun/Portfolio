@@ -1,0 +1,18 @@
+[
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "<https:\/\/www.facebook.com\/events\/1233384470029403\/>",
+        "ts": "1477568825.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "My girlfriend's friend is hosting this event TONIGHT in order to fund her research! I'll be there tonight to celebrate the ending of this tough week. All are welcome!",
+        "edited": {
+            "user": "U1L3PU7BJ",
+            "ts": "1477568941.000000"
+        },
+        "ts": "1477568862.000012"
+    }
+]

@@ -1,0 +1,144 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "Going bowling later if anyone wants to join! Maybe 4:30ish ",
+        "ts": "1471288729.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "Jk more like 6:30",
+        "ts": "1471289295.000004",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KRE1L9M"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "You going to the alley?",
+        "ts": "1471289770.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "<@U1L7E8GSU>: yeah! ",
+        "ts": "1471291147.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "I live behind it so I'll stop by for a beer! ",
+        "ts": "1471291165.000007",
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U1KRWUXFU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "Sammy's at 5, bowling at 6:30?",
+        "ts": "1471293349.000008",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L5GU954",
+                    "U1KRB11QC",
+                    "U1KT5F4SZ",
+                    "U1L6WB44A"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Yep",
+        "ts": "1471293360.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "Robin and I will be at bowling!",
+        "ts": "1471295428.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "I'll be at bowling a little late, around 6:45 so save me a spot please",
+        "edited": {
+            "user": "U1KT5F4SZ",
+            "ts": "1471299733.000000"
+        },
+        "ts": "1471299721.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1MBURU4D",
+        "text": "The NFL season is only a few weeks away and with it returns one of America's great analytical pastimes - Fantasy football. Appropriately, a few of us are starting a league for the MSA program. If you are interested in having a team, message me by slack or email (<mailto:mjarmbru@ncsu.edu|mjarmbru@ncsu.edu>). Once I know who's in, I'll create a separate channel so we can work out the draft details. ",
+        "ts": "1471300330.000013",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1LAAMJ0M",
+                    "U1KSR1MS4",
+                    "U1L95JP1S",
+                    "U1KT9ATA5"
+                ],
+                "count": 4
+            },
+            {
+                "name": "football",
+                "users": [
+                    "U1MBURU4D",
+                    "U1LAAMJ0M",
+                    "U1L415ECD",
+                    "U1KRNHQA1",
+                    "U1KSR1MS4",
+                    "U1NDG6ULB",
+                    "U1KS1BFED",
+                    "U1KT9ATA5"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "Lane 6! <@U1KT5F4SZ> <@U1KRWUXFU> <@U1L5GU954> ",
+        "ts": "1471300420.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1MBURU4D",
+        "text": "Update: The league is full",
+        "ts": "1471307950.000015",
+        "reactions": [
+            {
+                "name": "hugging_face",
+                "users": [
+                    "U1L95JP1S"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

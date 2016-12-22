@@ -1,0 +1,109 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQTJ6BV",
+        "text": "Anyone wants to play tennis tomorrow after the employer information session?",
+        "ts": "1473959272.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "I have a coaching meeting but I would after that",
+        "ts": "1473960542.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KQTJ6BV",
+        "text": "What time is your coaching meeting? ",
+        "ts": "1473962009.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KQGRG2F",
+        "text": "I would love to meet you guys! Maybe we can get a fourth and play doubles? <@U1KQTJ6BV> <@U1KRZT11T>",
+        "ts": "1473968554.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "2:45-3:30",
+        "ts": "1473968639.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KQGRG2F",
+        "text": "4 sounds good to me",
+        "ts": "1473968701.000007",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRZT11T",
+                    "U1M37FW5U",
+                    "U1KQTJ6BV"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U1KQGRG2F>: <@U1KRZT11T> <@U1KQTJ6BV> I'm in for tennis. It'll be a fun thing to do after class!",
+        "ts": "1473968827.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "I'm in! ",
+        "ts": "1473969284.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KQTJ6BV",
+        "text": "4:00 sounds perfect! See you all tomorrow!",
+        "ts": "1473969290.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1KQGRG2F",
+        "text": "yay! the more the merrier",
+        "ts": "1473969292.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "Any other orange people play tennis?",
+        "ts": "1473969325.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1KQGRG2F",
+        "text": "I can ask some people! where do we play?",
+        "ts": "1473969364.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "the courts by carmichael gym and if those are full then there are other nearby",
+        "ts": "1473969612.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1KQGRG2F",
+        "text": "thanks!!! <@U1KRZT11T>",
+        "ts": "1473969634.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "how many courts are there, Tommy?",
+        "ts": "1473969676.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "12",
+        "ts": "1473969726.000017"
+    }
+]

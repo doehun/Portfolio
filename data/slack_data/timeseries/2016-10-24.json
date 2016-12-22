@@ -1,0 +1,35 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "Anyone know what units our energy use are in?  I'll ask Labarr but wanted to check here first.",
+        "ts": "1477343352.000425"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "\"The metered load data report summarizes the MW-hour net energy for load as consumed by the service territories\"",
+        "ts": "1477350373.000426"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "MegaWatt Hours",
+        "ts": "1477350406.000427"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<@U1KT9ATA5>  - this is the appropriate time for the LaBarr emoji",
+        "ts": "1477350624.000428",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRNTXL5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

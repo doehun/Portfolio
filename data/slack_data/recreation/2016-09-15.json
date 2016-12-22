@@ -1,0 +1,24 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "Soccer Sunday, Miller fields, 5pm (I'll be coming back from a wedding, so I won't be there)",
+        "ts": "1473944375.000013",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRNHQA1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1UR5K88P",
+        "text": "<@U1UR5K88P|roybowman> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1473973071.000014"
+    }
+]

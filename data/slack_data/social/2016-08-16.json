@@ -1,0 +1,108 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Anyone want to grab lunch at noodles and company in Cameron village? ",
+        "ts": "1471363709.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "Yea! Can I still join you?",
+        "ts": "1471365129.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Sorry Sharon I just saw this. I got it to-go instead ",
+        "ts": "1471367180.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "I had no idea Cameron village was so close - pretty psyched to learn that!",
+        "ts": "1471367308.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "Hey all, some of you expressed interest in going to a trampoline park this week.  I was thinking of going to Defy Gravity in Raleigh (<http:\/\/www.defygravity.us\/raleigh\/Pricing>) as opposed to Sky Zone because they're less strict on the rules. It's $14 a ticket for a 1 hour jump and it goes down if we have a larger group.   Like this if you're interested in going this Thursday around 7pm!",
+        "attachments": [
+            {
+                "title": "  DefyGravity Raleigh, NC - Trampoline Park &gt; Pricing ",
+                "title_link": "http:\/\/www.defygravity.us\/raleigh\/Pricing",
+                "text": "DefyGravity Trampoline Park is a cutting-edge entertainment, fitness and sports facility unlike anything you have ever experienced. The first of its kind in the Triangle Region, DefyGravity is the ultimate venue for active social outings, intense individual workouts and memorable birthday parties. Serving Raleigh, Durham, Chapel Hill and all of North Carolina.",
+                "fallback": "  DefyGravity Raleigh, NC - Trampoline Park &gt; Pricing ",
+                "from_url": "http:\/\/www.defygravity.us\/raleigh\/Pricing",
+                "service_icon": "http:\/\/www.defygravity.us\/favicon.ico",
+                "service_name": "defygravity.us",
+                "id": 1
+            }
+        ],
+        "edited": {
+            "user": "U1KRWUXFU",
+            "ts": "1471367770.000000"
+        },
+        "ts": "1471367714.000006",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1KRMNVGC",
+                    "U1L3K1AKD",
+                    "U1KRE1L9M",
+                    "U1LBRCSEA",
+                    "U1KT5F4SZ",
+                    "U1L3G0YRJ",
+                    "U1L41DF9D",
+                    "U1L46HXCJ"
+                ],
+                "count": 8
+            },
+            {
+                "name": "laughing",
+                "users": [
+                    "U1L46HXCJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "You picked a good night, Julia! The website says it's $4 off with a college id on Thursday nights! ",
+        "ts": "1471368521.000010",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1KRWUXFU",
+                    "U1L41DF9D"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I need to get a final count of how many people would do the brewery tour on 8\/27 to see if we have enough to make it go.\n\nPlease email me or message me if you're committing by 11:59 tonight. I need to give them a number by tomorrow.  \n\nIf you're not sure what I'm talking about, check the details in our Google groups message board or ask me.",
+        "ts": "1471372337.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "This Saturday a couple of us are going to Mojito Night at Latin Quarters for salsa\/bachata\/merengue. The fun starts at 10:00pm. Let me know if anyone who's not in the latindance channel wants to join :slightly_smiling_face: :dancer:",
+        "ts": "1471381320.000012",
+        "reactions": [
+            {
+                "name": "raised_hand_with_fingers_splayed::skin-tone-5",
+                "users": [
+                    "U1KQYG6SJ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

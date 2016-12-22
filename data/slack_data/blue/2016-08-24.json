@@ -1,0 +1,64 @@
+[
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "Has anyone found the solution video Dr. Race was going to post? Is it up yet?",
+        "ts": "1472049100.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "I don't think she's posted it yet <@U1L3G0YRJ>. I",
+        "ts": "1472049872.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "I'm going to ask her some questions today so I'll gently remind her :wink:",
+        "ts": "1472049881.000008",
+        "reactions": [
+            {
+                "name": "blush",
+                "users": [
+                    "U1L3G0YRJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "In the beginning of SQL class today, Andrea showed a powerpoint with the breakdown of what Elearnings go with each SAS Certification. Does anyone know what powerpoint that was?",
+        "ts": "1472061075.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "I think she said it was in the \"SAS Certification Process\" from bootcamp!",
+        "ts": "1472061661.000010",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRLV1CG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1LAAMJ0M",
+        "text": "<@U1LAAMJ0M|carlanderson> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472062552.000011"
+    },
+    {
+        "user": "U23JW15TP",
+        "text": "<@U23JW15TP|spanago> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472067323.000012"
+    }
+]

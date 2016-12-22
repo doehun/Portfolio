@@ -1,0 +1,54 @@
+[
+    {
+        "user": "U1KRBJP47",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KRBJP47|marina.burke> has joined the channel",
+        "ts": "1466772382.000002"
+    },
+    {
+        "user": "U1L41DF9D",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L41DF9D|cacolli6> has joined the channel",
+        "ts": "1466793732.000003"
+    },
+    {
+        "user": "U1KQ9523D",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KQ9523D|lisaholbach> has joined the channel",
+        "ts": "1466793858.000004"
+    },
+    {
+        "user": "U1L1D4WG7",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L1D4WG7|edpreble> has joined the channel",
+        "ts": "1466802291.000002"
+    },
+    {
+        "user": "U1L6WB44A",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L6WB44A|ekdoyel> has joined the channel",
+        "ts": "1466803524.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "Congratulations <#C1KR7U5N3|blue> team we made it through the first two days!",
+        "ts": "1466806804.000004",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1KQYG6SJ",
+                    "U1KRNH021",
+                    "U1L1WFNC8"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

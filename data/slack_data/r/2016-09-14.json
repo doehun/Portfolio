@@ -1,0 +1,42 @@
+[
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Several people (including me) need to upgrade R (to 3.3.1, 3.3.0 doesn't work) in order to run the code in Dr. Race's class today. Here is the process for windows (from <http:\/\/stackoverflow.com\/questions\/13656699\/update-r-using-rstudio>): \n1. go to <http:\/\/www.r-project.org>,\n2. click on 'CRAN',\n3. then choose the CRAN site that you like. (there is one at Duke, nice and close)\n4. click on 'Download R for Windows', then click on \"Base\", then download the R 3.3.1 package.\n5. follow the installation procedure for your operating system\n6. restart RStudio - if you type \"version\" in the console, it should now show 3.3.1.\n7. rejoice",
+        "attachments": [
+            {
+                "title": "Update R using RStudio",
+                "title_link": "http:\/\/stackoverflow.com\/questions\/13656699\/update-r-using-rstudio",
+                "text": "This is a basic question, but I could not find the answer anywhere. I am using RStudio with R version 2.15.0, and would like to update to latest R version. How could I do that with RStudio?",
+                "fallback": "Update R using RStudio",
+                "thumb_url": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded&a",
+                "from_url": "http:\/\/stackoverflow.com\/questions\/13656699\/update-r-using-rstudio",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+                "service_name": "stackoverflow.com",
+                "id": 1
+            }
+        ],
+        "edited": {
+            "user": "U1L1D4WG7",
+            "ts": "1473867984.000000"
+        },
+        "ts": "1473865709.000074",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1L974M70"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "You will also need to reinstall your packages  :confused:",
+        "ts": "1473866331.000079"
+    }
+]

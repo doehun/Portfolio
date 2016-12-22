@@ -1,0 +1,54 @@
+[
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "<@U1KRZT11T>  when you signed us up did you pay $?",
+        "ts": "1474633688.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "I didn't sign up yet",
+        "edited": {
+            "user": "U1KRZT11T",
+            "ts": "1474662958.000000"
+        },
+        "ts": "1474652771.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "It's free?",
+        "ts": "1474653127.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "It costs $30 I think but you don't have to pay the same time you register ",
+        "ts": "1474657710.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Oops I lied",
+        "ts": "1474662937.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE5NKZ",
+        "text": "Think it is $40 for a group of 4 and the $30 is for a team of 2",
+        "ts": "1474667246.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "yeah those are the prices I remember seeing",
+        "ts": "1474667292.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "not too bad considering tough mudder is over $200 per person!!",
+        "ts": "1474667380.000019"
+    }
+]

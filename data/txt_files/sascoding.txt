@@ -1,0 +1,1173 @@
+I had a question about the difference between "is null" and "is missing". Seems that they are used interchangeably. Just FYI: <http://stackoverflow.com/questions/33922842/difference-between-missing-and-null-in-sas>
+Since we are supposed to always check the log after running the programs, I found it useful to automatically display the log on top of the output. 
+
+If you use the F8 key to submit programs (instead of hitting the running-stick figure submit button), you can edit that F8 key function to submit *and* display the log on top as follows:
+ 
+(1) Press F9 to display the DM Keys menu
+(2) Change F8 from "submit" to "submit;log"
+(3) then, use F8 to submit your code from the editor window and the log is auto-displayed!  :wink:
+I was thinking of creating some practice problems for the book we just went through to try to learn more about how SAS might try to trick us. Would anyone else be interested in joining me? We could split up the chapters and create a practice test to share with rest of the program. One chapter , 10-15 questions, each... so 8 other people needed.
+I can help
+I can definitely help. There is this really nice freeware testing software online that I have been using to make questions. I’ll send a link out later.
+I can definitely try to help! I might not quite be at the point of writing practice problems yet, but I will tentatively volunteer.
+<@U1KRE1L9M>: <@U1KRZT11T> <@U1KR9BP0E> I posted a test tool to the forum that people can use to add questions and take a practice exam. 
+Thanks <@U1KRB11QC> -- I'll start on questions for chapter 2
+(Questions for chapter 2 done, working on chapter 3 now)
+For those working on creating practice questions, looks like we can only have 50 questions per practice test for free. Chapters 2 and 3 and almost done so ill start opening practice for the other chapters using the same credentials. I'll post to the forum soon. 
+Thanks David! I'll work on some questions for chapters 4-5
+Opened up tests for 4-5 and and 6-7. Accidently mislabeled them in the forum post, but the one that says 1-2 is for 2-3, 3-4 is for 4-5, and 5-6 is for 6-7. I'll update those mistakes when I make the next progress post. 
+thanks!
+I'll jump on 6-7
+I can do 8-9
+are there any chapters not spoken for? I'm in to help!
+10-11 still need to be tackled 
+Great! I'll do 10-11. Thanks <@U1KRB11QC>
+I'll set up a link so you can add questions and will post it to the forum
+Test for chapters 4-5 is now complete! I'd appreciate if someone would take it to see if there are any errors
+Check the forum for a couple of general posts from me, one for your quiz <@U1KRE1L9M> 
+Test for chapters 10-11 is also up if someone wants to check it for accuracy or grammatical errors! I haven't published yet until it is inspected by at least another person! :sleuth_or_spy: <https://testmoz.com/779394>
+is anyone awake for a quick SAS question from chapter 3? i'm confused about something on slide 41- why do we have to specify if first.dept then deptsal=0? The way I'm reading this is that if the observation is the first in that department, set the salary to be =0. But why do we want to set it to 0?
+I'm fairly positive, at least from my understanding, that we initialize it to 0 so that it is not set to missing in the PDV so we can accumulate. If I'm wrong please correct me as I don't have the book in front of me 
+<@U1KR9BP0E>: hey I messaged you what I think the reasoning is 
+thanks <@U1L415ECD>! <@U1KSEJ01W> the answer was simpler than I realized - it's just that deptsal is the running tally for totals by group, so you have to reset it to 0 each time there is a new group so that it can accumulate totals just for that group, and not include totals from the previous group.
+Thanks <@U1KR9BP0E>, makes sense now that I'm looking at the slide you were referring to
+data us_sales au_sales;
+	infile "&amp;path\sales3.dat";
+	input @1 employeeid 6.
+		  @21 lastname $18.
+		  @43 jobtitle $20.;
+	input @10 country $2. @;
+		if country='AU' then
+		input @1 salary dollarx8.
+			  @24 hiredate ddmmyy10.;
+		else if country='US' then 
+		input @1 salary dollar8.
+		      @24 hiredate mmddyy10.;
+	run;
+This is my code for Level 2 for 4-43. It's giving me the incorrect results (I am getting 165 observations for both data sets), does anyone know why or has anyone done this exercise correctly and can help me out?
+I haven't done this, but from reading it there doesn't seem to be anywhere where you've sent output to a specific data set.  
+It reads like it's just going to output to both each time through 
+yes - jut looked at it, and since there is no output statement, there will be an implicit output to both data sets at the end if the iteration
+*jut = just
+High five, Raj.
+:+1:
+Ohhh that makes sense! I need explicit outputs for the data sets. This problem has been tripping me up for awhile...thank y'all so much for the help!
+I just finished the review questions for SAS chapters 8 and 9. They can be found with this link <http://testmoz.com/779392|testmoz.com/779392> with the password MSAtest. If anyone takes it let me know if there are any suggestions.
+I LOVE PROC SQL
+note to self: remember to exclude missing values when you're checking a large table for invalid values :disappointed:
+SAS won't even let me quit the proc
+:sob:
+Hey Rose, I feel you, I've been burned by that a few times.  This doesn't help for all procedures, but especially when using proc print or a select statement in SQL, I try to make a habit of capping the number of observations it will return.  In proc print that is the obs= option. in SQL that is the top option like so: select top 100 * from orion.sales;
+Is anyone else a little lost with the SAS Chapter 10 formats, cntlin and cntlout stuff? That chapter and exercises do not make any sense to me at all. Output isn't given in the answers for problem 1, and it is talking about proc SQL steps that are not there... :confused:
+Ok, so the book chapter is completely -worthless- IMO, but the e-learning for chapter 10 is a bit more reasonable. It's pretty random stuff, but at least it is explained in plain english.
+I was trying to run Dr. L's code to get the tukey-kramer diffograms and the dunnett's control plot, but the control plot doesn't show up when i run the code. Anyone else have this problem? Code below:
+
+/* Post-Hoc Pairwise Comparisons */ 
+* DO NOT GET DUNNETT ADJUSTMENT FROM THIS CODE - TROUBLESHOT WHY;
+ods select lsmeans diff diffplot controlplot;
+proc glm data=bootcamp.ameshousing3 
+         plots(only)=(diffplot(center) controlplot);
+    class Heating_QC;
+    model SalePrice=Heating_QC;
+    lsmeans Heating_QC / pdiff=all 
+                         adjust=tukey;
+    lsmeans Heating_QC / pdiff=control('Average/Typical') 
+                         adjust=dunnett;
+    *format Heating_QC $Heating_QC.;
+    title "Post-Hoc Analysis of ANOVA - Heating Quality as Predictor";
+run;
+quit;
+(ignore my comments above the code, accidentally copied those in too)
+You commented out the format Heating_QC but you are referencing this in your dunnett statement. with ('Average/Typical') If you run the format and then un-comment the format it should work. :slightly_smiling_face:
+I don't think you can put both lsmeans in at the same time
+<@U1KQ9523D>: Got it! That worked, thank you so much, didn't put it together that 'Average/Typical' is a formatted value. Just realized I had that written in my notes too, just didn't process it's effect on the code. Thanks Lisa!
+Whoops haha nevermind 
+<@U1MDE4NAG>: I think you can do both, and SAS will compute it, but in reality you would never run them both at the same time.
+Gotcha, thanks!
+stats question: how does one interpret the breusch-pagan test, for example when the code specifies the fit as:
+fit SalePrice / white breusch=(1 Gr_Liv_Area Basement_Area)
+fit SalePrice / white breusch=(1 Gr_Liv_Area Basement_Area)
+are you asking SAS to tell you whether BOTH those vars have heteroscedastic results?
+(in Dr. L's code, he specifies 3 different fit statements, which is what confused me:
+fit SalePrice / white breusch=(1 Gr_Liv_Area); *
+    fit SalePrice / white breusch=(1 Basement_Area); 
+	fit SalePrice / white breusch=(1 Gr_Liv_Area Basement_Area);
+come on <@U1KRMNVGC>... saw you typing, don't give up on me!
+:sleuth_or_spy::skin-tone-5:
+The third statement in Dr. L's code is also asking to evaluate the interaction of these two variables. Something that the first two statements do not do.
+the third one tests the interaction term
+So to test specific variables under Breusch-Pagan we have to put them all individually as separate fit statements?
+think so ya
+got it, thanks guys
+not  a sas coding question per se - but has anyone found or developed an answer key to the 'material assessment' LaBarr posted for stats?
+for the concept test sneha posted to the forum a link to a SAS assessment folder in google drive that has an answer key! <@U1L914KNJ>
+thanks!
+follow up question - for #9 'What does a 95% confidence interval imply - I was also not sure between b and d. Does someone have a definitive answer on why A is or isn't accurate?
+<http://onlinestatbook.com/2/estimation/confidence.html> This page has a good explanation of why A isn’t right!
+A isn't correct because confidence intervals aren't probabilities of something happening.  They're your confidence in your method 
+This was super confusing to me as well. The way I try to think of it is that we are trying to predict the true population mean with our samples, but the true population mean never changes. If we take 100 samples, then 95% of those intervals should capture the true population mean. For those 95%, answer choice A could kind of make sense, but it is still not a "chance".... For the 5% where we will be wrong answer choice A would def not be correct... When our confidence interval does not actually capture the true population mean, then the population mean is not represented in that interval. Also we will never know the true population mean so we don't know if it is truly represented in our confidence interval. We also don't know the chances of it happening, we are just "confident" in our interval... Hope that makes sense :slightly_smiling_face:
+Either your true mean is in there or it isn't.  
+So A isn't correct at all.
+Dr. L also emphasized that it’s the procedure that we’re confident in, so it’s that actual method we’re using that we’re confident in, not the probability of the mean being in an interval :slightly_smiling_face: basically what Lisa and John said!
+<@U1KQ9523D>: it's not that we have a 95% chance of capturing the mean.  It's that approximately 95% of the intervals we construct should contain the true mean 
+<@U1L6YQUSU>: Thank you! I just edited what I said to make more sense, I remember Dr. Labarr saying that :slightly_smiling_face:
+Has anyone looked at the computing questions yet? I am stumbling on problem 1 sub G which pertains to randomized blocked anova.
+This is what I said:
+"To approach this problem, you would need to “block” off the nuisance factors by running an ANOVA test with blocking. In order to implement this, it would have to be considered when the data was collected. So, each production line would need to be supplied equally by each of the four suppliers. In the ANOVA test, this only manifests itself with the addition of a variable that represents the blocking. This variable helps the model explain more variability instead of the variability due to nuisance factors being contained in the SSE. "
+Would there have to be randomization somehow included in the design to verify the added assumption?
+I don't think Labarr will expect us to get that in depth, but I agree that this example is more difficult to conceptualize.  I think it could be done as you're suggesting, David. Or since the data comes from a 23 hour period, they would just have to make sure that each production line has an equal amount of bottles from each supplier for the day they are collecting the data. This should remove the nuisance factors
+Has anyone posted a computing assessment key?
+Thanks <@U1KRMNVGC>
+so, trivial question: for odds ratios, why do we bother calculating probabilities (when calculating the odds)? Wouldn't we achieve the same results if we simply divided the numbers for the outcomes, since the denominators cancel out?
+eg: 60 yes events, 20 no events: why bother doing the (60/80)/ (20/80), when you can just do (60/20)? Am I missing something?
+<@U1KQYG6SJ>:  You're absolutely right. I think it was more to explain the difference between probability and odds. If you're just calculating odds then its just the ratio between success &amp; failure
+/giphy thank you
+well, that'll do :smile:
+lol
+There isn't a definitive key to the computing assessment. I wrote down the steps I'd take to solve the first two problems. I can upload that here if that would be helpful
+That would be helpful, just to cross reference mine with Simone else's 
+Someone*
+<@U1KQYG6SJ>: <@U1KRTHAQZ>  Someone can correct me if I am wrong , but I don't think that you can  just  simply divided the numbers for the outcomes like you are proposing. This is because the odds won't always have the same denominator.  In the special case that you are referring to, you are correct that you can just cancel out the denominators, but in most cases you have to calculate the two odds to calculate the odds ratio.
+<@U1KRZT11T>: you're right -- I was referring to the odds that go into the ratio, not the calculation of the actual ratio
+for any given group, you'll always have the same denominator
+oh yea sorry i misunderstood you, you are right then
+I'll edit my question so that anyone who reads after doesn't get confused
+In the computing assessment , question 2 , part c, it asks about the plots for the assumptions. The last one is the linearity assumption... which plot/proc would we use for it?
+I don't think this was discussed, unless I missed it. Linearity means that the residuals need to add to zero, so I ran a proc reg to output the residuals, then ran a proc univariate on them to show that the mean is zero. Doesn't really need a chart...
+Same set of code that tests for normality. <@U1NUU2U9E> 
+<@U1L1D4WG7>: that makes sense! Thank you
+I thought I missed something 
+Anyone understand the difference or interpretation of the bruesche-pagan test when you test 1 variable vs 2 together?
+The example code we have (for ameshousing) has 1 BP test for gr_liv_area, then another for basement_area, and then a third for gr_liv_area AND basement_area together.
+The model that is given doesn't have interaction terms (or does it?), so I don't understand why it is done this way.
+<@U1L1D4WG7>: I think Dr L was just using that as an example to show that you could test two at a time using that test. Typically, it would make more sense to only test one variable at a time since you are trying to isolate the effect
+Thanks <@U1KRHCR7T>: That makes much more sense!
+Sure thing!
+<@U1L1D4WG7>: In the breushe pagan test - the last one is testing the interaction between the 2
+Since the example model doesn't have an interaction term, it's not needed. But, if there were an interaction, that is the way to test for heteroscedasticity of the interaction?
+but breusch-pagan is testing for heteroscedasticity. I think there might be better ways to test for an interaction between two variables
+I wrote that ambiguously. I meant to test for heteroscedasticity of the interaction term.
+ah, I see. yeah, I think if there was an interaction term and you wanted to see if that's what was causing the heteroscedasticity, that's how you'd do it
+yes, only if you were trying to see if that interaction term was causing herteroscedasticity since an interaction term itself is counted as a "seperate" variable by the model
+Thanks everyone, Hopefully our models will be on the "simple" side tomorrow and the BP tests will be simple also.
+From what I've been told, he will tell us exactly what we need to do so that we don't do more than what we need to. I believe it will be very similar to the practice exams. But I sure agree with your points.
+hmm... <@U1L1D4WG7> <@U1KRHCR7T> <@U1L41DF9D> I'm not sure that we're testing an interaction term in that last statement
+I think we're testing both of them at once
+(basically like the way we do for White, where the result will tell us if at least one is heteroskedastic)
+if you wanted to test for interaction, you'd have to put the interaction term in there, like a*b
+the part where he talks about this is in the video for day 7, part 2, around the 20 minute mark
+<@U1KQYG6SJ>: Looking at it again, I think you're right.
+so then why have 3 fit statements instead of just the last one or just the 1st two? <@U1KQYG6SJ>  <@U1L1D4WG7> <@U1KRHCR7T>
+Just for demo purposes
+To see what it looks like for each of them, and to see sample results for when you have two variables in there 
+In general though, you'd be listing them out one by one
+Ahhh I see!! And that makes sense!
+Thank you, <@U1KQYG6SJ>
+:slightly_smiling_face:
+<@U1L41DF9D>: I think in practice we would need 1 fit statement for each variable/interaction in the model in order to test BP properly. I noticed that white doesn't change in any of the 3 tests, so it is truly "general". The class example has 7 variables, so it really needs 7 BP fit statements I think.
+What <@U1KQYG6SJ> said :slightly_smiling_face:
+ <@U1L1D4WG7> <@U1NUU2U9E>: also, regarding your question for the linearity assumption. Yes, it does mean that the residuals have mean 0, but that will usually always be the case when linear regression is run. I think in this problem, Dr. Labarr is talking also about the linearity in the residual plot so can this be captured with a linear model. If it is not, you could have the problem of a misspecified model, so you might have to add higher order terms. For example, if the residual plots appear to have a quadratic shape, then you would want to square one or more of your predictor variables in order to capture the true relationship between your x variables and y. See in the regression extensions and diagnostics section around slide 26!
+^^^ Correct me if I am wrong on this though
+<@U1KSYP1M5>: You're right. You want a plot of the residuals to seemingly appear randomly distributed--if there is an obvious pattern to the residuals, it is likely that a linear model is not the correct model
+Thanks <@U1KSYP1M5> and <@U1KRE1L9M> . <@U1NUU2U9E> This makes more sense than what I wrote!
+That makes sense :) thanks everyone!
+Also, I have a question regarding logistic regression. Is it possible to interpret the intercept in multiple logistic regression when you are using reference coding? I know how to interpret when you are only using one variable - say income for example- it would be the value of the logit of the reference variable- but how would you interpret the intercept when you have two predictors - like level of experience and income or something like that? Would it be the value of the logit of the 2 reference variables combined? 
+^think I'm overthinking this but just wanna make sure Dr. Labarr didn't go over it 
+I actually talked to labarr about this. He said once there's two variables, the intercept loses interpretation. But the intercept itself is obviously still affected by the addition of another variable 
+Okay great thanks <@U1KRMNVGC> ! 
+And just to follow up, when you are using effects coding with multiple logistic regression, the intercept is still just the value of the logit of the average across all variables or does that lose interpretation as well? 
+Good question. That sounds right, but could anyone else verify?
+<@U1KRMNVGC>: <@U1KSYP1M5>: I'm pretty sure that's right
+What does it mean in the computing assessment, question 3B when it asks "is an exact assessment needed for this data set"?
+<@U1L1D4WG7>: The Pearson chi square test &amp; the likelihood chi square test are general tests. They wanna know if an exact test like the mantel haenszel test is needed. 
+Gotcha. Thanks <@U1KRTHAQZ> !
+<@U1L1D4WG7>: No problem! 
+Zip Code  Centroids in SAS: Open Sas, in Explorer window, Libraries--&gt;Sashelp--&gt;Zipcode. Second and third columns are latitude and longitude of centroids.
+Does anyone know how to resolve this error in SAS? "The SAS system stopped processing this step because of insufficient memory." Help! :see_no_evil:
+Are you in the library by any chance <@U1MDE4NAG> ?
+No, I'm on my laptop at home <@U1L6YQUSU> 
+Consider restarting SAS, clearing your log and results Windows, 
+Are you running regressions?  Or just general data steps? 
+I've done all of those things. It keeps giving me errors on model procs like PROC logistic
+All I can think is perhaps you're analyzing too many variables?  A library computer might be helpful in that case.  If your machine is the issue, I'm not sure what you can do.  :confused:
+It's been running bigger models than this today, but now it won't. Thanks anyway
+I was getting the same error message earlier today, and it was because I was trying to run plots with my models. I restarted my machine, didn't run any plots, and it has worked fine so far
+Still not working, thanks though
+Has anyone started on the Base SAS Prep Guide? I'm currently working through SAS Book 1 and am wondering if I should just switch over to the Prep Guide. How thorough is it compared to the books?
+<@U1L3PU7BJ>: i don't think the prep book is as thorough, but i think it's more relevant to what we will see on the test. the programming book focuses more on exercises
+Fun fact: a half byte is called a nibble :information_desk_person::skin-tone-3:
+For those studying for the SAS Certification - I have updated the MSA site with the latest links with resources here: <https://sites.google.com/a/ncsu.edu/msa-2017/home/practice>
+If you all have additional tips, please let me know and I will update the site - let's help each other be successful! :slightly_smiling_face:
+Could anyone help me understand the answer to this question from the blog?
+The following SAS program is submitted:
+data work.test;
+First = 'Ipswich, England';
+City = substr(First,1,7);
+City_Country = City!!', '!!'England';
+run;
+Which one of the following is the value of the variable CITY_COUNTRY in the output data set?
+A. Ipswich!!
+B. Ipswich, England
+C. Ipswich, 'England'
+D. Ipswich , England
+The correct answer is B but I feel like it should be D because City should have trailing blanks
+Why do you think it should have trailing blanks?
+Because the substr function is supposed to return a result with the same length as the input string (First)
+Right?
+The 7 tells it to read 7 characters.  The length of city is longer (as you would see it in proc contents).
+But it's not using all that space 
+It's character with length 16 I believe if I counted right 
+Okay got it. I was thinking that if a variable length was longer than the variable it would be automatically be padded with trailing blanks
+I do think there are situations where padding blanks happens, but this isn't one.  
+That makes sense, thanks John!
+Anytime 
+I think what John is saying makes sense but I just ran the code from the question in SAS and printed the output and you get Answer D so now I'm really confused. Does anyone know how the spaces affect it? 
+What number is this?
+48 
+I just ran it and also got a space.  The space might come from the concatenation function 
+Yeah that's what I'm wondering too
+If you do proc contents though the city variable you create is length 16
+So if one of the spaces stays why don't all the spaces 
+Nailed that part!
+I don't get why it keeps one trailing blank instead of all of them 
+Or none 
+I don't think it's keeping blanks.  I think it's adding one during the concatenation maybe?
+If you proc print, the value of "first" seems to be only Ipswich 
+In fact, I added this line of code:
+Dummy=length(first)
+
+It verifies that first has length 7, so no spaces 
+I'm playing around and I think it might be adding 9 blanks to First to make the length 16 when it concatenates. 
+I now think the answer is "none of the above."  Since it does pad the variable, I'm getting:
+Ipswich          , England
+Which is none of the answers.  Maybe D is supposed to represent the extra spaces?
+
+That's what it looks like in the data set but with proc print mine came out like D
+this question is terrible lol im trying to figure it out too and B doesnt make sense when you run proc print or look in the dataset. Even though I initially answered B now im confused haha
+Agreed.  Let's ask Andrea Thursday.
+From how I understood it the padding issue only occurs when a numeric is implicitly converted (without the put function).  Concatenating character variables to each other shouldn't trigger any padding issues.
+It might be hard to see  but ', ' contains a space.  I'm pretty sure that's where the one blank space is coming from in the answer.
+<@U1N43E3E0>: did you run the program and print the data?  I know the second space is the one following the comma, but there's a space in front of the comma we're trying to solve.  Also, here's a picture of my print out 
+I'm confused, the correct answer is B right?  That is the answer I get running the code.
+It says B in the solutions but that is the option for D
+No I guess you're right, I was looking at first
+Changing the code to this fixes the issue.  You guys can win an award to calling at SAS on their bad practice test. :slightly_smiling_face:
+data work.test;
+length city $7.;
+First = 'Ipswich, England';
+City = substr(First,1,7);
+City_Country = City!!', '!!'England';
+run;
+
+proc print data= test; run;
+Can anyone help me on SAS Base 81 from the blog? A raw data file is listed below:
+--------10-------20-------30
+John McCloskey 35 71
+June Rosesette 10 43
+Tineke Jones 9 37
+The following SAS program is submitted using the raw data file as input:
+data work.homework;
+infile 'file-specification';
+input name $ age height;
+if age LE 10;
+run;
+How many observations will the WORK.HOMEWORK data set contain?
+A. 0
+B. 2
+C. 3
+D. No data set is created as the program fails to execute due to errors.
+It reads in all 3 observations.  When character data is present for a numeric input, it just records as missing.
+From the SAS website on IF Statements it says: "If the expression is false (its value is 0 or missing), no further statements are processed for that observation or record, the current observation is not written to the data set, and the remaining program statements in the DATA step are not executed. "
+That's what I thought too John, but after I read about subsetting IF statements I'm not sure anymore. From that, it sounds like since it's a missing value, SAS would read it as false and not write the observation to the data set
+I ran the program and got all 3 observations.  
+Since age is missing, it's also less than 10, so it still reads
+Missing values are less than everything 
+Oh okay, that makes sense. Thanks John!
+No problem
+If anyone wants to be a SAS study nerd in the library with me now's your chance. :nerd_face:
+Has anyone taken a look at blog question 44?  Not understanding how the answer is D, I get C when I run the code.  Below is the exact question for reference.
+<http://sascert.blogspot.com/2006/12/base-sas_116656383956117470.html#comment-form>
+I'm getting a length of 15 as well from the proc contents 
+The SAS reference material says that if you use scan and the variable hasn't been assigned a length, then it defaults to 200
+But I'm also getting 15 when I run the code 
+I think this might have been the case where there's a different between the versions of SAS
+I think it's only the most recent one (what we use) where the assigned length is based on the data inputted, previously it was automatically assigned 200
+The length of the created variable is the length of the first argument starting in SAS release 9.4 with the scan function
+I'm with <@U1KT5F4SZ>  I think it's a version issue 
+Yep, <@U1KT5F4SZ> is correct. Before SAS 9.4, it was 200.
+Andrea said that the test has 200 as the answer I'm pretty sure because its based on the version before what we have
+So....we should answer based on older versions?
+The exam is based on 9.4
+<https://support.sas.com/certify/creds/bp.html>
+I meant the test questions online, that's why that answer isn't what we think it is.  Dustin is right about our test
+So the real answer is C. 
+So for both scan and substr the length of the new variable is equal to the length of the input? 
+It looks that way since they're both in there and it came out to 15.
+That's correct <@U1KRNHQA1>
+Has anyone come across other big differences in the versions that would be important to know? 
+Thanks Hannah and Dustin.  I figured that's what it was but didn't want to jump that.  Do you think it would be a good idea to  shoot an email to Andrea? I assume she'd want to update her answer key if this is truly the case.
+I think we should clarify it all with here tomorrow at the study session. Then everyone will know what's up
+Okay,  I'll remember to bring this one up during tomorrow's review.
+The SAS website says we need two forms of ID for the exam, is that true?
+I'm hoping they'll vouch for us.  My guess is that's for testing sites.  <@U1XCJ1X4H> will know 
+Found these on Quizlet if anyone has the app, someone created/posted from the analytics program last year for the base SAS exam : <https://quizlet.com/89677583/ncsu-analytics-base-sas-flashcards-flash-cards/> 
+You only need your license or student ID. You DO NOT need two forms of ID.
+Thanks <@U1XCJ1X4H> !! 
+USE THE FORUM PEOPLE :joy:
+(if you want answers from Andrea)
+Is anyone working on the prep guide currently/has worked their way through the quizzes already? I was confused by Q2 on the Chapter 9 Quiz: 
+If ODS is set to its default settings in the SAS windowing environment for Microsoft
+Windows and UNIX, , what types of output are created by the code below?
+ods html file='c:\myhtml.htm';
+ods pdf file='c:\mypdf.pdf';
+a. HTML and PDF
+b. PDF only
+c. HTML, PDF, and listing
+d. No output is created because ODS is closed by default.
+
+Correct answer: b
+HTML output is created by default in the SAS windowing environment for
+Microsoft Windows and UNIX, so these statements create HTML and PDF output.
+The answer describes Option A, but then says the correct answer is Option B. Am I missing something?
+One of the answers in chapter nine is wrong. It's in the corrections that SAS posted. Sorry, but I don't have them in front of me right now to verify which one it is, but if you can track down the corrections, it is in there.
+Got it, thanks a bunch <@U1L1D4WG7>!
+It's the only chapter quiz with a mistake.
+Anyone worked on the Chapter 12 quiz in the prep book yet? In question 2, why is option D not a correct answer? Wouldn't it provide the exact same output?
+I think D has a merge and it would have problems because the datasets have prop in common, not just actor! So the set and merge wouldn't do the same thing!
+Yes, <@U1L6WB44A>  this is correct. The Merge statement would cause the prop variable of actors.props2 to overwrite the prop variable of Actors.props1.
+Oh I get it. So in option D if they specified "by actor prop" then the result would be identical as the result of option C? 
+Yes, agree with <@U1L6WB44A> and <@U1KRLV1CG>. Interleaving is the same as concatenating, but it also puts the observations in order. In a merge, you'd end up with just one value of Prop for each actor.
+Just wanted you guys to know that if you include "Prop" in the "By" statement as <@U1KR9BP0E> suggested, you actually won't get the same output as option C.
+<@U1L6YQUSU>: what's the difference in that case? 
+"Pliers" comes alphabetically before "Poker."  When SAS realizes the actor name is the same, it will use prop to decide the next entry.
+Interleaving just picks the first data set entry because it's listed first.
+That's why the answer appears the way it does for "C"
+<@U1L6YQUSU>: thanks, I get it now. :+1::skin-tone-4:
+No problem.  I'm still keeping an eye on this channel even though my test is over.  I'll be glad to help when I can.
+So now your advice is certified! :tada: 
+Yes, technically you're receiving Certified Advice.
+Hello all - is anyone else having issues getting to the blog questions? I have been struggling with this for the past 15 mins or so... just want to make sure that I am going to the right page...
+Yo yo yo
+<http://sascert.blogspot.com/> -&gt; then following the link for Sample Test at the bottom of the table - is that right?
+I went to the site and clicked on the 2006 link
+oh ok - got it...
+Actually, the drop arrow for 2006 then has 2 links, each with some of the questions
+The 2006 link only gives you 50 questions.
+The 12/17 link has the first 98, then the 12/10 link has 22 more. It's a bit ridiculously organized imho Lol
+Yea - but I will take it - need all the practice I can get! :slightly_smiling_face:
+The blog questions are really good ones. Definitely worth doing.
+<@U1L1D4WG7>: i remember Andrea was saying that we shouldn't look at the comments since they might be wrong... are the answers on moodle?
+I think they are here; <https://www.google.com/url?q=https%3A%2F%2Fmoodle-courses1617.wolfware.ncsu.edu%2Fmod%2Fresource%2Fview.php%3Fid%3D128128&amp;sa=D&amp;sntz=1&amp;usg=AFrqEzeN93z2qRCGqLAWRpvUMkjz-pqvAA>
+I hope that long link works for you :slightly_smiling_face:
+<@U1NUU2U9E> that is definitely correct, the comments are very misleading. Andreas answers are the way to go.
+<@U1L0V1X61>: it did! thank you! it has the answers to 120 questions.... i assume these are the 120 questions that we can find under the 2006 archive on the <http://sascert.blogspot.com|sascert.blogspot.com>?
+<@U1NUU2U9E>: that is correct :-)
+I haven't checked, so not sure... When I finish up the questions, I will check with answers, and let you know... unless Ed can get to it first
+:smile:
+I went through them yesterday. There are a couple duplicates, and question 26 is listed somewhere completely out of order, but the questions and Andrea's answers are AOK. Lots of tricky ones in there that are good to practice.
+<@U1L1D4WG7>: thank you. Started going through them now... they are tricky
+From Daniel's test (word doc file) - can anyone explain why the answer for this is 7?
+40.The following SAS program is submitted:
+ 
+ data WORK.PRODUCTS;
+   Prod=1;
+   do while(Prod LE 6); 
+     Prod + 1;
+   end;
+ run; 
+ 
+What is the value of the variable Prod in the output data set?
+
+     A. 6 
+     B. 7 
+     C. 8 
+     D. . (missing numeric)
+The loop repeats as long as product is less than or equal to 6.  As you add one to prod each time, you eventually reach six.  Then the loop does its last run through and changes prod to 7, at which point it stops since prod is no longer less than or equal to 6
+But I thought 7 doesn't get written into the output dataset, and was just in the PDV? Is that wrong?
+Prod would get written into the dataset unless you drop I
+It
+I could have sworn I did a similar question somewhere where it said in this situation, it would load 7 into the PDV but since the condition isn't met, it doesn't output. I'll have to find it to see what was different about it/why I'm confused.
+Thanks <@U1L6YQUSU>!
+I just plugged it into SAS. Definitely 7. There is only one output at the end, so it does get incremented before exiting the loop.
+OH wait I get it. You're saying since the final condition is Prod LE 6, it loads 6 and then adds  to get 7.
+Sorry I was getting confused. I get it now, thanks <@U1L6YQUSU> and <@U1L1D4WG7>
+For those of you studying for SAS certification, and have been feeling closed off from the world :slightly_smiling_face: , Flor and I will be in the graduate student lounge starting from around 10am today. Stop by if you want to chat about the practice tests...
+Could someone help me with questing from the blog - Base SAS 100
+so the correct answer is C... im trying to understand why... do we need to specify "by fname descending" in the merge as well?
+The merge statement merges it by ascending fname but they're sorted by descending fname, so it doesn't match up
+but the merge is not supposed to sort, right?
+Sorry, I mistyped 
+oh, i see... thanks!
+I edited it. Sorry for the confusion! But yeah, the data sets still have to be sorted by what it merges by 
+could we then just specify "by fname descending" in the merge?
+It would have to be "by descending fname" because descending comes before the variable name, but yes, that should work
+awesome, thanks a lot!!
+I have not found any issues, but are all the answers to the Daniel's practice questions correct?
+I think 29 on SAS base 70 might be wrong
+Has anyone else done all the blog questions/Daniels questions and found themselves over thinking and making silly mistakes on the elearning practice exam? I expected the elearning exam to be much more difficult than it was and made a lot of stupid mistakes where I over thought some of the questions. Does anyone know what might be the difficulty level of the real exam?
+Anyone know why that's D?
+Scan has a default length of 200 in 9.3. But I saw today that 9.4 says scan has a default length of the variable that is being scanned. 
+I was going to ask about this question tomorrow in the review session 
+<@U1KRTHAQZ>: I am having the same issue with overthinking/poor performance on practice tests but multiple have told me they did a lot better on the real exam
+Oh okay thanks <@U1KRMNVGC> 
+<@U1L9DD1NY>: rose and I tested question 76 in SAS and it said 15
+So I think it should be C
+Scan and substring have default lengths of the variables they're searching in SAS 9.4
+<@U1M1L5G6L>: Andrea said during the review session that it should be 2
+So the answer should be B, not A
+Definitely ask her in the review, but play around with it yourself as well and see
+Thanks guys! :relaxed:
+anyone understand what the syntax error is on the blog question 9 (answer is B):
+
+The following SAS program is submitted:
+data work.totalsales;
+set work.monthlysales(keep = year product sales);
+retain monthsales {12} ;
+array monthsales {12} ;
+do i = 1 to 12;
+monthsales{i} = sales;
+end;
+cnt + 1;
+monthsales{cnt} = sales;
+run;
+The data set named WORK.MONTHLYSALES has one observation per month for each of five years for a total of 60 observations.
+Which one of the following is the result of the above program?
+A. The program fails execution due to data errors.
+B. The program fails execution due to syntax errors.
+C. The program runs with warnings and creates the WORK.TOTALSALES data set with 60 observations.
+D. The program runs without errors or warnings and creates the WORK.TOTALSALES data set with 60 observations.Click Comment link to get answer
+You can't retain an array
+or more accurately it's redundant to use the retain statement because array element values are always automatically retained
+got it. thanks <@U1MBURU4D> !
+I get why b is the right answer but why isn't d correct as well 
+I don't have my computer in front of me, but I think the period after the 11 is a problem 
+Don't you need a colon if you're defining length/any kind of format in the input statement?
+(I haven't hit that chapter yet)
+I thought that was for nonstandard data
+Yeah I believe that's only for nonstandard too <@U1L9DD1NY> <@U1KQYG6SJ> 
+It's nonstandard data or variables that have a length longer than 8 for modified list input. 
+Ohhhh 
+So I think rose is right. Good catch 
+Oh I hadn't realised that either. Thanks <@U1KRMNVGC> 
+Thanks!!
+Without the colon, do you end up reading 11 characters for each value of first name?
+Or does it just yell at you?
+I think it'd be a syntax error 
+Gotcha 
+Question 50 from blog: Anyone know why the answer for this is A and not B? I picked B because sum statements add regardless of missing values:
+
+A raw data file is listed below:
+--------10-------20-------30
+1901 2
+1905 1
+1910 6
+1925 .
+1941 1
+The following SAS program is submitted and references the raw data file above:
+data coins;
+infile 'file-specification';
+input year quantity;
+
+run;
+Which one of the following completes the program and produces a non-missing value for the variable TOTQUANTITY in the last
+observation of the output data set?
+A. totquantity + quantity;
+B. totquantity = sum(totquantity + quantity);
+C. totquantity 0;
+sum totquantity;
+D. retain totquantity 0;
+totquantity = totquantity + quantity;
+Click Comment link to get answer
+A also ignores missing values 
+It's not B because SAS will add totquantity and quantity first 
+And since totquantity is missing, you'll get a missing value.
+If it wasn't a plus, but rather a comma, then you'd be ok
+Ah, I see. Is the problem with D that it wouldn't ignore the missing value? Or that there's a retain statement without a sum statement?
+Totquantity=sum(totquantity, quantity) 
+That should work, but not with the plus 
+Shouldn't it be retain totquantity=0? 
+In order to make D correct? 
+ <@U1KSR4JP3> you dont need the equals 
+Okay! Thank you! <@U1KRTHAQZ> 
+D won't ever be correct because there's a missing value in the data 
+OK, got it. Thanks all.
+So when it hits that missing value, the assignment statement will result in a missing value 
+<@U1KSR4JP3>: 
+<@U1KRMNVGC>: update on that question (and <@U1L9DD1NY> and <@U1KR9BP0E>) -- without the colon, it will read however many characters you specified as that one variable (vs. an error)
+I was testing out another question and realized this
+<@U1KQYG6SJ>: could you explain why D wasn't correct? 
+for MJ's question?
+Yeah
+D doesn't properly read the data -- instead of assigning a length such that up to 11 characters will fit into that variable, it's saying that there _should_ be 11 characters in that variable
+to properly read the data without a length statement, you need a colon, since you want &gt; 8 chars
+this is related to a different question but will show the same thing:
+```data group;
+	input name $15. age 2.;
+	put name $15. age 2.;
+	datalines;
+	Janice 10
+	Henri 11
+	Michael 11
+	Susan 12
+	;
+run;```
+<@U1KQYG6SJ>: ohhhh I see the difference. Thanks for explanation! 
+*the
+When / where is the review tomorrow?? 
+10am Bodie
+Lol thank u John 
+:+1:
+A few of us were talking about length of variables in the library yesterday, and I thought the concatenation discussion was worth looking up... here is what I found... CATS, CATX, CAT all make the variable length=200. However concatenating with the || option (e.g. CatOper = "1"||"2";) assigns a length that is the total of the things concatenated, 2 in this case.
+I assume CATT is the same as the other ones, <@U1L1D4WG7> ?
+Yes,  just checked that one too. CATT length is 200.
+This is the paper Joy is talking about that explains merging: <http://www2.sas.com/proceedings/sugi22/ADVTUTOR/PAPER39.PDF>
+tried to test the code of answer C in SAS and it gives an error on OPTION... wrong answer?
+Dlm goes in the infile statement without the word "option"
+So C is the closest answer, but I don't think any of them are correct 
+Perhaps you can have dlm as a global option?
+So B would be the closest, if that is the case
+I don't think it's a global option 
+nope - just tried that in SAS... you cannot use dlm as a global
+sorry - no idea on this one...
+must be a wrong answer
+I agree with <@U1LBRCSEA> 
+thanks! i thought i was missing something...
+Are we able to move back and forth between questions on the exam?
+I think you can, yeah
+You can <@U1KQYG6SJ> 
+John, what would we do without you?
+I don't even want to think about that. 
+Can anyone help me out in understanding how the third when statement is also met. There is no month so it is only the second when statement right. 
+I'm not sure I understand your question.  
+I think I do... the when statement doesn't have to be exhaustively true
+anything that satisfies the second statement (or even the first) will also satisfy the third
+since it has to be "bear" to satisfy those previous ones
+Thanks <@U1KQYG6SJ> 
+But it won't ever get to the 3rd one if it satisfies one of the first two.
+I finished all the questions and quizzes and trying to take the Practice Exam on sas' website... do i need to have some type of code to get it? asks for $55 :disappointed:
+<@U1NUU2U9E>: did you ever do the elearnings? its the same code you need to access that
+yeah, i had the access to elearnings... let me see if i still do :slightly_smiling_face:
+once you log into the elearning section you'll see a practice test in that list
+that's the practice test
+<@U1KR9BP0E>:  thank you... i didn't see that before :flushed:
+in case anyone is wondering (random thing I decided to test out), if you're replacing with substring, and specify fewer characters than needed, it pads with blanks
+eg: substr(name, 1, 3) = "ab"; will sub "ab " (space at end)
+Hi all, can anyone help me with this question? It comes from one of the tests Edward sent out.
+
+29.The following SAS program is sumbitted:
+ 
+  data <http://WORK.INFO|WORK.INFO>;
+     infile 'DATAFILE.TXT';
+     input @1 Company $20. @25 State $2. @;
+     if State=' ' then input @30 Year;
+     else input @30 City Year; 
+     input NumEmployees;
+  run;
+ 
+How many raw data records are read during each iteration of the DATA step?
+Yo yo yo
+I could swear the answer would be 2 because of the last input statement, but it says the answer is 1. :confused:
+<@U1KRSV7AN>: at the review session last week, Andrea said it should be 2
+Boom. #validated
+Thanks <@U1KQYG6SJ> :slightly_smiling_face:
+lol
+I don't think I can go back to using SAS without disdain after this test...
+Agreed. I thought about keeping a log of my complaints about its inconsistencies. And then I realized I'd be keeping a log. Like SAS. What have I become?
+this giphy correctly captures my current state of mind while studying, and also the exasperation that Rose stated...
+Question. In the following question the correct answer is C - my question is why does it not include 'track' as the 'fname' of the third observation? Why does it just stop after Observation 2?
+
+31. Given the following raw data records in DATAFILE.TXT:
+ 
+  ----|----10---|----20---|----30
+  Kim,Basketball,Golf,Tennis
+  Bill,Football
+  Tracy,Soccer,Track 
+ 
+The following program is submitted:
+ 
+  data WORK.SPORTS_INFO;
+     length Fname Sport1-Sport3 $ 10;
+     infile 'DATAFILE.TXT' dlm=',';
+     input Fname $ Sport1 $ Sport2 $ Sport3 $;
+  run;
+ 
+  proc print data=WORK.SPORTS_INFO;
+  run;
+ 
+Which output is correct based on the submitted program? 
+
+        A.
+ Obs    Fname    Sport1        Sport2    Sport3
+ 
+ 1     Kim      Basketball    Golf      Tennis
+ 2     Bill     Football
+ 3     Tracy    Soccer        Track
+ 
+     B.
+ Obs    Fname    Sport1        Sport2    Sport3
+ 
+ 1     Kim      Basketball    Golf      Tennis
+ 2     Bill     Football      Football  Football 
+ 3     Tracy    Soccer        Track     Track
+ 
+     C.
+ Obs    Fname    Sport1        Sport2    Sport3
+ 
+ 1     Kim      Basketball    Golf      Tennis
+ 2     Bill     Football      Tracy     Soccer
+ 
+     D.
+ Obs    Fname    Sport1        Sport2    Sport3
+ 
+ 1     Kim      Basketball    Golf      Tennis
+ 2     Bill     Football
+Once it reads in "soccer", it advances to the next record since there's nothing to hold it on that line.  And when it advances, it hits the end of file, so it's done.
+Oooohhh
+So if there were other lines after that line, it would read those as next observations?
+Yes. 
+Try it 
+Thanks John! That makes sense.
+I wanted to try it but I kept getting errors trying to infile it and sorta gave up
+That makes sense.
+Just to add, if the 'missover' option was included in the infile statement, this code would work as intended.
+Yep, thanks <@U1KRSV7AN>
+This one is weird - apparently the default sas behavoir is something called flowover
+Yep.  There's also truncover and stopover 
+But I think the base exam only deals with missover.
+I understand why a is correct, but why isn't d correct too?
+is it a matter of not being able to guarantee that it would hit exactly 250?
+Hi <@U1KQYG6SJ>, I think it's because it may never exactly =250
+great, thanks Nikki
+Does anyone remember why B is the right answer?? I remember going over this one in class but I don't remember the reasoning 
+The else if level=2 or 3 will always evaluate as true, so you'd never get to the else for 'high' 
+Why does that always evaluate as true ?
+My understanding based on the way Andrea described it was that the number 3 is always 3…so that else if statement will always be true since 3 is always 3, aka 3 is always a true statement (unlike 3=4 or something, which is always false), and you’ll never make it to the else high one
+does that make sense at all?
+Yes, <@U1LBRCSEA> is right
+If you write "else if level=2 or level=3" then this statement would not always be true
+if you write "if 3" without linking it to a variable, then the statement is always true
+The question is: Select the ARRAY statement that defines the array in the following program
+This looks like a multidimensional array, which I think is part of the advanced certification and not part of the Base certification
+Can somebody confirm?
+Confirmed 
+but it's in the base prep guide...
+:confused:
+my confusion stemmed from the fact that the answer seemed to be in the question already
+I think it's fair game to bother Andrea for this...
+I'll post it on the blog, but Andrea is out of the country, so I don't think she's responding to questions at this point
+I wouldn't worry about this one 
+I agree with <@U1L6YQUSU>
+Thank you! <@U1KRLV1CG> <@U1LBRCSEA> 
+Anyone know why this is 40?
+I think when it says input age 7-8 it moves to the next line. 
+ <@U1L9DD1NY> there's no trailing @ after the first input 
+So it goes to the next line m
+But isn't age on the John line characters 6-7 rather than 7-8?
+That is true. Location is wrong in the program.
+Yeah <@U1KRHCR7T> I think it's a mistake... no other explanation unless someone else has one?
+Oh okay thank you guys!
+This is one of those ones where the comments are useful -- there are apparently 2 spaces between the names and the ages
+Does anyone know what the "retain temp" does in this program since there's no accumulating variable? (The answer is C, if you're curious)
+
+10. The SAS data set Sashelp.Prdsale contains the variables Region and Salary with 4
+observations per Region. Sashelp.Prdsale is sorted primarily by Region and within
+Region by Salary in descending order.
+The following program is submitted:
+data one;
+set sashelp.prdsale;
+retain temp;
+by region descending salary;
+if first.region then
+do;
+temp=salary;
+output;
+end;
+if last.region then
+do;
+range=salary-temp;
+output;
+end;
+run;
+For each region, what is the number of observation(s) written to the output data set?
+a. 0
+b. 1
+c. 2
+d. 4
+I'm guessing it's because you want to hold on to the value of temp until you hit that last value so you can find the range?
+What would happen if there was no retain statement? It would overwrite temp = salary when it hits the first if statement, before it moves to the second if statemnet?
+Temp would be missing if it weren't the first record if not retained.
+is retain essentially an assignment statement then, in this case? It's a new variable?
+Okay and just to add to that why don't you need a retain statement for range since that is also a new variable?
+No. It keeps the value across multiple iterations of the data step so the salary of the first region can be kept for calculation.
+On the retain stayement and not related to the problem solution, do you not have to set what you want the accumulated variable to start at? Like 'retain temp 0;' rather than just 'retain temp' . I feel like I got an error not doing that before?
+it defaults to 0 if you don't specify
+Range only needs to be computed and written out in the same iteration.
+Does it default to 0 or missing?
+Meaning temp
+0
+Just looked it up, SAS help says missing from what I read! See the initial value section and let me know if you agree! <http://support.sas.com/documentation/cdl/en/lrdict/64316/HTML/default/viewer.htm#a000214163.htm>
+(Retain statement default is (?) missing if no initial value is specified to clarify what the link is about) 
+It just doesn't affect computation in this problem
+hmm... I could have sworn I looked it up and it said zero at some point, but can't dispute the documentation!
+good catch
+I thought it was zero as well
+I swear the more I study, the _dumber_ I become
+Ugh why do we do this to ourselves
+I was smarter this morning
+:joy:
+I was less paranoid this morning :joy: 
+anybody want to go see secret life of pets? :joy:
+It didn't get stellar reviews, but it's an animated movie so it can't be _that_ bad
+I can attest to that! It's not that bad! 
+<@U1KSYP1M5>: All new variables will be set to missing at each iteration unless there is a retain statement (see link by <@U1L6WB44A>). Temp needs the retain statement because it is part of an arithmetic calculation (see second if statement). You do not need a retain statement for range because it is not part of an arithmetic calculation. You don't care if range is set to missing at every iteration.
+I thought when you retain something it is assigned 0 but the initial value is missing... If that makes sense. 
+So <@U1L6WB44A> is right. 
+There is a question in one of Daniel's files: 
+I think that that may be a function of the fact that we're usually using those retained variables in things like sum statements which end up doing that _(but at this point, my statements are the statements of a crazy woman)_
+I think for the rest of the night, I'm just going to lurk and see what questions come up :zipper_mouth_face:
+<@U1KQYG6SJ>: I will support your continued learning by asking several questions... haha
+<@U1KRLV1CG>: ahh thank you! Makes a lot of sense :relieved:
+This is a great question for practice if anyone hasn't done it yet. Kind of a unique situation like we covered in review today.
+
+21.The following SAS program is submitted:
+data work.AreaCodes;
+Phonenumber=3125551212;
+Code='('!!substr(Phonenumber,1,3)!!')';
+run;
+Which one of the following is the value of the variable Code in the output data set?
+a. ( 3)
+b. (312)
+c. 3
+d. 312
+
+Correct answer: a
+option a is actually (  3) with two spaces between the ( and the 3
+Explanation:
+An automatic data conversion is performed whenever a numeric variable is used where
+SAS expects a character value. The numeric variable is written with the BEST12. format
+and the resulting character value is right-aligned when the conversion occurs. In this
+example, the value of Phonenumber is converted to character and right-aligned before the
+SUBSTR function is performed. Since there are only 10 digits in the value of
+Phonenumber, the right-aligned value begins with two blanks. Therefore the SUBSTR
+function picks up two blanks and a 3, and uses the BEST12. format to assign that value to
+Code. Then, the parentheses are concatenated before and after the two blanks and a 3.
+That's a dirty one, <@U1KR9BP0E>  I think SAS test makers sit around high-fiving each other every time they come up with a tricky question. 
+so i thought we can't change the length of a variable after it is created...
+help please?
+i understand that it is spoken about format... but the length???
+The question refers to the format, not the length.
+It's tricky.
+It's asking for formats 
+Not the length !!
+^^
+Yea what he said 
+ok... and what is the difference between  $20 and $CHAR20 then?
+just as an example
+We can't after it is created. this is true. In this case, we are changing it before it is created. The length statement is placed before the merge statement. Be aware of the difference between a length and a format though
+if its a merge, format in the new dataset takes the same value as that variable in the first dataset in the merge statement (in this case, in sales)
+both are chars, right?
+$20 is the maximum length of the variable in the data set. $CHAR20 is the format with which the variable will be DISPLAYED
+struggling with the notions of format and length...
+Format is for display. Length is for actual byte allocation in the data set.
+$20 goes with length. $char20 is a format.
+<@U1L9DD1NY> yes, I believe so
+Yes <@U1L9DD1NY>
+Okay thanks!!! 
+Yea... What <@U1KRSV7AN> said that I finally saw lol
+
+Thanks everyone!
+ Yes, you are right. "Rename jcode to jobcode" is how I read it to myself to remember.
+So written the other way around jobcode and Jcode would be written to the output dataset?
+Meaning what in terms of code?
+If it was rename = jobcode = Jcode 
+I think I'm confusing myself 
+Jobcode isn't currently a variable in dept2 so you can't. 
+Oo okay nvm I was thinking about it the wrong way haha thanks 
+You could do it for dept1 in which case only jcode would be written out
+how would those of us who took the exam compare the practice exam to the real one?
+I thought the real exam was easier. I got 68% on the practice exam, which stressed the hell out of me and 97% on the real one. Day and night. You will all be fine :slightly_smiling_face:
+Wow that makes me feel a lot better <@U1KRLV1CG> 
+thanks SO much to everyone from the first batch who has been going out of their way to help us today - you are angels!
+<@U1KRLV1CG>: thanks for the perspective :smile:
+Yes thank you guys so much! 
+I just tested it with another data set and it didn't break.
+proc sort data = sashelp.cars out = tempcars;
+	by type;
+run;
+
+proc print data = tempcars;
+	var type origin drivetrain;
+	by type;
+run;
+The code above should work for you, too.
+What if we switch the sum and the where, will it include values in the sum that get subsetted out?
+nope. The Where statement is the first one that is read independently of where (no pun intended) it is placed in the program
+Yeah, I believe that will change the code.
+disagreement! haha
+Haha, no, sorry, I think I'm agreeing and not saying it right! The where subsets at the where, correct?
+As in, once the it reads the where statement, it filters out anything that doesn't meet the condition.
+Consensus :slightly_smiling_face:
+:slightly_smiling_face:
+<@U1KT2JJE8>: did any of that make sense?
+Well, I just tested it and you get the same result if the sum is before the where and if you reverse them.
+Ah, I think I know what's going on. It's summing whatever values are being subsetted. I think I was misunderstanding what sum was doing in this case.
+Hey all, curious if y'all know why this is D. I think it's because SAS automatically uses the space as a delimiter, but I wanted to confirm:
+
+59.Given the contents of the raw data file TYPECOLOR.DAT: 
+ 
+  ----+----10---+----20---+----30
+  daisyyellow
+ 
+The following SAS program is submitted:
+ 
+  data FLOWERS;
+     infile 'TYPECOLOR.DAT' truncover;
+     length
+        Type $ 5
+        Color $ 11;
+     input 
+        Type $ 
+        Color $;
+  run;
+ 
+What are the values of the variables Type and Color?
+
+     A. Type=daisy, Color=yellow 
+     B. Type=daisy, Color=w
+     C. Type=daisy, Color=daisyyellow
+     D. Type=daisy, Color=
+
+Answer: D
+Side note about this question what is the truncover option there for 
+I think there is no space in the data, so it skips ahead.
+Haven't tested this one...
+Yes the default space delimiter is doing it all. As for the truncover <@U1L9DD1NY> I had to google it when I run into this question and SAS help was not too helpful. I don't think it is related to the point of the question though
+<@U1L1D4WG7>: that's what I was thinking.
+If there was a space, the truncover would allow it to load the word yellow, even though it isn't 11 chars long.
+<@U1L9DD1NY>: 
+
+truncover:
+ Forces the INPUT
+statement to stop
+reading when it gets to
+the end of a short line.
+This option will not
+skip information.
+As opposed to missover:
+
+Sets all empty vars to
+missing when reading a
+short line. However, it
+can also skip values.
+<@U1L1D4WG7>:  Now the SAS explanation makes sense :slightly_smiling_face:
+<@U1L9DD1NY>: This helped me understand the different options as well as the defaut 'flowover' option mentioned before <http://www2.sas.com/proceedings/sugi26/p009-26.pdf>
+<@U1L1D4WG7>: so, without truncover, and if there was a space, would yellow not load because it's not 11 characters?
+Wouldn't it still load?
+Not sure. I think maybe not, but the behavior can be different for list vs formatted input mode, so it should be tested to be sure. I don't have SAS handy at the moment :-(
+Okay thank you!
+What does the '?' operator do?
+I think it's the symbol for 'contains'
+(Makes total sense)
+Ahhh thanks. Yep thats definitely it <http://www2.sas.com/proceedings/sugi26/p009-26.pdf>
+at this point, when I see that sign, I say in my head (is it there) instead of trying to read the sentence with a ? :smile:
+<@U1L6WB44A>: I don't think it's contains, because I got this wrong:
+20.  
+The SAS data set Employees is listed below.
+
+Employees
+Name	Salary
+Patel	160000
+Payne	50000
+Ellis	55000
+Liu	45000
+
+
+The following SAS program is submitted:
+proc print data=employees;
+   where name ? E;
+run;
+What is the result?
+a.	No observations are written to the report.
+b.	The observation for Ellis only is written to the report.
+c.	The observations for Patel and Payne only are written to the report.
+d.	The observations for Patel, Payne, and Ellis only are written to the report.
+Correct answer:   a
+
+Your answer:  d
+
+The WHERE statement involves a variable named E, which does not exist in the Work.Employees data set. This is a syntax error so no observations are written.    Return to top
+I think you need ' '
+to check for it, else it's a variable name
+OH yes, good catch. So ? is contains.
+<@U1KQYG6SJ> I agree! 
+thanks so much
+also, keep in mind that it'll be case sensitive
+Am I reading this wrong over and over? If I do as the answer says and put "It" between "Is" and "Blue", isn't it "IsItBlue"?
+
+The following SAS program is submitted:  
+data work.words;
+   word1='Is';
+   word2='It';
+   word3='Blue';
+   all=catx(word1,word2,word3);
+run;
+The variable All is created with which value? Note that the quotes are shown for readability and are not part of the value.
+a.	"It Is Blue"
+b.	"ItIsBlue"
+c.	"It      Is    Blue"
+d.	"IsItBlue"
+Correct answer:   b
+
+Your answer:  d
+
+In the CATX function, the first argument is the delimiter that is used when the other arguments are put together. So, we are putting It together with Blue and have Is as the delimiter between them.    Return to top
+Yes, yes I was reading it wrong over and over.
+Hope that helps someone else at least, for making myself look like I can't read...
+:joy:
+maybe you should take a nap
+especially if you find yourself doing this multiple times:
+/giphy nerd rage
+wrong gif
+<http://giphy.com/gifs/cravetvcanada-30-rock-cravetv-l2QZWG9KvAs6zx4iI>
+you should probably see if you have any updates and run them tonight, or check the time that your updates run and make sure it's not during the test time. Also, probably a good idea to do a restart tomorrow morning to clear "gunk" out/free up resources that are being hoarded and get a clean slate.
+Just checking in and reading the 200 posts.  Looks like <@U1KRLV1CG> is keeping you guys straight.  :sunglasses:
+But the test is way easier than these blog posts.  You're all going to do an amazing job.
+I will hold you to that statement <@U1L6YQUSU>
+I second that <@U1L6YQUSU>. It looks like the blog posts are there to stretch us, but don't let them destroy your morale like they did to me.
+I agree with <@U1L6YQUSU> and <@U1KRLV1CG> , the real test is no where near as hard as the practice! If you guys went through the blog/practice tests then you are well prepared for any tricky question they could throw at you and there weren't many!! You will all do amazing :slightly_smiling_face:
+Also, a few blog posts appeared slightly altered, so the answer was different. Don't memorize answers, understand the logic. YOU WILL ALL PASS:muscle:
+I'm having a lot of trouble with arrays. Could someone explain to me why the answer is C?
+The key word is "New." They want to see which variables are created through an array that were NOT in the data set already
+Yes but why are those the new ones lol 
+so we have jansales febsales and marsales that already exist in the dataset as you can see in the keep option in the beginning. Those are assigned to the seccond array
+OHH okay 
+the first array just creates variables
+I looked over the keep thing thank u
+Question. If it was just array diff_sales(3) would the new variables be diff_sales1 etc 
+Yes, <@U1L9DD1NY> 
+It's not reading.  It's writing. 
+You're using a "put" statement to create a file, not "input" to read a file.  
+So the directions are telling SAS where to write the variables on each line. 
+ It puts the name first and then writes the age starting in column 5
+Ahhhh thank you <@U1L6YQUSU> the lightbulb just came on, I see now thank you! :information_desk_person::skin-tone-4: 
+Why is that one 3 again?! 
+age will all be missing. Missing values are the smallest values SAS can have so less than 10
+Age is input as a missing value because it is trying to read the last name as a numeric
+Is it cause the length isn't specified 
+Oh 
+Nvm 
+Okay!
+Why is the length of referen 17 here?
+When SAS converts the numeric to character it uses the best12. format that the prod is stored as. So you have a length of 4 for item, and 12 for prod, and 1 for the '/'
+Oh man, thanks
+Anyone get why this is B?
+In this case "is" is read as the delimiter between word2 and word3
+(Sorry <@U1KRWUXFU> I pasted the wrong question and deleted - see above for correct one)
+The +1 will make it skip a column. Since the two words are bundled together as one word, it will make it skip the first letter of the second word
+<@U1KR9BP0E>: it grabs yellow with the 1-5, then the cursor moves to 6, the+1 makes it move to 7.
+Got it. I ha dmisunderstood how the + works with the spacing, now I get it. Thanks <@U1KRLV1CG> and <@U1L1D4WG7>!
+So when exactly is the best12. Format used? When sas converts numeric variable to character or..?
+Yes. When it auto converts numbers to character- I.e. When you concatenate using || and include a variable that was previously a number, SAS automatically converts to a char and a default of best12. It also right aligns it, which is important. So if the number is entered as 1, there will be 11 spaces before the 1 when its a character. 
+If the number is assigned as number=003 remember SAS will read it as 3, and then put it in as "           3" 
+Okay thank you :) also... Say it doesn't automatically convert it and you use a put statement instead, would it still use best12. Or the actual length of the variable 
+If you use a put statement it will not use best12. It will default to 8 bytes which is a whole lot of numbers so it is v unlikely it will cut off.
+Oh okay, thank you!
+Why is this A?... I thought it would be B because with the input statement after the if-else shouldn't that be telling sas to read onto the next line?
+
+29.The following SAS program is sumbitted:
+
+data <http://WORK.INFO|WORK.INFO>;
+infile 'DATAFILE.TXT';
+input @1 Company $20. @25 State $2. @;
+if State=' ' then input @30 Year;
+else input @30 City Year;
+input NumEmployees;
+run;
+
+How many raw data records are read during each iteration of the DATA step?
+
+A. 1
+B. 2
+C. 3
+D. 4
+
+Answer: A
+
+
+It's B! Andrea said the answer here was wrong
+Nevermind someone already asked this question
+
+Thanks Julia!
+For anyone else who has trouble remembering whether input converts char to num or num to char, here are some things I use:
+1. if you write them out, it's in alphabetical order:
+*i* nput - *c* har to num
+*p* ut - *n* um to char
+
+2. INput _results_ in INteger (not mathematically true, but an integer is a number so it's enough for me to remember)
+
+Don't know if this helps anyone but I thought I'd share.
+Another helpful one might be do until -&gt; under so you can remember it's evaluated at the bottom! 
+Anyone know a reference for comparing proc print vs proc summary and all the by id, class statements etc? There are a lot of different ways to print out reports and they are all slightly different...
+crickets lol
+Umm I know you can't use class in proc print...
+No idea, <@U1L1D4WG7>.  
+I think you just say by, I don't think you can use class in proc print 
+Question 25 on Daniels list of 50 questions explains this 
+unrelated: if you were planning on installing updates as one of your final steps in preparing, and you're running Windows 10...
+don't do it!
+they just pushed out the anniversary update, which is a pretty big OS update, and can easily take 20 minutes to complete
+it requires multiple restarts, and you'll be stuck staring at your screen in anxiety
+Haha I actually just started it :-/
+Mine ran last night. It does take a while, but it's aok now, so don't panic :slightly_smiling_face:
+<@U1L7E8GSU>: you probably have enough time between now and the exam (unless you have a super slow computer)
+I meant that more as a "don't do it at the last minute because your updates typically take no more than 5 minutes" kind of thing
+(also, if you haven't actually restarted yet, you can schedule your restart for after the exam)
+Also everyone make sure you have turned OFF automatic updates on your computer before the exam starts. Last week my computer started to update in the background  and I got kicked out of the exam midway through.
+<@U1L415ECD>: Ouch!!!
+How do you get your Acclaim Badge for the SAS Base Certification on your LinkedIn profile?
+You have to make an Acclaim account
+Then there's a link for sharing the badge
+I created the account but you do not have any badges to display.
+Is the message which is popping up.
+I think it takes a while after you connect it to your LinkedIn
+Maybe a day?
+Oh. Thanks John.
+they said that it might take up to 72 hours
+Did anyone else receive their email from SAS about earning the certification, but not receive the second email from Acclaim to claim the online badge? (Or is that not how it was supposed to work?) I'm thinking it should have come by now, so wanted to see if anyone else was in the same boat!
+I got the mail from acclaim but unable to claim the badge. 
+<@U1L6WB44A> Did you check spam folders?  My email from acclaim (<mailto:admin@youracclaim.com|admin@youracclaim.com>) came at the same instant that my email from sas (<mailto:certification@sas.com|certification@sas.com>) arrived. I got both the morning after the test, on the 13th.
+Bummer, it's not in spam <@U1L1D4WG7>. My SAS email came the same time as yours, so I guess that's a sign I need to reach out to Acclaim. Thanks! 
+Are there any resources out there for the Business Analyst exam (aside from the e-learning site)? Like a blog with example questions? There is no practice exam on SAS's site, unfortunately. I'm wondering if the test opportunity on the 9th is actually possible, or if we need legitimately need more class time and should plan on taking it on the 30th.
+I think the 9th is just for retaking Base Sas
+Laura's email "SAS Certification Dates" says that the 9th is possible for BA also.
+<@U1L1D4WG7>  I usually prefer that students have taken the Logistic Regression module (on your calendars 9/7 thru 9/30) and then take the certification afterwards on 9/30, Oct 5 or Oct 6, but, if your background already includes solid logistic regression  instruction or practice, you may take it on Sept 9th.  Because it is a fairly new certification -  maybe this is the 4th year? - there are no where near the online/blog aids that exist for Base &amp; Advance SAS certification exams. You should try to google it ( business analyst certification A00-240) but watch out b/c some of the results seem questionable.
+The BA exam consists of the bootcamp statistics class (Stats books 1 and 2) and the logistic regression class, correct? Does anyone know if an official review book exists, similar to the one for the Base SAS?
+Thanks <@U1XCJ1X4H>! Very helpful!
+The BA exam consists of two parts: Predictive Modeling Using Logistic Regression and Statistics I : Introduction to ANOVA, Regression, and Logistic Regression. For Stats 1, we have already learned the major part during bootcamp. However, there are several procedures such as proc glmselect which was an option and not required to master in class did appear in my exam several times. So do check the Stats 1 book or e-learning for those procedures and also related statement options.  For predictive modeling, to me, SAS e-learning is enough.
+<@U1PN82U67> Thank you!
+I just sent out the survey asking you to select your preferred SAS Business Analyst &amp; Predictive Modeler test dates. I sent the survey to your ncsu email. Let me know if you didn't get it.
+Any idea what were the lines that Andrea added to her SAS session editor at the beginning of the lesson? It seems like I dont have the right datasets to run the examples from the powerpoint she went through today... the "customers" and "transactions" tables are not in orion or work directories
+%let path=C:\Users\Diego\Desktop\MSA 2017\SQL\SQL Data;
+%include "&amp;path\s104d00a.sas" /source2; /* Windows and Unix */
+
+
+proc sql;
+select *
+   from customers, transactions;
+quit;
+<@U1NUU2U9E> is this what you need?
+<@U1L3PU7BJ> i think so! going to try it out... thanks anyways :smile:
+For those of you that couldn’t catch Andrea’s code, the name on the bottom of the slide (ex. s105d10) corresponds to the programs in the data we downloaded.
+You can also find the code in the sql book 
+just wanted to mention that proc sql has shown itself to be a great time to use the "record macro" function in SAS...if you need any help setting it up let me know
+<@U1KT9ATA5> can you explain what that does?
+<@U1KR9BP0E> you can setup a shortcut like we did for abbreviations in the past
+for instance when i press "ctrl+`" it puts "proc sql; select from where; quit;"
+oh right... sorry i was overthinkingit
+Is that hard to set up? 
+Nope not at all! 
+confounding vs. interaction
+
+<https://www.ctspedia.org/do/view/CTSpedia/InterConfound>
+I feel like confounding is just the technical word for the "correlation is not necessarily causation" effect.
+<@U1KT9ATA5> thanks Amir, I'm going to give that a read.
+any idea how to extract just the chi square and p-value for each of the combination of tables in proc freq? I am trying to do something like this:
+tables A*(B C D) / out=ChiSqData chisq nocol nopercent;
+and the output only contains the last table requested - A*D... anyone knows the right way to do it?
+trying to get the output for A*B A*C A*D in the output dataset
+Lookup ods table names for proc freq and logistic 
+And table trace
+<@U1NUU2U9E> I think you may have to run three separate queries...  someone else may know better though.
+<@U1NUU2U9E> you have to open the ods statement and have the proc you are running and tables you want in the output then close the ods statement 
+Try putting it like this (B C D)* A
+<@U1NUU2U9E>: 
+<@U1NUU2U9E>: make sure for all the variables you're extracting the right chi square depending on the variable type (regular chi square vs mantel) 
+thanks for all of the suggestions... i had to step away to cool down - SAS and I are having problems in our relationship :disappointed: will give it a try now!
+I forgot you could output stats, so I was literally looking at output and then typing it into microsoft word :joy: So your relationship is better than mine <@U1NUU2U9E> !
+the prize goes to <@U1KT9ATA5> ! thanks for the suggestion... after a lot of googling i think i found the answer :smile:  <@U1L6YQUSU> i have tried your suggestion and it didnt work for me... maybe i did smth wrong! <@U1L41DF9D> thanks for the hint!
+<@U1NUU2U9E>: thank Dr. LaBarr! Lol 
+bahahah
+For proc esm, anyone know how to output the subsets of the prediction?  I.e. the trend, seasonal portions?  Got a nice model working, with a nice plot, but cant get the data values out. :confused:
+<@U1L1D4WG7>: maybe this will help? 
+
+<http://support.sas.com/documentation/cdl/en/etsug/63939/HTML/default/viewer.htm#etsug_esm_sect022.htm>
+So maybe out=models seasons trends within an ods output 
+When building the logistic model, the homework assignment states to use the reference level 0 for binary variables and the last category as the reference level for non-binary variables... However IRABAL_bin and MMBAL_bin are binary but don't have a reference level of 0, they are either 1 or 2? Which one are you guys using as the reference?
+might be a stupid question... but... do we consider variable ACCTAGE_bin ordinal if one of the bins contains all the empty values?
+or INVBAL_Bin where the bins are not sorted as you would expect them to be?
+<@U1NUU2U9E> Since INVBAL_Bin doesn't have any observations in bin 4 and the first 3 bins are ordered I think it can be treated as ordinal... not sure about the other one
+<@U1L1D4WG7>: all of the proc esm will auto output....check out ur work library 
+<@U1NUU2U9E> <@U1KRNHQA1> I asked Dr. Simmons about that one - because she'd prefer us to keep the missing values in the analysis, it should be a nominal variable. She indicated the "missingness" of the variable was significant somehow.
+<@U1NUU2U9E>: I treat them as nominal.
+<@U1KRSV7AN> <@U1PN82U67> thanks, i am doing the same with area classification, acctage_bin and phone_bin.... but as <@U1KRNHQA1> mentioned, INVBAL_bin doesnt have any values for missing - so i am treating that one as an ordinal (as of now haha)
+are we not using Branch variable AT ALL, or just in the first part of the assignment?
+<@U1NUU2U9E> Pretty sure we're not using it at all.
+thanks, <@U1KT2JJE8>
+Have we gone over how to use the validation data to look at forecast accuracy rather than just the training data/goodness of fit? Anyone have any good resources on doing that?
+<@U1L6WB44A> I haven't figured that out either. We have been calculating accuracy in Excel after generating the model parameters using the training data. We are assuming there is a proc score method somehow, but no idea how.
+<@U1L6WB44A> I read on some SAS user guides that proc esm has a MAPE option but I haven’t figured out the syntax on how to use it. I’ll see if I can find the webpage I was looking at real quick!
+<http://support.sas.com/documentation/cdl/en/etsug/63939/HTML/default/viewer.htm#etsug_esm_sect019.htm>
+Did LaBarr provide anyone with guidance on what to do with the missing values in the TimeSeries data?
+"need to fill in the values to make sure you have 24 hours in a day. Otherwise the seasonality calculations will be off. You can impute them a variety of different ways. For example, if you have a temperature at 9 and at 11, then you can rather easily come up with a guess for 10. As long as you explain what you do, you should be fine."
+<@U1L1D4WG7>
+Thanks <@U1KRE1L9M> !  Averaging definitely does seem better than the SAS default. Wondering if there is a "smarter" process to use (linear trend etc) that LaBarr specifically likes.
+Even a trend only makes a small difference though... so avg seems like the easiest way to go.
+<@U1L1D4WG7> , how easy do you find cleaning up data with R? haven't tried it yet, and not looking forward to doing that haha
+Haven't tried R yet... <@U1M4QJD4P> and <@U1PN82U67> have been tackling that for our team :slightly_smiling_face:
+<@U1L1D4WG7> i know who sits close to me and i will be bugging with R code on Monday.... ( <@U1PN82U67> :smile: )
+<@U1NUU2U9E>: I've been using Python for data cleaning and I've found it really straightforward
+<@U1KRE1L9M>: what is that quote from? Straight from labarr?
+<@U1MDE4NAG> yes
+What is the difference between the trend and the trend-cycle in the output from:
+
+proc timeseries data=Aug  plots=all seasonality=24 outdecomp=trendaug2;
+var farenheit;
+run;
+If anyone is curious... the trend is just the trend, whereas the trend-cycle is both the trend and cycle... kind of obvious, but if you are looking to output JUST one or the other use the DECOMP statement, for details check out the pdf here: <https://support.sas.com/documentation/onlinedoc/ets/132/timeseries.pdf>
+what is the nlag= in proc arima? I’m having trouble understanding it
+<@U1KSR4JP3>: I think it has to do w how many past points back you want to go in terms of checking for auto correlation 
+<@U1KSBCBFG>: ohhhhh okay! Thank you so much! 
+<@U1KSR4JP3>:  Np :) also be careful w using proc arima because I think it is running on arima and I don't know if dr. LaBarr actually expects us to run proc arima to look at autocorrelation. I went back and listened to his lecture and he was saying he doesn't expect us to actually be able to run that proc right now 
+<@U1KSBCBFG>: but don't we need to run proc arima to perform the Ljung Box Test to check for white noise in the residuals? 
+I thought that's what we were supposed to do, and I wanted to get the p-values for every lag for my final report, but I can only seem to get the p-values at every 6 lags :(
+<@U1LLWQ02E>: yes but since he explicitly said in his lecture that we didn't need to know how to run that procedure, i'm not really sure what he wants and I'm waiting for him to come back to ask him
+Ok and that's Thursday right? 
+<@U1LLWQ02E>: yes I think so 
+<@U1LLWQ02E>: I also don't know to get every lag to show up and I used whatever Output I was shown from that procedure
+<@U1KSBCBFG> He's super responsive over email :-)
+So should we just be reporting the white noise graph we looked at in class and those pvalues in proc Arima? I know the assignment for that part says pvalue and test statistic but I thought it was multiple pvalues and statistics to make up that chart. Not sure if all I said just made sense haha :sweat_smile:
+<@U1LBRCSEA> If I'm hearing you right, yes I do think we need to report the pvalues and statistics that make up the chart. The problem is that we only get pvalues and statistics for every 6 lags in SAS, so that is of course not enough to produce a 24-lag white noise graph. So maybe that is all we need? I am going to email Dr. LaBarr about it, and I'll let you all know what he says.
+These are my exact questions!!
+haha. So Dr. LaBarr is going to send out the code to get all 24 p-values soon. However, he advised that reporting a summary of the p-values instead of reporting them all is ok. Ex. the mean of p-values, the max p-value. So an example that gets the idea: explain how they don't reach above p-value xx.xx and under test statistic xx.xx.
+What/where are the test statistics? 
+I understand how to get the p-values, but I still don't know what test statistic he is looking for 
+If you just run PROC arima on the residuals, shouldn't the test statistic and global p-value be in the maximum likelihood table in the output? His email makes me think that's not right though
+But maybe it's the p-value associated with "to lag 24" in the autocorrelation check of residuals table?
+We used proc esm instead of proc arima  for the white noise plot just because that's what we used for our model 
+<@U1MDE4NAG>: It's the one associated to lag 24 since that is the test for autocorrelation whereas the p-value in the maximum likelihood table value isn't the lunch box (ik that's not correct but that's how I pronounce it :joy:) test. The to lag ones are the ones we use as that's the lunch box chi square values for that specific test! 
+Anyone know how to apply the cutoff value we are getting from youden to the validation set? 
+don't worry guys I figured it out. :v:
+For those who were a little confused on the model hierarchy option in proc logistic, it's laid out fairly clearly in the SAS documention here: <https://support.sas.com/documentation/cdl/en/statug/63033/HTML/default/viewer.htm#statug_logistic_sect010.htm>
+Tip: if you watch the elearning videos on Firefox you can right click and speed them up!
+At +40% the predictive modeling guy doesn't sound like he's trying to force me to drop into a coma.
+Hi everyone I took the Business Analyst exam on Friday and have been getting more than a few questions so i figured Id post what I saw here for everyones benefit.
+1.	Know how to read the charts from LaBarr over the summer
+a.	Diffograms, dunnet control, the box and whisker plot, literally all of them 
+2.	Calculations
+a.	R^2 by hand (MSM / total)
+b.	C stat = %concordant + .5 %tied
+c.	Sensitivity and specificity 
+3.	Proc Corr/glm/plm/ ttest/ logistic
+a.	Know what each function will output with out= or output= 
+b.	Know how to import and use a stored model in plm
+c.	When do logistic and ttest overlap (1 level categorical) 
+i.	Also what the code should look like to produce the same result
+4.	Roc curves, Lift charts and gain charts 
+5.	Dealing with multicoliniearity 
+6.	Application/logical coding questions 
+a.	Example questions: 15 and 60 from the practice exam
+7.	There were a few know the correct option coding questions (ex hovtest=levene) but I didn’t have any syntax questions. 
+8.	The practice exam is your best resource ~20% of my questions were similar or the same
+Seconding all of this, but especially the lift/gain chart interpretations!
+I'd add knowing imputation and scoring procedure vs statement. 
+if you're like me and you still fall asleep after speeding up the video: you can click the blue button at the top left to get a transcript of the video

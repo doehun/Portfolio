@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1L914KNJ",
+        "text": "<@U1L914KNJ|nikki> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1473366983.000002"
+    }
+]

@@ -1,8 +1,0 @@
-[
-    {
-        "type": "message",
-        "user": "U1L1D4WG7",
-        "text": "Does anyone know how to implement a triangular distribution in R? We have code examples to run normal distributions, and we can fit a custom distribution... wondering if I need to feed in custom triangular data, or if there is an easier built in way.",
-        "ts": "1478660806.000002"
-    }
-]

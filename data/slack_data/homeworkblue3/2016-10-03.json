@@ -1,0 +1,55 @@
+[
+    {
+        "user": "U1KQTJ6BV",
+        "text": "<@U1KQTJ6BV|andreazadia> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475530556.000002"
+    },
+    {
+        "user": "U1MDE4NAG",
+        "inviter": "U1KQTJ6BV",
+        "text": "<@U1MDE4NAG|michaelbyman> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475530556.000003"
+    },
+    {
+        "user": "U1KRTU0UQ",
+        "inviter": "U1KQTJ6BV",
+        "text": "<@U1KRTU0UQ|catherinebarnes> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475530556.000004"
+    },
+    {
+        "user": "U1MBT6FRB",
+        "inviter": "U1KQTJ6BV",
+        "text": "<@U1MBT6FRB|dtoliver> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475530556.000005"
+    },
+    {
+        "user": "U1MGWMZFD",
+        "inviter": "U1KQTJ6BV",
+        "text": "<@U1MGWMZFD|wjburton> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475530556.000006"
+    },
+    {
+        "user": "U1MBT6FRB",
+        "members": [
+            "U1KQTJ6BV",
+            "U1KRTU0UQ",
+            "U1MBT6FRB",
+            "U1MDE4NAG",
+            "U1MGWMZFD"
+        ],
+        "text": "<@U1MBT6FRB|dtoliver> archived the channel (w\/ 5 members)",
+        "type": "message",
+        "subtype": "channel_archive",
+        "ts": "1475530732.000007"
+    }
+]

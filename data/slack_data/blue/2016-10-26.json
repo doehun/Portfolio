@@ -1,0 +1,113 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRLV1CG",
+        "text": "I love making goals when I play basketball",
+        "ts": "1477497626.000029",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1MBURU4D",
+                    "U1KSR4JP3",
+                    "U1KS4UE2F"
+                ],
+                "count": 3
+            },
+            {
+                "name": "tough_guy_ioannis",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1L735VD4",
+                    "U1L7RPG1M",
+                    "U1LBRCSEA",
+                    "U1KS4UE2F"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1MBURU4D",
+        "text": "Well, technically it would be a field goal",
+        "ts": "1477497710.000030",
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U1KRLV1CG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT3UELS",
+        "text": "anyone else really craving cookies now? :cookie:",
+        "ts": "1477497905.000031",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1L735VD4",
+                    "U1L3G0YRJ",
+                    "U1L41DF9D"
+                ],
+                "count": 4
+            },
+            {
+                "name": "cookie",
+                "users": [
+                    "U1LBRCSEA",
+                    "U1KSL7L7R"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "Me!",
+        "ts": "1477497924.000032"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Gentle reminder we start early tomorrow at 8:30! And to wear business formal. ",
+        "ts": "1477528853.000033",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1L9DD1NY",
+                    "U1L41DF9D",
+                    "U1KSL7L7R"
+                ],
+                "count": 4
+            },
+            {
+                "name": "alarm_clock",
+                "users": [
+                    "U1L93SMGF",
+                    "U1L9DD1NY",
+                    "U1KT3UELS"
+                ],
+                "count": 3
+            },
+            {
+                "name": "skull_and_crossbones",
+                "users": [
+                    "U1L46HXCJ",
+                    "U1KRLV1CG",
+                    "U1L2P17DZ"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

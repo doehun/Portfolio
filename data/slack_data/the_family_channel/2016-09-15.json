@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1UR5K88P",
+        "text": "<@U1UR5K88P|roybowman> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1473973087.000002"
+    }
+]

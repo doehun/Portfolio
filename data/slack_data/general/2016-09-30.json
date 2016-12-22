@@ -1,0 +1,225 @@
+[
+    {
+        "type": "message",
+        "user": "U1L7ERY77",
+        "text": "coffee in 2 min",
+        "ts": "1475245040.000689",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U1P8QBBD1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L7ERY77",
+        "text": "in the lounge",
+        "ts": "1475245044.000690"
+    },
+    {
+        "type": "message",
+        "user": "U1XCJ1X4H",
+        "text": "<@U1LBRCSEA>  (SAS Global Forum - April 2-5) ....students have marketing presentations April 3 &amp; 4. You'd have to clear it with Dr. D if going to SAS Global Forum.",
+        "ts": "1475259200.000691"
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "<@U1XCJ1X4H> ah thank you for pointing that out, didn\u2019t realize that!!",
+        "ts": "1475259330.000692"
+    },
+    {
+        "type": "message",
+        "user": "U1XCJ1X4H",
+        "text": "<@U1LBRCSEA> I think Dr. D picked that date b\/c guests are coming to see the final Web Analytics\/Marketing presentations. There seems to be other dates in that vicinity that are free (to work on your practicum final adjustments &amp; presentations). Perhaps she would consider rescheduling the presentations if SAS Global Forum was a draw for a number of students. You'd need to talk with her about it if interested.",
+        "ts": "1475259487.000693"
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "<@U1XCJ1X4H> Ok, thank you for the information! :slightly_smiling_face: I didn\u2019t look that far on the calendar, whoops!",
+        "ts": "1475259662.000694"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Do any of us get to go to the SAS Global forum?",
+        "ts": "1475260613.000695"
+    },
+    {
+        "type": "message",
+        "user": "U1XCJ1X4H",
+        "text": "<@U1LBRCSEA> <@U1LMHQY9E> IAA does not send any students to SAS Global Forum - but, if you have the cash for student attendance or get in on the Student Ambassador and Student Scholarship program then......   BTW, I mentioned it casually to Dr. D &amp; showed her how open the calendar is around that time. She's completely willing to move the dates if the sponsor\/guests can accommodate the change. She IS waiting for a student to approach her about it though, before she just goes moving it about.",
+        "ts": "1475260827.000696"
+    },
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "For those interesting camping, we have a group site booked at Briar Bottom Campground on Oct 15! Check out <#C2EV5KFBL|camping> for more details and carpooling! :camping:",
+        "ts": "1475263049.000697",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRNHQA1",
+                    "U1KRB11QC",
+                    "U1KRNH021",
+                    "U1KQ9523D",
+                    "U1KS4UE2F",
+                    "U1L2P17DZ",
+                    "U1KRZT11T",
+                    "U1KQTJ6BV"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Severe thunderstorm warning + hail, in effect until 5:45. Stay safe",
+        "ts": "1475270050.000699"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "looks like nobody's Google Analytics certification made it to the profile book... is it not supposed to be listed?",
+        "ts": "1475278464.000702"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U1NUU2U9E>: Sarah said they might be added later ",
+        "ts": "1475278857.000703"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1KT5F4SZ> so no need to email Dr. Rappa to let him know? haha",
+        "ts": "1475278897.000704"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U1NUU2U9E> I would wait until this next certification happens. We'll all update our list of certifications and he'll have to add those anyways",
+        "ts": "1475278945.000705",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1L9DD1NY"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "If we're being totally honest Google Analytics &lt; any of the SAS certifications.  I'm personally okay if it doesn't make it's way onto the profile book due to space, but I'll still list it on my resume.",
+        "ts": "1475279243.000706"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "In the email he sent out he said it won't be on this iteration of the profile book",
+        "ts": "1475284812.000707"
+    },
+    {
+        "type": "message",
+        "user": "U1L7ERY77",
+        "text": "I dont know why I waited, but I asked Dr. LaBarr for his logistic regression R code, he said its for sharing!!!",
+        "ts": "1475286107.000708",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U1L7E8GSU",
+                    "U1P8QBBD1",
+                    "U1KSL7C10"
+                ],
+                "count": 3
+            },
+            {
+                "name": "sports_medal",
+                "users": [
+                    "U1MBT6FRB"
+                ],
+                "count": 1
+            },
+            {
+                "name": "dart",
+                "users": [
+                    "U1L6YQUSU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "r",
+                "users": [
+                    "U1KQGK2CB",
+                    "U1KT3UELS",
+                    "U1KRBJP47",
+                    "U1KSL7L7R",
+                    "U1KRF9BAP"
+                ],
+                "count": 5
+            },
+            {
+                "name": "sleuth_or_spy",
+                "users": [
+                    "U1L1D4WG7"
+                ],
+                "count": 1
+            },
+            {
+                "name": "information_desk_person",
+                "users": [
+                    "U1KQ9523D",
+                    "U1KR891RC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1Q5GHC2J",
+        "text": "New homework team is up on Moodle! ",
+        "ts": "1475294044.000723",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L914KNJ",
+                    "U1KR891RC",
+                    "U1KRE1L9M",
+                    "U1KRLV1CG"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1PN82U67",
+        "text": "<@U1NUU2U9E>: I told you I don't want to compete with you but instead to be a team. So we are in  the same team now.  Haha.",
+        "ts": "1475298044.000724",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1KRF9BAP",
+                    "U1P8QBBD1"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

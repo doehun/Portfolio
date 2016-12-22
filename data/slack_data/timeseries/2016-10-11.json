@@ -1,0 +1,76 @@
+[
+    {
+        "type": "message",
+        "user": "U1Q5GHC2J",
+        "text": "My understanding for season with lag&gt;12 is that you don't use DF tests to check the data. You actually don't know which method is the correct solution to seasonality, so you basically try both differencing (stochastic) and dummy variables (deterministic), use both to build two models, then do whatever you need to do to remove trend, if you have any. Eventually, use the validation data to see which model is the better model, or you can also see which method to remove season is correct. ",
+        "ts": "1476201337.000221"
+    },
+    {
+        "type": "message",
+        "user": "U1Q5GHC2J",
+        "text": "One of the two ways must be correct ",
+        "ts": "1476201394.000222"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Ok perfect. That's what I did, I just wanted to make sure I wasn't missing something ",
+        "ts": "1476203689.000223"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR4JP3",
+        "text": "Does anyone know how to get all of the test statistics for the residual white noise test?",
+        "ts": "1476214410.000224"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1KSR4JP3> I think Dr. LaBarr sent an email on it a while back but basically use plot(unpack) =all and ods output wnprobplots &lt;-- I don't think this is the right name ",
+        "ts": "1476214850.000225"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR4JP3",
+        "text": "oh okay! I\u2019ll search through my email! Thank you!",
+        "ts": "1476214874.000226"
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "<@U1KSR4JP3> it\u2019s ODS output ResidualWNPlot=datasetname;",
+        "ts": "1476215619.000227"
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "If you run ods trace on; you will find the name of all the plots in the log. You can turn this off with ods trace off; Like Amir said, you'll need to unpack the plots to find the name of the correct one. But this is extremely useful in extracting data for any plot.",
+        "ts": "1476215963.000228",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRF9BAP",
+                    "U1KSR4JP3"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "ods wnprobplots is for esm, there's a different output line for proc arima. labarr sent it out right before homework 2 I believe",
+        "ts": "1476225582.000229",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L0RBZFH",
+                    "U1KSR4JP3"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

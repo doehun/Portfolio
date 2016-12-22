@@ -1,0 +1,129 @@
+[
+    {
+        "type": "message",
+        "user": "U1L974M70",
+        "text": "Anyone up for bball today? ",
+        "ts": "1468263793.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "<@U1L974M70> Yes, what time?",
+        "ts": "1468265616.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1L974M70",
+        "text": "Just after 4.",
+        "ts": "1468265641.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "Same courts?",
+        "ts": "1468265664.000005"
+    },
+    {
+        "user": "U1KSR1MS4",
+        "text": "<@U1KSR1MS4|rocky_chen> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468267069.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1L974M70",
+        "text": "<@U1MDE4NAG>: yeah.  Ran a couple errands.  Walking up now.",
+        "ts": "1468269606.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "I'm going to Zumba at 6.30 at the gym today! Leaving from IAA if anyone wants to join.",
+        "ts": "1468272240.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KQGK2CB",
+        "text": "<@U1L0V1X61>: and I will be at Yoga tomorrow at 6:30pm at \tCarmichael Recreation Center, Studio A! Would love to have anyone else join us",
+        "edited": {
+            "user": "U1KQGK2CB",
+            "ts": "1468283531.000000"
+        },
+        "ts": "1468283237.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1KQGK2CB> &amp; <@U1L0V1X61>: I just signed up for Yoga too. This is only my second yoga class ever but I'm excited.",
+        "ts": "1468283460.000010"
+    },
+    {
+        "user": "U1L0V1X61",
+        "inviter": "U1KR9BP0E",
+        "text": "<@U1L0V1X61|raj> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468283470.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "<@U1KR9BP0E>:  Awesome! I am glad you can join :slightly_smiling_face:",
+        "ts": "1468283634.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "How do you sign up! <@U1L0V1X61> <@U1KQGK2CB> <@U1KR9BP0E> ",
+        "ts": "1468285935.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "<@U1L0V1X61>: didn't you say we can just show up? ",
+        "ts": "1468285956.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1L9DD1NY>: you go to <http:\/\/imleagues.com|imleagues.com> and sign up for an account. then you click on 'group fitness' and you'll see all the classes. if you try and just show up you might be on the waitlist and they're pretty strict about that.",
+        "ts": "1468285971.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1L9DD1NY>: if you have trouble signing up online you can also just call them and ask to be added i think.",
+        "ts": "1468286009.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "<@U1L9DD1NY>: You should sign up online if you can. If you are not able to, then you can call, or just show up and she will register you onsite as long as the class is not full (and it usually is not).",
+        "ts": "1468286213.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "My account still has not been completely \"activated\" yet. I need to go to the services desk and figure out what's going on.  But I usually show up and register at the class itself",
+        "ts": "1468286230.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Okay thank you :-)",
+        "ts": "1468286652.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1L0V1X61>: mine was having a lot of issues too - someone helped me fix it today and now it's working great.  It was a girl called Katie - you could ask for her.",
+        "ts": "1468287121.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "<@U1KR9BP0E>: did you call, or did you go to the desk to get it done?",
+        "ts": "1468287204.000022"
+    }
+]

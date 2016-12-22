@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1KRB11QC",
+        "text": "<@U1KRB11QC|dsjorda2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479751114.000002"
+    },
+    {
+        "user": "U1NDG6ULB",
+        "text": "<@U1NDG6ULB|cgreene> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479766234.000003"
+    }
+]

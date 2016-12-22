@@ -1,0 +1,26 @@
+[
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "Does anyone know how to take the predicted probabilities in R and find the optimal cutoff to predict which class they should be in? For example using Youdon's Index method. I'm not quite sure how to do this in R and I'm already a bit loss from logistic on this stuff.",
+        "ts": "1479834100.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1P8QBBD1",
+        "text": "<@U1L41DF9D> Are you asking for sim 3?",
+        "ts": "1479834750.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "no, for pracitcum",
+        "ts": "1479834831.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "<@U1P8QBBD1>",
+        "ts": "1479834837.000014"
+    }
+]

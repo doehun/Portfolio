@@ -1,0 +1,29 @@
+[
+    {
+        "user": "U23JW15TP",
+        "text": "<@U23JW15TP|spanago> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472067744.000002"
+    },
+    {
+        "user": "U23JW15TP",
+        "text": "<@U23JW15TP|spanago> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472068281.000003"
+    },
+    {
+        "user": "U1L6YQUSU",
+        "members": [
+            "U1KVBARR9",
+            "U1L6YQUSU",
+            "U1LV6EH3M",
+            "U1MBT6FRB"
+        ],
+        "text": "<@U1L6YQUSU|johnbetzjr> archived the channel (w\/ 4 members)",
+        "type": "message",
+        "subtype": "channel_archive",
+        "ts": "1472095224.000002"
+    }
+]

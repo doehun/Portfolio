@@ -1,0 +1,156 @@
+[
+    {
+        "type": "message",
+        "user": "U1Q7LP4V9",
+        "text": "If you have a problem with normality due to skewness and transforming your variable with the natural log doesn't work to fix it... What do you do next?",
+        "ts": "1469375426.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L3K1AKD",
+        "text": "Try using a non parametric method maybe? Those don't require a normal distribution... But it depends on what you are trying to do",
+        "ts": "1469376458.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "I believe you could try other transformations to try to fix normality. For instance you could try sqrt(y), 1\/y, 1\/y^2, 1\/sqrt(y). You could also use nonparametric methods like Cecilia said because they aren't based on the any parametric model. ",
+        "ts": "1469376765.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "But a problem with the other transformations is it can makes it much harder to explain ",
+        "ts": "1469376887.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "As we all work to finish our projects and presentations, there is a light at the end of the tunnel!\n<@U1KRBFY3Z> and I have organized a little get-together for everyone after our presentations on Wednesday. We have reserved the entire back patio at Mellow Mushroom from 5-7pm, just for our program. We can all hangout, eat, drink, and celebrate the completion of Summer II. \nSo finish strong. And see you at MM.",
+        "ts": "1469386108.000006",
+        "reactions": [
+            {
+                "name": "pizza",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1L6WB44A",
+                    "U1KT5F4SZ",
+                    "U1KQ9523D",
+                    "U1LBRCSEA",
+                    "U1KRWUXFU",
+                    "U1L6YQUSU",
+                    "U1KRNH021",
+                    "U1KRB11QC",
+                    "U1KR9BP0E",
+                    "U1LMHQY9E",
+                    "U1L9DD1NY",
+                    "U1L1D4WG7",
+                    "U1KRE5NKZ",
+                    "U1L8PJY4W",
+                    "U1L7E8GSU",
+                    "U1L1WFNC8",
+                    "U1KS1BFED",
+                    "U1L0V1X61"
+                ],
+                "count": 19
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1KRLV1CG",
+                    "U1KRB11QC",
+                    "U1KRMNVGC",
+                    "U1LMHQY9E",
+                    "U1L9DD1NY",
+                    "U1LBRCSEA"
+                ],
+                "count": 7
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U1KRBFY3Z",
+                    "U1KRE1L9M",
+                    "U1KRNHQA1",
+                    "U1L4RTKCM",
+                    "U1KRNH021",
+                    "U1L7G5LR4",
+                    "U1KRB11QC",
+                    "U1LLWQ02E",
+                    "U1KSL7L7R",
+                    "U1KVBARR9",
+                    "U1LMHQY9E",
+                    "U1KRBJP47",
+                    "U1L9DD1NY",
+                    "U1KT3UELS",
+                    "U1LBRCSEA",
+                    "U1KSYP1M5",
+                    "U1N43E3E0",
+                    "U1L735VD4",
+                    "U1L1WFNC8"
+                ],
+                "count": 19
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "Does anyone know how to resolve this error in SAS? \"The SAS system stopped processing this step because of insufficient memory.\" Help! :see_no_evil: ",
+        "ts": "1469391100.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "Try a library computer with SAS?  Can't guarantee it fixes that error though.",
+        "ts": "1469391167.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "This forum says something about a memsize=max option <https:\/\/communities.sas.com\/t5\/General-SAS-Programming\/SAS-insufficient-memory-error\/td-p\/180723>",
+        "attachments": [
+            {
+                "title": "SAS insufficient memory error",
+                "title_link": "https:\/\/communities.sas.com\/t5\/General-SAS-Programming\/SAS-insufficient-memory-error\/td-p\/180723",
+                "text": "Just had a quick question regarding SAS. When I run firm\/year fixed regression, I get: ERROR: The SAS System stopped processing this step because of insufficient memory. I do have 1800+ firms, but is this because my computer\u2019s memory is not big enough?",
+                "fallback": "SAS insufficient memory error",
+                "ts": 1416535532,
+                "from_url": "https:\/\/communities.sas.com\/t5\/General-SAS-Programming\/SAS-insufficient-memory-error\/td-p\/180723",
+                "service_name": "communities.sas.com",
+                "id": 1
+            }
+        ],
+        "ts": "1469391623.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "I read that post too, but it says it's only enabled at startup? I'm not sure what that means?",
+        "ts": "1469391974.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1L8PJY4W",
+        "text": "Ok friends---  As you heard earlier this week, we are collecting school supplies to donate to Centennial Campus Magnet Middle School.  Kimberly G., Sharon W. and I are helping to coordinate things and we thought it would be fun to turn it into a competition BLUE vs. ORANGE cohorts. We're going to place a box in each classroom for you to put items in.  One item= one point.  The cohort with the most points wins!  We need the supplies dropped off in the boxes no later than Thursday, July 28th. Winner gets bragging rights... LET THE GAMES BEGIN!:dancer::skin-tone-3:",
+        "ts": "1469400061.000012",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1KRNHQA1",
+                    "U1KQ9523D"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U1MDE4NAG>: I've had that error come up before. If you clear your log and delete some of the files in the work folder that you don't need anymore sometimes that gets rid of that. It can just be because SAS has too much it's trying to remember during that session ",
+        "ts": "1469400444.000013"
+    }
+]

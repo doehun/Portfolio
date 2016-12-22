@@ -1,0 +1,62 @@
+[
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "Is there a game this week?",
+        "ts": "1473891570.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "Yeah tomorrow 6:30",
+        "ts": "1473891584.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KSEJ01W",
+        "text": "Sorry boys can't make it this week. Get that w ",
+        "ts": "1473893535.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "A few people have already said they can't make it tomorrow so can everyone that is coming react to this somehow?",
+        "edited": {
+            "user": "U1KRNHQA1",
+            "ts": "1473893907.000000"
+        },
+        "ts": "1473893896.000005",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1M37FW5U",
+                    "U1NDG6ULB",
+                    "U1KRB11QC",
+                    "U1L90S3QC",
+                    "U1L974M70",
+                    "U1KRNHQA1"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1WFNC8",
+        "text": "I can't make it tomorrow either my knee is messed up... Kick some ass for me team! ",
+        "ts": "1473893994.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1L90S3QC",
+        "text": "I'll do my best to get there. I've got a meeting till 6:30... so well see.",
+        "ts": "1473899314.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1Q7LP4V9",
+        "text": "Same for me... Might be a bit late if I make it at all",
+        "ts": "1473899395.000009"
+    }
+]

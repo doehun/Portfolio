@@ -1,0 +1,93 @@
+[
+    {
+        "user": "U1KS1BFED",
+        "text": "<@U1KS1BFED|doug_nicholson> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478213816.000002"
+    },
+    {
+        "user": "U1KS1BFED",
+        "purpose": "all things nc state basketball",
+        "text": "<@U1KS1BFED|doug_nicholson> set the channel purpose: all things nc state basketball",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1478213816.000003"
+    },
+    {
+        "user": "U1L3G0YRJ",
+        "text": "<@U1L3G0YRJ|emmyburnett> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478213917.000004"
+    },
+    {
+        "user": "U1L6YQUSU",
+        "text": "<@U1L6YQUSU|johnbetzjr> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478213930.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Oh wait.  Specifically NC State basketball?  ",
+        "ts": "1478213951.000006"
+    },
+    {
+        "user": "U1L9DD1NY",
+        "text": "<@U1L9DD1NY|mjdensmo> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478213976.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KS1BFED",
+        "text": "Game is streaming right now for free: <http:\/\/gopack.com\/watch\/?Live=576>",
+        "attachments": [
+            {
+                "title": "Men's Basketball vs. Lynn University (Exh.)",
+                "title_link": "http:\/\/gopack.com\/watch\/?Live=576",
+                "fallback": "Men's Basketball vs. Lynn University (Exh.)",
+                "image_url": "http:\/\/gopack.com\/showcase\/img\/aa_videothumb.png",
+                "from_url": "http:\/\/gopack.com\/watch\/?Live=576",
+                "image_width": 225,
+                "image_height": 127,
+                "image_bytes": 5506,
+                "service_icon": "http:\/\/gopack.com\/images\/logos\/site\/site.png",
+                "service_name": "gopack.com",
+                "id": 1
+            }
+        ],
+        "ts": "1478213988.000008"
+    },
+    {
+        "user": "U1KRE1L9M",
+        "text": "<@U1KRE1L9M|kevin.danchisko> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478214293.000010"
+    },
+    {
+        "user": "U1KRHCR7T",
+        "text": "<@U1KRHCR7T|zack_schwartz> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478214813.000011"
+    },
+    {
+        "user": "U1L3PU7BJ",
+        "text": "<@U1L3PU7BJ|dmalave> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478217633.000012"
+    },
+    {
+        "user": "U1KSL7L7R",
+        "text": "<@U1KSL7L7R|dustinwicker> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478218320.000013"
+    }
+]

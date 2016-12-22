@@ -1,0 +1,77 @@
+[
+    {
+        "user": "U1KSH8676",
+        "text": "<@U1KSH8676|ejmaxon> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468429860.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KSH8676",
+        "text": "For all that love to ball",
+        "ts": "1468429881.000003"
+    },
+    {
+        "user": "U1MDE4NAG",
+        "text": "<@U1MDE4NAG|michaelbyman> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468430748.000002"
+    },
+    {
+        "user": "U1Q5GHC2J",
+        "text": "<@U1Q5GHC2J|rwang10> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468436982.000002"
+    },
+    {
+        "user": "U1KSL7L7R",
+        "text": "<@U1KSL7L7R|dustinwicker> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468437368.000003"
+    },
+    {
+        "user": "U1L974M70",
+        "text": "<@U1L974M70|brshallo> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468438353.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L974M70",
+        "text": "On my way there now.",
+        "ts": "1468438396.000003"
+    },
+    {
+        "user": "U1NDG6ULB",
+        "text": "<@U1NDG6ULB|cgreene> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468439300.000002"
+    },
+    {
+        "user": "U1KSR1MS4",
+        "text": "<@U1KSR1MS4|rocky_chen> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468445800.000002"
+    },
+    {
+        "user": "U1L3PU7BJ",
+        "text": "<@U1L3PU7BJ|dmalave> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468451820.000002"
+    },
+    {
+        "user": "U1KRE1L9M",
+        "text": "<@U1KRE1L9M|kevin.danchisko> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468458849.000003"
+    }
+]

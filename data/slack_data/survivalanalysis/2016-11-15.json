@@ -1,0 +1,246 @@
+[
+    {
+        "type": "message",
+        "user": "U1PF7HWTF",
+        "text": "Something that helped me out: Left-censored is when there is an upper limit on the event time of the observation but no lower limit. Example 1: We are interested in studying how early chimpanzees get out of bed in the morning. We go to to the rain forest every morning and record what time a family of chimpanzees get down from their trees. So we like to sleep in and we get there every morning at 9:00am sharp to record what time each of these monkey get down from the tree. Some mornings, there are already a few monkeys down from their trees. We know that these handful of early-rising chimpanzees at the very latest (upper limit) woke up at 9:00am, but we don't have any kind of lower limit for them (they could have gotten up at 5:00am!). Those chimpanzees are left-censored. We pack up to leave everyday to go home at 12:00pm. There are still monkeys up there sleeping in the tree! These monkeys are right-censored...they have a lower limit (they MUST have woken up LATER than 12:00pm) but we don't have any kind of upper limit on them (they could have slept there all day)",
+        "edited": {
+            "user": "U1PF7HWTF",
+            "ts": "1479227577.000000"
+        },
+        "ts": "1479227504.000039",
+        "reactions": [
+            {
+                "name": "monkey",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1L735VD4",
+                    "U1M7AD5L2",
+                    "U1KRNH021",
+                    "U1LBRCSEA",
+                    "U1KRSV7AN",
+                    "U1L5GU954",
+                    "U1KT5F4SZ",
+                    "U1KQGK2CB",
+                    "U1L40P4N9",
+                    "U1NUU2U9E",
+                    "U1MDE4NAG",
+                    "U1KRF9BAP",
+                    "U1KRZT11T",
+                    "U1KVBARR9"
+                ],
+                "count": 15
+            },
+            {
+                "name": "see_no_evil",
+                "users": [
+                    "U1KT5F4SZ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "angel",
+                "users": [
+                    "U1L0RBZFH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U23JW15TP",
+        "text": "Thank you Nick!!!!!",
+        "ts": "1479228910.000043",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1PF7HWTF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1NDG6ULB",
+        "text": "<@U1NDG6ULB|cgreene> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479233200.000044"
+    },
+    {
+        "user": "U1KT1RZ24",
+        "text": "<@U1KT1RZ24|mike_hruska> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479235799.000045"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1KT9ATA5|amir.lyall> uploaded a file: <https:\/\/msa17.slack.com\/files\/amir.lyall\/F3330MRJ8\/survival_proc_summaries.docx|Survival PROC summaries.docx> and commented: a quick summary of the different procedures and what they do from the sas survival book",
+        "file": {
+            "id": "F3330MRJ8",
+            "created": 1479243799,
+            "timestamp": 1479243799,
+            "name": "Survival PROC summaries.docx",
+            "title": "Survival PROC summaries.docx",
+            "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "filetype": "docx",
+            "pretty_type": "Word Document",
+            "user": "U1KT9ATA5",
+            "editable": false,
+            "size": 12239,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F3330MRJ8\/survival_proc_summaries.docx?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F3330MRJ8\/download\/survival_proc_summaries.docx?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "permalink": "https:\/\/msa17.slack.com\/files\/amir.lyall\/F3330MRJ8\/survival_proc_summaries.docx",
+            "permalink_public": "https:\/\/slack-files.com\/T1KRCES8H-F3330MRJ8-22ef2e9176",
+            "channels": [
+                "C2WUVMNAG"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc3330N0TW",
+                "created": 1479243799,
+                "timestamp": 1479243799,
+                "user": "U1KT9ATA5",
+                "is_intro": true,
+                "comment": "a quick summary of the different procedures and what they do from the sas survival book",
+                "channel": ""
+            },
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U1L93SMGF",
+                        "U1KSL7C10",
+                        "U1NUU2U9E"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        "user": "U1KT9ATA5",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1KT9ATA5|amir.lyall>",
+        "bot_id": null,
+        "ts": "1479243800.000046"
+    },
+    {
+        "user": "U1KQ9523D",
+        "text": "<@U1KQ9523D|lisaholbach> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479253812.000048"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Thanks <@U1KT9ATA5>. I love a good Proc Doc.",
+        "ts": "1479254731.000049"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Too bad <@U1KRNTXL5> didn't post it, or it would be a Doc Proc Doc.",
+        "ts": "1479254754.000050",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1P8QBBD1",
+                    "U1L5GU954",
+                    "U1L7E8GSU",
+                    "U1LBRCSEA",
+                    "U1KRLV1CG",
+                    "U1KSL7C10",
+                    "U1L41DF9D",
+                    "U1KSL7L7R",
+                    "U1KT9ATA5"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "Doc proc proc doc ",
+        "ts": "1479261398.000053",
+        "reactions": [
+            {
+                "name": "nerd_face",
+                "users": [
+                    "U1L6YQUSU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "If were a company we could invest in, I'd buy me some Doc Proc proc doc stock.",
+        "ts": "1479262123.000054",
+        "reactions": [
+            {
+                "name": "chart_with_upwards_trend",
+                "users": [
+                    "U1KRZT11T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "Do we have a data dictionary for HW2 data set? in the \"event\" column there are \"censored\" and \"withdraw\" levels... as well as \"ltx\", which im not sure what it stands for... any ideas?",
+        "ts": "1479262720.000055"
+    },
+    {
+        "type": "message",
+        "user": "U1NDG6ULB",
+        "text": "<@U1NUU2U9E> descriptions in the HW2 link",
+        "edited": {
+            "user": "U1NDG6ULB",
+            "ts": "1479263263.000000"
+        },
+        "ts": "1479263218.000056"
+    },
+    {
+        "type": "message",
+        "user": "U1NDG6ULB",
+        "text": "<https:\/\/moodle-courses1617.wolfware.ncsu.edu\/pluginfile.php\/721155\/mod_page\/content\/28\/HW2.pdf>",
+        "ts": "1479263294.000059"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1NDG6ULB> thanks... that's a clear sign that i gotta stop studying for today... i looked a it",
+        "ts": "1479263296.000060"
+    },
+    {
+        "type": "message",
+        "user": "U1NDG6ULB",
+        "text": "Haha that's a good call",
+        "ts": "1479263326.000061"
+    },
+    {
+        "user": "U1KT3UELS",
+        "text": "<@U1KT3UELS|clareburns> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479264075.000062"
+    }
+]

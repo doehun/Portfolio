@@ -1,0 +1,39 @@
+[
+    {
+        "type": "message",
+        "user": "U1Q7LP4V9",
+        "text": "check my message in the general channel regarding frisbee!",
+        "ts": "1479576157.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L90S3QC",
+        "text": "anyone interested in a pickup game tomorrow?",
+        "ts": "1479577760.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Yesssss!",
+        "ts": "1479577961.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1Q7LP4V9",
+        "text": "If there is not enough in interest in frisbee I would be down",
+        "ts": "1479578745.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "I'd play frisbee or football",
+        "ts": "1479579749.000006"
+    },
+    {
+        "user": "U1L95JP1S",
+        "text": "<@U1L95JP1S|mattkelk> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1479593519.000007"
+    }
+]

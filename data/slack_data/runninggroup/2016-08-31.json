@@ -1,0 +1,82 @@
+[
+    {
+        "user": "U1PF7HWTF",
+        "text": "<@U1PF7HWTF|nickweimer> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472672812.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Hey everyone! We are going to meet tomorrow morning at the institute at 6:30. This run has two possible routes depending on what you want to do. There is a ~4.2 miles loop and ~2.6 mile loop. What better way to get prepared to find out your practicum team. Longer Route: <http:\/\/www.mapmyrun.com\/routes\/view\/1246516810>",
+        "attachments": [
+            {
+                "service_name": "MapMyRun",
+                "title": "9\/1\/16 IAA Longer Group Run",
+                "title_link": "http:\/\/www.mapmyrun.com\/routes\/view\/1246516810",
+                "text": "A Longer option for people who want to go a little farther",
+                "fallback": "MapMyRun: 9\/1\/16 IAA Longer Group Run",
+                "from_url": "http:\/\/www.mapmyrun.com\/routes\/view\/1246516810",
+                "thumb_url": "http:\/\/drzetlglcbfx.cloudfront.net\/routes\/thumbnail\/1246516810?size=200x200",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "http:\/\/d2i3r43q6ffvz8.cloudfront.net\/prod\/public\/images\/min\/icons\/favicons\/run\/apple-touch-icon.d37300696f2f.png",
+                "id": 1
+            }
+        ],
+        "ts": "1472673297.000003",
+        "reactions": [
+            {
+                "name": "runner",
+                "users": [
+                    "U1LMHQY9E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Shorter Route: <http:\/\/www.mapmyrun.com\/routes\/view\/1246511077>",
+        "edited": {
+            "user": "U1KRZT11T",
+            "ts": "1472673350.000000"
+        },
+        "ts": "1472673308.000005",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1N43E3E0",
+                    "U1L5GU954",
+                    "U1LMHQY9E"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "As some of you guys know, I've officially signed up for the City of Oaks half marathon on Nov 6. Anyone else planning to run it?",
+        "ts": "1472684551.000007",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRE5NKZ",
+                    "U1KRZT11T"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "I'm a maybe at this point. I am deciding between City of Oaks and a half the following weekend in the Outer Banks. But I will keep you posted!",
+        "ts": "1472685194.000008"
+    }
+]

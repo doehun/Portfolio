@@ -1,0 +1,30 @@
+[
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "So is tomorrow happening with the weather concerns?",
+        "ts": "1474330795.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Rain or shine I will be there",
+        "ts": "1474330962.000015",
+        "reactions": [
+            {
+                "name": "umbrella_with_rain_drops",
+                "users": [
+                    "U1L5GU954",
+                    "U1NLH1CP8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Sorry <@U1KRZT11T>  I melt in the rain.",
+        "ts": "1474337387.000016"
+    }
+]

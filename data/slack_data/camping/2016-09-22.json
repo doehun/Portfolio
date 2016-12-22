@@ -1,0 +1,102 @@
+[
+    {
+        "user": "U1L5GU954",
+        "text": "<@U1L5GU954|jrweston> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474580544.000002"
+    },
+    {
+        "user": "U1L5GU954",
+        "purpose": "To camp",
+        "text": "<@U1L5GU954|jrweston> set the channel purpose: To camp",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1474580544.000003"
+    },
+    {
+        "user": "U1L7E8GSU",
+        "text": "<@U1L7E8GSU|rachelkurtz> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474580614.000004"
+    },
+    {
+        "user": "U1L3G0YRJ",
+        "text": "<@U1L3G0YRJ|emmyburnett> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474580725.000005"
+    },
+    {
+        "user": "U1KRB11QC",
+        "text": "<@U1KRB11QC|dsjorda2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474580728.000006"
+    },
+    {
+        "user": "U1LJRDPLP",
+        "text": "<@U1LJRDPLP|alexhorowitz> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474581017.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Some plans thus far: Renting camping equipment from the school because it is dirt cheap (<https:\/\/recreation.dasa.ncsu.edu\/outdoor-adventures\/equipment-rental-center\/>). Hiking in either Nantahala or Dupont. Looking for large campsite",
+        "ts": "1474581037.000008",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L5GU954"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1KT9ATA5",
+        "text": "<@U1KT9ATA5|amir.lyall> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474581141.000009"
+    },
+    {
+        "user": "U1L95JP1S",
+        "text": "<@U1L95JP1S|mattkelk> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474582845.000010"
+    },
+    {
+        "user": "U1KRNHQA1",
+        "text": "<@U1KRNHQA1|pavalent> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474582913.000011"
+    },
+    {
+        "user": "U1KRHCR7T",
+        "text": "<@U1KRHCR7T|zack_schwartz> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474584851.000012"
+    },
+    {
+        "user": "U1KSL7L7R",
+        "text": "<@U1KSL7L7R|dustinwicker> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474587095.000013"
+    },
+    {
+        "user": "U1NUU2U9E",
+        "text": "<@U1NUU2U9E|kb5522> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474592805.000014"
+    }
+]

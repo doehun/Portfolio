@@ -1,0 +1,68 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "<http:\/\/on.mash.to\/2eDVNyG>",
+        "attachments": [
+            {
+                "service_name": "Mashable",
+                "title": "Chipotle's earnings call was a hot and spicy mess",
+                "title_link": "http:\/\/on.mash.to\/2eDVNyG",
+                "text": "Things still aren't going well for Chipotle.",
+                "fallback": "Mashable: Chipotle's earnings call was a hot and spicy mess",
+                "image_url": "http:\/\/a.amz.mshcdn.com\/media\/ZgkyMDE2LzEwLzI1Lzc5L0dldHR5SW1hZ2VzNTA5MDU4NTc2Ljg2NWFmLmpwZwpwCXRodW1iCTEyMDB4NjMwCmUJanBn\/8ea9d0a2\/357\/GettyImages-509058576.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "http:\/\/on.mash.to\/2eDVNyG",
+                "image_bytes": 107524,
+                "service_icon": "http:\/\/mashable.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1477478230.000029"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "<@U1KRZT11T> will be mad, but the good news is Moe's is basically the same thing.",
+        "ts": "1477481935.000031"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "   Agree to disagree ",
+        "ts": "1477485893.000032",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1LMHQY9E",
+                    "U1SMADBU4"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "There's free food in the kitchen...",
+        "ts": "1477491894.000033"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "It's rice that's cooked in a tomato sauce that has beef and pork in it ",
+        "ts": "1477491928.000034",
+        "reactions": [
+            {
+                "name": "scream",
+                "users": [
+                    "U1KQGK2CB",
+                    "U1L3PU7BJ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1KSL7L7R",
+        "text": "<@U1KSL7L7R|dustinwicker> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1471993243.000002"
+    }
+]

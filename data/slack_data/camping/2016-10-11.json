@@ -1,0 +1,67 @@
+[
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "Won't be able to make it :(\nHave fun! ",
+        "ts": "1476187884.000002"
+    },
+    {
+        "user": "U1KT9ATA5",
+        "text": "<@U1KT9ATA5|amir.lyall> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1476187890.000003"
+    },
+    {
+        "user": "U1L41DF9D",
+        "text": "<@U1L41DF9D|cacolli6> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476192439.000004"
+    },
+    {
+        "user": "U1KRNTXL5",
+        "text": "<@U1KRNTXL5|aprocter> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476224960.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "Ok this sounds like too much fun--may I join in?  Any preference on which carpool etc. to sign up for?  I can bring 3 frisbees including a light-up one :slightly_smiling_face:",
+        "ts": "1476225921.000006",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U1L6WB44A",
+                    "U1KRNH021",
+                    "U1KRB11QC"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Feel free to join any carpool <@U1KRNTXL5>",
+        "ts": "1476226998.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "<@U1KRB11QC> thanks--I joined yours since you're leaving slightly later Sat.",
+        "ts": "1476227915.000008",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U1KRB11QC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

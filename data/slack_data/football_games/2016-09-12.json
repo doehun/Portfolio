@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1LJRDPLP",
+        "text": "<@U1LJRDPLP|alexhorowitz> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473716323.000019"
+    }
+]

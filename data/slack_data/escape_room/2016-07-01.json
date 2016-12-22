@@ -1,0 +1,84 @@
+[
+    {
+        "user": "U1L5GU954",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L5GU954|jrweston> has joined the channel",
+        "ts": "1467374069.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1LJRDPLP",
+        "text": "<@U1L9DD1NY>: Where do you want me to meet you later?",
+        "ts": "1467388544.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "<@U1LJRDPLP>: the lounge downstairs or wherever people eat lunch?! ",
+        "ts": "1467390308.000019",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1LJRDPLP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Hey Connor's car, where are you?",
+        "ts": "1467396289.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "Haha that's awesome guys!",
+        "ts": "1467401047.000024",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L41DF9D",
+                    "U1L6YQUSU"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "The real party is at Ben and Jerrys!",
+        "ts": "1467402188.000028"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "so jealous!! Wish I could have gone!",
+        "ts": "1467404452.000031"
+    },
+    {
+        "user": "U1L95JP1S",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L95JP1S|mattkelk> has joined the channel",
+        "ts": "1467405928.000032"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Picture from today posted in the <#C1KR6TMD3> area!",
+        "ts": "1467418075.000036"
+    },
+    {
+        "user": "U1KT1RZ24",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KT1RZ24|mike_hruska> has joined the channel",
+        "ts": "1467422348.000037"
+    }
+]

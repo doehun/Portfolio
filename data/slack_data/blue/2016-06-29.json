@@ -1,0 +1,65 @@
+[
+    {
+        "user": "U1L2P17DZ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L2P17DZ|kailistevens> has joined the channel",
+        "ts": "1467206661.000002"
+    },
+    {
+        "user": "U1KSYP1M5",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KSYP1M5|madison> has joined the channel",
+        "ts": "1467216893.000003"
+    },
+    {
+        "user": "U1MDE4NAG",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1MDE4NAG|michaelbyman> has joined the channel",
+        "ts": "1467219041.000004"
+    },
+    {
+        "user": "U1KT3UELS",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KT3UELS|clareburns> has joined the channel",
+        "ts": "1467219417.000005"
+    },
+    {
+        "user": "U1L415ECD",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L415ECD|joeloftus> has joined the channel",
+        "ts": "1467219607.000006"
+    },
+    {
+        "user": "U1LV6EH3M",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1LV6EH3M|mmspenc2> has joined the channel",
+        "ts": "1467219609.000007"
+    },
+    {
+        "user": "U1L0V1X61",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L0V1X61|raj> has joined the channel",
+        "ts": "1467230750.000008"
+    },
+    {
+        "user": "U1MH8UXHD",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1MH8UXHD|garrett.tomlinson> has joined the channel",
+        "ts": "1467239079.000009"
+    },
+    {
+        "user": "U1KQTJ6BV",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KQTJ6BV|andreazadia> has joined the channel",
+        "ts": "1467248023.000010"
+    }
+]

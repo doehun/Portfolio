@@ -1,0 +1,60 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "Fun fact: a half byte is called a nibble :information_desk_person::skin-tone-3:",
+        "ts": "1469824737.000014",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1KR9BP0E",
+                    "U1L8PJY4W",
+                    "U1KRBJP47",
+                    "U1KRB11QC",
+                    "U1P8QBBD1",
+                    "U1LBRCSEA",
+                    "U1L3PU7BJ",
+                    "U1KSL7L7R"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "For those studying for the SAS Certification - I have updated the MSA site with the latest links with resources here: <https:\/\/sites.google.com\/a\/ncsu.edu\/msa-2017\/home\/practice>",
+        "edited": {
+            "user": "U1L0V1X61",
+            "ts": "1469827127.000000"
+        },
+        "ts": "1469827066.000015",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1KRBJP47",
+                    "U1KRB11QC",
+                    "U1P8QBBD1",
+                    "U1L8PJY4W",
+                    "U1L9DD1NY",
+                    "U1KSL7L7R",
+                    "U1KSL7C10",
+                    "U1KQGK2CB",
+                    "U1KQ9523D",
+                    "U1L974M70"
+                ],
+                "count": 11
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "If you all have additional tips, please let me know and I will update the site - let's help each other be successful! :slightly_smiling_face:",
+        "ts": "1469827153.000017"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1KSR4JP3",
+        "text": "<@U1KSR4JP3|emnunn> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1471824796.000003"
+    }
+]

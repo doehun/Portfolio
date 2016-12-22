@@ -1,0 +1,243 @@
+[
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I'm dropping some Keurig Starbucks salted caramel hot cocoa cups in the commons for anyone who wants one.",
+        "ts": "1478526078.002126",
+        "reactions": [
+            {
+                "name": "coffee",
+                "users": [
+                    "U1KRWUXFU",
+                    "U1KQGRG2F",
+                    "U1KQ9523D"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1XCJ1X4H",
+        "text": "FYI - Sarah Egan Warren is working from home today (have seen a few people looking for her) and is available by email if you need her.",
+        "ts": "1478533177.002127"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "If you guys get an email from Andrea Ruiz Rabadan, don't open it!  She did not send that out.",
+        "ts": "1478536788.002128",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KR891RC",
+                    "U1L9DD1NY",
+                    "U1L9669PD",
+                    "U1MDHNYR5",
+                    "U1KT3UELS",
+                    "U1LBRCSEA",
+                    "U1L1WFNC8",
+                    "U1LAAMJ0M",
+                    "U1KRHCR7T",
+                    "U1NUU2U9E",
+                    "U1P8QBBD1"
+                ],
+                "count": 12
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U1KRB11QC",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[November 7th, 2016 8:39 AM] rachelkurtz: If you guys get an email from Andrea Ruiz Rabadan, don't open it!  She did not send that out.",
+                "ts": "1478536788.002128",
+                "author_subname": "rachelkurtz",
+                "channel_id": "C1KR6TMD3",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "If you guys get an email from Andrea Ruiz Rabadan, don't open it!  She did not send that out.",
+                "author_name": "Rachel Kurtz",
+                "author_link": "https:\/\/msa17.slack.com\/team\/rachelkurtz",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-06-24\/54258582341_bfd282f926f35c363991_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U1KRB11QC|dsjorda2> pinned a message to this channel.",
+        "ts": "1478536875.002129"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "<!channel> see above",
+        "ts": "1478537343.002130"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "If anyone needs a fun new winter hat for all the snow we're about to get this winter :face_with_rolling_eyes: this is my favorite website - <https:\/\/www.loveyourmelon.com\/collections\/release?utm_source=Love+Your+Melon+Supporter+Crew&amp;utm_campaign=acea00c175-EMAIL_CAMPAIGN_2016_11_07&amp;utm_medium=email&amp;utm_term=0_86648bedb5-acea00c175-264246125&amp;mc_cid=acea00c175&amp;mc_eid=efb310085a>\n\nthey are fantastic, great quality and for a good cause.  today they're releasing a bunch of new colors if you feel like checking it out",
+        "attachments": [
+            {
+                "service_name": "Love Your Melon",
+                "title": "     Release \u2013 Love Your Melon   ",
+                "title_link": "https:\/\/www.loveyourmelon.com\/collections\/release?utm_source=Love+Your+Melon+Supporter+Crew&utm_campaign=acea00c175-EMAIL_CAMPAIGN_2016_11_07&utm_medium=email&utm_term=0_86648bedb5-acea00c175-264246125&mc_cid=acea00c175&mc_eid=efb310085a",
+                "fallback": "Love Your Melon:      Release \u2013 Love Your Melon   ",
+                "image_url": "http:\/\/cdn.shopify.com\/s\/files\/1\/0445\/0437\/t\/25\/assets\/logo.png?4225096516325297533",
+                "from_url": "https:\/\/www.loveyourmelon.com\/collections\/release?utm_source=Love+Your+Melon+Supporter+Crew&utm_campaign=acea00c175-EMAIL_CAMPAIGN_2016_11_07&utm_medium=email&utm_term=0_86648bedb5-acea00c175-264246125&mc_cid=acea00c175&mc_eid=efb310085a",
+                "image_width": 887,
+                "image_height": 250,
+                "image_bytes": 18904,
+                "service_icon": "http:\/\/cdn.shopify.com\/s\/files\/1\/0445\/0437\/t\/25\/assets\/favicon.ico?4225096516325297533",
+                "id": 1
+            }
+        ],
+        "ts": "1478537458.002131",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U1KRWUXFU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "now i am scared of opening links... :thinking_face:",
+        "ts": "1478537620.002133",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KSGHLPJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "scream",
+                "users": [
+                    "U1P8QBBD1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Ok, so OpenRefine class can be done next Tuesday afternoon here at the IAA, otherwise it needs to wait until after Thanksgiving. I know Tuesday is open all day for Orange, and ends at 1:45 for Blue, but 4p is the best time that is possible. Please respond to the poll below to confirm attendance.",
+        "ts": "1478540498.002134"
+    },
+    {
+        "text": "*I will attend the OpenRefine Demo class on Tuesday, the 18th, at 4pm. Location To be Announced.*\n\n:one: Yes\n:two: No\n",
+        "username": "Simple Poll",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2016-06-23\/53872986647_48.png"
+        },
+        "bot_id": "B27NW8XK3",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1478540596.002135",
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1L1D4WG7",
+                    "U1L9669PD",
+                    "U1KSL7C10",
+                    "U1KQGK2CB",
+                    "U1P8QBBD1",
+                    "U1KRWUXFU",
+                    "U1L1D4UG6",
+                    "U1L41DF9D",
+                    "U1Q7LP4V9",
+                    "U1L7E8GSU",
+                    "U1KR891RC",
+                    "U1KSEJ01W",
+                    "U1KRNHQA1",
+                    "U1L6WB44A",
+                    "U1L3PU7BJ",
+                    "U1KT2JJE8",
+                    "U1L2QDX7Y",
+                    "U1KQGRG2F",
+                    "U1NFS178D",
+                    "U1KRZT11T",
+                    "U1KRMNVGC",
+                    "U1L735VD4",
+                    "U1KT9ATA5",
+                    "U1Q5GHC2J",
+                    "U1L974M70"
+                ],
+                "count": 26
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U1NUU2U9E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Gah.. it's the 15th., not the 18th. lol",
+        "ts": "1478540643.002136"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "Would ya'll be able to send out an google calendar invite?",
+        "ts": "1478542894.002137"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Yep. I need to lock in the time with Hunt and book the room with Laura. Once that is done we'll get it on the calendar.",
+        "ts": "1478543419.002138"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "Someone left an hp mouse in Union.  Will take cookies as ransom payment.",
+        "ts": "1478547671.002139",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KSL7L7R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N04S4LV",
+        "text": "I have some conflicting schedules for practicum mid-terms and predictive modeling certification, would anyone be willing to swap the certification dates with me. I am taking the predictive modeler certification on Dec 16.  Would anyone doing it on Dec 15 be willing to swap the dates.",
+        "ts": "1478561714.002140"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "I can switch with you <@U1N04S4LV> ",
+        "ts": "1478562223.002141"
+    },
+    {
+        "type": "message",
+        "user": "U1N04S4LV",
+        "text": "Thanks a lot MJ.",
+        "ts": "1478562306.002142"
+    }
+]

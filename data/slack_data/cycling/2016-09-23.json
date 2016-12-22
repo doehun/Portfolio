@@ -1,0 +1,19 @@
+[
+    {
+        "user": "U1KQYG6SJ",
+        "text": "<@U1KQYG6SJ|rose> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474656309.000002"
+    },
+    {
+        "user": "U1KQYG6SJ",
+        "members": [
+            "U1KQYG6SJ"
+        ],
+        "text": "<@U1KQYG6SJ|rose> archived the channel (w\/ 1 member)",
+        "type": "message",
+        "subtype": "channel_archive",
+        "ts": "1474656337.000003"
+    }
+]

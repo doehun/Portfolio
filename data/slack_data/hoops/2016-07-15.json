@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1KRTHAQZ",
+        "text": "<@U1KRTHAQZ|pranavn20> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468629182.000002"
+    },
+    {
+        "user": "U1KT1RZ24",
+        "text": "<@U1KT1RZ24|mike_hruska> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468639263.000002"
+    }
+]

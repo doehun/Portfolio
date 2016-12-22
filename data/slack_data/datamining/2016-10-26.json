@@ -1,0 +1,1031 @@
+[
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "No  problem <@U1KT3UELS> I'm glad I can be of help!!  I'm hoping to continue to do this throughout the year for every test.",
+        "attachments": [
+            {
+                "fallback": "[October 25th, 2016 11:33 PM] clareburns: Thanks for always sharing, <@U1L41DF9D> !! Really big fan of your quizlets! ",
+                "ts": "1477452805.000051",
+                "author_subname": "clareburns",
+                "channel_id": "C2KPC2N3B",
+                "channel_name": "datamining",
+                "is_msg_unfurl": true,
+                "text": "Thanks for always sharing, <@U1L41DF9D> !! Really big fan of your quizlets! ",
+                "author_name": "Clare Burns",
+                "author_link": "https:\/\/msa17.slack.com\/team\/clareburns",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-06-23\/53908718032_0b924b28c30ca895db39_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/msa17.slack.com\/archives\/datamining\/p1477452805000051",
+                "is_share": true,
+                "footer": "Posted in #datamining"
+            }
+        ],
+        "ts": "1477483145.000053",
+        "reactions": [
+            {
+                "name": "hugging_face",
+                "users": [
+                    "U1KT3UELS",
+                    "U1L974M70"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U1KSR4JP3",
+        "text": "<@U1KSR4JP3|emnunn> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477488213.000054"
+    },
+    {
+        "user": "U1KRE1L9M",
+        "text": "<@U1KRE1L9M|kevin.danchisko> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477508979.000055"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "is anybody looking at the exercises?",
+        "ts": "1477510827.000056",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U1KQGK2CB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "<@U1LMHQY9E> I've completed all of them",
+        "ts": "1477510909.000057"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "are you at the IAA or somewhere else?",
+        "ts": "1477510923.000058"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "I'm here at the IAA right now",
+        "ts": "1477510935.000059"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "<@U1LMHQY9E>",
+        "ts": "1477510942.000060"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "nice, i got a question, maybe you can walk me through it, wehre are you?",
+        "ts": "1477510952.000061"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "I'm in Polk with HW team, about to practice presentation - I can help you after we practice!",
+        "ts": "1477510985.000062"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "sounds good thanks!",
+        "ts": "1477511000.000063"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "Which one? I'm in blue classroom and might be able to help. ",
+        "ts": "1477511110.000064"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Sequence 1.b.ii",
+        "ts": "1477511139.000065"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "<@U1L41DF9D>  -- i appreciate the help, but <@U1L7ERY77> sat me down and gave me a talking to, got me through it",
+        "ts": "1477512249.000066"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "<@U1LMHQY9E> No problem, let me know if I can help you out with anything else!!",
+        "ts": "1477512525.000067"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "totally!",
+        "ts": "1477512565.000068"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR4JP3",
+        "text": "could anyone explain the last part of question 2 on the knn worksheet?",
+        "ts": "1477516578.000069"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR4JP3",
+        "text": "I\u2019m so lost",
+        "ts": "1477516595.000070"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Yes <@U1KSR4JP3> .  Once you calculate the manhattan distance for each value, there should be one closest one.  That's the nearest neighbor and your first prediction.",
+        "ts": "1477517189.000071"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Then, the 3 closest ones get averaged together to make your second and final prediction ",
+        "edited": {
+            "user": "U1L6YQUSU",
+            "ts": "1477517262.000000"
+        },
+        "ts": "1477517234.000072"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR4JP3",
+        "text": "I understand that part. I\u2019m talking about XX(transpose)\u2026. sorry I think it should be a separate problem but it doesn\u2019t have a number",
+        "ts": "1477517243.000073"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "I'm in the same boat <@U1KSR4JP3>",
+        "ts": "1477517284.000075"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "The new matrix should have 1's and 0's in the spots where they're in common or not.  ",
+        "ts": "1477517310.000076"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "So for example, if you calculate the matrix, entry 5,6 and 6,5 are both ones, signifying that person 5 and person 6 share the same attribute, which in this case is 'other'",
+        "ts": "1477517372.000077"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "So those two observations are similar to each other ",
+        "ts": "1477517408.000078"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "ahh.. yeah that makes sense. Hopefully I'll remember for tomorrow!",
+        "ts": "1477517502.000079",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L6YQUSU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "thanks <@U1L6YQUSU>",
+        "ts": "1477517506.000080"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR4JP3",
+        "text": "so are you just looking for the people that share 1s?",
+        "ts": "1477517576.000081"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "You're creating a matrix that tells whether or not people are similar.  So 3,6 and 6,3 are zeros, which also tells you something about them ",
+        "ts": "1477517638.000082"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "so it's not just 1's,",
+        "ts": "1477517669.000083"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR4JP3",
+        "text": "oohhhhhh. just to make sure I have this right: If I\u2019m looking at the relationship between person 3 and person 4\u2026. I look at 3,4 and 4,3 in the matrix and see if they share the same value?",
+        "ts": "1477517722.000084"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "yeah that sounds right <@U1KSR4JP3>",
+        "ts": "1477517784.000085"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Well, they'll always share the same value because the matrix is symmetric ",
+        "ts": "1477517816.000086"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "You just want to know if that value is a zero or a one ",
+        "ts": "1477517827.000087"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "So you can decide if they share a characteristic\/how far apart they are ",
+        "ts": "1477517850.000088"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "so lets look at person 1 and person 5",
+        "ts": "1477517891.000089"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "(which you can do by looking at 1,5 or 5,1)...",
+        "ts": "1477517918.000090"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "yep",
+        "ts": "1477517924.000091"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "giving a 0 for (1,5) and a 0 for (5,1)",
+        "ts": "1477517947.000092"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "so they would be considered far apart",
+        "ts": "1477517977.000093"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Yes",
+        "ts": "1477517993.000094"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR4JP3",
+        "text": "<@U1L6YQUSU> <@U1LMHQY9E> thank you so much!",
+        "ts": "1477518011.000095"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "thanks <@U1L6YQUSU> !",
+        "ts": "1477518020.000096"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Anytime.  ",
+        "ts": "1477518034.000097"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "When calculating Lift from a Gain chart, how do we determine % responders from a random selection",
+        "ts": "1477518389.000098"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Follow up:  I have in my notes that distance is '0' for matching and 1 otherwise,  which means we might have the complement to the matrix for distance with XX(transpose).",
+        "ts": "1477518728.000099"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR4JP3",
+        "text": "when looking at the solutions on the google drive\u2026 they just subtracted a matrix of all 1s.",
+        "ts": "1477518769.000100"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "So the '1' in the spot tells you they're the same, but you'd want a '0' to represent the distance.  so you could take  abs(1-matrix) and get the right thing",
+        "ts": "1477518771.000101"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "oh ok.  i didn't see that yet.  <@U1KSR4JP3>   thanks",
+        "ts": "1477518789.000102"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR4JP3",
+        "text": "no problem!",
+        "ts": "1477518803.000103"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<@U1LMHQY9E>   the random selection should be the baseline.",
+        "ts": "1477518817.000104"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "how do you determine that from the gain chart??",
+        "ts": "1477518879.000105"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "-?",
+        "ts": "1477518882.000106"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "meant only 1 \"?\"",
+        "ts": "1477518888.000107"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "where the line flattens out at the bottom",
+        "ts": "1477518903.000108"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Oh!",
+        "ts": "1477518927.000109"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "so like in #2 on the worksheet, the line flattens out a little under 30%",
+        "ts": "1477518928.000110"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "that makes sense",
+        "ts": "1477518929.000111"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "so it'd be .9\/.27",
+        "ts": "1477518939.000112"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "~= 3.5",
+        "ts": "1477518945.000113"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "yes.  i think that's the example she gave in class actually",
+        "ts": "1477518960.000114",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1L974M70"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "yeah, i was trying to figure out the math behind it",
+        "ts": "1477518996.000115"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "perfect, thanks again!",
+        "ts": "1477519000.000116"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "sure",
+        "ts": "1477519033.000117"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "<@U1LQB808J> wants to know how you can have high support and low confidence, in reality.",
+        "ts": "1477520159.000118"
+    },
+    {
+        "user": "U1L7G5LR4",
+        "text": "<@U1L7G5LR4|arkadius> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477520709.000119",
+        "reactions": [
+            {
+                "name": "scream",
+                "users": [
+                    "U1P8QBBD1",
+                    "U1KRB11QC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "Good question Ed - high confidence and low support is easier to picture",
+        "ts": "1477522510.000120"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "For question 5 on the first quiz (categorical variable, 3 levels) are the 3 splits blue+orange| missing; blue| orange+missing; blue+missing| orange?  Basically split at all possible places, even if it means grouping the first and last category?",
+        "ts": "1477522782.000121"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Yes <@U1KRNTXL5>  all possible splits.  There are 3 splits total.  All are 2-1 splits ",
+        "ts": "1477523007.000122"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "thanks",
+        "ts": "1477523027.000123"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Since it's categorical, order doesn't matter ",
+        "ts": "1477523033.000124"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "Btw has it occurred to anyone that \"Gini\" and \"Entropy\" would make good mixed drink names?",
+        "ts": "1477523062.000125",
+        "reactions": [
+            {
+                "name": "cocktail",
+                "users": [
+                    "U1L4RTKCM",
+                    "U1KRBFY3Z",
+                    "U1L7E8GSU",
+                    "U1KR9BP0E",
+                    "U1LBRCSEA",
+                    "U1L6YQUSU",
+                    "U1L9DD1NY",
+                    "U1KT2JJE8",
+                    "U1L3PU7BJ"
+                ],
+                "count": 9
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U1L4RTKCM",
+                    "U1L9DD1NY"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U1KQTJ6BV",
+        "text": "<@U1KQTJ6BV|andreazadia> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477523389.000126"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "It could be a way to remember - they measure impurity",
+        "ts": "1477523405.000127",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRSV7AN",
+                    "U1KRMNVGC",
+                    "U1L6YQUSU",
+                    "U1L0RBZFH",
+                    "U1L9DD1NY",
+                    "U1L974M70"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U1KSR1MS4",
+        "text": "<@U1KSR1MS4|rocky_chen> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477525443.000128"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "can anyone explain why the impurity of the parent node is 35\/80 and not 45\/80 in question 7 of the CART worksheet?",
+        "ts": "1477531651.000129",
+        "reactions": [
+            {
+                "name": "exclamation",
+                "users": [
+                    "U1KRSV7AN",
+                    "U1P8QBBD1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Where does it say 35\/80?",
+        "ts": "1477532142.000130"
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "On the answer sheet.",
+        "ts": "1477532151.000131"
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "And it's highlighted in RED!!!",
+        "ts": "1477532159.000132"
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "Which I think means it was a correction.",
+        "ts": "1477532165.000133"
+    },
+    {
+        "user": "U1L3G0YRJ",
+        "text": "<@U1L3G0YRJ|emmyburnett> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477532165.000134"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "does anybody know 3c for the Model Assessment Measures?",
+        "ts": "1477532308.000135"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "misclassification rate for the M&amp;M predictions",
+        "ts": "1477532325.000136"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "40%",
+        "ts": "1477532333.000137"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "thanks",
+        "ts": "1477532358.000138"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "The explanation on the answer guide is good ",
+        "ts": "1477532370.000139"
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "But why not use 56%?",
+        "ts": "1477532384.000140"
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "Which is 45\/80",
+        "ts": "1477532388.000141"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "<@U1KRSV7AN> I think because (according to wikipedia) the impurity is the probability that randomly chosen element would be misclassified.  That root node would label everything as a Yes or T=1, so 35\/80 would be misclassified.",
+        "ts": "1477532516.000142"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "I think",
+        "ts": "1477532518.000143"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1L3PU7BJ> the gain is the difference in purity between the parent node and the \"winning\" leaf. since the winning leaf gives oyu 100% purity, the gain = the number of NOs in the parent node, which is 35\/80",
+        "edited": {
+            "user": "U1KR9BP0E",
+            "ts": "1477532543.000000"
+        },
+        "ts": "1477532522.000144"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "why the number of NOs and not the number of YESes?",
+        "ts": "1477532546.000146"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "Because the NOs are what would be guessed incorrectly in the parent node",
+        "ts": "1477532625.000147"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Becuase what you LOSE in impurity (i.e. gain in purity) by going with the 100% split is the impurity = NOs",
+        "ts": "1477532644.000148"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1L3PU7BJ> it confused me a bit too-- it's easy to justify it as the opposite rationally-- it seems like the gain would be the difference between 100% and the purity, so 45%, right? But you have to think about it as what you're actually GAINING. You are gaining 35% of incorrect observations, which would now be correct.",
+        "edited": {
+            "user": "U1KR9BP0E",
+            "ts": "1477532796.000000"
+        },
+        "ts": "1477532753.000149"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "why are NOs incorrect? Are you assuming that T=1 is what you want?  What I'm trying to ask is how could you tell, with no context in this question, that T=0 wasn't what you wanted",
+        "ts": "1477532961.000151"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "i'm all out of WHACK",
+        "ts": "1477533044.000152",
+        "reactions": [
+            {
+                "name": "zombie",
+                "users": [
+                    "U1P8QBBD1",
+                    "U1L3G0YRJ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "You want the split that gives you the best gain in purity <@U1L3PU7BJ>.  Of the 3 choices, X is the clear winner because  you basically gain all the purity.  X has 'yes' as everything, so that's why you want T=1",
+        "ts": "1477533318.000153"
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "<@U1L6YQUSU>: I think what Diego is asking is how do you measure the impurity of the parent node - in this case it could either be 35\/80 or 45\/80. How do you know which one to use when measuring a gain in purity?",
+        "ts": "1477533882.000154"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "That's actually a good point. I had assumed 1 is what we \"want\", but didn't question that assumption.",
+        "ts": "1477534044.000155"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "<@U1KR9BP0E> !!!!",
+        "ts": "1477534067.000156",
+        "reactions": [
+            {
+                "name": "astonished",
+                "users": [
+                    "U1KR9BP0E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Aren't they mathematically the same?  Is that why we're having this discussion?  ",
+        "ts": "1477534236.000157"
+    },
+    {
+        "user": "U1KS4UE2F",
+        "text": "<@U1KS4UE2F|edward_lim> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477534373.000158"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Maybe that's the source of our problem.  Let's say it's 60 yes and 20 no.  Then what's the answer?",
+        "ts": "1477534632.000159"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "Where are the answers for data mining exercises?",
+        "ts": "1477535243.000160"
+    },
+    {
+        "type": "message",
+        "user": "U1KT3UELS",
+        "text": "On the data mining website and answers to the last exercise are shared to everyone in google drive <@U1MDE4NAG> ",
+        "ts": "1477535293.000161"
+    },
+    {
+        "type": "message",
+        "user": "U1KR891RC",
+        "text": "<https:\/\/drive.google.com\/drive\/folders\/0BzDstgdErBC8VVc1THg1NVpqQUE>",
+        "ts": "1477535319.000162"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "Would someone mind emailing me the exercises? My internet is down and I can't pull them up on mobile :see_no_evil:",
+        "ts": "1477535471.000164"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "@michael I'll email them to  you!",
+        "ts": "1477535658.000165"
+    },
+    {
+        "type": "message",
+        "user": "U1L0RBZFH",
+        "text": "<@U1L3PU7BJ> I was literally just wondering the same thing",
+        "ts": "1477535679.000166"
+    },
+    {
+        "user": "U1KQYG6SJ",
+        "text": "<@U1KQYG6SJ|rose> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477535733.000167"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "<@U1MDE4NAG> do you want solutions or the actual exercises?",
+        "ts": "1477535764.000168"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "<@U1L41DF9D>: both if you can",
+        "ts": "1477535811.000169"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "Thank you so much! ",
+        "ts": "1477535819.000170"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "hey, if you guys are trying to access the drive folder, please make sure you're logged in with your ncsu email address. I'd like to not get floods of emails of people requesting access to the folder (I've received a couple already)",
+        "ts": "1477535827.000171"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "<@U1MDE4NAG> will do!",
+        "ts": "1477535840.000172"
+    },
+    {
+        "user": "U1KQYG6SJ",
+        "text": "<@U1KQYG6SJ|rose> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1477535864.000173"
+    },
+    {
+        "user": "U1KRNHQA1",
+        "text": "<@U1KRNHQA1|pavalent> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477535866.000174"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR1MS4",
+        "text": "Hope this helps:\n\nSince the question asks us to calculate gains in MISCLASSIFICATION RATE, we use the formula: classification error = 1 - Maximum of (p(i|t))\n\nTherefore, the classification error (which is our measure of impurity in this case) can not be greater than 50% (so 45\/80 would be out of the question). In the case of classification error, having a 50% chance is as impure as it can get.\n\nThis image from the slide shows the limit of the misclassification error:",
+        "edited": {
+            "user": "U1KSR1MS4",
+            "ts": "1477536919.000000"
+        },
+        "ts": "1477536532.000175",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L0RBZFH",
+                    "U1KRHCR7T",
+                    "U1KR891RC",
+                    "U1L735VD4"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSR1MS4",
+        "text": "So if there were 60 of T=0 and 40 of T=1, the measure of impurity using the misclassification rate would be 40%",
+        "ts": "1477536659.000177"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR1MS4",
+        "text": "And if there were 40 of T=0 and 60 of T=1, the measure of impurity using misclassification rate would still be 40%",
+        "ts": "1477536799.000178"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Thanks <@U1KSR1MS4>   That does help immensely ",
+        "ts": "1477536842.000179"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "Agreeing with <@U1KSR1MS4>",
+        "ts": "1477536848.000180"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "Way to save the day",
+        "ts": "1477536850.000181"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Yes! That's really  helpfu, thanks <@U1KSR1MS4>!",
+        "ts": "1477537038.000183"
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "<@U1KSR1MS4> is the best!!!!!",
+        "ts": "1477537970.000184"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "so, always the lowest of the two",
+        "ts": "1477538031.000185"
+    },
+    {
+        "user": "U1KT1RZ24",
+        "text": "<@U1KT1RZ24|mike_hruska> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477538672.000186"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "whats the point of the k-s statistic?",
+        "ts": "1477540180.000187"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "comparing 2 distributions? :slightly_smiling_face:",
+        "ts": "1477540308.000188"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "but you should really use Anderson-Darling... oh wait, wrong class...",
+        "ts": "1477540340.000189"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "haha",
+        "ts": "1477540345.000190"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "how is it interpreted from the chart?",
+        "ts": "1477540365.000191"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "i got no notes on it",
+        "ts": "1477540372.000192"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "but it had smth to do with finding the biggest distance on the graph",
+        "ts": "1477540461.000193"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "yeah i got the slides.. but nothing about them besides this",
+        "ts": "1477540586.000196"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "oh, haha all i remember is her saying that the bigger the max distance the better... because if you were to predict everything perfectly it would have a shape of a rectangle",
+        "ts": "1477540836.000197"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "right!",
+        "ts": "1477541012.000198"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "i remember that now",
+        "ts": "1477541015.000199"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "thanks",
+        "ts": "1477541018.000200"
+    },
+    {
+        "user": "U1LAAMJ0M",
+        "text": "<@U1LAAMJ0M|carlanderson> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477543677.000201"
+    },
+    {
+        "user": "U1L40P4N9",
+        "text": "<@U1L40P4N9|jaewonjung> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477548448.000202"
+    }
+]

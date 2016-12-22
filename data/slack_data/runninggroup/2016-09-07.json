@@ -1,0 +1,95 @@
+[
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "Does anyone who lives near the institute want to carpool tomorrow?",
+        "ts": "1473281077.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "Dropped Pin\nnear 5000 Ebenezer Church Rd, Raleigh, NC 27612\n<https:\/\/goo.gl\/maps\/FH7EfDBq6fR2>",
+        "ts": "1473283072.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "Address for tomorrow. The spots for parking are right on the street so it's super obvious ",
+        "ts": "1473283080.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "If you have any questions or get lost call me 9192706452",
+        "ts": "1473283130.000005",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1LMHQY9E",
+                    "U1L5GU954",
+                    "U1N43E3E0"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "<@U1L5GU954>: I'm at the corner of Gorman and western, if you want to coordinate",
+        "edited": {
+            "user": "U1N43E3E0",
+            "ts": "1473284067.000000"
+        },
+        "ts": "1473284039.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE5NKZ",
+        "text": "Sorry <@U1KT5F4SZ> (and group!) I'll be missing tomorrow",
+        "ts": "1473287039.000008",
+        "reactions": [
+            {
+                "name": "person_frowning",
+                "users": [
+                    "U1N43E3E0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "disappointed",
+                "users": [
+                    "U1NLH1CP8"
+                ],
+                "count": 1
+            },
+            {
+                "name": "-1",
+                "users": [
+                    "U1NLH1CP8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "<@U1N43E3E0> sounds good dude ",
+        "ts": "1473291785.000009"
+    },
+    {
+        "user": "U1LQB808J",
+        "text": "<@U1LQB808J|wohaus> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473291836.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1LNGEV0B",
+        "text": "sorry guys and gals, i wont be there tomorrow either. i know, thumbs down for me too!",
+        "ts": "1473303726.000011"
+    }
+]

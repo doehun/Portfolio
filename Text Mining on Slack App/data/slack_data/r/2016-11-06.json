@@ -1,8 +1,0 @@
-[
-    {
-        "type": "message",
-        "user": "U1KRQLFLY",
-        "text": "When doing an AFT model in R, the default statistic returned with the parameter estimates is the z statistic. Is there a way to change this default so that I can see the chi-square statistic for each parameter instead?",
-        "ts": "1478490845.000092"
-    }
-]

@@ -1,0 +1,76 @@
+[
+    {
+        "type": "message",
+        "user": "U1L4RTKCM",
+        "text": "If someone requested one and doesn't end up needing it, please let me know!",
+        "ts": "1475505580.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Did everyone get a ticket?",
+        "ts": "1475525189.000010",
+        "reactions": [
+            {
+                "name": "admission_tickets",
+                "users": [
+                    "U1L415ECD",
+                    "U1KRNHQA1",
+                    "U1KRNH021",
+                    "U1KRWUXFU",
+                    "U1LBRCSEA",
+                    "U1L5GU954",
+                    "U1L46HXCJ",
+                    "U1L3G0YRJ"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSYP1M5",
+        "text": "I requested one and don't think I can go to the game anymore so <@U1L4RTKCM> you can have mine! ",
+        "ts": "1475527211.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1L4RTKCM",
+        "text": "<@U1KSYP1M5> you rock!!  Just let know how I should get it",
+        "ts": "1475527319.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1KSYP1M5",
+        "text": "<@U1L4RTKCM>: I haven't gotten the link for the ticket yet, but once I do I think I can just forward you my mobile ticket and they just scan that at the door! ",
+        "ts": "1475527446.000013",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1L4RTKCM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "If anyone has a ticket that they aren't going to use, please let me know! I have a couple of friends who have decided to go to the game",
+        "ts": "1475536633.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I'm also looking for a ticket if someone has an extra\/not using one.",
+        "ts": "1475543973.000016"
+    },
+    {
+        "user": "U1KR9BP0E",
+        "text": "<@U1KR9BP0E|sneha.raghavan> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1475544851.000017"
+    }
+]

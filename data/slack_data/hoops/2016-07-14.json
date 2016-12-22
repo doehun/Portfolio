@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U1LQB808J",
+        "text": "<@U1LQB808J|wohaus> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468522893.000002"
+    },
+    {
+        "user": "U1KS4UE2F",
+        "text": "<@U1KS4UE2F|edward_lim> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468524078.000003"
+    },
+    {
+        "user": "U1KRHCR7T",
+        "text": "<@U1KRHCR7T|zack_schwartz> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468547124.000002"
+    }
+]

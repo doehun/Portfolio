@@ -1,0 +1,28 @@
+[
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Zip Code  Centroids in SAS: Open Sas, in Explorer window, Libraries--&gt;Sashelp--&gt;Zipcode. Second and third columns are latitude and longitude of centroids.",
+        "edited": {
+            "user": "U1L1D4WG7",
+            "ts": "1469123577.000000"
+        },
+        "ts": "1469123547.000002",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1L5GU954"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raising_hand",
+                "users": [
+                    "U1L6YQUSU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,95 @@
+[
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Ed, yeah have you set up your disaster recovery plan with John yet?",
+        "ts": "1473940762.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": ":smiling_imp:",
+        "ts": "1473940798.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1Q5GHC2J",
+        "text": "I'm confused. I haven't heard from John at all. You guys are already getting access to the servers?",
+        "ts": "1473944266.000004",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KT9ATA5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1Q5GHC2J",
+        "text": ":scream:",
+        "ts": "1473944292.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "lolll u guys :joy:",
+        "ts": "1473945746.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": ":rage::rage::rage::rage:",
+        "ts": "1473945773.000007",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KT9ATA5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1Q5GHC2J> <@U1KS4UE2F> no lol, don't have any access yet",
+        "ts": "1473956459.000008"
+    },
+    {
+        "user": "U1KRTHAQZ",
+        "text": "<@U1KRTHAQZ|pranavn20> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473958758.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1L974M70",
+        "text": "I hacked into the server and took our groups' down already. ",
+        "ts": "1473973892.000010",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1L40P4N9",
+                    "U1N43E3E0",
+                    "U1L0RBZFH"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U1MH8UXHD",
+        "text": "<@U1MH8UXHD|garrett.tomlinson> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473993912.000011"
+    }
+]

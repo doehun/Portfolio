@@ -1,0 +1,54 @@
+[
+    {
+        "user": "U1KQYG6SJ",
+        "text": "<@U1KQYG6SJ|rose> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477152678.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "<!channel>, ok to remove this now?",
+        "ts": "1477152695.000003",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRBFY3Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "Never forget",
+        "ts": "1477152731.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": ":slightly_smiling_face:",
+        "ts": "1477152843.000005"
+    },
+    {
+        "user": "U1KQYG6SJ",
+        "members": [
+            "U1KQYG6SJ",
+            "U1KR891RC",
+            "U1KRBFY3Z",
+            "U1KS1BFED",
+            "U1KSL7L7R",
+            "U1KSYP1M5",
+            "U1L415ECD",
+            "U1L46HXCJ",
+            "U1L4RTKCM"
+        ],
+        "text": "<@U1KQYG6SJ|rose> archived the channel (w\/ 9 members)",
+        "type": "message",
+        "subtype": "channel_archive",
+        "ts": "1477152848.000006"
+    }
+]

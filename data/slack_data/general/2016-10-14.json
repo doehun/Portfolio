@@ -1,0 +1,570 @@
+[
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "Happy birthday <@U1L41DF9D> !!!!!!!",
+        "ts": "1476448218.001315",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U1KRB11QC",
+                    "U1LBRCSEA",
+                    "U1KRHCR7T",
+                    "U1KT2JJE8",
+                    "U1Q5GHC2J",
+                    "U1KRE1L9M",
+                    "U1L1WFNC8",
+                    "U1L5GU954",
+                    "U1NUU2U9E",
+                    "U1L41DF9D",
+                    "U1KRNHQA1",
+                    "U1P8QBBD1",
+                    "U1KT9ATA5",
+                    "U1KS4UE2F",
+                    "U1L2P17DZ",
+                    "U1KRBFY3Z",
+                    "U1KSL7L7R"
+                ],
+                "count": 17
+            },
+            {
+                "name": "party_ed",
+                "users": [
+                    "U1KT9ATA5",
+                    "U1L6YQUSU"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "Happy birthday <@U1L41DF9D> ",
+        "ts": "1476448719.001316",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U1L41DF9D",
+                    "U1KT9ATA5",
+                    "U1KS4UE2F",
+                    "U1KSL7L7R"
+                ],
+                "count": 4
+            },
+            {
+                "name": "party_ed",
+                "users": [
+                    "U1KT9ATA5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "Singing time blue team!",
+        "ts": "1476448752.001317"
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "Cupcakes in the kitchen for <@U1L41DF9D>",
+        "edited": {
+            "user": "U1L914KNJ",
+            "ts": "1476449666.000000"
+        },
+        "ts": "1476449654.001318",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U1KQ9523D",
+                    "U1LMHQY9E",
+                    "U1L41DF9D",
+                    "U1LBRCSEA",
+                    "U1KRQLFLY",
+                    "U1KT9ATA5",
+                    "U1KRWUXFU",
+                    "U1L1D4WG7",
+                    "U1L4RTKCM",
+                    "U1KSL7L7R"
+                ],
+                "count": 10
+            },
+            {
+                "name": "party_ed",
+                "users": [
+                    "U1LMHQY9E",
+                    "U1KT9ATA5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "Thanks everyone!!!!!",
+        "ts": "1476450513.001320",
+        "reactions": [
+            {
+                "name": "celebration",
+                "users": [
+                    "U1L7ERY77",
+                    "U1KRSV7AN",
+                    "U1L9DD1NY",
+                    "U1KQ9523D",
+                    "U1P8QBBD1",
+                    "U1M37FW5U",
+                    "U1KQGRG2F",
+                    "U1KR891RC",
+                    "U1KSL7L7R"
+                ],
+                "count": 9
+            },
+            {
+                "name": "small_officer_futch",
+                "users": [
+                    "U1L7ERY77",
+                    "U1KRSV7AN",
+                    "U1L9DD1NY",
+                    "U1KQ9523D",
+                    "U1MDHNYR5",
+                    "U1P8QBBD1",
+                    "U1KRWJB7S",
+                    "U1L735VD4",
+                    "U1L2P17DZ",
+                    "U1L41DF9D"
+                ],
+                "count": 10
+            },
+            {
+                "name": "party_ed",
+                "users": [
+                    "U1L7ERY77",
+                    "U1KRSV7AN",
+                    "U1L9DD1NY",
+                    "U1KQ9523D",
+                    "U1MDHNYR5",
+                    "U1P8QBBD1",
+                    "U1L735VD4",
+                    "U1KT9ATA5",
+                    "U1L6YQUSU",
+                    "U1KS4UE2F",
+                    "U1L2P17DZ",
+                    "U1KRNTXL5",
+                    "U1LDKB3AN",
+                    "U1L41DF9D"
+                ],
+                "count": 14
+            },
+            {
+                "name": "crown",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1KQ9523D",
+                    "U1P8QBBD1",
+                    "U1KRSV7AN",
+                    "U1L6WB44A",
+                    "U1L2P17DZ"
+                ],
+                "count": 6
+            },
+            {
+                "name": "birthday",
+                "users": [
+                    "U1SMADBU4",
+                    "U1KRSV7AN",
+                    "U1L6WB44A"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "has anyone been able to import the revisions data into SAS for the osbm project?",
+        "ts": "1476455553.001322",
+        "reactions": [
+            {
+                "name": "small_edward_lim",
+                "users": [
+                    "U1LDKB3AN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1UR5K88P",
+        "text": "<@U1KT5F4SZ> Yes,  but I had to rename the sheets in the csv file.",
+        "ts": "1476456355.001323",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KT5F4SZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L3K1AKD",
+        "text": "<@U1KT5F4SZ> we did it using SAS Guide, let me know if you want me to show you how to do it...",
+        "ts": "1476456905.001324"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "[October 14th, 2016 10:49 AM] amir.lyall: if you want to import text files into sas with delimiters other than a comma, check this article out\n<http:\/\/www.howtogeek.com\/howto\/21456\/export-or-save-excel-files-with-pipe-or-other-delimiters-instead-of-commas\/>",
+                "ts": "1476456585.000264",
+                "author_subname": "amir.lyall",
+                "channel_id": "C1LD3A0SU",
+                "channel_name": "sascoding",
+                "is_msg_unfurl": true,
+                "text": "if you want to import text files into sas with delimiters other than a comma, check this article out\n<http:\/\/www.howtogeek.com\/howto\/21456\/export-or-save-excel-files-with-pipe-or-other-delimiters-instead-of-commas\/>",
+                "author_link": "https:\/\/msa17.slack.com\/team\/amir.lyall",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-06-23\/53924474999_e3369f452d529d7f08f1_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/msa17.slack.com\/archives\/sascoding\/p1476456585000264",
+                "is_share": true,
+                "footer": "Posted in #sascoding"
+            }
+        ],
+        "ts": "1476457308.001325"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "North Carolina is still really suffering from Matthew.  <https:\/\/weather.com\/news\/news\/hurricane-matthew-north-carolina-update> \nI\u2019m happy to pick up any food you\u2019d like to donate and take it to the Food Bank of North Carolina this weekend or next week. You can also \"buy\" food online for those in need at <http:\/\/www.foodbankcenc.org\/goto\/matthew-vfd>. The Food Bank has partnerships with grocery stores so your dollar will actually go a lot further from a donation than if you were to purchase food at the grocery store.",
+        "attachments": [
+            {
+                "service_name": "The Weather Channel",
+                "title": "North Carolina Flooding Crisis Far from Over: Thousands Evacuated, Some Rivers Still Rising",
+                "title_link": "https:\/\/weather.com\/news\/news\/hurricane-matthew-north-carolina-update",
+                "text": "Here's the latest on a flooding situation that remains very serious in North Carolina.",
+                "fallback": "The Weather Channel: North Carolina Flooding Crisis Far from Over: Thousands Evacuated, Some Rivers Still Rising",
+                "image_url": "http:\/\/s.w-x.co\/gettyimages-614190546.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "from_url": "https:\/\/weather.com\/news\/news\/hurricane-matthew-north-carolina-update",
+                "image_bytes": 811830,
+                "service_icon": "https:\/\/weather.com\/sites\/all\/themes\/twc_admin\/favicon.ico",
+                "id": 1
+            },
+            {
+                "title": "  Food Bank of CENC Virtual Food Drive: Food Bank CENC - Food Bank of Central &amp; Eastern North Carolina ",
+                "title_link": "http:\/\/www.foodbankcenc.org\/goto\/matthew-vfd",
+                "text": "Food Bank of Central &amp; Eastern NC Virtual Food Drive",
+                "fallback": "  Food Bank of CENC Virtual Food Drive: Food Bank CENC - Food Bank of Central &amp; Eastern North Carolina ",
+                "from_url": "http:\/\/www.foodbankcenc.org\/goto\/matthew-vfd",
+                "service_icon": "http:\/\/www.foodbankcenc.org\/..\/favicon.ico",
+                "service_name": "foodbankcenc.org",
+                "id": 2
+            }
+        ],
+        "ts": "1476457399.001326",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L4RTKCM",
+                    "U1KSL7C10",
+                    "U1KR9BP0E",
+                    "U1PN82U67",
+                    "U1L735VD4"
+                ],
+                "count": 5
+            },
+            {
+                "name": "stew",
+                "users": [
+                    "U1L914KNJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "<@U1L3PU7BJ> great idea! I'm definitely going to 'buy' online",
+        "ts": "1476458785.001328",
+        "reactions": [
+            {
+                "name": "apple",
+                "users": [
+                    "U1L914KNJ",
+                    "U1KSL7L7R"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1L3PU7BJ> I\u2019ll donate online as well. I saw this yesterday: <https:\/\/weather.com\/storms\/hurricane\/video\/drone-video-shows-flood-damage-in-nc>. The damage is incomprehensible to me. Some of the rivers further east have yet to crest, so the nightmare is continuing for them.",
+        "attachments": [
+            {
+                "service_name": "The Weather Channel",
+                "title": "Drone Video Shows Flood Damage in NC",
+                "title_link": "https:\/\/weather.com\/storms\/hurricane\/video\/drone-video-shows-flood-damage-in-nc",
+                "text": "Dramatic drone video captures the scope of post-Matthew flooding in eastern North Carolina.",
+                "fallback": "The Weather Channel: Drone Video Shows Flood Damage in NC",
+                "from_url": "https:\/\/weather.com\/storms\/hurricane\/video\/drone-video-shows-flood-damage-in-nc",
+                "service_icon": "https:\/\/weather.com\/sites\/all\/themes\/twc_admin\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "edited": {
+            "user": "U1KRB11QC",
+            "ts": "1476458936.000000"
+        },
+        "ts": "1476458893.001329"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "All the guilt in that closing speech",
+        "ts": "1476474924.001332",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRWJB7S",
+                    "U1KRB11QC",
+                    "U1KRTHAQZ",
+                    "U1L1WFNC8"
+                ],
+                "count": 4
+            },
+            {
+                "name": "sob",
+                "users": [
+                    "U1KRMNVGC",
+                    "U1NLH1CP8",
+                    "U1L735VD4",
+                    "U1KQGK2CB"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "More than 1\/3rd of the way through the MSA program :slightly_smiling_face:",
+        "edited": {
+            "user": "U1L1D4WG7",
+            "ts": "1476474988.000000"
+        },
+        "ts": "1476474969.001333",
+        "reactions": [
+            {
+                "name": "party_ed",
+                "users": [
+                    "U1L7RPG1M",
+                    "U1KRQLFLY",
+                    "U1KR891RC",
+                    "U1KT9ATA5",
+                    "U1M1L5G6L",
+                    "U1L5GU954",
+                    "U1L7B7188",
+                    "U1L3PU7BJ",
+                    "U1KRLV1CG",
+                    "U1L735VD4",
+                    "U1L2P17DZ",
+                    "U1LDKB3AN"
+                ],
+                "count": 12
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U1KQ9523D",
+                    "U1NUU2U9E",
+                    "U1L2P17DZ",
+                    "U1L9669PD"
+                ],
+                "count": 4
+            },
+            {
+                "name": "cry",
+                "users": [
+                    "U1LMHQY9E"
+                ],
+                "count": 1
+            },
+            {
+                "name": "small_officer_futch",
+                "users": [
+                    "U1MBURU4D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "I've pinged Sarah about doing a Share:20 about using JIRA since a couple of you have asked. I should have a date by next week",
+        "ts": "1476475268.001335",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U1Q7LP4V9",
+                    "U1KRB11QC",
+                    "U1KRMNVGC",
+                    "U1N43E3E0",
+                    "U1L7G5LR4",
+                    "U1KRLV1CG",
+                    "U1L2P17DZ",
+                    "U1KT9ATA5"
+                ],
+                "count": 8
+            },
+            {
+                "name": "metal",
+                "users": [
+                    "U1L1D4WG7",
+                    "U1L914KNJ",
+                    "U1KRLV1CG",
+                    "U1L974M70"
+                ],
+                "count": 4
+            },
+            {
+                "name": "hole",
+                "users": [
+                    "U1M4QJD4P"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1KSPCE87",
+                    "U1KR9BP0E"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "until then, all I'll say is: remember that you don't have to use every single feature that's available, since JIRA is built to handle orgs at different stages of growth in Agile development",
+        "ts": "1476475507.001336"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Chocolate truffles in the kitchen :-)  Just a few left",
+        "ts": "1476481365.001338"
+    },
+    {
+        "type": "message",
+        "user": "U1PNNRVGF",
+        "text": "Hi everyone! As many of you have heard, Nils Nelson's baby boy is in the NICU at Duke University Hospital. Many have been asking him how they can help, and we have coordinated with Nils and organized a meal train in order to provide meals to him and his wife. Feel free to visit the following link to sign up: <https:\/\/mealtrain.com\/l8253r>",
+        "attachments": [
+            {
+                "title": "Meal Train for The Nelson Family  (Click Here)",
+                "title_link": "https:\/\/mealtrain.com\/l8253r",
+                "text": "A Meal Train has been created for The Nelson Family. <http:\/\/mealtrain.com|mealtrain.com> simplifies the process of giving and receiving meals and more. Be the first to contribute!",
+                "fallback": "Meal Train for The Nelson Family  (Click Here)",
+                "from_url": "https:\/\/mealtrain.com\/l8253r",
+                "thumb_url": "https:\/\/www.mealtrain.com\/content\/img\/mealtrain_icon.png?v=1",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/www.mealtrain.com\/favicon.ico",
+                "service_name": "mealtrain.com",
+                "id": 1
+            }
+        ],
+        "ts": "1476490083.001340",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1KQGK2CB",
+                    "U1KRE1L9M",
+                    "U1L0RBZFH",
+                    "U1KRBJP47",
+                    "U1PN82U67",
+                    "U1N43E3E0",
+                    "U1LMHQY9E",
+                    "U1KSL7C10",
+                    "U1LNGEV0B",
+                    "U1KRBFY3Z",
+                    "U1L3PU7BJ",
+                    "U1Q5GHC2J",
+                    "U1KSL7L7R"
+                ],
+                "count": 14
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "<@U1PNNRVGF> Just signed up! Do you know if they have any food allergies or any kind of food they don't like?",
+        "ts": "1476490743.001342"
+    },
+    {
+        "type": "message",
+        "user": "U1PNNRVGF",
+        "text": "Awesome! <@U1KRE1L9M> No allergies, and didn't mention any food they dislike!",
+        "ts": "1476491652.001343"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "<@U1PNNRVGF>: love it! ",
+        "ts": "1476494372.001344"
+    },
+    {
+        "type": "message",
+        "user": "U1LNGEV0B",
+        "text": "<@U1PNNRVGF>: great idea! Thanks for setting this up! Any specific time to have meals at their house? Between 5pm and 6pm ok? ",
+        "ts": "1476496959.001345"
+    },
+    {
+        "type": "message",
+        "user": "U1PNNRVGF",
+        "text": "<@U1LNGEV0B> Yes, before 7 pm if possible!",
+        "ts": "1476497685.001346"
+    },
+    {
+        "type": "message",
+        "user": "U1LNGEV0B",
+        "text": "Sounds good. Thank you! ",
+        "ts": "1476497724.001347",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1PNNRVGF",
+                    "U2LA4671B"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

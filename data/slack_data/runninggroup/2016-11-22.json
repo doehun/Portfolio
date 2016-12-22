@@ -1,0 +1,123 @@
+[
+    {
+        "user": "U1KRWUXFU",
+        "text": "<@U1KRWUXFU|jdemarest> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479857864.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "Hey guys, I'm running my first race ever on Thursday and was wondering if anyone had an extra armband for an iphone 5 that I could borrow over the break? Me being incredibly new to running just realized now that one might be a good thing for the race",
+        "edited": {
+            "user": "U1KRWUXFU",
+            "ts": "1479858079.000000"
+        },
+        "ts": "1479857926.000019",
+        "reactions": [
+            {
+                "name": "shamrock",
+                "users": [
+                    "U1N43E3E0",
+                    "U1SMADBU4",
+                    "U1KRB11QC",
+                    "U1KRQLFLY"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRWJB7S",
+        "text": "i have an armband that will fit anything",
+        "ts": "1479858031.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "<@U1KRWJB7S> if you don't need it over the break, I would love to borrow it, but no worries if you need it!",
+        "ts": "1479858109.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWJB7S",
+        "text": "I'll bring it in the morning!",
+        "ts": "1479858142.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "<@U1KRWJB7S> THANK YOU!!!!!!!!!!",
+        "ts": "1479858156.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWJB7S",
+        "text": ":runner:",
+        "ts": "1479858168.000025",
+        "reactions": [
+            {
+                "name": "runner::skin-tone-3",
+                "users": [
+                    "U1KQGK2CB",
+                    "U1KRB11QC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "Also, it looks like the temperature will be in the low 30's for my race.  Any suggestions for what I need to wear?",
+        "ts": "1479858247.000026"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Tights and long sleeves",
+        "ts": "1479858312.000027",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1N43E3E0",
+                    "U1KRZT11T"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "And a headband",
+        "ts": "1479858363.000028"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "A headband is  good idea! Thanks, <@U1LMHQY9E> !",
+        "ts": "1479858409.000029"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "<@U1LMHQY9E> don't you mean toboggoan?",
+        "ts": "1479858452.000030"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Nope!",
+        "ts": "1479858462.000031"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Be like  an onion,layers",
+        "ts": "1479859571.000032"
+    }
+]

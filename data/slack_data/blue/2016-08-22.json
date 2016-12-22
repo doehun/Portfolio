@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1L6WB44A",
+        "text": "<@U1L6WB44A|ekdoyel> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1471880145.000002"
+    }
+]

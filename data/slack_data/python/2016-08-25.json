@@ -1,0 +1,91 @@
+[
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "If y'all look at the Json code and go to the part that has your high\/low you can check the numbers and confirm that it should be missing - mine is in fact missing to for the that same one and I checked the Json code for that day and it was missing - good way to see if you're pulling everything right! ",
+        "ts": "1472117769.000119"
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "If you're interested, this chrome app lets you inspect the parsed json in a slightly more readable format. I found it easier to use than the way that weather underground showed the API response:  <https:\/\/www.getpostman.com\/>",
+        "attachments": [
+            {
+                "title": "Postman",
+                "title_link": "https:\/\/www.getpostman.com\/",
+                "text": "Postman is the swiss army knife of API tools, allowing you to design, build, test, document and monitor your services, all in one place. Postman is available for Chrome, Mac OSX and Windows. A Linux app is coming soon!",
+                "fallback": "Postman",
+                "thumb_url": "https:\/\/www.getpostman.com\/img\/v2\/logo-glyph.png?dac39dbd77e862ab12bdaeb67a68f279",
+                "from_url": "https:\/\/www.getpostman.com\/",
+                "thumb_width": 512,
+                "thumb_height": 512,
+                "service_icon": "https:\/\/www.getpostman.com\/img\/apple-touch-icon.png?dac39dbd77e862ab12bdaeb67a68f279",
+                "service_name": "getpostman.com",
+                "id": 1
+            }
+        ],
+        "ts": "1472134524.000120",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KRQLFLY",
+                    "U1N43E3E0"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U1Q5GHC2J",
+        "text": "<@U1Q5GHC2J|rwang10> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472153162.000122"
+    },
+    {
+        "user": "U1L7G5LR4",
+        "text": "<@U1L7G5LR4|arkadius> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472170755.000123"
+    },
+    {
+        "type": "message",
+        "user": "U1NDG6ULB",
+        "text": "FYI if anyone else is randomly getting this \"keynotfound\" error and has no clue why...no worries...\"they're fixing it now\" (typical tech support) \n<https:\/\/apicommunity.wunderground.com\/weatherapi\/topics\/intermittent-keynotfound-error>",
+        "attachments": [
+            {
+                "service_name": "The WeatherAPI Community Community",
+                "title": "Intermittent \"keynotfound\" error | The WeatherAPI Community Customer Community",
+                "title_link": "https:\/\/apicommunity.wunderground.com\/weatherapi\/topics\/intermittent-keynotfound-error",
+                "text": "I am making a call once every 10 minutes to pull current conditions at my location. Every so often I get the following error:[error] =&gt; Array\u00a0 \u00a0 (\u00a0 \u00a0 \u00a0 \u00a0 [type] =&gt; keynotfound\u00a0 \u00a0 \u00a0 \u00a0 [description] =&gt; this key does not exist\u00a0 \u00a0 )There doesn't seem to be any pattern to when I get the error.",
+                "fallback": "The WeatherAPI Community Community: Intermittent \"keynotfound\" error | The WeatherAPI Community Customer Community",
+                "thumb_url": "https:\/\/ddrj41szzqhh2.cloudfront.net\/c-assets\/icon-problem-a5021c761d929199a9ed7b99d2e39e18.png",
+                "from_url": "https:\/\/apicommunity.wunderground.com\/weatherapi\/topics\/intermittent-keynotfound-error",
+                "thumb_width": 100,
+                "thumb_height": 100,
+                "service_icon": "https:\/\/apicommunity.wunderground.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1472173644.000124",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1NUU2U9E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1KT2JJE8",
+        "text": "<@U1KT2JJE8|slwalke3> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472182680.000126"
+    }
+]

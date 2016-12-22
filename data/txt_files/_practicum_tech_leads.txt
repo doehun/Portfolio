@@ -1,0 +1,53 @@
+Great idea <@U1M4QJD4P> 
+Great idea  to have this new channel!
+So we can download the sponsor's files to our computers, right? 
+I think we're not supposed to but you could ask John if you're unsure.
+Did you guys see the size of those servers! How are we supposed to carry them around all the time... I am going to need one of those carts that he had.
+I know! They must eat through AA batteries
+If you just put everything on google drive, you won't need to worry about it.
+Good point, then I can access it on my phone app
+I'm actually very interested in info sec. Going to take advantage of this opportunity to develop good habits. Already warned my team that I'm going to crack down on the rule book
+I am getting the specs for all of my team's laptops.
+to be able to troubleshoot remotely
+please enlighten me on what is going on. have you guys already gotten access to the practicum servers? 
+<@U1KS4UE2F>: You haven't? 
+Ed, yeah have you set up your disaster recovery plan with John yet?
+:smiling_imp:
+I'm confused. I haven't heard from John at all. You guys are already getting access to the servers?
+:scream:
+lolll u guys :joy:
+:rage::rage::rage::rage:
+<@U1Q5GHC2J> <@U1KS4UE2F> no lol, don't have any access yet
+I hacked into the server and took our groups' down already. 
+I have a teammate using ESET Smart Security 9 and when she did the full scan of her C drive, she's receiving errors saying 'error opening' after all of her files as shown in the picture. She tried to run ESET as administrator and got the same results, does anyone know how to avoid this?
+hm. I have no experience with ESET.  maybe try doing a 'registry- scan for issues' with CCleaner ?
+Ok I'll ask her to try that and see what happens
+Anyone have 'disabled' plug ins show up? Are those ok?
+I have no idea but I THINK so
+im gonna send mine in with them
+I had the same thing for windows media player.  I'm 95% sure that it's fine so it depends on what significance level you want to use.:sunglasses:
+Disabled or up to date are acceptable if I recall 
+Having issues logging into my system, when I type in "access security grid" too many times my system locks up.
+
+<https://jurassicsystems.com/>
+
+See if anyone else can take a crack at it.
+Some of the late 90s kids won't get this reference...
+PLEASEEEEEEEE
+I would like someone in this group should do a Share 20 or host an optional class on using GIT.  <!channel>
+GIT is my jam! But I will defer to someone else if there is a more interested party.
+<@U1KRQLFLY>:  u should do a talk!
+Is anyone into their practicum server yet? The reason I hesitate <@U1L974M70> is because GIT is primarily a cloud based software and I know that is FORBIDDEN by John for practicum. If there are local instances of it running on the servers then it could be a great resource, especially for anyone doing their projects in R or Python. SAS...not so much lol
+<@U1KRQLFLY>: john says maybe well get access monday. i talked to him on friday. we dont want to learn git for the practicum, its cuz its a prevalent tool. 
+what are you using for version controlling your code if you aren't using git?
+ive always wondered about that for the practicum..
+Right now, I think we are going to set up a drive / folder for each person and then have an overall S: drive where we will keep finalized versions of code.
+Ok thanks! When you say local instances of GitHub running on the server are you talking about the desktop client?
+Yes, exactly!
+<@U1KRQLFLY> I'd be interested in a demo in github if you are kind enough to demonstrate :slightly_smiling_face:.  It's a good thing to know how to do and I'm sure a lot of us will have to use it at some point in our careers.
+
+My old office used clearcase so personally I'm not completely unfamiliar with how something like github would work, but I still feel like I would get something out of seeing github given how popular it is.
+Hey I have a question to the tech leads who are working with truly "big data" which John classifies as anything bigger than around 25-30gb.  My team will be working with greater than that and will likely build our final solution with open source technology.  Does anyone else have this "problem" and have a plan with how their team is going to manage this data without it taking forever to query?
+So my project doesn't have that much data, but what I got from talking to John was that the servers have a lot of processing power. I would assume the larger your dataset the more processing power your particular server has (not sure if that's how John set it up so you should check with him to make sure). But I think as long as your team is coding efficiently and aren't trying to run multiple highly intensive queries/algorithms at the same time you should get decent performance. But again decent performance for that big of a dataset might be 20-30 mins depending on how intense what your trying to run is so it's all relative. I might be wrong but that's kind of my take on it. 
+<@U1KRTHAQZ> so what I got from talking to John is that in this case the size of the data is greater than the size of the server's ram, which is a real issue for R since it stores data entirely in memory.  Even if we were just to use something else, I suspect performance is an issue we'll have to address.  John agreed to work with me closer to finding a solution once he's done getting everyone their actual data, so I think we'll be okay in the end, but it definitely makes me nervous that there apparently isn't already a boilerplate solution to this.
+<@U1N43E3E0> Wow that's crazy. Yeah it's interesting that there isn't a set strategy in place already to deal with this. Maybe you might have to take advantage of cloud computing (like a Hadoop cluster perhaps)?

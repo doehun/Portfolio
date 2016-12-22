@@ -1,0 +1,47 @@
+[
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Grab your popcorn folks\n<http:\/\/www.mediaite.com\/online\/nate-silver-goes-to-war-with-huffpost-writer-after-highly-critical-column\/>",
+        "attachments": [
+            {
+                "title": "Nate Silver Goes to War With HuffPost Writer: \u2018You Have No F*cking Idea What You\u2019re Talking About\u2019",
+                "title_link": "http:\/\/www.mediaite.com\/online\/nate-silver-goes-to-war-with-huffpost-writer-after-highly-critical-column\/",
+                "text": "FiveThirtyEight pollster Nate Silver responded to criticism from Huffington Post writer Ryan Grim with a series of fiery tweets.",
+                "fallback": "Nate Silver Goes to War With HuffPost Writer: \u2018You Have No F*cking Idea What You\u2019re Talking About\u2019",
+                "thumb_url": "http:\/\/static01.mediaite.com\/med\/wp-content\/uploads\/2016\/11\/PicMonkey-Collage-Silver.jpg",
+                "from_url": "http:\/\/www.mediaite.com\/online\/nate-silver-goes-to-war-with-huffpost-writer-after-highly-critical-column\/",
+                "thumb_width": 800,
+                "thumb_height": 525,
+                "service_icon": "http:\/\/www.mediaite.com\/favicon.ico",
+                "service_name": "mediaite.com",
+                "id": 1
+            }
+        ],
+        "ts": "1478448481.000702",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U1LMHQY9E"
+                ],
+                "count": 1
+            },
+            {
+                "name": "zap",
+                "users": [
+                    "U1KSL7C10",
+                    "U1KS4UE2F"
+                ],
+                "count": 2
+            },
+            {
+                "name": "facepunch::skin-tone-2",
+                "users": [
+                    "U1KRB11QC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

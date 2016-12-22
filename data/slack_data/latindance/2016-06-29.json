@@ -1,0 +1,101 @@
+[
+    {
+        "user": "U1KQ9523D",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KQ9523D|lisaholbach> has joined the channel",
+        "ts": "1467216489.000002"
+    },
+    {
+        "user": "U1KQ9523D",
+        "purpose": "Latin Dance",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U1KQ9523D|lisaholbach> set the channel purpose: Latin Dance",
+        "ts": "1467216489.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "Hey guys! I had a lot of fun at Carmen's Cafe last night. There is another event this Friday at Latin Quarters in Raleigh. Its called aPasionada Bachata night. They have a lesson starting at 8:30pm &amp; the dancing goes until 1:30. Let me know if anyone wants to join :slightly_smiling_face:",
+        "ts": "1467216737.000004"
+    },
+    {
+        "user": "U1KSYP1M5",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KSYP1M5|madison> has joined the channel",
+        "ts": "1467216859.000005"
+    },
+    {
+        "user": "U1L41DF9D",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L41DF9D|cacolli6> has joined the channel",
+        "ts": "1467218341.000002"
+    },
+    {
+        "user": "U1L974M70",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L974M70|brshallo> has joined the channel",
+        "ts": "1467219036.000003"
+    },
+    {
+        "user": "U1KRZT11T",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KRZT11T|tommy_darlington> has joined the channel",
+        "ts": "1467219319.000004"
+    },
+    {
+        "user": "U1L914KNJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L914KNJ|nikki> has joined the channel",
+        "ts": "1467219844.000005"
+    },
+    {
+        "user": "U1L7E8GSU",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L7E8GSU|rachelkurtz> has joined the channel",
+        "ts": "1467219959.000006"
+    },
+    {
+        "user": "U1LBRCSEA",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1LBRCSEA|bethmoser> has joined the channel",
+        "ts": "1467220782.000007"
+    },
+    {
+        "user": "U1L9DD1NY",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L9DD1NY|mjdensmo> has joined the channel",
+        "ts": "1467225773.000008"
+    },
+    {
+        "user": "U1L6XBH6W",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L6XBH6W|shannon_muldoon> has joined the channel",
+        "ts": "1467232447.000009"
+    },
+    {
+        "user": "U1KRNH021",
+        "inviter": "U1KQ9523D",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KRNH021|sneha_komma> has joined the channel",
+        "ts": "1467239373.000010"
+    },
+    {
+        "user": "U1KQTJ6BV",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KQTJ6BV|andreazadia> has joined the channel",
+        "ts": "1467247972.000002"
+    }
+]

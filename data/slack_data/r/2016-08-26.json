@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1LBRCSEA",
+        "text": "<@U1LBRCSEA|bethmoser> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472215183.000016"
+    },
+    {
+        "user": "U1N43E3E0",
+        "text": "<@U1N43E3E0|ryan_w> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472251477.000017"
+    }
+]

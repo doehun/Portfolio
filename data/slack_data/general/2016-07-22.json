@@ -1,0 +1,75 @@
+[
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Hey folks.  There's a blog post on the student blog on our Escape Room outing.  <https:\/\/datacolumn.wordpress.ncsu.edu\/2016\/07\/05\/escape-room\/>",
+        "ts": "1469204626.000011",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U1KRBFY3Z",
+                    "U1L9DD1NY"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1L93SMGF",
+                    "U1NUU2U9E",
+                    "U1KT3UELS",
+                    "U1KRBJP47",
+                    "U1KSL7C10"
+                ],
+                "count": 5
+            },
+            {
+                "name": "sleuth_or_spy::skin-tone-3",
+                "users": [
+                    "U1L8PJY4W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "Hey, did anyone get the exam grades? I thought we were getting them today...",
+        "ts": "1469210216.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Hey if anybody is looking for a desk for their house\/apt\/tent\/current living quarters I have one I had to get rid of strictly because I don't have any room for it. It's about 2'x4' on the surface, gotta get rid of it soon. Free OBO",
+        "ts": "1469229515.000013",
+        "reactions": [
+            {
+                "name": "camping",
+                "users": [
+                    "U1L95JP1S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Me please <@U1LMHQY9E> ",
+        "ts": "1469244462.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "!!!!!",
+        "ts": "1469244467.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Started a foodies channel for Saturday foodie outings",
+        "ts": "1469248009.000016"
+    }
+]

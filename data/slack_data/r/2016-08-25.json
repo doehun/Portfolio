@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U1L97TR38",
+        "text": "<@U1L97TR38|scottdiebold> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472153851.000013"
+    },
+    {
+        "user": "U1L7G5LR4",
+        "text": "<@U1L7G5LR4|arkadius> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472170845.000014"
+    },
+    {
+        "user": "U1KT2JJE8",
+        "text": "<@U1KT2JJE8|slwalke3> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472182721.000015"
+    }
+]

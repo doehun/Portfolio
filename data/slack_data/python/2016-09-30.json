@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1LJRDPLP",
+        "text": "<@U1LJRDPLP|alexhorowitz> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1475249638.000027"
+    }
+]

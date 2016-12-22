@@ -1,0 +1,88 @@
+[
+    {
+        "user": "U1KRQLFLY",
+        "text": "<@U1KRQLFLY|sean.ankenbruck> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474906303.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "Does anyone know if we will be asked to do the actual calculation to translate our PCs back into terms of the original variables for PCR on the test, or should we just understand how it works?",
+        "ts": "1474906534.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "<https:\/\/quizlet.com\/154414436\/iaa-linear-algebra-flash-cards\/> (This includes some of the questions from quizzes\/worksheets, and questions I generated from my notes, I tried to include as much as I could!)",
+        "attachments": [
+            {
+                "title": "IAA - Linear Algebra Flashcards | Quizlet",
+                "title_link": "https:\/\/quizlet.com\/154414436\/iaa-linear-algebra-flash-cards\/",
+                "text": "Start studying IAA - Linear Algebra. Learn vocabulary, terms, and more with flashcards, games, and other study tools.",
+                "fallback": "IAA - Linear Algebra Flashcards | Quizlet",
+                "from_url": "https:\/\/quizlet.com\/154414436\/iaa-linear-algebra-flash-cards\/",
+                "service_icon": "https:\/\/quizlet.com\/a\/i\/favicon.MDra.ico",
+                "service_name": "quizlet.com",
+                "id": 1
+            }
+        ],
+        "ts": "1474909402.000025",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U1L914KNJ",
+                    "U1KRWUXFU",
+                    "U1KRNH021",
+                    "U1LBRCSEA",
+                    "U1KSL7L7R",
+                    "U1L735VD4",
+                    "U1L1D4WG7"
+                ],
+                "count": 7
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1NDG6ULB",
+                    "U1M1L5G6L",
+                    "U1KRB11QC"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "<@U1KRQLFLY>: I'm thinking we won't have to know the math because even when she was going over it in class it basically went \"There's a lot of math, but your computer does it for you so you don't have to worry too much\"",
+        "ts": "1474910006.000027"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "If I'm remembering correctly. ",
+        "ts": "1474910018.000028"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "And thanks <@U1L41DF9D> ! These are so helpful. ",
+        "ts": "1474910045.000029"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "<@U1L7E8GSU> <@U1KRQLFLY> Rachel, your right! She just wants you to know that you will be doing replacement math or using PROC PLS, but with PROC PLS you have to principal components in order so you wouldn't be able to do principal components 1, 3,4, and &amp;6, you would have to have 1-6 principal components in the PROC PLS (if you want only those principal components then you'd have to do the replacement math for it). I think thats all we have to know - not necessarily how to do the replacement math.",
+        "ts": "1474910665.000030"
+    },
+    {
+        "user": "U1PM77VSS",
+        "text": "<@U1PM77VSS|hpjones> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474939109.000031"
+    }
+]

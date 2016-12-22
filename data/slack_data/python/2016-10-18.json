@@ -1,0 +1,109 @@
+[
+    {
+        "type": "message",
+        "user": "U1NDG6ULB",
+        "text": "<http:\/\/brandonrose.org\/clustering> ....text mining resource",
+        "ts": "1476826147.000170",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1KQGK2CB",
+                    "U1L1D4WG7",
+                    "U1KRB11QC",
+                    "U1NUU2U9E",
+                    "U1KR891RC"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "that link <@U1NDG6ULB> posted contains a lot of the code andrea shared, with more annotations and also takes it a little further if you're interested",
+        "ts": "1476826261.000171",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KS4UE2F",
+                    "U1L1D4WG7",
+                    "U1KQ9523D",
+                    "U1KT1RZ24",
+                    "U1M1L5G6L"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U1MPXSHN1",
+        "text": "<@U1MPXSHN1|reidbaughman> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476837916.000172"
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "Did Dr Healey ever mention (or has anyone confirmed) if you can send stemmed terms to ANEW?  I'd assume it's doing stemming as part of its algorithm, but all the examples he gave were with unstemmed terms.",
+        "ts": "1476842559.000173"
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "You can send stemmed terms to it",
+        "ts": "1476843602.000174"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1KT2JJE8> ,  i dont know ANEW well, but since it is a sentiment analysis, you might not want to send the stemmed terms to it. IMHO. I might be wrong.",
+        "ts": "1476843993.000175"
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "From what I understand the function searches the ANEW dictionary for the term you gave it and if it doesn't find it then it searches the dictionary for the stemmed version of your term ",
+        "ts": "1476844563.000176",
+        "reactions": [
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U1KT2JJE8"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1KRNHQA1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "Just to add another voice confirming what Joe said, I asked Dr. Healey about this and it can handle stemming. He actually recommended we stem first.",
+        "edited": {
+            "user": "U1KRSV7AN",
+            "ts": "1476845557.000000"
+        },
+        "ts": "1476845531.000177",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1KRNHQA1"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

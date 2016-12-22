@@ -1,0 +1,101 @@
+[
+    {
+        "type": "message",
+        "user": "U1PF7HWTF",
+        "text": "Would anyone want to play this afternoon?",
+        "ts": "1478887308.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1PF7HWTF",
+        "text": "or tomorrow",
+        "ts": "1478887319.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1L90S3QC",
+        "text": "I'm down for later today.",
+        "ts": "1478887366.000025",
+        "reactions": [
+            {
+                "name": "basketball",
+                "users": [
+                    "U1PF7HWTF",
+                    "U1L3PU7BJ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "what time tomorrow?",
+        "ts": "1478887928.000026"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "I'm down for today around 5 or 6",
+        "edited": {
+            "user": "U1L3PU7BJ",
+            "ts": "1478888572.000000"
+        },
+        "ts": "1478888552.000027"
+    },
+    {
+        "type": "message",
+        "user": "U1PF7HWTF",
+        "text": "Does 6 work <@U1L90S3QC>  <@U1L3PU7BJ>. sorry nils",
+        "edited": {
+            "user": "U1PF7HWTF",
+            "ts": "1478895494.000000"
+        },
+        "ts": "1478895486.000029"
+    },
+    {
+        "type": "message",
+        "user": "U1L90S3QC",
+        "text": "6 works great. See you then. ",
+        "ts": "1478896238.000031"
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "I get it Nick. I get it :wink:",
+        "ts": "1478896899.000032"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "i think nick amir and i are going in 30min",
+        "ts": "1478897265.000033"
+    },
+    {
+        "type": "message",
+        "user": "U1L90S3QC",
+        "text": "Wait so are people playing now or at 6?",
+        "ts": "1478899051.000034"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "well be in the gym in 15 min",
+        "ts": "1478899115.000035"
+    },
+    {
+        "type": "message",
+        "user": "U1L90S3QC",
+        "text": "You guys here?",
+        "ts": "1478900645.000036",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1PF7HWTF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

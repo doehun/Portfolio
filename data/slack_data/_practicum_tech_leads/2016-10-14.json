@@ -1,0 +1,26 @@
+[
+    {
+        "type": "message",
+        "user": "U1L0RBZFH",
+        "text": "Does anyone know the process for printing practicum stuff?",
+        "ts": "1476477904.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1L974M70",
+        "text": "<@U1L0RBZFH> I think you're supposed to have john or brandon print it for you.",
+        "ts": "1476479921.000019"
+    },
+    {
+        "type": "message",
+        "user": "U2LA4671B",
+        "text": "<@U1L0RBZFH> Not sure if John's finished setting up printers on all the servers yet, but they are behind locked doors so, if you need to print, we can work with you on it.",
+        "ts": "1476489024.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1L0RBZFH",
+        "text": "Thank you! <@U1L974M70> <@U2LA4671B> ",
+        "ts": "1476490776.000021"
+    }
+]

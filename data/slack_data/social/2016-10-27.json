@@ -1,0 +1,99 @@
+[
+    {
+        "type": "message",
+        "user": "U1LAAMJ0M",
+        "text": "Party at my house in 10 minutes",
+        "ts": "1477569537.000579",
+        "reactions": [
+            {
+                "name": "party_ed",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1KRSV7AN",
+                    "U1L2P17DZ",
+                    "U1L9DD1NY",
+                    "U1KSL7L7R",
+                    "U1LMHQY9E",
+                    "U1KRLV1CG"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "user": "U1KRSV7AN",
+        "text": "<@U1KRSV7AN|jstauss> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477569567.000580"
+    },
+    {
+        "type": "message",
+        "user": "U1L4RTKCM",
+        "text": "Reminder:  Hoppy Hour at the NCMA Park tomorrow!  According to Ed, if you can't find the bunnies, you need a nap.  Our team is getting there at 5:30.  Text me at <tel:(843)870-8449|(843)870-8449> if you have trouble finding us.  It's the hippy hoppiest place to be before the party tomorrow.  :rabbit:",
+        "edited": {
+            "user": "U1L4RTKCM",
+            "ts": "1477586262.000000"
+        },
+        "ts": "1477582997.000581",
+        "reactions": [
+            {
+                "name": "circus_tent",
+                "users": [
+                    "U1KSL7C10",
+                    "U1P8QBBD1",
+                    "U1KRB11QC"
+                ],
+                "count": 3
+            },
+            {
+                "name": "rabbit",
+                "users": [
+                    "U1L1D4WG7",
+                    "U1KRWJB7S",
+                    "U1KRNTXL5",
+                    "U1P8QBBD1",
+                    "U1KRZT11T",
+                    "U1L6WB44A",
+                    "U1KRB11QC"
+                ],
+                "count": 7
+            },
+            {
+                "name": "rabbit2",
+                "users": [
+                    "U1L1D4WG7",
+                    "U1KRB11QC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Who wants to go to the Flyers Vs. Canes game Sunday. Tickets 16$ like if you are interested ",
+        "ts": "1477619369.000583",
+        "reactions": [
+            {
+                "name": "ice_hockey_stick_and_puck",
+                "users": [
+                    "U1L97TR38"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "<@U1KRZT11T> are you in the Canes Games channel?",
+        "ts": "1477619544.000584"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Me and Scott were talking about it but there aren't a bunch of people in that channel that's why I was posting here",
+        "ts": "1477619780.000585"
+    }
+]

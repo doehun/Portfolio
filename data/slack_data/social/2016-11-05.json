@@ -1,0 +1,30 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "I'll be standing at the finish line of the city of oaks marathon tomorrow to support our MSA runners if anyone else is planning on doing so! Probably at 9:30",
+        "ts": "1478387453.000732"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "<@U1KRWUXFU> That's awesome you're planning on coming!  I'll be done by then though.  I should be coming through around 8:40 , give or take 5 minutes.",
+        "ts": "1478387716.000734",
+        "reactions": [
+            {
+                "name": "tough_guy_ioannis",
+                "users": [
+                    "U1L90S3QC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "celebration",
+                "users": [
+                    "U1L90S3QC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

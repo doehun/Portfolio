@@ -1,0 +1,49 @@
+[
+    {
+        "type": "message",
+        "user": "U1L46HXCJ",
+        "text": "Hey y'all I hope you are having a good weekend! I move into my new apartment tomorrow and I was wondering If anyone is around and willing to let me borrow their muscles! I'm moving in right after communications training tomorrow 5:00-5:30. If anyone would be down text me 9192806193. Food\/beer will be rewarded for sure! ",
+        "ts": "1469979800.000105",
+        "reactions": [
+            {
+                "name": "beers",
+                "users": [
+                    "U1KSH8676"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1L5GU954",
+                    "U1KR9BP0E"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Is there any specific attire to wear to communications training?",
+        "ts": "1470017242.000106"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Check your email for something from Sarah regarding dress",
+        "ts": "1470017299.000107"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Now go finishing watching Bourne, <@U1LMHQY9E> ",
+        "ts": "1470017321.000108"
+    },
+    {
+        "type": "message",
+        "user": "U1L3K1AKD",
+        "text": "Business casual for monday and tuesday and business formal for wednesday <@U1LMHQY9E> ",
+        "ts": "1470017829.000109"
+    }
+]

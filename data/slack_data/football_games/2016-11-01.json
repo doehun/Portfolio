@@ -1,0 +1,92 @@
+[
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<https:\/\/www.raleighagenda.com\/6087\/dave-doeren-four-handy-excuses-n-c-states-next-four-losses\/>",
+        "attachments": [
+            {
+                "service_name": "Raleigh Agenda",
+                "title": "For Dave Doeren, Four Handy Excuses for N.C. State\u2019s Next Four Losses",
+                "title_link": "https:\/\/www.raleighagenda.com\/6087\/dave-doeren-four-handy-excuses-n-c-states-next-four-losses\/",
+                "text": "N.C. State head football coach Dave Doeren is totally in the hot seat. While only a field goal away from upsetting third-ranked Clemson just weeks ago, the Wolfpack went on to get destroyed at Louisville before joining the likes of Massachusetts, Wagner, and Buffalo by losing to Boston College last weekend. Losing to Boston College \u2026",
+                "fallback": "Raleigh Agenda: For Dave Doeren, Four Handy Excuses for N.C. State\u2019s Next Four Losses",
+                "thumb_url": "https:\/\/raleigh-agenda-charlotteagenda.netdna-ssl.com\/wp-content\/uploads\/2016\/10\/statedoerenMAIN.jpg",
+                "ts": 1477999288,
+                "from_url": "https:\/\/www.raleighagenda.com\/6087\/dave-doeren-four-handy-excuses-n-c-states-next-four-losses\/",
+                "thumb_width": 1300,
+                "thumb_height": 728,
+                "service_icon": "https:\/\/www.raleighagenda.com\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ],
+        "ts": "1478015123.000019",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KRB11QC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "disappointed_relieved",
+                "users": [
+                    "U1N43E3E0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1KRNH021",
+        "text": "<@U1KRNH021|sneha_komma> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1478015849.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "I still want to go the Miami game in two weeks.  I don't like Miami and it's a winnable game for NCSU.",
+        "ts": "1478016118.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "Apparently no game is a winnable game. :(",
+        "ts": "1478016145.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "DD is gonna be gone by eoy",
+        "ts": "1478016316.000024"
+    },
+    {
+        "user": "U1M37FW5U",
+        "text": "<@U1M37FW5U|alex_curcio> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1478019003.000025"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Miami has the same record as NCSU.",
+        "ts": "1478019577.000026"
+    },
+    {
+        "user": "U1L735VD4",
+        "text": "<@U1L735VD4|nimish_g> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1478024017.000027"
+    },
+    {
+        "user": "U1PF7HWTF",
+        "text": "<@U1PF7HWTF|nickweimer> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1478043479.000028"
+    }
+]

@@ -1,0 +1,215 @@
+[
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Dr. West is presenting about our practicum program at the next Research Triangle Analysts meetup, at 6:30p on July 19, in Chapel Hill. Signup here if you are interested in attending.  <http:\/\/www.meetup.com\/Research-Triangle-Analysts\/events\/232416414\/?gj=co2&amp;rv=co2>",
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Research Triangle Analysts",
+                "title_link": "http:\/\/www.meetup.com\/Research-Triangle-Analysts\/events\/232416414\/?gj=co2&rv=co2",
+                "text": "Doors at 6:30pm, Presentation starts at 7:00.Abstract:&amp;nbsp;The presentation will overview the Master of Science in in Analytics (MSA) program\u2019s practicum at NC State University\u2019s Institute for Advan",
+                "fallback": "Meetup: Research Triangle Analysts",
+                "thumb_url": "http:\/\/photos1.meetupstatic.com\/photos\/event\/c\/0\/a\/a\/highres_371509322.jpeg",
+                "from_url": "http:\/\/www.meetup.com\/Research-Triangle-Analysts\/events\/232416414\/?gj=co2&rv=co2",
+                "thumb_width": 4200,
+                "thumb_height": 3065,
+                "service_icon": "http:\/\/img2.meetupstatic.com\/img\/44824024200340517185\/m\/ios\/Icon-60pt@2x.png",
+                "id": 1
+            }
+        ],
+        "ts": "1467896068.000010",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U1KQGK2CB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "We're famous",
+        "ts": "1467896798.000012",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1KSL7L7R"
+                ],
+                "count": 1
+            },
+            {
+                "name": "grinning",
+                "users": [
+                    "U1KRLV1CG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1PM77VSS",
+        "text": "<@U1PM77VSS|hpjones> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1467909735.000013"
+    },
+    {
+        "user": "U1PNNRVGF",
+        "text": "<@U1PNNRVGF|basoren2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1467916005.000014"
+    },
+    {
+        "user": "U1PN82U67",
+        "text": "<@U1PN82U67|xiehong> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1467922325.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1KSYP1M5",
+        "text": "Is anyone interested in going to Jasmine Mediterranean tomorrow for lunch?",
+        "ts": "1467932309.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1L7RPG1M",
+        "text": "SAS Certification, Stats Exam, Summer Practicum... It's a lot of work, but DJ Khaled believes in you",
+        "ts": "1467939487.000017",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L7E8GSU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U1KQGK2CB",
+                    "U1L735VD4",
+                    "U1KS1BFED",
+                    "U1KR9BP0E",
+                    "U1MDHNYR5",
+                    "U1KSL7L7R",
+                    "U1L7G5LR4"
+                ],
+                "count": 7
+            },
+            {
+                "name": "key",
+                "users": [
+                    "U1KRBFY3Z",
+                    "U1P8QBBD1",
+                    "U1MDHNYR5"
+                ],
+                "count": 3
+            },
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U1KQ9523D"
+                ],
+                "count": 1
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U1L1WFNC8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L7RPG1M",
+        "text": "<https:\/\/youtu.be\/K23_vkcsncA>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Motivational speech Dj Khaled",
+                "title_link": "https:\/\/youtu.be\/K23_vkcsncA",
+                "author_name": "J. Quil",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCXL1H-mxbSTSTdvTJ42TwXQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/K23_vkcsncA\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Motivational speech Dj Khaled",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/K23_vkcsncA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/K23_vkcsncA",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1467939490.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "<@U1KSYP1M5> wish I could come! I was there last week, and their baba ghannouj is AWESOME",
+        "ts": "1467943655.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1KSYP1M5>: what is that! Tell me more! ",
+        "ts": "1467945531.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "Hey, I have the wife and kids visiting this weekend. Does anyone familiar with the area know of some family-friendly activities around Raleigh? Parks, places to walk around, museums, etc.?",
+        "ts": "1467945864.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1L2P17DZ",
+        "text": "<@U1M37FW5U>: Pullen Park is right by campus and it has a mini train for kids, a merry go round, paddle boats, and playgrounds. There's also the North Carolina Museum of Natural Sciences which is in downtown Raleigh and pretty cool for adults and kids! I went there a lot growing up :blush:",
+        "ts": "1467946174.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1L2P17DZ",
+        "text": "The North Carolina Art Museum also has a cool outdoor walking path with neat sculptures and grassy areas for kids to run around in",
+        "ts": "1467946221.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "There's a science museum in durham I used to LOVE going to as a kid.  I think they reworked it fairly recently and it's gotten better, from what I hear.",
+        "ts": "1467946453.000025"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U1M37FW5U>:  The Museum of Life and Science in Durham that Rachel mentioned is fantastic. And Raleigh has the Marbles Kids Museum. My sister takes the kids she babysits to both of those on a weekly basis and they love it. The Durham Bulls games are also fun to go to if you're looking for an evening activity. ",
+        "ts": "1467946747.000026",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L974M70"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSR1MS4",
+        "text": "<@U1KSYP1M5>: I'm down!",
+        "ts": "1467947329.000027"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "type": "message",
+        "user": "U1NDG6ULB",
+        "text": "Hi all,\nI reserved Hoke for the webinar on Wednesday 12-1PM.",
+        "ts": "1474309169.000020",
+        "reactions": [
+            {
+                "name": "chipmunk",
+                "users": [
+                    "U1L46HXCJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "hotdog",
+                "users": [
+                    "U1L46HXCJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "alien",
+                "users": [
+                    "U1L46HXCJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1KS4UE2F",
+                    "U1KSBCBFG"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

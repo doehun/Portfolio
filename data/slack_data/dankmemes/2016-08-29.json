@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1KRF9BAP",
+        "text": "<@U1KRF9BAP|drewlanning> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472488631.000002"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "user": "U1LMHQY9E",
+        "text": "<@U1LMHQY9E|pmaychek> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477167416.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "is the quiz going to cover everything up to this point or everything through CARTs",
+        "ts": "1477167442.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "The one due Monday covers through the Cart notes ",
+        "ts": "1477179884.000013",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1LMHQY9E",
+                    "U1L9DD1NY"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

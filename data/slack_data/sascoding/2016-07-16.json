@@ -1,0 +1,85 @@
+[
+    {
+        "user": "U1L6XBH6W",
+        "text": "<@U1L6XBH6W|shannon_muldoon> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468686884.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "stats question: how does one interpret the breusch-pagan test, for example when the code specifies the fit as:\nfit SalePrice \/ white breusch=(1 Gr_Liv_Area Basement_Area)\nfit SalePrice \/ white breusch=(1 Gr_Liv_Area Basement_Area)",
+        "ts": "1468703676.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "are you asking SAS to tell you whether BOTH those vars have heteroscedastic results?",
+        "ts": "1468703714.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "(in Dr. L's code, he specifies 3 different fit statements, which is what confused me:\nfit SalePrice \/ white breusch=(1 Gr_Liv_Area); *\n    fit SalePrice \/ white breusch=(1 Basement_Area); \n\tfit SalePrice \/ white breusch=(1 Gr_Liv_Area Basement_Area);",
+        "ts": "1468703773.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "come on <@U1KRMNVGC>... saw you typing, don't give up on me!",
+        "ts": "1468704215.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": ":sleuth_or_spy::skin-tone-5:",
+        "ts": "1468704242.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KRLV1CG",
+        "text": "The third statement in Dr. L's code is also asking to evaluate the interaction of these two variables. Something that the first two statements do not do.",
+        "ts": "1468704367.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "the third one tests the interaction term",
+        "ts": "1468704369.000011",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRLV1CG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "So to test specific variables under Breusch-Pagan we have to put them all individually as separate fit statements?",
+        "ts": "1468704395.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "think so ya",
+        "ts": "1468704422.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "got it, thanks guys",
+        "ts": "1468704429.000014"
+    },
+    {
+        "user": "U1KSR1MS4",
+        "text": "<@U1KSR1MS4|rocky_chen> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468722722.000015"
+    }
+]

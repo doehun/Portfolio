@@ -1,0 +1,188 @@
+[
+    {
+        "user": "U1LMHQY9E",
+        "text": "<@U1LMHQY9E|pmaychek> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471534003.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<@U1KS4UE2F>: ",
+        "ts": "1471534124.000003"
+    },
+    {
+        "user": "U1KS4UE2F",
+        "inviter": "U1L6YQUSU",
+        "text": "<@U1KS4UE2F|edward_lim> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471534127.000004"
+    },
+    {
+        "user": "U1LHLK8MR",
+        "text": "<@U1LHLK8MR|mtnorthe> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471546858.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Hey gang.  I have the brewery tour link for purchasing tickets.  Click on this link and enter the password:   jbjncsu",
+        "ts": "1471554484.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<http:\/\/www.etix.com\/ticket\/p\/6996739\/tour-of-raleigh-2-beltline-brew-tours-john-betz-raleighdurham-beltline-brew-tours>",
+        "attachments": [
+            {
+                "service_name": "Etix",
+                "title": "Tour of Raleigh 2 - Beltline Brew Tours ***John Betz*** at Beltline Brew Tours on Aug 27, 2016 1:00 PM",
+                "title_link": "http:\/\/www.etix.com\/ticket\/p\/6996739\/tour-of-raleigh-2-beltline-brew-tours-john-betz-raleighdurham-beltline-brew-tours",
+                "text": "Brewery tour: No refunds shall be given to anyone under the age of 21 who attempts participate in an event or activity, for failure to attend the event or activity, for not providing valid and state issued identification for purposes of verifying age, for late arrivals, for not being present at the scheduled departure time, or on account of adverse or inclement weather conditions. *MUST BE 21 AND HAVE VALID ID*",
+                "fallback": "Etix: Tour of Raleigh 2 - Beltline Brew Tours ***John Betz*** at Beltline Brew Tours on Aug 27, 2016 1:00 PM",
+                "image_url": "http:\/\/www.etix.com\/ticket\/json\/files\/get?file=2f548ec7-8401-466f-8d67-b1d006a274b3&alt=1200w",
+                "from_url": "http:\/\/www.etix.com\/ticket\/p\/6996739\/tour-of-raleigh-2-beltline-brew-tours-john-betz-raleighdurham-beltline-brew-tours",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 131364,
+                "service_icon": "http:\/\/www.etix.com\/ticket\/images2z\/apple-touch-icon-iphone.png",
+                "id": 1
+            }
+        ],
+        "ts": "1471554503.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Please log in and pay by Saturday 8\/20\/16 at noon.  We have 19 people going so far and there's actually room for 10-12 more, so talk it up if there's people who might be on the fence.",
+        "ts": "1471554590.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Here's the itinerary:  1 to 2pm \u2013 Meet at Clouds Brewing (eat lunch together cost not included in the tour) and have samples\n\n2:30 to 3:30 \u2013 Neuse River\n\n3:45 to 4:45 \u2013 Nickelpoint\n\n5pm \u2013 Drop off",
+        "edited": {
+            "user": "U1L6YQUSU",
+            "ts": "1471554640.000000"
+        },
+        "ts": "1471554613.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "The Drop off will be back at Clouds at 5:00.",
+        "ts": "1471554671.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "There's parking at Clouds, but you might not be in shape to drive home, so consider taking an Uber or finding a friend to be your DD.",
+        "ts": "1471554708.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Let me know if you have any questions.  Looking forward to it!",
+        "ts": "1471554763.000010"
+    },
+    {
+        "user": "U1KRNH021",
+        "text": "<@U1KRNH021|sneha_komma> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471558656.000011"
+    },
+    {
+        "user": "U1L97TR38",
+        "text": "<@U1L97TR38|scottdiebold> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471560184.000012"
+    },
+    {
+        "user": "U1L95JP1S",
+        "text": "<@U1L95JP1S|mattkelk> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471568369.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1L95JP1S",
+        "text": "Just paid for mine!",
+        "ts": "1471568376.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Thanks <@U1L95JP1S>!",
+        "ts": "1471569033.000015",
+        "reactions": [
+            {
+                "name": "grimacing",
+                "users": [
+                    "U1L95JP1S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Just paid for mine too!",
+        "ts": "1471569975.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Awesome <@U1KR9BP0E> ",
+        "ts": "1471570002.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "You two are setting a great example for everyone.",
+        "ts": "1471570018.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1L97TR38",
+        "text": "got my ticket!",
+        "ts": "1471570144.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "You're the best <@U1L97TR38> ",
+        "ts": "1471570162.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "Me too",
+        "ts": "1471570376.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Thanks <@U1L914KNJ>!  :+1:",
+        "ts": "1471570398.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "Paid up",
+        "ts": "1471571233.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Thanks <@U1M37FW5U>.  :beers:",
+        "ts": "1471571268.000024"
+    }
+]

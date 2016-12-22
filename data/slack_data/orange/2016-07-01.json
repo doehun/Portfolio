@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1L735VD4",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L735VD4|nimish_g> has joined the channel",
+        "ts": "1467373222.000008"
+    },
+    {
+        "user": "U1N43E3E0",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1N43E3E0|ryan_w> has joined the channel",
+        "ts": "1467384658.000002"
+    }
+]

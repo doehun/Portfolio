@@ -1,0 +1,141 @@
+[
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "<http:\/\/mikero.se\/wu_app.zip>",
+        "ts": "1472851496.000061",
+        "reactions": [
+            {
+                "name": "smiley",
+                "users": [
+                    "U1KQGRG2F"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1KT9ATA5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "What is it, <@U1M4QJD4P> ?",
+        "ts": "1472851525.000062"
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "Weather Underground project",
+        "ts": "1472851564.000063",
+        "reactions": [
+            {
+                "name": "scream",
+                "users": [
+                    "U1KQ9523D",
+                    "U1L1WFNC8"
+                ],
+                "count": 2
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U1KQGK2CB",
+                    "U1KSBCBFG"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "OOP GUI and API 'hack'",
+        "ts": "1472851869.000064"
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "<@U1M4QJD4P>  it's really cool!",
+        "ts": "1472851978.000065",
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U1M4QJD4P"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1L1WFNC8",
+                    "U1P8QBBD1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1KRZT11T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1M4QJD4P> I just got to checking this out - this is awesome! I will want to ask you code questions once I have time to go through it and see what I understand.",
+        "ts": "1472862991.000066"
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "<@U1KR9BP0E> If more than a couple people are interested, I\u2019ll throw together a blog post or share:20 about it.",
+        "ts": "1472865571.000069",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L4RTKCM",
+                    "U1KSL7C10",
+                    "U1NUU2U9E",
+                    "U1KRHCR7T",
+                    "U1KRZT11T",
+                    "U1KR9BP0E",
+                    "U1P8QBBD1",
+                    "U1L7ERY77",
+                    "U1KSBCBFG",
+                    "U1KQ9523D",
+                    "U1L9DD1NY",
+                    "U1M1L5G6L",
+                    "U1KSPCE87",
+                    "U1L41DF9D",
+                    "U1L1WFNC8",
+                    "U1L3PU7BJ",
+                    "U1L97TR38",
+                    "U1KVBARR9",
+                    "U1SMADBU4",
+                    "U1KQGK2CB",
+                    "U1L735VD4",
+                    "U1L6YQUSU",
+                    "U1KSL7L7R",
+                    "U1L974M70",
+                    "U1L0RBZFH"
+                ],
+                "count": 25
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "<@U1M4QJD4P>: I would be interested! ",
+        "ts": "1472873274.000070"
+    }
+]

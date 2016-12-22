@@ -1,0 +1,117 @@
+[
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "If anyone is confused on time series (like me) I made this flow chart that summarizes what we learned this semester!",
+        "ts": "1474831710.000057"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "Thanks, Emmy!!  This is great.",
+        "ts": "1474832342.000062",
+        "reactions": [
+            {
+                "name": "blush",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1KQGRG2F",
+                    "U1L46HXCJ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRE1L9M",
+                    "U1KRBFY3Z",
+                    "U1KRBJP47",
+                    "U1L6YQUSU",
+                    "U1KRB11QC",
+                    "U1KR9BP0E",
+                    "U1Q5GHC2J",
+                    "U1KRSV7AN",
+                    "U1MBURU4D",
+                    "U1LBRCSEA",
+                    "U1P8QBBD1",
+                    "U1KSL7L7R",
+                    "U1L1D4WG7"
+                ],
+                "count": 13
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "Hey  guys, I created a quizlet for time series: <https:\/\/quizlet.com\/152478527\/iaa-time-series-1-flash-cards\/> (it includes Dr. Labarr's questions from the review sheet and questions\/answers from my notes)",
+        "attachments": [
+            {
+                "title": "IAA - Time Series 1 Flashcards | Quizlet",
+                "title_link": "https:\/\/quizlet.com\/152478527\/iaa-time-series-1-flash-cards\/",
+                "text": "Start studying IAA - Time Series 1. Learn vocabulary, terms, and more with flashcards, games, and other study tools.",
+                "fallback": "IAA - Time Series 1 Flashcards | Quizlet",
+                "from_url": "https:\/\/quizlet.com\/152478527\/iaa-time-series-1-flash-cards\/",
+                "service_icon": "https:\/\/quizlet.com\/a\/i\/favicon.MDra.ico",
+                "service_name": "quizlet.com",
+                "id": 1
+            }
+        ],
+        "ts": "1474839725.000068",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1LMHQY9E",
+                    "U1MBURU4D",
+                    "U1KT9ATA5",
+                    "U1L0V1X61",
+                    "U1L6YQUSU",
+                    "U1KRNH021",
+                    "U1LBRCSEA",
+                    "U1M1L5G6L",
+                    "U1P8QBBD1",
+                    "U1KVBARR9",
+                    "U1NDG6ULB",
+                    "U1L46HXCJ",
+                    "U1L0RBZFH",
+                    "U1KT2JJE8",
+                    "U1MH8UXHD",
+                    "U1KRHCR7T",
+                    "U1L1D4WG7"
+                ],
+                "count": 17
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSEJ01W",
+        "text": "Does anyone know for the component form of esm models, is the level component the error term? ",
+        "ts": "1474841722.000072"
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "I think level is the fitted value.\nl(t) = y.hat(t+1) \n         or\nl(t) = y(t+1) - e(t+1)\nthe indexing is a little screwy.  l(0) is fit for y(1)",
+        "ts": "1474845208.000076"
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "only referred to level component if no trend and season components",
+        "ts": "1474845322.000077"
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "found this site super helpful. <https:\/\/www.otexts.org\/fpp\/7\/1>",
+        "ts": "1474845427.000078"
+    },
+    {
+        "type": "message",
+        "user": "U1KSEJ01W",
+        "text": "<@U1M4QJD4P> thanks!",
+        "ts": "1474845915.000081"
+    }
+]

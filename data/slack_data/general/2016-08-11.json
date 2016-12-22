@@ -1,0 +1,287 @@
+[
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Just a reminder for people who drive to give Jessica their check for parking! (I know I almost forgot last time)",
+        "ts": "1470923137.000031",
+        "reactions": [
+            {
+                "name": "blue_car",
+                "users": [
+                    "U1L6YQUSU",
+                    "U1LBRCSEA",
+                    "U1MBURU4D"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "Would anyone be willing to trade one of their checks in exchange for cash for parking? I can stop by your house tomorrow morning ",
+        "ts": "1470927897.000032"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1L3PU7BJ>: sure, i have my checkbook with me",
+        "ts": "1470927971.000033"
+    },
+    {
+        "type": "message",
+        "user": "U1XCJ1X4H",
+        "text": "General info:   I'll send out new blue \/ orange split tomorrow.\nYou won't need to be in HW teams until august 22 and we'll definitely tell you HW teams before then. \nI believe practicum teams announcements are set for Aug 26 (team &amp; lead) \/ sponsor reveal is Sept 1.",
+        "ts": "1470928549.000034",
+        "reactions": [
+            {
+                "name": "blush",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1KQ9523D"
+                ],
+                "count": 2
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U1KQYG6SJ",
+                    "U1L6WB44A",
+                    "U1KRB11QC",
+                    "U1LBRCSEA",
+                    "U1KQGK2CB",
+                    "U1KR9BP0E"
+                ],
+                "count": 6
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1NUU2U9E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1XCJ1X4H",
+        "text": "ahhh, no..I've got an update. HW teams are needed by Wednesday August 17th, so I'll be telling you the HW teams (will post to Moodle) on Monday or Tuesday next week.",
+        "ts": "1470928837.000035"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Anyone wanna grab lunch?!",
+        "ts": "1470931434.000036"
+    },
+    {
+        "type": "message",
+        "user": "U1KQTJ6BV",
+        "text": "Me and Ceci ar\u00e9 in the oval if you wanna join us <@U1L9DD1NY> ",
+        "ts": "1470931846.000037"
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "I'm heading to Wilmington tomorrow around 7:30-8 am. If anyone was planning on going and wants to carpool let me know. :hugging_face:",
+        "ts": "1470933413.000038"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "I'll be heading there after the sas exam if someone wants to ride with me as well! :blush:",
+        "ts": "1470934550.000039"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Are y'all day tripping or full weekend?",
+        "ts": "1470949299.000040"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": " Is anyone at the institute currently? I urgently need help printing something and my computer won't connect to the printer even though it's worked before",
+        "ts": "1470949891.000041"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "<@U1KR9BP0E>: you can print at hunt in the grad lounge if it doesn't work! ",
+        "ts": "1470949951.000042"
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "<@U1LMHQY9E>: I'm going for the whole weekend. ",
+        "ts": "1470954269.000043"
+    },
+    {
+        "type": "message",
+        "user": "U1LAAMJ0M",
+        "text": "Alright pretty last minute on this, but can someone explain why jobcategory isn't overwritten here?",
+        "ts": "1470962093.000045"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "It is, but the length is fixed at 2, so it still looks the same.",
+        "ts": "1470962132.000046",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1L9DD1NY",
+                    "U1KSL7C10"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "That one made me angry that I missed it lol",
+        "ts": "1470962186.000047",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KT9ATA5",
+                    "U1KRLV1CG",
+                    "U1L6WB44A",
+                    "U1P8QBBD1"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1L1D4WG7>: it got me too and I felt the same way! ",
+        "ts": "1470962207.000048"
+    },
+    {
+        "type": "message",
+        "user": "U1LAAMJ0M",
+        "text": "Got it, that's annoying, thanks guys",
+        "ts": "1470962216.000049",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1KRB11QC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "<@U1LAAMJ0M>: and you aren't late btw, the SAScoding channel has like 100 posts an hour right now lol",
+        "ts": "1470962371.000050",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1L9DD1NY"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LAAMJ0M",
+        "text": "What?? How do I find this channel?",
+        "ts": "1470962406.000051"
+    },
+    {
+        "type": "message",
+        "user": "U1LAAMJ0M",
+        "text": "Found it, thanks",
+        "ts": "1470962434.000052",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L1D4WG7",
+                    "U1KR9BP0E",
+                    "U1L6YQUSU",
+                    "U1KRLV1CG"
+                ],
+                "count": 4
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U1KQYG6SJ",
+                    "U1KRWUXFU"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "I just want everyone to know that the Perseid meteor shower is tonight, with the peak at 1am. Some estimates go up to as many as 200 meteors per hour!  If anyone needs to  make a wish on a shooting star for the SAS exam tomorrow, you have plenty of chances.:blush:",
+        "edited": {
+            "user": "U1KQ9523D",
+            "ts": "1470968389.000000"
+        },
+        "ts": "1470968208.000053",
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U1KRWUXFU",
+                    "U1KRB11QC",
+                    "U1KRLV1CG",
+                    "U1L9DD1NY",
+                    "U1L6WB44A",
+                    "U1L3K1AKD",
+                    "U1KSYP1M5",
+                    "U1KRBJP47",
+                    "U1LAAMJ0M",
+                    "U1L46HXCJ",
+                    "U1KSL7L7R"
+                ],
+                "count": 11
+            },
+            {
+                "name": "blush",
+                "users": [
+                    "U1P8QBBD1",
+                    "U1L46HXCJ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1L93SMGF",
+                    "U1SMADBU4",
+                    "U1L46HXCJ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "stars",
+                "users": [
+                    "U1L5GU954",
+                    "U1L2P17DZ",
+                    "U1L46HXCJ",
+                    "U1KS4UE2F"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

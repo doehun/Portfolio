@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1L7G5LR4",
+        "text": "<@U1L7G5LR4|arkadius> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1476229040.000025"
+    }
+]

@@ -1,0 +1,544 @@
+[
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "anybody happen to have an extra ticket? a friend of mine is trying to go but couldn't get  one",
+        "ts": "1475772466.000040"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Hey <@U1LMHQY9E> do you want me to request one for you?  I got an email this morning saying I could still do that",
+        "ts": "1475772747.000041"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "yeah that'd be awesome!",
+        "ts": "1475772784.000042"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Sure <@U1LMHQY9E> it is a student ticket though.  I hope your friend has an old student id?",
+        "ts": "1475772909.000043"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "he does",
+        "ts": "1475773068.000044"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "<@U1LMHQY9E> just sent to you!",
+        "ts": "1475773420.000045"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "just got it, thanks dude!",
+        "ts": "1475773439.000046",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1N43E3E0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Does anyone else have the opportunity request a student ticket because my friend is coming this weekend ",
+        "ts": "1475774760.000047"
+    },
+    {
+        "user": "U1KRE1L9M",
+        "text": "<@U1KRE1L9M|kevin.danchisko> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475778730.000048"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "Who has a parking pass for the ND game for tailgating? Also, what time should we start tailgating?",
+        "ts": "1475778768.000049"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "I have a pass. Was going to try to organize with others to get there around 9 or 9:30",
+        "ts": "1475778800.000050"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "I'll have 5-6 other people with me, but we'll be sure to bring plenty of food and drink. We're planning on parking in the public lots and bringing stuff over to wherever the tailgate is",
+        "ts": "1475778902.000051"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "i have a pass and am bringing a friend with me if anyone needs a ride",
+        "ts": "1475779062.000052"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I also have a parking pass and room for some folks.  ",
+        "ts": "1475779129.000053"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I think Phil, David and I were going to try to caravan ",
+        "ts": "1475779160.000054"
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "<@U1KRE1L9M>: I have an extra tailgating pass if you'd rather drive into the real lot ",
+        "ts": "1475779264.000055"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "That would be incredibly helpful <@U1L415ECD> !",
+        "ts": "1475779286.000056"
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "It's all yours ",
+        "ts": "1475779293.000057"
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "I'll bring it to class tomorrow ",
+        "ts": "1475779318.000058"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "sounds good, thanks again",
+        "ts": "1475779324.000059"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "Anyone have space in their car? ",
+        "ts": "1475779340.000060"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I do <@U1KRWUXFU> ",
+        "ts": "1475779353.000061"
+    },
+    {
+        "user": "U1L7E8GSU",
+        "text": "<@U1L7E8GSU|rachelkurtz> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475779412.000062"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "<@U1L6YQUSU> so....can I join your car?",
+        "ts": "1475779843.000063"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "Could I get a ride in also if anyone else had space? I can meet you anywhere ",
+        "ts": "1475779887.000064"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U1L46HXCJ>: the world decided that I needed to be a pack fan this weekend so I'll be at the game ",
+        "ts": "1475779919.000065",
+        "reactions": [
+            {
+                "name": "wolf",
+                "users": [
+                    "U1L46HXCJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "<@U1KT5F4SZ> the world is wrong, you can always root for Notre Dame",
+        "ts": "1475779950.000066"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "What kind of food is everyone bringing?",
+        "ts": "1475780211.000067"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "I was thinking of getting a bagel pack ",
+        "ts": "1475780397.000068"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Yes <@U1KRWUXFU>  and I can take you <@U1KT5F4SZ> ",
+        "ts": "1475780401.000069",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KT5F4SZ",
+                    "U1KRWUXFU"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U1L6YQUSU>: thanks!\n<@U1KRB11QC>: bagels are a great idea",
+        "ts": "1475783786.000070"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<!channel>: anyone who is driving and wants to tailgate together meet at the institute at 9:15AM on Saturday and we will make this tailgate massive! ",
+        "ts": "1475789357.000071",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRE1L9M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "<@U1L6YQUSU> thanks!",
+        "ts": "1475789382.000072"
+    },
+    {
+        "type": "message",
+        "user": "U1L4RTKCM",
+        "text": "Rain or shine?",
+        "ts": "1475789389.000073"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Rain or shine!",
+        "ts": "1475789399.000074"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I still have space for more if anyone else needs a ride.",
+        "ts": "1475789410.000075"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "<@U1L6YQUSU>: I might! ",
+        "ts": "1475789464.000076"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I'll reserve a space until I hear differently <@U1L7E8GSU>.  Anyone else?",
+        "ts": "1475789489.000077"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "<@U1L6YQUSU> I need a ride. Have space? ",
+        "ts": "1475789624.000078"
+    },
+    {
+        "type": "message",
+        "user": "U1KQGK2CB",
+        "text": "I have a ticket for anyone who needs it, can't make it",
+        "ts": "1475789699.000079"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "I'll take it <@U1KQGK2CB> !",
+        "ts": "1475790091.000080"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Yes <@U1M37FW5U> .",
+        "ts": "1475790200.000081"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Do we all want to bring some type of communal food and share with the group? Also does anyone have tailgate games?",
+        "ts": "1475790300.000082",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KQTJ6BV",
+                    "U1KT5F4SZ",
+                    "U1KRE1L9M"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U1LAAMJ0M",
+        "text": "<@U1LAAMJ0M|carlanderson> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475790308.000083"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Dustin do you still need mine? <@U1KSL7L7R> ",
+        "ts": "1475790315.000084"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "Yes please!",
+        "ts": "1475790354.000085"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U1KRB11QC>: should we make a google doc and organize tailgating food?",
+        "ts": "1475790421.000086",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRE1L9M",
+                    "U1L6YQUSU",
+                    "U1KRB11QC"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "Might be good to keep track of what we have and what we need ",
+        "ts": "1475790442.000087"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "The MBTI j's are coming out!",
+        "ts": "1475790450.000088",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1LMHQY9E",
+                    "U1LAAMJ0M",
+                    "U1L6YQUSU",
+                    "U1KRZT11T",
+                    "U1L9669PD",
+                    "U1KQGK2CB",
+                    "U1KT3UELS",
+                    "U1L1WFNC8"
+                ],
+                "count": 9
+            },
+            {
+                "name": "raising_hand",
+                "users": [
+                    "U1KRE1L9M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1NDG6ULB",
+        "text": "<@U1L7E8GSU> those who prefer J",
+        "ts": "1475790635.000089"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "<@U1KRB11QC> i have spike ball, kan jam, and a football. Could anyone give me a ride from the institute?",
+        "ts": "1475791006.000090"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I still have space <@U1KRNHQA1>",
+        "ts": "1475791021.000091",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRNHQA1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "I got a table today for games too #flipcup",
+        "ts": "1475791081.000092",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1KT5F4SZ",
+                    "U1KRB11QC",
+                    "U1L9DD1NY"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "So far I have <@U1KT5F4SZ>  <@U1KRWUXFU>  <@U1M37FW5U>  maybe <@U1L7E8GSU>  and <@U1KRNHQA1>.  Can fit 1 more",
+        "ts": "1475791089.000093"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1KT5F4SZ>: I'll get a Google doc created",
+        "ts": "1475791699.000094"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U1KRB11QC>: wait I got it. I just can't figure out the name to share with all of the IAA people ",
+        "ts": "1475791792.000095"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<https:\/\/docs.google.com\/spreadsheets\/d\/1kZLa6aLu5kdwS3-loWgWRnAT_27SfI8AZg91UENsRzY\/edit?usp=sharing>",
+        "ts": "1475791884.000096"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "jokes got it.  everyone should be able to edit it from this link.  put down anything you're bringing (games and tables included) that way if someone else picks it up at the end of the day they know who to get it back to",
+        "ts": "1475791922.000097",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U1KRB11QC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1KT5F4SZ> added a carpool list to make that easier",
+        "ts": "1475792171.000098"
+    },
+    {
+        "user": "U1KR891RC",
+        "text": "<@U1KR891RC|fkaiser> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475792847.000099"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "<@U1L6YQUSU> Could one person from my group ride in your car? Would be easier than putting 6 people in my wife's 5-seat car. Would just need a ride to the game, we'll have two cards coming back",
+        "ts": "1475794886.000100"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Only if they promise to root for NC State for a quarter.",
+        "ts": "1475794916.000101"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "<@U1L6YQUSU> works for me! Thanks",
+        "ts": "1475794932.000102"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Cool.  I'll have the paperwork ready for them to sign ",
+        "ts": "1475794945.000103"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Put their name on the spreadsheet ",
+        "ts": "1475794962.000104"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "<@U1L6YQUSU> Great--three of my group are lawyers, so they'll be sure to read the paperwork carefully :slightly_smiling_face:",
+        "ts": "1475794997.000105"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Only one can read it, as its an NDA",
+        "ts": "1475795020.000106"
+    },
+    {
+        "type": "message",
+        "user": "U1L46HXCJ",
+        "text": "I'm gunna have lots of spots. I thought I had to drive with my sister and her friends but they are going separately so lmk if u need one!",
+        "ts": "1475795925.000107"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "<@U1L46HXCJ>: I might need one! ",
+        "ts": "1475796007.000108"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<@U1L46HXCJ>: do you want to put your name on the carpool list?",
+        "ts": "1475796135.000109"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "I forget, do they swipe IDs or just look at them",
+        "ts": "1475796280.000110"
+    }
+]

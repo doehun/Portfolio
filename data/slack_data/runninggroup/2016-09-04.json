@@ -1,0 +1,94 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Hey everyone we will be meeting at Lake Johnson this Tuesday morning at 6:30. It is a 2.9 mile loop that we will be doing. We will be meeting at the main parking lot at 4601 Avent Ferry Rd, Raleigh, NC 27606. Look forward to seeing people there! <http:\/\/www.mapmyrun.com\/routes\/view\/1252012741>",
+        "attachments": [
+            {
+                "service_name": "MapMyRun",
+                "title": "9\/5\/16 Lake Johnson Loop",
+                "title_link": "http:\/\/www.mapmyrun.com\/routes\/view\/1252012741",
+                "text": "Route from MapMyRun",
+                "fallback": "MapMyRun: 9\/5\/16 Lake Johnson Loop",
+                "from_url": "http:\/\/www.mapmyrun.com\/routes\/view\/1252012741",
+                "thumb_url": "http:\/\/drzetlglcbfx.cloudfront.net\/routes\/thumbnail\/1252012741?size=200x200",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "http:\/\/d2i3r43q6ffvz8.cloudfront.net\/prod\/public\/images\/min\/icons\/favicons\/run\/apple-touch-icon.d37300696f2f.png",
+                "id": 1
+            }
+        ],
+        "edited": {
+            "user": "U1KRZT11T",
+            "ts": "1473015465.000000"
+        },
+        "ts": "1473015002.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Would starting at 6:45 or 7 work better for you guys or do you want to stay with 6:30",
+        "ts": "1473015664.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "I like 6:30",
+        "ts": "1473022291.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "Early bird gets the worm ",
+        "ts": "1473022795.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Ok 6:30 it is",
+        "ts": "1473028950.000008",
+        "reactions": [
+            {
+                "name": "flashlight",
+                "users": [
+                    "U1KRE5NKZ",
+                    "U1L0RBZFH",
+                    "U1L7ERY77"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRE5NKZ",
+                    "U1L0RBZFH",
+                    "U1KQGK2CB",
+                    "U1L7ERY77"
+                ],
+                "count": 4
+            },
+            {
+                "name": "sunrise",
+                "users": [
+                    "U1KRE5NKZ",
+                    "U1L7ERY77"
+                ],
+                "count": 2
+            },
+            {
+                "name": "new_moon_with_face",
+                "users": [
+                    "U1NLH1CP8"
+                ],
+                "count": 1
+            },
+            {
+                "name": "clock630",
+                "users": [
+                    "U1L5GU954"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

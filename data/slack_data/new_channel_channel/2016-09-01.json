@@ -1,0 +1,30 @@
+[
+    {
+        "user": "U1PM77VSS",
+        "text": "<@U1PM77VSS|hpjones> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472736634.000002"
+    },
+    {
+        "user": "U1KSH8676",
+        "text": "<@U1KSH8676|ejmaxon> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472753430.000003"
+    },
+    {
+        "user": "U1L7G5LR4",
+        "text": "<@U1L7G5LR4|arkadius> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472763055.000004"
+    },
+    {
+        "user": "U1M1L5G6L",
+        "text": "<@U1M1L5G6L|shelbyklemm> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472781335.000005"
+    }
+]

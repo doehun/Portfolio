@@ -1,0 +1,304 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "writing and blogging primer just disappeared from my calendar, but on the blue calendar it's still there (and says combined cohorts). Is anyone else seeing this?",
+        "ts": "1471520333.000051"
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "I am seeing the same thing <@U1KQYG6SJ> and I got the notification that it was canceled from gcal but seems so unlikely...",
+        "ts": "1471521177.000052"
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "annnnnd it's back",
+        "ts": "1471521228.000053",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U1KQYG6SJ",
+                    "U1L6WB44A"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I'd be down for making a podcast.",
+        "ts": "1471533213.000054",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1LMHQY9E",
+                    "U1L3PU7BJ",
+                    "U1KSL7L7R",
+                    "U1L974M70"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "Are there practice questions out there for the business analyst SAS certification?",
+        "ts": "1471534002.000055"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "Does anyone know when (or whether) we are getting the \"Leading Project Teams\" textbook? Dr. West's document says we should have gotten it during communications training and I want to do \"three before me\" before asking him about it. The quality of the PDF is terrible",
+        "ts": "1471534574.000056"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Consider myself 1 of the 3 <@U1KRE1L9M>.  I have no idea.",
+        "ts": "1471534794.000057",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1NUU2U9E"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "<@U1KRE1L9M>: yes we are getting into it and I believe we have to read that by next week ",
+        "ts": "1471535046.000058"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "I was looking for the deadlines on each of the readings and just checked with Dr. West-he said that in the new West's reading overview document on aa 504 on moodle has the deadline for each document listed next to its name ",
+        "ts": "1471535119.000059"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "I'm going to message management at the radio station I used to work at and see if I could do a couple of random shows throughout the year. It'd be really fun if I had two or three students at a time to interview\/talk about WHATEVA. Let me know if you'd be interested! <mailto:dmalave@ncsu.edu|dmalave@ncsu.edu>",
+        "ts": "1471535323.000060",
+        "reactions": [
+            {
+                "name": "microphone",
+                "users": [
+                    "U1L6YQUSU",
+                    "U1LBRCSEA",
+                    "U1KRNH021",
+                    "U1L974M70",
+                    "U1KSH8676",
+                    "U1KR9BP0E",
+                    "U1KSEJ01W",
+                    "U1NUU2U9E"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "we can download and keep the shows to put on the blog",
+        "ts": "1471535356.000061"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "<@U1KSBCBFG> Do you know if we're getting the hard-copy textbook though?",
+        "ts": "1471535795.000062"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "Not sure let me go and ask",
+        "ts": "1471535811.000063"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "<@U1KRE1L9M>: the books haven't arrived yet. So just skim what's possible\/readable to get a general gist ",
+        "ts": "1471536027.000064"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "<@U1KRE1L9M>: update: a more readable pdf version will be updated soon ",
+        "ts": "1471536475.000065"
+    },
+    {
+        "type": "message",
+        "user": "U1XCJ1X4H",
+        "text": "<@U1KSBCBFG> <@U1KRE1L9M> Trying to create a better Leading Project Teams PDF version I realized that the current PDF displays fine OUTSIDE of a browser window ... so try downloading it and opening it with perhaps Adobe PDF reader and it looks a lot better.  Still waiting on the books to arrive USPS\/UPS\/FedEx..need about 22 more before Dr. West will distribute them. Hard to tell exactly when they'll arrive.",
+        "edited": {
+            "user": "U1XCJ1X4H",
+            "ts": "1471541394.000000"
+        },
+        "ts": "1471539299.000066"
+    },
+    {
+        "type": "message",
+        "user": "U1XCJ1X4H",
+        "text": "Seeing if I can find another format that does actually display well in a browser window now.",
+        "ts": "1471539314.000067"
+    },
+    {
+        "type": "message",
+        "user": "U1XCJ1X4H",
+        "text": "<@U1M37FW5U>  Business Analyst certification should be taken Sept. 30, Oct 5 or Oct 6 after the Logistic Regression class. I know everyone will pass it, but... the make-up date for  Bus. Analyst is Nov. 10th. Look on Moodle for practice questions. Business Analyst does not have as many readily available study materials as BASE because it is a fairly new certification (about 3 years old? maybe 4 now). You don't need to prep as hard for it as you do for BASE b\/c it's much more straight forward and is what you've been studying here since Primer.  Our students typically do very well with this exam. If you want more information, you should google the test. (The business analyst exam is A00-240)",
+        "edited": {
+            "user": "U1XCJ1X4H",
+            "ts": "1471541468.000000"
+        },
+        "ts": "1471539879.000068",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L6WB44A",
+                    "U1L3K1AKD",
+                    "U1KRF9BAP",
+                    "U1KQGK2CB",
+                    "U1KRZT11T",
+                    "U1SMADBU4",
+                    "U1NUU2U9E",
+                    "U1L735VD4"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "For those who have an iPhone, the Leading Project Teams shows up great on iBooks. ",
+        "ts": "1471542087.000071"
+    },
+    {
+        "type": "message",
+        "user": "U1XCJ1X4H",
+        "text": "New Leading Project Management versions posted (new PDF &amp; a word version). Hopefully one of those will work better for everyone.",
+        "ts": "1471542356.000072"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "Thanks Laura! ",
+        "ts": "1471542789.000073"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I'm heading up a lunch field trip to Five Guys Grill on Tuesday 8\/23.  Watch this forum for info.",
+        "ts": "1471543591.000074",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U1KT9ATA5",
+                    "U1L6WB44A",
+                    "U1LBRCSEA",
+                    "U1L9DD1NY",
+                    "U1KSL7L7R",
+                    "U1KT5F4SZ",
+                    "U1KSBCBFG",
+                    "U1L41DF9D"
+                ],
+                "count": 8
+            },
+            {
+                "name": "hugging_face",
+                "users": [
+                    "U1L9DD1NY"
+                ],
+                "count": 1
+            },
+            {
+                "name": "hamburger",
+                "users": [
+                    "U1KRB11QC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I've created a hashtag for our cohort.  Please use it in your social media posts.  #rappasrascals",
+        "ts": "1471545078.000075",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1KSBCBFG",
+                    "U1L9DD1NY",
+                    "U1LBRCSEA",
+                    "U1L2P17DZ",
+                    "U1KRB11QC",
+                    "U1KRNH021",
+                    "U1SMADBU4",
+                    "U1KSL7L7R"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L3K1AKD",
+        "text": "Does anyone have a bike air pump that I can borrow for the weekend?",
+        "ts": "1471549306.000076"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "<@U1L3K1AKD> I do, I'll bring it tomorrow.",
+        "ts": "1471549975.000077"
+    },
+    {
+        "type": "message",
+        "user": "U1L3K1AKD",
+        "text": "Thanks Peter!!",
+        "ts": "1471549996.000078"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "No problem!",
+        "ts": "1471550013.000079"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "<@U1XCJ1X4H> Thank you for the information!",
+        "ts": "1471550733.000080"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "The Brewery Tour is a go!  We have enough people initially (20) to schedule the tour and there's room for 10-12 more.  So if you find you're free or decide to come, please check the new \"brewery_tour\" channel for information or ask me.  We're going to have a blast and maybe we'll even blog about it.",
+        "ts": "1471554850.000081",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1LAAMJ0M"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

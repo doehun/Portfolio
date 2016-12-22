@@ -1,0 +1,40 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "I had so much fun with you guys on Saturday!! This Thursday is Salsa\/Bachata\/Merengue at Irregardless Cafe. The lesson starts at 9 pm and there is a 5 dollar cover.  At 9:45 the dancing starts! Let me know who is interested :slightly_smiling_face:",
+        "ts": "1471881726.000022",
+        "reactions": [
+            {
+                "name": "raising_hand",
+                "users": [
+                    "U1L41DF9D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSYP1M5",
+        "text": ":raising_hand::skin-tone-4:",
+        "ts": "1471884992.000023",
+        "reactions": [
+            {
+                "name": "dancer",
+                "users": [
+                    "U1KQ9523D",
+                    "U1KRNH021"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U1L3G0YRJ",
+        "text": "<@U1L3G0YRJ|emmyburnett> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471887010.000024"
+    }
+]

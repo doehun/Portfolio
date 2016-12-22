@@ -1,0 +1,39 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "No need to wait up for me. Had to head home to change. If anyone already left the institute and is looking for a ride let me know",
+        "ts": "1472759563.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "A lot of us went home to change you should be fine!",
+        "ts": "1472759620.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Should I meet you at the lot since I am not going to the game or meet you at her house",
+        "ts": "1472761002.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "Tommy I'm not sure if anyone else is not planning on going to the game!",
+        "ts": "1472761626.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "Is any one near to Avent ferry road? ",
+        "ts": "1472764149.000012"
+    },
+    {
+        "user": "U1KR80QMS",
+        "text": "<@U1KR80QMS|nsnelson> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472782438.000013"
+    }
+]

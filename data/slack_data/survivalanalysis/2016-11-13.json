@@ -1,0 +1,578 @@
+[
+    {
+        "user": "U1M1L5G6L",
+        "text": "<@U1M1L5G6L|shelbyklemm> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479056295.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Does anyone have the myel data set downloaded?  Apparently you need this for quiz 2 and the moodle link seems broken at the moment",
+        "ts": "1479059225.000010"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1KRLV1CG|ioannis_loukakis> uploaded a file: <https:\/\/msa17.slack.com\/files\/ioannis_loukakis\/F31UQE3NW\/myel.sas7bdat|myel.sas7bdat>",
+        "file": {
+            "id": "F31UQE3NW",
+            "created": 1479059343,
+            "timestamp": 1479059343,
+            "name": "myel.sas7bdat",
+            "title": "myel.sas7bdat",
+            "mimetype": "application\/octet-stream",
+            "filetype": "binary",
+            "pretty_type": "Binary",
+            "user": "U1KRLV1CG",
+            "editable": false,
+            "size": 5120,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F31UQE3NW\/myel.sas7bdat?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F31UQE3NW\/download\/myel.sas7bdat?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "permalink": "https:\/\/msa17.slack.com\/files\/ioannis_loukakis\/F31UQE3NW\/myel.sas7bdat",
+            "permalink_public": "https:\/\/slack-files.com\/T1KRCES8H-F31UQE3NW-12dad078ad",
+            "channels": [
+                "C2WUVMNAG"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U1KRLV1CG",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1KRLV1CG|ioannis_loukakis>",
+        "bot_id": null,
+        "ts": "1479059344.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Awesome, thank you <@U1KRLV1CG> !",
+        "ts": "1479059407.000012",
+        "reactions": [
+            {
+                "name": "small_edward_lim",
+                "users": [
+                    "U1KRLV1CG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "Does anyone have the SAS code for the lectures we had so far? there are 3 files listed on the moodle website and none of them work",
+        "ts": "1479075820.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Yep. One sec.",
+        "ts": "1479075924.000014"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1L1D4WG7|edpreble> uploaded a file: <https:\/\/msa17.slack.com\/files\/edpreble\/F322KBTNY\/sas_code_1.sas|SAS Code_1.sas> and commented: File 1",
+        "file": {
+            "id": "F322KBTNY",
+            "created": 1479075944,
+            "timestamp": 1479075944,
+            "name": "SAS Code_1.sas",
+            "title": "SAS Code_1.sas",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U1L1D4WG7",
+            "editable": true,
+            "size": 2877,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F322KBTNY\/sas_code_1.sas?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F322KBTNY\/download\/sas_code_1.sas?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "permalink": "https:\/\/msa17.slack.com\/files\/edpreble\/F322KBTNY\/sas_code_1.sas",
+            "permalink_public": "https:\/\/slack-files.com\/T1KRCES8H-F322KBTNY-67401ae3f0",
+            "edit_link": "https:\/\/msa17.slack.com\/files\/edpreble\/F322KBTNY\/sas_code_1.sas\/edit",
+            "preview": "\/*NOTES FOR THIS CODE IN ONENOTE \"1-SURVIVAL ANALYSIS\"*\/\r\n\r\n\r\n\r\ndata test;\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>\/*NOTES FOR THIS CODE IN ONENOTE &quot;1-SURVIVAL ANALYSIS&quot;*\/<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre>data test;<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 148,
+            "lines_more": 143,
+            "preview_is_truncated": true,
+            "channels": [
+                "C2WUVMNAG"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc319W7G1X",
+                "created": 1479075944,
+                "timestamp": 1479075944,
+                "user": "U1L1D4WG7",
+                "is_intro": true,
+                "comment": "File 1",
+                "channel": ""
+            }
+        },
+        "user": "U1L1D4WG7",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1L1D4WG7|edpreble>",
+        "bot_id": null,
+        "ts": "1479075944.000015"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1L1D4WG7|edpreble> uploaded a file: <https:\/\/msa17.slack.com\/files\/edpreble\/F32L60LSJ\/sas_code_2.sas|SAS Code_2.sas> and commented: File 2",
+        "file": {
+            "id": "F32L60LSJ",
+            "created": 1479075949,
+            "timestamp": 1479075949,
+            "name": "SAS Code_2.sas",
+            "title": "SAS Code_2.sas",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U1L1D4WG7",
+            "editable": true,
+            "size": 1753,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F32L60LSJ\/sas_code_2.sas?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F32L60LSJ\/download\/sas_code_2.sas?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "permalink": "https:\/\/msa17.slack.com\/files\/edpreble\/F32L60LSJ\/sas_code_2.sas",
+            "permalink_public": "https:\/\/slack-files.com\/T1KRCES8H-F32L60LSJ-59692b30a9",
+            "edit_link": "https:\/\/msa17.slack.com\/files\/edpreble\/F32L60LSJ\/sas_code_2.sas\/edit",
+            "preview": "\r\nlibname survival 'C:\\Users\\Susan\\Google Drive\\Fall 3 2016 Survival Analysis\\Data';\r\nrun;\r\n\r\n\/* Creating AFT *\/\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><\/pre><\/div>\n<div><pre>libname survival 'C:\\Users\\Susan\\Google Drive\\Fall 3 2016 Survival Analysis\\Data';<\/pre><\/div>\n<div><pre>run;<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre>\/* Creating AFT *\/<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 60,
+            "lines_more": 55,
+            "preview_is_truncated": true,
+            "channels": [
+                "C2WUVMNAG"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc318YSBR6",
+                "created": 1479075949,
+                "timestamp": 1479075949,
+                "user": "U1L1D4WG7",
+                "is_intro": true,
+                "comment": "File 2",
+                "channel": ""
+            }
+        },
+        "user": "U1L1D4WG7",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1L1D4WG7|edpreble>",
+        "bot_id": null,
+        "ts": "1479075949.000016"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1L1D4WG7|edpreble> uploaded a file: <https:\/\/msa17.slack.com\/files\/edpreble\/F318YSHH6\/sas_code_3.sas|SAS Code_3.sas> and commented: File 3",
+        "file": {
+            "id": "F318YSHH6",
+            "created": 1479075953,
+            "timestamp": 1479075953,
+            "name": "SAS Code_3.sas",
+            "title": "SAS Code_3.sas",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U1L1D4WG7",
+            "editable": true,
+            "size": 7515,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F318YSHH6\/sas_code_3.sas?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F318YSHH6\/download\/sas_code_3.sas?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "permalink": "https:\/\/msa17.slack.com\/files\/edpreble\/F318YSHH6\/sas_code_3.sas",
+            "permalink_public": "https:\/\/slack-files.com\/T1KRCES8H-F318YSHH6-0aab2662a8",
+            "edit_link": "https:\/\/msa17.slack.com\/files\/edpreble\/F318YSHH6\/sas_code_3.sas\/edit",
+            "preview": "libname survival 'C:\\Users\\Susan\\Google Drive\\Fall 3 2016 Survival Analysis\\Data';\r\nrun;\r\n\r\n\r\n\/* Example using recid data *\/\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>libname survival 'C:\\Users\\Susan\\Google Drive\\Fall 3 2016 Survival Analysis\\Data';<\/pre><\/div>\n<div><pre>run;<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre>\/* Example using recid data *\/<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 221,
+            "lines_more": 216,
+            "preview_is_truncated": true,
+            "channels": [
+                "C2WUVMNAG"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc31TR5QSF",
+                "created": 1479075953,
+                "timestamp": 1479075953,
+                "user": "U1L1D4WG7",
+                "is_intro": true,
+                "comment": "File 3",
+                "channel": ""
+            }
+        },
+        "user": "U1L1D4WG7",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1L1D4WG7|edpreble>",
+        "bot_id": null,
+        "ts": "1479075953.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "I have lots of notes I added in there during class , so not all of that is \"official\" Dr Simmons text :wink:",
+        "ts": "1479075983.000018",
+        "reactions": [
+            {
+                "name": "celebration",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1L7E8GSU",
+                    "U1KRB11QC",
+                    "U1KRLV1CG",
+                    "U1KSL7L7R",
+                    "U1P8QBBD1"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1L1D4WG7> , you are my hero!",
+        "ts": "1479075992.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "Does anyone have a copy of hw2 saved? ",
+        "ts": "1479085948.000020"
+    },
+    {
+        "user": "U1L974M70",
+        "text": "<@U1L974M70|brshallo> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479085973.000021"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1L1D4WG7|edpreble> uploaded a file: <https:\/\/msa17.slack.com\/files\/edpreble\/F3238E4BW\/hw2.pdf|HW2.pdf> and commented: hw2.pdf",
+        "file": {
+            "id": "F3238E4BW",
+            "created": 1479086034,
+            "timestamp": 1479086034,
+            "name": "HW2.pdf",
+            "title": "HW2.pdf",
+            "mimetype": "application\/pdf",
+            "filetype": "pdf",
+            "pretty_type": "PDF",
+            "user": "U1L1D4WG7",
+            "editable": false,
+            "size": 322647,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F3238E4BW\/hw2.pdf?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F3238E4BW\/download\/hw2.pdf?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "permalink": "https:\/\/msa17.slack.com\/files\/edpreble\/F3238E4BW\/hw2.pdf",
+            "permalink_public": "https:\/\/slack-files.com\/T1KRCES8H-F3238E4BW-55f49877b4",
+            "channels": [
+                "C2WUVMNAG"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc31AK81B3",
+                "created": 1479086034,
+                "timestamp": 1479086034,
+                "user": "U1L1D4WG7",
+                "is_intro": true,
+                "comment": "hw2.pdf",
+                "channel": ""
+            },
+            "reactions": [
+                {
+                    "name": "raised_hands",
+                    "users": [
+                        "U1KRWUXFU",
+                        "U1P8QBBD1"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        "user": "U1L1D4WG7",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1L1D4WG7|edpreble>",
+        "bot_id": null,
+        "ts": "1479086035.000022"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1L1D4WG7|edpreble> uploaded a file: <https:\/\/msa17.slack.com\/files\/edpreble\/F31AKANJD\/liver_hw2.sas7bdat|liver_hw2.sas7bdat> and commented: sas file for hw2",
+        "file": {
+            "id": "F31AKANJD",
+            "created": 1479086061,
+            "timestamp": 1479086061,
+            "name": "liver_hw2.sas7bdat",
+            "title": "liver_hw2.sas7bdat",
+            "mimetype": "application\/octet-stream",
+            "filetype": "binary",
+            "pretty_type": "Binary",
+            "user": "U1L1D4WG7",
+            "editable": false,
+            "size": 131072,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F31AKANJD\/liver_hw2.sas7bdat?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F31AKANJD\/download\/liver_hw2.sas7bdat?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "permalink": "https:\/\/msa17.slack.com\/files\/edpreble\/F31AKANJD\/liver_hw2.sas7bdat",
+            "permalink_public": "https:\/\/slack-files.com\/T1KRCES8H-F31AKANJD-2e39f21a70",
+            "channels": [
+                "C2WUVMNAG"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc323KG67P",
+                "created": 1479086061,
+                "timestamp": 1479086061,
+                "user": "U1L1D4WG7",
+                "is_intro": true,
+                "comment": "sas file for hw2",
+                "channel": ""
+            },
+            "reactions": [
+                {
+                    "name": "raised_hands",
+                    "users": [
+                        "U1KRWUXFU",
+                        "U1P8QBBD1"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        "user": "U1L1D4WG7",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1L1D4WG7|edpreble>",
+        "bot_id": null,
+        "ts": "1479086062.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "<@U1KSBCBFG>",
+        "ts": "1479086083.000024"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1L974M70|brshallo> uploaded a file: <https:\/\/msa17.slack.com\/files\/brshallo\/F31AL5H33\/pasted_image_at_2016_11_13_08_14_pm.png|Pasted image at 2016-11-13, 8:14 PM> and commented: For the blurb \"coefficient estimates are reversed in signs\" do you know if this is true no matter the distribution? Or is this only true in the case of if you have an exponential distribution (and scale =1)?",
+        "file": {
+            "id": "F31AL5H33",
+            "created": 1479086368,
+            "timestamp": 1479086368,
+            "name": "Pasted image at 2016_11_13 08_14 PM.png",
+            "title": "Pasted image at 2016-11-13, 8:14 PM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U1L974M70",
+            "editable": false,
+            "size": 85581,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F31AL5H33\/pasted_image_at_2016_11_13_08_14_pm.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F31AL5H33\/download\/pasted_image_at_2016_11_13_08_14_pm.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31AL5H33-722936a799\/pasted_image_at_2016_11_13_08_14_pm_64.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31AL5H33-722936a799\/pasted_image_at_2016_11_13_08_14_pm_80.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31AL5H33-722936a799\/pasted_image_at_2016_11_13_08_14_pm_360.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360_w": 360,
+            "thumb_360_h": 98,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31AL5H33-722936a799\/pasted_image_at_2016_11_13_08_14_pm_480.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_480_w": 480,
+            "thumb_480_h": 130,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31AL5H33-722936a799\/pasted_image_at_2016_11_13_08_14_pm_160.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "image_exif_rotation": 1,
+            "original_w": 624,
+            "original_h": 169,
+            "permalink": "https:\/\/msa17.slack.com\/files\/brshallo\/F31AL5H33\/pasted_image_at_2016_11_13_08_14_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T1KRCES8H-F31AL5H33-5e944e03f7",
+            "channels": [
+                "C2WUVMNAG"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc32LVV4HL",
+                "created": 1479086368,
+                "timestamp": 1479086368,
+                "user": "U1L974M70",
+                "is_intro": true,
+                "comment": "For the blurb \"coefficient estimates are reversed in signs\" do you know if this is true no matter the distribution? Or is this only true in the case of if you have an exponential distribution (and scale =1)?",
+                "channel": ""
+            }
+        },
+        "user": "U1L974M70",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1L974M70|brshallo>",
+        "bot_id": null,
+        "ts": "1479086371.000025"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "<@U1L1D4WG7>: thank u so much! Such a life saver, always! :) ",
+        "ts": "1479086768.000026",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1P8QBBD1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "I never realized how being ocd about downloading files would be so helpful lol",
+        "ts": "1479086871.000027"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "Haha I used to download everything then I got lazy and now I wish I downloaded everything so yay to being ocd abt downloading everything :) ",
+        "ts": "1479086927.000028"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "...I said download everything way too many times....need to stop studying for today ",
+        "ts": "1479086968.000029",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1Q5GHC2J",
+                    "U1LBRCSEA"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<@U1L1D4WG7>: do you still have those Kennedy assassination files?",
+        "ts": "1479093765.000030"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1L1D4WG7|edpreble> uploaded a file: <https:\/\/msa17.slack.com\/files\/edpreble\/F324C91N1\/lee_harvey_oswald_finances.pdf|Lee_Harvey_Oswald_Finances.pdf> and commented: Attached!",
+        "file": {
+            "id": "F324C91N1",
+            "created": 1479095116,
+            "timestamp": 1479095116,
+            "name": "Lee_Harvey_Oswald_Finances.pdf",
+            "title": "Lee_Harvey_Oswald_Finances.pdf",
+            "mimetype": "application\/pdf",
+            "filetype": "pdf",
+            "pretty_type": "PDF",
+            "user": "U1L1D4WG7",
+            "editable": false,
+            "size": 232227,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F324C91N1\/lee_harvey_oswald_finances.pdf?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F324C91N1\/download\/lee_harvey_oswald_finances.pdf?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "permalink": "https:\/\/msa17.slack.com\/files\/edpreble\/F324C91N1\/lee_harvey_oswald_finances.pdf",
+            "permalink_public": "https:\/\/slack-files.com\/T1KRCES8H-F324C91N1-1f1a06e762",
+            "channels": [
+                "C2WUVMNAG"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc32MMTFFG",
+                "created": 1479095116,
+                "timestamp": 1479095116,
+                "user": "U1L1D4WG7",
+                "is_intro": true,
+                "comment": "Attached!",
+                "channel": ""
+            }
+        },
+        "user": "U1L1D4WG7",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1L1D4WG7|edpreble>",
+        "bot_id": null,
+        "ts": "1479095117.000031"
+    }
+]

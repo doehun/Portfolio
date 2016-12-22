@@ -1,0 +1,118 @@
+[
+    {
+        "type": "message",
+        "user": "U1L7RPG1M",
+        "text": "For those of you who come to Slack for sports news, Kevin Durant has signed with the Warriors... :scream:",
+        "ts": "1467648242.000002",
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "U1KRZT11T",
+                    "U1L40P4N9"
+                ],
+                "count": 2
+            },
+            {
+                "name": "-1",
+                "users": [
+                    "U1L95JP1S",
+                    "U1L97TR38",
+                    "U1KSL7L7R",
+                    "U1KRTHAQZ",
+                    "U1KSH8676"
+                ],
+                "count": 5
+            },
+            {
+                "name": "ring",
+                "users": [
+                    "U1NDG6ULB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": ":'(",
+        "ts": "1467648765.000003"
+    },
+    {
+        "user": "U1NLH1CP8",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1NLH1CP8|catherine_burton> has joined the channel",
+        "ts": "1467648840.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "A little fun while we're learning SAS :-P\/* Countdown till MSA graduation! *\/\n\ndata work.countdown;\n\tStartDate='21jun2016'd;\n\tCurrentDate=today();\n\tGraduationDate='07may2017'd;\n\tDaysCompleted=Currentdate-StartDate;\n\tDaysTillGrad=GraduationDate-CurrentDate;\nrun;\n\ntitle 'Days till MSA graduation!';\nproc print data=countdown noobs;\nvar DaysCompleted DaysTillGrad;\nrun;\ntitle;",
+        "ts": "1467653942.000005",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L2P17DZ",
+                    "U1KRB11QC",
+                    "U1KRMNVGC",
+                    "U1KQ9523D",
+                    "U1KRHCR7T",
+                    "U1KRZT11T",
+                    "U1L6YQUSU",
+                    "U1KSL7C10",
+                    "U1KRBJP47",
+                    "U1KSL7L7R",
+                    "U1L7ERY77",
+                    "U1L914KNJ",
+                    "U1KRE5NKZ",
+                    "U1L3K1AKD",
+                    "U1L735VD4",
+                    "U1LHLK8MR",
+                    "U1KRNH021",
+                    "U1KS4UE2F",
+                    "U1LBRCSEA",
+                    "U1KRWUXFU",
+                    "U1L974M70",
+                    "U1NLH1CP8"
+                ],
+                "count": 22
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "We're over 4% of the way to graduation!",
+        "ts": "1467654441.000006",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1LBRCSEA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "Haha :) ",
+        "ts": "1467666346.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Who's doing what for fireworks?",
+        "ts": "1467667238.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "Anyone know if there's a spot on campus where you can see the fireworks?",
+        "ts": "1467667350.000009"
+    }
+]

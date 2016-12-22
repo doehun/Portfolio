@@ -1,0 +1,100 @@
+[
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "Anybody want to play today? ",
+        "ts": "1475667720.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "I'm interested",
+        "ts": "1475672835.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "At what time were you thinking to play basketball?",
+        "ts": "1475672851.000004",
+        "reactions": [
+            {
+                "name": "nerd_face",
+                "users": [
+                    "U1PF7HWTF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "5! Maybe tomorrow as well? AND Friday",
+        "ts": "1475686246.000005",
+        "reactions": [
+            {
+                "name": "basketball",
+                "users": [
+                    "U1MDE4NAG",
+                    "U1KT9ATA5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "<@U1MDE4NAG> does that mean you are going?",
+        "ts": "1475693435.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "<@U1KR80QMS>: yes",
+        "ts": "1475694122.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "Tomorrow afternoon and Friday afternoon",
+        "ts": "1475694137.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "i'm down for both. sas exam until 3 tomorrow and meeting until 2 on friday",
+        "edited": {
+            "user": "U1KT9ATA5",
+            "ts": "1475696547.000000"
+        },
+        "ts": "1475696537.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1PF7HWTF",
+        "text": "Playing today <@U1KR80QMS> ?",
+        "ts": "1475696611.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "<@U1L3PU7BJ> AND saturday?",
+        "ts": "1475696622.000012",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KT9ATA5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "I'm playing today. Will be there at 5. <@U1PF7HWTF>",
+        "ts": "1475696670.000013"
+    }
+]

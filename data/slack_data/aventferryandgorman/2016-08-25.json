@@ -1,0 +1,39 @@
+[
+    {
+        "user": "U1KS4UE2F",
+        "text": "<@U1KS4UE2F|edward_lim> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472150023.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "Who wants to carpool to the lunch at Sitti tomorrow?",
+        "ts": "1472150237.000003",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRB11QC",
+                    "U1L5GU954"
+                ],
+                "count": 2
+            },
+            {
+                "name": "blue_car",
+                "users": [
+                    "U1L5GU954",
+                    "U1KRB11QC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "I'll be out of town :disappointed: but I'm so jealous! I've heard great things about Sitti!",
+        "ts": "1472150955.000004"
+    }
+]

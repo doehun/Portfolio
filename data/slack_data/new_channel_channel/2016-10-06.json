@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1LQB808J",
+        "text": "<@U1LQB808J|wohaus> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1475762503.000015"
+    }
+]

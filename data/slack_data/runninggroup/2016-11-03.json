@@ -1,0 +1,68 @@
+[
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "I know there hasn't been much interest outside of myself, but thought I'd share anyway\n\n<http:\/\/yosemitehalfmarathon.com\/#race-info>",
+        "attachments": [
+            {
+                "title": "Yosemite Half Marathon",
+                "title_link": "http:\/\/yosemitehalfmarathon.com\/#race-info",
+                "text": "May 13, 2017",
+                "fallback": "Yosemite Half Marathon",
+                "from_url": "http:\/\/yosemitehalfmarathon.com\/#race-info",
+                "thumb_url": "https:\/\/s0.wp.com\/i\/blank.jpg",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "http:\/\/yosemitehalfmarathon.com\/favicon.ico",
+                "service_name": "yosemitehalfmarathon.com",
+                "id": 1
+            }
+        ],
+        "ts": "1478184006.000030",
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U1L7RPG1M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L7RPG1M",
+        "text": "<@U1LMHQY9E> That'd be incredible!",
+        "ts": "1478184196.000032"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "cross country road trip then race?",
+        "ts": "1478184614.000033",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L7RPG1M",
+                    "U1LMHQY9E",
+                    "U1L6WB44A"
+                ],
+                "count": 3
+            },
+            {
+                "name": "runner::skin-tone-3",
+                "users": [
+                    "U1KQGK2CB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "That's a pretty epic race!",
+        "ts": "1478203657.000034"
+    }
+]

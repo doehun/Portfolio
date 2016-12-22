@@ -1,0 +1,543 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "Chipotle lovers:\nFree 1+1",
+        "ts": "1477332621.000556"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "Chipotle 1+1 no referral \n<http:\/\/www.couponproblog.com\/2016\/10\/chipotle-buy-1-get-1-free-coupon-text-offer-2.html\/#comments>",
+        "attachments": [
+            {
+                "service_name": "Coupon Pro",
+                "title": "Chipotle: Buy 1 Get 1 FREE Coupon (Text Offer)",
+                "title_link": "http:\/\/www.couponproblog.com\/2016\/10\/chipotle-buy-1-get-1-free-coupon-text-offer-2.html\/#comments",
+                "text": "Chipotle: Buy 1 Get 1 FREE Coupon (Text Offer) Still available! Hurry, Chipotle fans! For a limited time only, play this Chipotle Love Story Game (takes only one minute) to score a hot new mobile coupon valid for Buy 1 Get 1 FREE\u00a0Burritos, Bowls, Salads, or Order of Tacos! Note that you may need to\u00a0use \u2026",
+                "fallback": "Coupon Pro: Chipotle: Buy 1 Get 1 FREE Coupon (Text Offer)",
+                "thumb_url": "http:\/\/www.couponproblog.com\/wp-content\/uploads\/2016\/05\/Screen-Shot-2016-05-26-at-1.51.04-PM.png",
+                "ts": 1476716786,
+                "from_url": "http:\/\/www.couponproblog.com\/2016\/10\/chipotle-buy-1-get-1-free-coupon-text-offer-2.html\/#comments",
+                "thumb_width": 222,
+                "thumb_height": 217,
+                "service_icon": "http:\/\/www.couponproblog.com\/wp-content\/uploads\/2015\/08\/cropped-CPLogo-180x180.jpg",
+                "id": 1
+            }
+        ],
+        "ts": "1477332631.000557",
+        "reactions": [
+            {
+                "name": "burrito",
+                "users": [
+                    "U1LMHQY9E",
+                    "U1LAAMJ0M",
+                    "U1L1WFNC8"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRBFY3Z",
+        "text": "Hey Everybody! Wanted to remind everyone that once we get through this intense week we have HOWLOWEEN WEEKEND PARTY PART ONE, Friday 10\/28 at my place from 8 till whenever!! I really hope everyone can make it, it's going to be a great time! Everyone should come dressed in your best costume and feel free to bring significant other with you!\nMy Address is 401 Oberlin Rd. You can park anywhere on the first floor of the parking garage. Enter the building through the doors in the parking garage on the side closest to Clark and take the elevator up to the 5th floor and you'll be able to find the roof from there. If you have any problems just call me: <tel:815-409-2674|815-409-2674>.  Can\u2019t wait to celebrate the end of Fall 2 and see everyone\u2019s awesome costumes!",
+        "ts": "1477336254.000559",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1L5GU954",
+                    "U1M1L5G6L",
+                    "U1L4RTKCM",
+                    "U1KRLV1CG",
+                    "U1P8QBBD1",
+                    "U1KSL7L7R"
+                ],
+                "count": 7
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U1LLWQ02E",
+                    "U1L9DD1NY",
+                    "U1KSYP1M5",
+                    "U1L5GU954",
+                    "U1N43E3E0",
+                    "U1L3G0YRJ",
+                    "U1L735VD4",
+                    "U1KS1BFED",
+                    "U1NLH1CP8",
+                    "U1M1L5G6L",
+                    "U1LBRCSEA",
+                    "U1L2P17DZ",
+                    "U1L4RTKCM",
+                    "U1L1D4WG7",
+                    "U1KQ9523D",
+                    "U1LJRDPLP",
+                    "U1P8QBBD1",
+                    "U1KQGRG2F",
+                    "U1KRHCR7T",
+                    "U1KRE5NKZ",
+                    "U1KRLV1CG",
+                    "U1KT3UELS",
+                    "U1LK46TUJ",
+                    "U1L1WFNC8",
+                    "U1KRF9BAP",
+                    "U1MDHNYR5"
+                ],
+                "count": 26
+            },
+            {
+                "name": "jack_o_lantern",
+                "users": [
+                    "U1KS1BFED",
+                    "U1LLWQ02E",
+                    "U1L90S3QC",
+                    "U1L3G0YRJ",
+                    "U1LBRCSEA",
+                    "U1KRWUXFU",
+                    "U1L7E8GSU",
+                    "U1L4RTKCM",
+                    "U1L1D4WG7",
+                    "U1LJRDPLP",
+                    "U1KT3UELS",
+                    "U1L2P17DZ",
+                    "U1P8QBBD1",
+                    "U1KQGRG2F",
+                    "U1KRHCR7T",
+                    "U1KRE5NKZ",
+                    "U1KRLV1CG"
+                ],
+                "count": 17
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1L90S3QC",
+                    "U1L4RTKCM",
+                    "U1L1D4WG7",
+                    "U1KQGRG2F",
+                    "U1KRLV1CG",
+                    "U1P8QBBD1"
+                ],
+                "count": 7
+            },
+            {
+                "name": "zombie",
+                "users": [
+                    "U1KS1BFED",
+                    "U1L90S3QC",
+                    "U1L1D4WG7",
+                    "U1P8QBBD1",
+                    "U1KRLV1CG"
+                ],
+                "count": 5
+            },
+            {
+                "name": "metal",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1L1D4WG7",
+                    "U1KQGRG2F",
+                    "U1KRLV1CG",
+                    "U1P8QBBD1",
+                    "U1L5GU954"
+                ],
+                "count": 6
+            },
+            {
+                "name": "snowman_without_snow",
+                "users": [
+                    "U1KQGK2CB",
+                    "U1L9DD1NY",
+                    "U1L90S3QC",
+                    "U1L1D4WG7",
+                    "U1KQGRG2F",
+                    "U1KRE1L9M",
+                    "U1KRLV1CG",
+                    "U1KSL7L7R"
+                ],
+                "count": 8
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1L90S3QC",
+                    "U1L5GU954",
+                    "U1L1D4WG7",
+                    "U1KQGRG2F",
+                    "U1KRLV1CG",
+                    "U1P8QBBD1"
+                ],
+                "count": 6
+            },
+            {
+                "name": "champagne",
+                "users": [
+                    "U1KS1BFED",
+                    "U1L9DD1NY",
+                    "U1M1L5G6L",
+                    "U1L1D4WG7",
+                    "U1KQGRG2F"
+                ],
+                "count": 5
+            },
+            {
+                "name": "tough_guy_ioannis",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1M1L5G6L",
+                    "U1L3G0YRJ",
+                    "U1LBRCSEA",
+                    "U1L7RPG1M",
+                    "U1L2P17DZ",
+                    "U1L90S3QC",
+                    "U1L1D4WG7",
+                    "U1P8QBBD1",
+                    "U1KQGRG2F",
+                    "U1SMADBU4",
+                    "U1KSL7L7R",
+                    "U1L735VD4"
+                ],
+                "count": 13
+            },
+            {
+                "name": "whiskey",
+                "users": [
+                    "U1KRB11QC",
+                    "U1L1D4WG7",
+                    "U1N43E3E0",
+                    "U1KQGRG2F"
+                ],
+                "count": 4
+            },
+            {
+                "name": "balloon",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1L1D4WG7",
+                    "U1KQGRG2F"
+                ],
+                "count": 3
+            },
+            {
+                "name": "dark_sunglasses",
+                "users": [
+                    "U1L90S3QC",
+                    "U1L1D4WG7",
+                    "U1KQGRG2F",
+                    "U1P8QBBD1",
+                    "U1KRE1L9M"
+                ],
+                "count": 5
+            },
+            {
+                "name": "guardsman::skin-tone-3",
+                "users": [
+                    "U1KQGK2CB",
+                    "U1L1D4WG7",
+                    "U1KQGRG2F"
+                ],
+                "count": 3
+            },
+            {
+                "name": "man-man-girl-girl",
+                "users": [
+                    "U1L90S3QC",
+                    "U1L1D4WG7",
+                    "U1KQGRG2F",
+                    "U1KRLV1CG"
+                ],
+                "count": 4
+            },
+            {
+                "name": "party_ed",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1KQGK2CB",
+                    "U1L3G0YRJ",
+                    "U1L735VD4",
+                    "U1LBRCSEA",
+                    "U1L2P17DZ",
+                    "U1N43E3E0",
+                    "U1KRLV1CG",
+                    "U1P8QBBD1",
+                    "U1KSPCE87"
+                ],
+                "count": 10
+            },
+            {
+                "name": "children_crossing",
+                "users": [
+                    "U1LLWQ02E",
+                    "U1L1D4WG7"
+                ],
+                "count": 2
+            },
+            {
+                "name": "beer",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1L5GU954",
+                    "U1KS1BFED",
+                    "U1L1D4WG7",
+                    "U1KQGRG2F",
+                    "U1KRLV1CG"
+                ],
+                "count": 6
+            },
+            {
+                "name": "ok",
+                "users": [
+                    "U1KQGK2CB",
+                    "U1L1D4WG7",
+                    "U1KQGRG2F",
+                    "U1P8QBBD1"
+                ],
+                "count": 4
+            },
+            {
+                "name": "waving_black_flag",
+                "users": [
+                    "U1LLWQ02E",
+                    "U1KQGRG2F",
+                    "U1P8QBBD1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "squirrel",
+                "users": [
+                    "U1KQGK2CB",
+                    "U1N43E3E0",
+                    "U1KQGRG2F",
+                    "U1P8QBBD1",
+                    "U1KSL7L7R"
+                ],
+                "count": 5
+            },
+            {
+                "name": "ghost",
+                "users": [
+                    "U1LLWQ02E",
+                    "U1KQGRG2F",
+                    "U1P8QBBD1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "labarr",
+                "users": [
+                    "U1L90S3QC",
+                    "U1M1L5G6L",
+                    "U1LBRCSEA",
+                    "U1L7RPG1M",
+                    "U1P8QBBD1",
+                    "U1N43E3E0",
+                    "U1KQGRG2F",
+                    "U1KSYP1M5",
+                    "U1KRWJB7S",
+                    "U1L9DD1NY",
+                    "U1LJRDPLP",
+                    "U1KR9BP0E",
+                    "U1KRLV1CG",
+                    "U1L93SMGF"
+                ],
+                "count": 14
+            },
+            {
+                "name": "candycorn2",
+                "users": [
+                    "U1M1L5G6L",
+                    "U1KS1BFED",
+                    "U1LBRCSEA",
+                    "U1L1D4WG7",
+                    "U1L6YQUSU",
+                    "U1L2P17DZ",
+                    "U1P8QBBD1",
+                    "U1KQGRG2F"
+                ],
+                "count": 8
+            },
+            {
+                "name": "candycorn",
+                "users": [
+                    "U1LLWQ02E",
+                    "U1KS1BFED",
+                    "U1LBRCSEA"
+                ],
+                "count": 3
+            },
+            {
+                "name": "small_officer_futch",
+                "users": [
+                    "U1L1D4WG7",
+                    "U1P8QBBD1",
+                    "U1KRLV1CG",
+                    "U1L3PU7BJ",
+                    "U1L735VD4"
+                ],
+                "count": 5
+            },
+            {
+                "name": "happy_waffle",
+                "users": [
+                    "U1KT5F4SZ",
+                    "U1P8QBBD1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "scream",
+                "users": [
+                    "U1N43E3E0",
+                    "U1P8QBBD1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "princess",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1P8QBBD1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1KRLV1CG",
+                    "U1L5GU954"
+                ],
+                "count": 3
+            },
+            {
+                "name": "hammer",
+                "users": [
+                    "U1KRZT11T"
+                ],
+                "count": 1
+            },
+            {
+                "name": "tiger",
+                "users": [
+                    "U1KRZT11T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1LLWQ02E",
+        "text": "<@U1LLWQ02E|jlhines> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477336269.000560"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U1KRWUXFU",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[October 24th, 2016 12:10 PM] sylviebrick: Hey Everybody! Wanted to remind everyone that once we get through this intense week we have HOWLOWEEN WEEKEND PARTY PART ONE, Friday 10\/28 at my place from 8 till whenever!! I really hope everyone can make it, it's going to be a great time! Everyone should come dressed in your best costume and feel free to bring significant other with you!\nMy Address is 401 Oberlin Rd. You can park anywhere on the first floor of the parking garage. Enter the building through the doors in the parking garage on the side closest to Clark and take the elevator up to the 5th floor and you'll be able to find the roof from there. If you have any problems just call me: <tel:815-409-2674|815-409-2674>.  Can\u2019t wait to celebrate the end of Fall 2 and see everyone\u2019s awesome costumes!",
+                "ts": "1477336254.000559",
+                "author_subname": "sylviebrick",
+                "channel_id": "C1KR05HLN",
+                "channel_name": "social",
+                "is_msg_unfurl": true,
+                "text": "Hey Everybody! Wanted to remind everyone that once we get through this intense week we have HOWLOWEEN WEEKEND PARTY PART ONE, Friday 10\/28 at my place from 8 till whenever!! I really hope everyone can make it, it's going to be a great time! Everyone should come dressed in your best costume and feel free to bring significant other with you!\nMy Address is 401 Oberlin Rd. You can park anywhere on the first floor of the parking garage. Enter the building through the doors in the parking garage on the side closest to Clark and take the elevator up to the 5th floor and you'll be able to find the roof from there. If you have any problems just call me: <tel:815-409-2674|815-409-2674>.  Can\u2019t wait to celebrate the end of Fall 2 and see everyone\u2019s awesome costumes!",
+                "author_name": "Sylvie Brick",
+                "author_link": "https:\/\/msa17.slack.com\/team\/sylviebrick",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-06-24\/54217346881_8e1dd9f784ed186b6faf_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U1KRWUXFU|jdemarest> pinned a message to this channel.",
+        "ts": "1477336591.000561"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "I'm annoyed to be limited to 20 emoji reactions on <@U1KRBFY3Z>'s post",
+        "ts": "1477337863.000562",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1KSBCBFG"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<@U1L1D4WG7>  - you may use my remaining 19 if you'd like",
+        "ts": "1477337913.000563"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "when did :labarr: become a thing",
+        "ts": "1477338815.000564"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "i feel behind",
+        "ts": "1477338831.000565",
+        "reactions": [
+            {
+                "name": "labarr",
+                "users": [
+                    "U1L6YQUSU",
+                    "U1KT9ATA5",
+                    "U1KRLV1CG",
+                    "U1P8QBBD1"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "I want to be Hobbes for Halloween, anyone want to be Calvin?",
+        "ts": "1477339443.000566"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<@U1KT9ATA5>: I made that emoji mainly for time series posts",
+        "edited": {
+            "user": "U1L6YQUSU",
+            "ts": "1477339604.000000"
+        },
+        "ts": "1477339592.000567",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KT9ATA5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1L6YQUSU> i see what you did there",
+        "ts": "1477339997.000569"
+    }
+]

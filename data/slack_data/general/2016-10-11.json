@@ -1,0 +1,361 @@
+[
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "Hi everyone, so some great news and some not so great news. My baby boy is here and is doing mostly well and Ash is doing well. The doctors noticed some twitching in his left arm and have transfered him to a specialist unit at Duke for seizures. Please say a prayer for our little man :)",
+        "ts": "1476190646.001085",
+        "reactions": [
+            {
+                "name": "cry",
+                "users": [
+                    "U1KS4UE2F",
+                    "U1L41DF9D",
+                    "U1M7AD5L2",
+                    "U1KSYP1M5",
+                    "U1L735VD4",
+                    "U1L4RTKCM",
+                    "U1KT2JJE8",
+                    "U1L2P17DZ",
+                    "U1L90S3QC",
+                    "U1KT9ATA5",
+                    "U1Q5GHC2J",
+                    "U1KRNH021",
+                    "U1P8QBBD1",
+                    "U1L0RBZFH",
+                    "U1KR891RC",
+                    "U1KSBCBFG",
+                    "U1MBURU4D"
+                ],
+                "count": 17
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U1L6WB44A",
+                    "U1KRMNVGC",
+                    "U1L3G0YRJ",
+                    "U1KRWUXFU",
+                    "U1KRTHAQZ",
+                    "U1N43E3E0",
+                    "U1KT2JJE8",
+                    "U1L2P17DZ",
+                    "U1KRB11QC",
+                    "U1LMHQY9E",
+                    "U1KVBARR9",
+                    "U1L93SMGF",
+                    "U1L7G5LR4",
+                    "U1MH8UXHD",
+                    "U1L90S3QC",
+                    "U1Q7LP4V9",
+                    "U1LBRCSEA",
+                    "U1KQ9523D",
+                    "U1L9DD1NY",
+                    "U1KT9ATA5",
+                    "U1KSL7L7R",
+                    "U1KSR1MS4",
+                    "U1KRBFY3Z",
+                    "U1KQGK2CB",
+                    "U1Q5GHC2J",
+                    "U1MDHNYR5",
+                    "U1KSGHLPJ",
+                    "U1KSL7C10",
+                    "U1KRWJB7S",
+                    "U1L7B7188",
+                    "U1KRNH021",
+                    "U1L7E8GSU",
+                    "U1NFS178D",
+                    "U1NUU2U9E",
+                    "U1L914KNJ",
+                    "U1KRE1L9M",
+                    "U1P8QBBD1",
+                    "U1L4RTKCM",
+                    "U1KRZT11T",
+                    "U1L0RBZFH",
+                    "U1LDKB3AN",
+                    "U1KRBJP47",
+                    "U1KR891RC",
+                    "U1L7RPG1M",
+                    "U1MDE4NAG",
+                    "U1KRNTXL5",
+                    "U1KSH8676",
+                    "U1KSPCE87",
+                    "U1PF7HWTF",
+                    "U1MBURU4D"
+                ],
+                "count": 50
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U1KT5F4SZ",
+                    "U1KSR1MS4",
+                    "U1M4QJD4P",
+                    "U1L9DD1NY",
+                    "U1Q5GHC2J",
+                    "U1L1D4WG7",
+                    "U1L914KNJ",
+                    "U1KRE1L9M",
+                    "U1P8QBBD1",
+                    "U1L0RBZFH",
+                    "U1KSBCBFG",
+                    "U1KR9BP0E",
+                    "U1M37FW5U",
+                    "U1MBURU4D",
+                    "U1L1WFNC8"
+                ],
+                "count": 15
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1KR80QMS> congrats nils! I'm sure he'll be fine :) ",
+        "ts": "1476193595.001086"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<@U1KR80QMS>  You should know that the Duke folks are the best in the world.  He's in great hands.",
+        "ts": "1476193752.001087",
+        "reactions": [
+            {
+                "name": "baby_symbol",
+                "users": [
+                    "U1L914KNJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7C10",
+        "text": "^agree about Duke -- they've been lifesavers for my daughter. We'll be praying for your little guy.",
+        "ts": "1476195626.001088"
+    },
+    {
+        "type": "message",
+        "user": "U1XCJ1X4H",
+        "text": "THIS AFTERNOON'S CLASSES ARE CANCELED - Introduction to Colour Theory has been canceled for today.  We will reschedule and let you know the new details.",
+        "ts": "1476205373.001089"
+    },
+    {
+        "type": "message",
+        "user": "U1XCJ1X4H",
+        "text": "Afternoon classes are BACK ON - NOT canceled. Please attend as originally scheduled.",
+        "ts": "1476205585.001090"
+    },
+    {
+        "type": "message",
+        "user": "U1Q5GHC2J",
+        "text": "<@U1XCJ1X4H> Please send out an email about the class. Most people check email, but not slack channel regularly. Thank you!",
+        "ts": "1476206283.001091",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L7G5LR4",
+                    "U1KRB11QC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1XCJ1X4H",
+        "text": "<@U1Q5GHC2J> Sent to the Google forum 1st thing. (slack 2nd) The google forum - which goes to everyone's email - is for sure still my primary means of communications. I just know some people get slack notifications to their phones and thought it could help in this case. Thanks for confirming!",
+        "ts": "1476206673.001092"
+    },
+    {
+        "type": "message",
+        "user": "U1Q5GHC2J",
+        "text": "Thank you!",
+        "ts": "1476206721.001093"
+    },
+    {
+        "type": "message",
+        "user": "U2LA4671B",
+        "text": "I never saw the redaction\u2026. if classes are back on, it didn\u2019t go to the general forum",
+        "ts": "1476206976.001094"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Relative to our visualization class today:\n\nHere is a pretty mind-blowing radiolab podcast that discusses color and how blue doesn't exist in some cultures as we go back in history. <@U1KRZT11T> mentioned the lack of blue in the bible, but this is also true in the Iliad and many other ancient texts...\n<http:\/\/www.radiolab.org\/story\/211213-sky-isnt-blue\/>\n\nHere is another one about tetra-chromatic vision in people, and multi-chromatic animals...\n<http:\/\/www.radiolab.org\/story\/211119-colors\/>\n\nRadiolab is a great listen if you have a daily commute. I highly recommend it. :slightly_smiling_face:",
+        "attachments": [
+            {
+                "service_name": "radiolab",
+                "title": "Why Isn't the Sky Blue?",
+                "title_link": "http:\/\/www.radiolab.org\/story\/211213-sky-isnt-blue\/",
+                "text": "What is the color of honey, and \"faces pale with fear\"? If you're Homer--one of the most influential poets in human history--that color is green. And the sea is \"wine-dark,\" just like oxen...though sheep are violet. Which all sounds...well, really off. Producer Tim Howard introduces us to linguist Guy Deutscher, and the story of William Gladstone (a British Prime Minister back in the 1800s, and a huge Homer-ophile). Gladstone conducted an exhaustive study of every color reference in The Odyssey and The Iliad. And he found something startling: No blue! Tim pays a visit to the New York Public Library, ...",
+                "fallback": "radiolab: Why Isn't the Sky Blue?",
+                "image_url": "https:\/\/media2.wnyc.org\/i\/1200\/627\/c\/80\/photologue\/photos\/blue_sky.jpg",
+                "from_url": "http:\/\/www.radiolab.org\/story\/211213-sky-isnt-blue\/",
+                "image_width": 417,
+                "image_height": 250,
+                "image_bytes": 26761,
+                "service_icon": "http:\/\/media.wnyc.org\/static\/img\/favicon_radiolab.ico",
+                "id": 1
+            },
+            {
+                "service_name": "radiolab",
+                "title": "Colors",
+                "title_link": "http:\/\/www.radiolab.org\/story\/211119-colors\/",
+                "text": "Radiolab rips the rainbow a new one.",
+                "fallback": "radiolab: Colors",
+                "image_url": "https:\/\/media2.wnyc.org\/i\/1200\/627\/l\/80\/photologue\/photos\/RL_Colors_620_no_title.jpg",
+                "from_url": "http:\/\/www.radiolab.org\/story\/211119-colors\/",
+                "image_width": 620,
+                "image_height": 227,
+                "image_bytes": 15342,
+                "service_icon": "http:\/\/media.wnyc.org\/static\/img\/favicon_radiolab.ico",
+                "id": 2
+            }
+        ],
+        "ts": "1476218159.001095",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KT9ATA5",
+                    "U1LMHQY9E",
+                    "U1L974M70"
+                ],
+                "count": 3
+            },
+            {
+                "name": "pride",
+                "users": [
+                    "U1L7G5LR4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "one of my favorites, semi-related\n<http:\/\/theoatmeal.com\/comics\/mantis_shrimp>",
+        "attachments": [
+            {
+                "service_name": "The Oatmeal",
+                "title": "Why the mantis shrimp is my new favorite animal - The Oatmeal",
+                "title_link": "http:\/\/theoatmeal.com\/comics\/mantis_shrimp",
+                "text": "A comic about a glorious undersea creature.",
+                "fallback": "The Oatmeal: Why the mantis shrimp is my new favorite animal - The Oatmeal",
+                "from_url": "http:\/\/theoatmeal.com\/comics\/mantis_shrimp",
+                "thumb_url": "http:\/\/s3.amazonaws.com\/theoatmeal-img\/thumbnails\/mantis_shrimp.png",
+                "thumb_width": 201,
+                "thumb_height": 201,
+                "service_icon": "http:\/\/theoatmeal.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1476218254.001097",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L1D4WG7",
+                    "U1KRB11QC",
+                    "U1L914KNJ",
+                    "U1N43E3E0",
+                    "U1NFS178D",
+                    "U1L974M70"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "If you want more info on how the brain sees color, I recommend Brain Games, the National Geographic series available on Netflix.  Season 1, episode 1 hosted by Neil Patrick Harris.  Also if you want to learn more about paying attention or remembering things (like names!) check out Season 1, episodes 2 and 3.  I used to show these to my forensic science students.",
+        "ts": "1476225323.001099",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L7E8GSU",
+                    "U1KRLV1CG",
+                    "U1L0RBZFH",
+                    "U1L914KNJ",
+                    "U1L41DF9D",
+                    "U1L6WB44A"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "Hi everyone, First let me thank you for all of your thoughts, prayers and notes. The abundance of your support has exceeded my capacity to respond to each individually. Thank you.\nOur little guy is in the NICU at Duke University Hospital and will be here for at least the next five days. Mom is sore but recovering well. Your continued thoughts and prayers are much appreciated. ",
+        "ts": "1476245990.001100",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1MDE4NAG",
+                    "U1KQGK2CB",
+                    "U1L3G0YRJ",
+                    "U1KS4UE2F",
+                    "U1KSYP1M5",
+                    "U1KR891RC",
+                    "U1L9669PD",
+                    "U1L0V1X61",
+                    "U1LMHQY9E",
+                    "U1KT5F4SZ",
+                    "U1KQ9523D",
+                    "U1KRB11QC",
+                    "U1Q5GHC2J",
+                    "U1KRBFY3Z",
+                    "U1L93SMGF",
+                    "U1KRNH021",
+                    "U1L7G5LR4",
+                    "U1KR9BP0E",
+                    "U1KRE1L9M",
+                    "U1SMADBU4",
+                    "U1KSL7L7R",
+                    "U1KQTJ6BV",
+                    "U1NUU2U9E",
+                    "U1KRBJP47",
+                    "U1KVBARR9",
+                    "U1L2P17DZ",
+                    "U1L40P4N9",
+                    "U1KT3UELS",
+                    "U1KRNTXL5",
+                    "U1KRZT11T",
+                    "U1MBURU4D"
+                ],
+                "count": 32
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U1M37FW5U",
+                    "U1KS4UE2F",
+                    "U1Q5GHC2J",
+                    "U1L7ERY77",
+                    "U1KRE1L9M",
+                    "U1L3K1AKD",
+                    "U1L2P17DZ",
+                    "U1KSL7C10",
+                    "U1MBURU4D",
+                    "U1L7RPG1M",
+                    "U1L974M70"
+                ],
+                "count": 11
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U23JW15TP",
+        "text": "Congradulations to you and to your wife. I wish you Health and Happiness!",
+        "ts": "1476251235.001101"
+    }
+]

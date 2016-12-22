@@ -1,0 +1,198 @@
+[
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Going to this tomorrow, probably around 4pm or 5pm. Anyone else interested? It's a big block party at this public park, fairly close to centennial campus. <https:\/\/www.raleighagenda.com\/1112\/destination-dix-raleigh-2016\/>",
+        "attachments": [
+            {
+                "service_name": "Raleigh Agenda",
+                "title": "5 things to know before you head to Destination Dix tomorrow",
+                "title_link": "https:\/\/www.raleighagenda.com\/1112\/destination-dix-raleigh-2016\/",
+                "text": "To celebrate the one-year anniversary of\u00a0the purchase of Dorothea Dix Park, the city is throwing a massive community party. The Destination Dix festival will take place Saturday, July 23 from 10 a.m. to 7 p.m.\u00a0and there\u2019s a whole lot planned for the day. Here\u2019s what you need to know to enjoy it all. You can\u2019t \u2026",
+                "fallback": "Raleigh Agenda: 5 things to know before you head to Destination Dix tomorrow",
+                "thumb_url": "https:\/\/raleigh-agenda-charlotteagenda.netdna-ssl.com\/wp-content\/uploads\/2016\/07\/destination-dix-map-1.jpg",
+                "ts": 1469182235,
+                "from_url": "https:\/\/www.raleighagenda.com\/1112\/destination-dix-raleigh-2016\/",
+                "thumb_width": 1300,
+                "thumb_height": 841,
+                "service_icon": "https:\/\/www.raleighagenda.com\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ],
+        "ts": "1469192126.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "Hi a bunch of us are planning on going to Raleigh Beer Garden tonight around 10:30ish. Anyone is welcome!",
+        "ts": "1469204769.000006",
+        "reactions": [
+            {
+                "name": "beer",
+                "users": [
+                    "U1L6YQUSU",
+                    "U1L7E8GSU",
+                    "U1KT9ATA5",
+                    "U1LBRCSEA",
+                    "U1NDG6ULB",
+                    "U1L95JP1S",
+                    "U1KR891RC",
+                    "U1L1WFNC8"
+                ],
+                "count": 8
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1L46HXCJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "Hello yourself",
+        "ts": "1469204770.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Wait <@U1KT5F4SZ> can we do maybe 9? Are people up for that? 10:30 is kinda late for some of us haha",
+        "ts": "1469204912.000008",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1L6WB44A",
+                    "U1KRNHQA1",
+                    "U1L4RTKCM",
+                    "U1KT9ATA5",
+                    "U1KSR1MS4"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1KR9BP0E>: im up for 9",
+        "ts": "1469206080.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1MBURU4D",
+        "text": "I'd be down",
+        "ts": "1469207156.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "Tomorrow night is the annual showing of the Big Lebowski at NCMA, there will be food trucks!  $6, you can bring your own blanket and chairs as it's an outdoor movie! <http:\/\/ncartmuseum.org\/calendar\/event\/2016\/07\/23\/4th_annual_big_lebowski_the_dude_abides_party\/1830>",
+        "ts": "1469224994.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1L3K1AKD",
+        "text": "Does anyone who's going to Raleigh Beer Garden live near Kensington Park (Avent Ferry near Gorman st)? ",
+        "ts": "1469226775.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1L3K1AKD",
+        "text": "I'd like to go but I don't have a car...",
+        "ts": "1469226815.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1L3K1AKD>: If you can't find a ride my wife and I will pick you up! ",
+        "ts": "1469229165.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1L3K1AKD",
+        "text": "Thank you <@U1KT9ATA5>! I decided I'll stay at home after all... But Thanks for your kind offer!",
+        "ts": "1469233436.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Anyone at the beer garden yet? I'm about to head that way ",
+        "ts": "1469238830.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1L95JP1S",
+        "text": "We're all across the street listening to jazz still but I'll head over soon",
+        "ts": "1469239320.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": " Few of us are on our way ",
+        "ts": "1469239340.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Oh damn I forgot about the Jazz thing. I'll go that next time people go ",
+        "ts": "1469239425.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR1MS4",
+        "text": "A few of us are here on the first floor in the back - still getting drinks",
+        "ts": "1469239469.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1L1WFNC8",
+        "text": "We have have a table on the second floor by the beer bar",
+        "ts": "1469240217.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Are people out still?",
+        "ts": "1469246603.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Lots of people still at beer garden ",
+        "ts": "1469246870.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Ooo okay I was just there where are you guys",
+        "ts": "1469246900.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "In the back area with the games",
+        "ts": "1469246919.000025"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Cornerstone is crowded but fun if anyone wants to come",
+        "ts": "1469250711.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1LAAMJ0M",
+        "text": "As a male, it's very difficult to get in there, so still at beer garden",
+        "ts": "1469250867.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Alchemy ??",
+        "ts": "1469251690.000004"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "user": "U1LBRCSEA",
+        "text": "<@U1LBRCSEA|bethmoser> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469113452.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "cardio dance at 6.30pm tonight!",
+        "ts": "1469122417.000003",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L3G0YRJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L7ERY77",
+        "text": "<@U1KQYG6SJ> is it fun?",
+        "ts": "1469134531.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "YES",
+        "ts": "1469134553.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "LOTS AND LOTS OF FUN\nYOU SHOULD COME",
+        "ts": "1469134559.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1L4RTKCM",
+        "text": "6:30 am TRX tomorrow.  It's in the basement of a building.  If you decide to come and need help finding it, let me know!",
+        "ts": "1469144130.000009",
+        "reactions": [
+            {
+                "name": "weight_lifter",
+                "users": [
+                    "U1KR9BP0E",
+                    "U1KT5F4SZ",
+                    "U1KRBFY3Z"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U1KRWUXFU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "U1KRE5NKZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Also, kickboxing tomorrow at 4:00!",
+        "ts": "1469144477.000011"
+    },
+    {
+        "user": "U1KQTJ6BV",
+        "text": "<@U1KQTJ6BV|andreazadia> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469147579.000013"
+    },
+    {
+        "user": "U1LNGEV0B",
+        "text": "<@U1LNGEV0B|kespina> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469153233.000015"
+    }
+]

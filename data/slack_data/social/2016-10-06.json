@@ -1,0 +1,73 @@
+[
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Pregame at <@U1LAAMJ0M> ",
+        "ts": "1475770749.000310",
+        "reactions": [
+            {
+                "name": "beer",
+                "users": [
+                    "U1M37FW5U",
+                    "U1LAAMJ0M",
+                    "U1L6YQUSU",
+                    "U1KSL7L7R"
+                ],
+                "count": 4
+            },
+            {
+                "name": "flushed",
+                "users": [
+                    "U1LAAMJ0M",
+                    "U1L41DF9D"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "On Saturday!",
+        "ts": "1475770752.000311"
+    },
+    {
+        "type": "message",
+        "user": "U1LAAMJ0M",
+        "text": "News to me, let's do it",
+        "ts": "1475771863.000312",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1L7E8GSU",
+                    "U1M37FW5U",
+                    "U1KSL7L7R"
+                ],
+                "count": 4
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1KQGK2CB",
+                    "U1L41DF9D"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<@U1KRE1L9M>:  There's a football games channel",
+        "ts": "1475778708.000314"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "Thanks <@U1L6YQUSU> !",
+        "ts": "1475778750.000315"
+    }
+]

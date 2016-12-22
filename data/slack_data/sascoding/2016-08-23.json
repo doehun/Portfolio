@@ -1,0 +1,83 @@
+[
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Are there any resources out there for the Business Analyst exam (aside from the e-learning site)? Like a blog with example questions? There is no practice exam on SAS's site, unfortunately. I'm wondering if the test opportunity on the 9th is actually possible, or if we need legitimately need more class time and should plan on taking it on the 30th.",
+        "ts": "1471963427.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1P8QBBD1",
+        "text": "I think the 9th is just for retaking Base Sas",
+        "ts": "1471963479.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Laura's email \"SAS Certification Dates\" says that the 9th is possible for BA also.",
+        "ts": "1471963611.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1XCJ1X4H",
+        "text": "<@U1L1D4WG7>  I usually prefer that students have taken the Logistic Regression module (on your calendars 9\/7 thru 9\/30) and then take the certification afterwards on 9\/30, Oct 5 or Oct 6, but, if your background already includes solid logistic regression  instruction or practice, you may take it on Sept 9th.  Because it is a fairly new certification -  maybe this is the 4th year? - there are no where near the online\/blog aids that exist for Base &amp; Advance SAS certification exams. You should try to google it ( business analyst certification A00-240) but watch out b\/c some of the results seem questionable.",
+        "ts": "1471964082.000009",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1N43E3E0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "The BA exam consists of the bootcamp statistics class (Stats books 1 and 2) and the logistic regression class, correct? Does anyone know if an official review book exists, similar to the one for the Base SAS?",
+        "ts": "1471964864.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Thanks <@U1XCJ1X4H>! Very helpful!",
+        "ts": "1471966986.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1PN82U67",
+        "text": "The BA exam consists of two parts: Predictive Modeling Using Logistic Regression and Statistics I : Introduction to ANOVA, Regression, and Logistic Regression. For Stats 1, we have already learned the major part during bootcamp. However, there are several procedures such as proc glmselect which was an option and not required to master in class did appear in my exam several times. So do check the Stats 1 book or e-learning for those procedures and also related statement options.  For predictive modeling, to me, SAS e-learning is enough.",
+        "ts": "1471998575.000012",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1L7G5LR4",
+                    "U1M4QJD4P",
+                    "U1KSL7C10",
+                    "U1L1D4WG7",
+                    "U1NUU2U9E",
+                    "U1KT9ATA5",
+                    "U1P8QBBD1",
+                    "U1L5GU954"
+                ],
+                "count": 9
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1P8QBBD1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "<@U1PN82U67> Thank you!",
+        "ts": "1472001735.000013"
+    }
+]

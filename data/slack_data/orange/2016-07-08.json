@@ -1,0 +1,28 @@
+[
+    {
+        "type": "message",
+        "user": "U1L974M70",
+        "text": "Anyone have a Samsung computer? I left mine at home and was hoping I could split one with someone for the day :-) :-)",
+        "ts": "1467982638.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "You should ask Brandon for a laptop for today, maybe?",
+        "ts": "1467982826.000003"
+    },
+    {
+        "user": "U1M7AD5L2",
+        "text": "<@U1M7AD5L2|kelly> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468011348.000004"
+    },
+    {
+        "user": "U1Q5GHC2J",
+        "text": "<@U1Q5GHC2J|rwang10> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468015034.000005"
+    }
+]

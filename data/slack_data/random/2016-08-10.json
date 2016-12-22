@@ -1,0 +1,36 @@
+[
+    {
+        "type": "message",
+        "user": "U1L974M70",
+        "text": "<http:\/\/www.npr.org\/sections\/health-shots\/2016\/08\/10\/489318279\/social-security-data-errors-can-turn-people-into-the-living-dead> \n# Summer practicum fraud",
+        "attachments": [
+            {
+                "service_name": "NPR.org",
+                "title": "Social Security Data Errors Can Turn People Into The Living Dead",
+                "title_link": "http:\/\/www.npr.org\/sections\/health-shots\/2016\/08\/10\/489318279\/social-security-data-errors-can-turn-people-into-the-living-dead",
+                "text": "The government keeps track of who is alive and who is dead. But there can be errors. And when you're mistakenly ruled dead, it can be remarkably tough to convince people you're still among the living.",
+                "fallback": "NPR.org: Social Security Data Errors Can Turn People Into The Living Dead",
+                "image_url": "https:\/\/media.npr.org\/assets\/img\/2016\/08\/10\/living-dead_wide-27ae064d79861c5b20435a48b2c5c84804502af6.jpg?s=1400",
+                "from_url": "http:\/\/www.npr.org\/sections\/health-shots\/2016\/08\/10\/489318279\/social-security-data-errors-can-turn-people-into-the-living-dead",
+                "image_width": 445,
+                "image_height": 250,
+                "image_bytes": 671155,
+                "service_icon": "http:\/\/www.npr.org\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1470868209.000006",
+        "reactions": [
+            {
+                "name": "skull",
+                "users": [
+                    "U1KT9ATA5",
+                    "U1KSL7L7R",
+                    "U1NUU2U9E",
+                    "U1KRHCR7T"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

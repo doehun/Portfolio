@@ -1,0 +1,30 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRTHAQZ",
+        "text": "Does anyone know if we're still playing at 9 tomorrow morning?",
+        "ts": "1470264869.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRTHAQZ",
+        "text": "Or is that Friday?",
+        "ts": "1470264899.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KRTHAQZ",
+        "text": "Nvm ignore that. LaBarr and Brandon are gonna play tomorrow at 12:30 ",
+        "ts": "1470265090.000004",
+        "reactions": [
+            {
+                "name": "basketball",
+                "users": [
+                    "U1KS4UE2F",
+                    "U1Q5GHC2J"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

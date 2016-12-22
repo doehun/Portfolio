@@ -1,0 +1,50 @@
+[
+    {
+        "user": "U1Q5GHC2J",
+        "text": "<@U1Q5GHC2J|rwang10> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469047155.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1PF7HWTF",
+        "text": "Shoot would have caught with u had I seen this ",
+        "ts": "1469050622.000002"
+    },
+    {
+        "user": "U1KRB11QC",
+        "text": "<@U1KRB11QC|dsjorda2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469067242.000002"
+    },
+    {
+        "user": "U1P8QBBD1",
+        "text": "<@U1P8QBBD1|shpatel7> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469069764.000003"
+    },
+    {
+        "user": "U1P8QBBD1",
+        "text": "<@U1P8QBBD1|shpatel7> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1469069811.000004"
+    },
+    {
+        "user": "U1L2P17DZ",
+        "text": "<@U1L2P17DZ|kailistevens> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469069815.000005"
+    },
+    {
+        "user": "U1L2P17DZ",
+        "text": "<@U1L2P17DZ|kailistevens> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1469069931.000006"
+    }
+]

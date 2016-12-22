@@ -1,0 +1,69 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "quick demo of Azure ML Studio, which is like SAS Enterprise miner, if anyone's interested: <https:\/\/channel9.msdn.com\/Blogs\/Windows-Azure\/Predictive-Modelling-with-Azure-ML-studio>",
+        "attachments": [
+            {
+                "service_name": "Channel 9",
+                "title": "Predictive Modeling with Azure ML Studio (Channel 9)",
+                "title_link": "https:\/\/channel9.msdn.com\/Blogs\/Windows-Azure\/Predictive-Modelling-with-Azure-ML-studio",
+                "text": "Azure Machine Learning features a pallets of modules to build a predictive model, including state of the art ML algorithms such as Scalable boosted decision trees, Bayesian Recommendation systems, Dee",
+                "fallback": "Channel 9: Predictive Modeling with Azure ML Studio (Channel 9)",
+                "thumb_url": "http:\/\/video.ch9.ms\/ch9\/0595\/245a2c6a-d99a-4e28-a9c3-0dcf1e0c0595\/PredictiveModelingWithAzureMLStudio_512.jpg",
+                "video_html_width": "512",
+                "video_html_height": "288",
+                "video_url": "https:\/\/sec.ch9.ms\/ch9\/0595\/245a2c6a-d99a-4e28-a9c3-0dcf1e0c0595\/PredictiveModelingWithAzureMLStudio_mid.mp4",
+                "from_url": "https:\/\/channel9.msdn.com\/Blogs\/Windows-Azure\/Predictive-Modelling-with-Azure-ML-studio",
+                "thumb_width": 512,
+                "thumb_height": 288,
+                "service_icon": "https:\/\/channel9.msdn.com\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ],
+        "ts": "1476695587.000526"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Getting pumped for JMP",
+        "ts": "1476725249.000529"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "<https:\/\/www.youtube.com\/watch?v=5EqWN4fT79s>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Jump - Van Halen",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=5EqWN4fT79s",
+                "author_name": "nightfawn27",
+                "author_link": "https:\/\/www.youtube.com\/user\/nightfawn27",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/5EqWN4fT79s\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Jump - Van Halen",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/5EqWN4fT79s?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=5EqWN4fT79s",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1476725251.000530",
+        "reactions": [
+            {
+                "name": "metal",
+                "users": [
+                    "U1KRZT11T",
+                    "U1L9DD1NY",
+                    "U1KR9BP0E"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

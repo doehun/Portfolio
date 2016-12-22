@@ -1,0 +1,62 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Shoot, be there soon",
+        "ts": "1476786595.000029"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "You guys can leave and I can meet up with you if you want",
+        "ts": "1476786771.000030"
+    },
+    {
+        "type": "message",
+        "user": "U1L7RPG1M",
+        "text": "I think you guys will get a good laugh out of this:",
+        "ts": "1476847548.000031"
+    },
+    {
+        "type": "message",
+        "user": "U1L7RPG1M",
+        "text": "<https:\/\/youtu.be\/M4AhABManTw>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "RAT POISON AND BRANDY: THE 1904 ST. LOUIS OLYMPIC MARATHON.",
+                "title_link": "https:\/\/youtu.be\/M4AhABManTw",
+                "author_name": "Jon Bois",
+                "author_link": "https:\/\/www.youtube.com\/user\/jonbois",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/M4AhABManTw\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: RAT POISON AND BRANDY: THE 1904 ST. LOUIS OLYMPIC MARATHON.",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/M4AhABManTw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/M4AhABManTw",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1476847553.000032",
+        "reactions": [
+            {
+                "name": "small_officer_futch",
+                "users": [
+                    "U1N43E3E0",
+                    "U1KQGK2CB"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U1L7RPG1M>: I thoroughly enjoyed that. Thank you. ",
+        "ts": "1476849014.000034"
+    }
+]

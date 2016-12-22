@@ -1,0 +1,41 @@
+[
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Looks like weather isn't going to cooperate for hillridge farm pumpkin fun this weekend. We're going to reschedule for Sunday the 16th. :-)",
+        "ts": "1475840797.000317",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRWUXFU",
+                    "U1P8QBBD1",
+                    "U1L6WB44A"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQTJ6BV",
+        "text": "Is anyone going out tonight?",
+        "ts": "1475893873.000318"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Me <@U1KQTJ6BV> lol",
+        "ts": "1475895493.000319",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KQTJ6BV",
+                    "U1KSL7L7R"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

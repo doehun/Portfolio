@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1KT5F4SZ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KT5F4SZ|hannahh> has joined the channel",
+        "ts": "1467038870.000002"
+    },
+    {
+        "user": "U1LJRDPLP",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1LJRDPLP|alexhorowitz> has joined the channel",
+        "ts": "1467046515.000002"
+    }
+]

@@ -1,0 +1,175 @@
+[
+    {
+        "user": "U1KT2JJE8",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KT2JJE8|slwalke3> has joined the channel",
+        "ts": "1467465313.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "So, pool today or tomorrow then?",
+        "ts": "1467470221.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KS1BFED",
+        "text": "The Eno River Music Festival is today and Monday in Durham: <http:\/\/www.enoriver.org\/festival\/info.html>. I'll be there today from about 1:30 til close. Music + Beer + Cliff Jumping. I think it's $23 at the date for a one-day pass.",
+        "attachments": [
+            {
+                "title": "Festival for the Eno",
+                "title_link": "http:\/\/www.enoriver.org\/festival\/info.html",
+                "text": "Continuous entertainment on 4stages, beer garden, food trucks and activities on the cool shaded banks of the Eno River.",
+                "fallback": "Festival for the Eno",
+                "image_url": "http:\/\/www.enoriver.org\/wp-content\/uploads\/splashing-swimmers.jpg",
+                "from_url": "http:\/\/www.enoriver.org\/festival\/info.html",
+                "image_width": 374,
+                "image_height": 250,
+                "image_bytes": 72232,
+                "service_name": "enoriver.org",
+                "id": 1
+            }
+        ],
+        "ts": "1467474363.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1L95JP1S",
+        "text": "London Bridge Pub for the Germany match if anyone is around the area!",
+        "ts": "1467486021.000006",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KQ9523D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "<@U1L95JP1S>: You cheer for Germany too?? :grin:  I'm watching it from North Raleigh, but let's set something up to watch the final next weekend!",
+        "ts": "1467489258.000007",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L914KNJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSEJ01W",
+        "text": "<@U1L95JP1S> Forza Italia",
+        "ts": "1467489457.000008",
+        "reactions": [
+            {
+                "name": "flag-it",
+                "users": [
+                    "U1KSL7L7R"
+                ],
+                "count": 1
+            },
+            {
+                "name": "grinning",
+                "users": [
+                    "U1KRWUXFU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L95JP1S",
+        "text": "<@U1KQ9523D>: KelkenBERG GO GERMANY! <@U1KSEJ01W> will be crying soon.",
+        "ts": "1467489512.000009",
+        "reactions": [
+            {
+                "name": "upside_down_face",
+                "users": [
+                    "U1KQ9523D"
+                ],
+                "count": 1
+            },
+            {
+                "name": "flag-de",
+                "users": [
+                    "U1KRE1L9M",
+                    "U1KQ9523D"
+                ],
+                "count": 2
+            },
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U1KRLV1CG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1L9669PD",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L9669PD|pmartin> has joined the channel",
+        "ts": "1467493526.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": ":see_no_evil: ",
+        "ts": "1467495414.000011",
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U1KRLV1CG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "Should have checked the slack before the game to meet up!",
+        "ts": "1467496791.000013",
+        "reactions": [
+            {
+                "name": "pensive",
+                "users": [
+                    "U1L95JP1S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1KR891RC",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KR891RC|fkaiser> has joined the channel",
+        "ts": "1467510126.000022"
+    },
+    {
+        "user": "U1L0V1X61",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L0V1X61|raj> has joined the channel",
+        "ts": "1467515319.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Is anyone going out tonight? ",
+        "ts": "1467516404.000024"
+    }
+]

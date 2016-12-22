@@ -1,0 +1,179 @@
+[
+    {
+        "user": "U1KRB11QC",
+        "text": "<@U1KRB11QC|dsjorda2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469247981.000002"
+    },
+    {
+        "user": "U1L6WB44A",
+        "text": "<@U1L6WB44A|ekdoyel> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469248030.000003"
+    },
+    {
+        "user": "U1KSEJ01W",
+        "text": "<@U1KSEJ01W|ajborelli> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469248036.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1KRZT11T>: <@U1KRWUXFU> <@U1KRMNVGC> <@U1MBURU4D> ",
+        "ts": "1469248072.000005"
+    },
+    {
+        "user": "U1KRWUXFU",
+        "inviter": "U1KRB11QC",
+        "text": "<@U1KRWUXFU|jdemarest> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469248079.000006"
+    },
+    {
+        "user": "U1KRZT11T",
+        "inviter": "U1KRB11QC",
+        "text": "<@U1KRZT11T|tommy_darlington> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469248079.000007"
+    },
+    {
+        "user": "U1KRMNVGC",
+        "inviter": "U1KRB11QC",
+        "text": "<@U1KRMNVGC|cncross> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469248079.000008"
+    },
+    {
+        "user": "U1MBURU4D",
+        "inviter": "U1KRB11QC",
+        "text": "<@U1MBURU4D|marc_armbruster> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469248079.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Thoughts on tomorrow's outing",
+        "ts": "1469248113.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1L3G0YRJ>: ",
+        "ts": "1469248117.000011"
+    },
+    {
+        "user": "U1L3G0YRJ",
+        "inviter": "U1KRB11QC",
+        "text": "<@U1L3G0YRJ|emmyburnett> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469248120.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1KSR1MS4>: <@U1L3K1AKD> ",
+        "ts": "1469248140.000013"
+    },
+    {
+        "user": "U1L3K1AKD",
+        "inviter": "U1KRB11QC",
+        "text": "<@U1L3K1AKD|ccupito> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469248142.000014"
+    },
+    {
+        "user": "U1KSR1MS4",
+        "inviter": "U1KRB11QC",
+        "text": "<@U1KSR1MS4|rocky_chen> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469248143.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1L5GU954>: ",
+        "ts": "1469248151.000016"
+    },
+    {
+        "user": "U1L5GU954",
+        "inviter": "U1KRB11QC",
+        "text": "<@U1L5GU954|jrweston> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469248154.000017"
+    },
+    {
+        "user": "U1KRB11QC",
+        "purpose": "Channel for foodie outings",
+        "text": "<@U1KRB11QC|dsjorda2> set the channel purpose: Channel for foodie outings",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1469248172.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1KT3UELS>: ",
+        "ts": "1469248338.000019"
+    },
+    {
+        "user": "U1KT3UELS",
+        "inviter": "U1KRB11QC",
+        "text": "<@U1KT3UELS|clareburns> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469248341.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Greek food tomorrow?",
+        "ts": "1469248365.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "I've heard Neomonde is good for that! I also wouldn't be opposed to really good BBQ (comfort food for the next week)",
+        "ts": "1469248456.000022"
+    },
+    {
+        "user": "U1MDE4NAG",
+        "text": "<@U1MDE4NAG|michaelbyman> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469248490.000023"
+    },
+    {
+        "user": "U1KQGK2CB",
+        "text": "<@U1KQGK2CB|loganteal> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469248776.000024"
+    },
+    {
+        "user": "U1L2QDX7Y",
+        "text": "<@U1L2QDX7Y|semoore9> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469248974.000025"
+    },
+    {
+        "user": "U1L1WFNC8",
+        "text": "<@U1L1WFNC8|wrighton88> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469249471.000026"
+    }
+]

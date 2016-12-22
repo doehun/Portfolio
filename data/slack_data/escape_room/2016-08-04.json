@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1KSEJ01W",
+        "text": "<@U1KSEJ01W|ajborelli> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1470324016.000002"
+    }
+]

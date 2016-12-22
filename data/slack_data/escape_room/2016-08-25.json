@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1KRNHQA1",
+        "text": "<@U1KRNHQA1|pavalent> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472159521.000003"
+    }
+]

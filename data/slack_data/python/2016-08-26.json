@@ -1,0 +1,203 @@
+[
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "All, lots of people were discussion Jupyter vs Spyder,  and I thought I would add another IDE to the mix. All of the python experts I worked with at a past job use PyCharm. It is much more full featured than spyder and has a lot of advanced features. I am still using spyder myself, but perhaps if you are going to really dive into Python, PyCharm might be more useful: <https:\/\/www.jetbrains.com\/pycharm\/>",
+        "attachments": [
+            {
+                "service_name": "JetBrains",
+                "title": "PyCharm",
+                "title_link": "https:\/\/www.jetbrains.com\/pycharm\/",
+                "text": "Intelligent Python IDE with refactorings, debugger, code completion, on-the-fly code analysis and coding productivity orientation",
+                "fallback": "JetBrains: PyCharm",
+                "image_url": "http:\/\/resources.jetbrains.com\/assets\/media\/open-graph\/pycharm_250x250.png",
+                "from_url": "https:\/\/www.jetbrains.com\/pycharm\/",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 27311,
+                "service_icon": "https:\/\/www.jetbrains.com\/_assets\/\/shared\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ],
+        "ts": "1472221780.000127",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1KS4UE2F"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "PYCHARM! MY LUV! :heart_eyes:",
+        "ts": "1472222852.000129",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1KR9BP0E",
+                    "U1L735VD4",
+                    "U1KRF9BAP",
+                    "U1L1D4WG7",
+                    "U1L9DD1NY",
+                    "U1KRTHAQZ",
+                    "U1KRMNVGC",
+                    "U1P8QBBD1",
+                    "U1KSL7L7R"
+                ],
+                "count": 10
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1L1D4WG7> which version should we download?",
+        "ts": "1472223271.000130"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "I have actually never used it myself.  :upside_down_face:  I was just remembering the joy that it brought to my former colleagues (and apparently <@U1KS4UE2F> :-)) so I wanted to post it.",
+        "ts": "1472229585.000131"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "<@U1KS4UE2F> Are you using pycharm here for IAA work?  What version is best for Free-Python 2.7?",
+        "ts": "1472229611.000132"
+    },
+    {
+        "type": "message",
+        "user": "U1LHLK8MR",
+        "text": "I remember back when I downloaded PyCharm, I used my ncsu email to get the full suite for free as a student. Go to <http:\/\/jetbrains.com\/PyCharm|jetbrains.com\/PyCharm> and you can get pro for free",
+        "ts": "1472230680.000133",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KT9ATA5",
+                    "U1LAAMJ0M",
+                    "U1KS4UE2F",
+                    "U1KSL7L7R"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "<@U1LHLK8MR>: wow that is amazing <@U1L1D4WG7> yep i use pycharm for most of my python work. i find it easier to switch between python2 and 3 on pycharm than configuring that on jupyter notebook and when i have multiple files it is easier to work with than on the notebook where you only have one view at a time",
+        "ts": "1472233355.000134"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "also color grouping keywords and autocompletion ",
+        "ts": "1472234533.000135"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "if you find PyCharm a little too heavy duty, there's also atom, from the folks who made github",
+        "ts": "1472234612.000136"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "<@U1LHLK8MR> I found this link: <https:\/\/www.jetbrains.com\/pycharm-edu\/>",
+        "attachments": [
+            {
+                "service_name": "JetBrains",
+                "title": "Python IDE to Learn Programming Quickly &amp; Efficiently",
+                "title_link": "https:\/\/www.jetbrains.com\/pycharm-edu\/",
+                "text": "Free, Easy &amp; Professional Tool to Learn Programming with Python",
+                "fallback": "JetBrains: Python IDE to Learn Programming Quickly &amp; Efficiently",
+                "image_url": "http:\/\/resources.jetbrains.com\/assets\/media\/open-graph\/pycharm-edu_250x250.png",
+                "from_url": "https:\/\/www.jetbrains.com\/pycharm-edu\/",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 16322,
+                "service_icon": "https:\/\/www.jetbrains.com\/_assets\/\/shared\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ],
+        "ts": "1472247046.000137",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRB11QC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "I am downloading now to try it out - I hope it's the professional edition repackaged as \"educational\" - thanks <@U1LHLK8MR> and <@U1L1D4WG7> for suggesting this",
+        "ts": "1472247132.000139"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "great suggestions everyone! any objective pros\/cons in pycharm vs spyder?",
+        "ts": "1472248027.000140"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "I am looking at PyCharm - at first startup, it doesn't seem as easy to get started as Spyder...",
+        "ts": "1472248114.000141"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "I am still working through it, though...",
+        "ts": "1472248122.000142"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "i wonder if PyCharm can use all the packages that came with Anaconda",
+        "ts": "1472248309.000143"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "<@U1NUU2U9E>: yes u have to set your environment path to the anaconda location ",
+        "ts": "1472248562.000144"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1KS4UE2F> oh nice! i haven't used it yet, but i might try :slightly_smiling_face:",
+        "ts": "1472248594.000145"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "How do you set the environment path to acaconda?",
+        "ts": "1472249316.000146"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "go to Pycharm -&gt; Preferences -&gt; Project -&gt; Project Interpreter and in the Project Interpreter, it will have your environment paths. I think there should be a listing, since when you downloaded Anaconda the path is automatically appended to your environment variables (like a bash_profile)",
+        "ts": "1472250011.000147"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "oh here's a good link! \n<https:\/\/www.jetbrains.com\/help\/pycharm\/2016.1\/configuring-python-interpreter-for-a-project.html>",
+        "ts": "1472250086.000148"
+    }
+]

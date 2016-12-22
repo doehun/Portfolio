@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1L3PU7BJ",
+        "text": "<@U1L3PU7BJ|dmalave> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1473617753.000003"
+    }
+]

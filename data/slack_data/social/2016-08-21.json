@@ -1,0 +1,30 @@
+[
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "Hello all - I have added the_family_channel for those wanting to organize activities for the entire family e.g. hikes, strawberry picking, etc. Feel free to join! :slightly_smiling_face:",
+        "ts": "1471831758.000081",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U1L6WB44A"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1L1D4WG7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "Yo yo yo",
+        "ts": "1471831759.000082"
+    }
+]

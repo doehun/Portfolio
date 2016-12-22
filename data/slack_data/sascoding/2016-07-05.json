@@ -1,0 +1,69 @@
+[
+    {
+        "user": "U1KRTHAQZ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KRTHAQZ|pranavn20> has joined the channel",
+        "ts": "1467734410.000004"
+    },
+    {
+        "user": "U1NUU2U9E",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1NUU2U9E|kb5522> has joined the channel",
+        "ts": "1467736924.000005"
+    },
+    {
+        "user": "U1N43E3E0",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1N43E3E0|ryan_w> has joined the channel",
+        "ts": "1467737567.000006"
+    },
+    {
+        "user": "U1KQGRG2F",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KQGRG2F|annabelytics> has joined the channel",
+        "ts": "1467756234.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "is anyone awake for a quick SAS question from chapter 3? i'm confused about something on slide 41- why do we have to specify if first.dept then deptsal=0? The way I'm reading this is that if the observation is the first in that department, set the salary to be =0. But why do we want to set it to 0?",
+        "ts": "1467771696.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KSEJ01W",
+        "text": "I'm fairly positive, at least from my understanding, that we initialize it to 0 so that it is not set to missing in the PDV so we can accumulate. If I'm wrong please correct me as I don't have the book in front of me ",
+        "ts": "1467771898.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "<@U1KR9BP0E>: hey I messaged you what I think the reasoning is ",
+        "ts": "1467771964.000010",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KSL7L7R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "thanks <@U1L415ECD>! <@U1KSEJ01W> the answer was simpler than I realized - it's just that deptsal is the running tally for totals by group, so you have to reset it to 0 each time there is a new group so that it can accumulate totals just for that group, and not include totals from the previous group.",
+        "ts": "1467772192.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1KSEJ01W",
+        "text": "Thanks <@U1KR9BP0E>, makes sense now that I'm looking at the slide you were referring to",
+        "ts": "1467772402.000012"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "type": "message",
+        "user": "U1PM77VSS",
+        "text": "<@U1KQYG6SJ>: I used to replace them in undergrad for extra cash. It's not hard. ",
+        "ts": "1473770784.000100"
+    },
+    {
+        "type": "message",
+        "user": "U1PM77VSS",
+        "text": "I would get the people to buy their screen on Amazon or at a store and then I'd replace it once they got the screen. Only issue I've run into is screen quality. The replacement are usually cheaper material and they will crack in the future easier. If you're careful it doesn't make much of a difference. ",
+        "ts": "1473770894.000101"
+    },
+    {
+        "type": "message",
+        "user": "U1PM77VSS",
+        "text": "Just read the part where you don't want to wait for parts. Should have been more thorough while reading. Lol I would take the recommendations about local places then. ",
+        "ts": "1473771039.000102"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "^this.",
+        "ts": "1473776131.000103"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "anyone have a recommendation for an external hard drive around 1TB?",
+        "ts": "1473776513.000104"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "I have this guy: <https:\/\/www.amazon.com\/gp\/product\/B0049AS38I\/ref=oh_aui_detailpage_o03_s00?ie=UTF8&amp;psc=1>",
+        "ts": "1473776575.000105"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "I got it when it was on crazy sale a couple years ago.  It's worked really well.",
+        "ts": "1473776627.000106"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR4JP3",
+        "text": "I have a G-Drive that I like a lot! <http:\/\/www.g-technology.com\/products\/g-drive-mobile-usb>",
+        "ts": "1473777233.000107"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Awesome. Thank yall",
+        "ts": "1473779176.000108"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I have this one <@U1KRMNVGC>    <http:\/\/store.hp.com\/us\/en\/pdp\/accessories-88342--1\/hp-external-portable-usb-30-hard-drive-k6a93aa-abl>",
+        "attachments": [
+            {
+                "title": "HP 1TB External Portable USB 3.0 Hard Drive |  HP\u00ae Official Store",
+                "title_link": "http:\/\/store.hp.com\/us\/en\/pdp\/accessories-88342--1\/hp-external-portable-usb-30-hard-drive-k6a93aa-abl",
+                "text": "Free shipping. Buy direct from HP. See customer reviews and comparisons for the HP 1TB External Portable USB 3.0 Hard Drive. Upgrades and savings on select products.",
+                "fallback": "HP 1TB External Portable USB 3.0 Hard Drive |  HP\u00ae Official Store",
+                "from_url": "http:\/\/store.hp.com\/us\/en\/pdp\/accessories-88342--1\/hp-external-portable-usb-30-hard-drive-k6a93aa-abl",
+                "service_icon": "http:\/\/store.hp.com\/favicon.ico",
+                "service_name": "store.hp.com",
+                "id": 1
+            }
+        ],
+        "ts": "1473779192.000109"
+    }
+]

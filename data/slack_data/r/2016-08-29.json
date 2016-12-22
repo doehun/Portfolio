@@ -1,0 +1,37 @@
+[
+    {
+        "user": "U1LAAMJ0M",
+        "text": "<@U1LAAMJ0M|carlanderson> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472454328.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "don't forget to finish your R quiz if you haven't already!",
+        "ts": "1472482286.000007",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U1L6YQUSU",
+                    "U1L0V1X61",
+                    "U1KSR1MS4",
+                    "U1L9DD1NY",
+                    "U1M37FW5U",
+                    "U1P8QBBD1",
+                    "U1KSL7L7R"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "user": "U1PNNRVGF",
+        "text": "<@U1PNNRVGF|basoren2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472502787.000008"
+    }
+]

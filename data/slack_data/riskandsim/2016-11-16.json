@@ -1,0 +1,117 @@
+[
+    {
+        "user": "U1KR9BP0E",
+        "text": "<@U1KR9BP0E|sneha.raghavan> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479327152.000094"
+    },
+    {
+        "type": "message",
+        "user": "U1PF7HWTF",
+        "text": "Here are 3 questions we asked Dr LaBarr via email:",
+        "ts": "1479342683.000095"
+    },
+    {
+        "type": "message",
+        "user": "U1PF7HWTF",
+        "text": "1. We are unsure of whether to include Overhead costs in the calculation for a single dry well. The team wouldn't be spending much time on the well if they realize it is a dry well, so should we assume it is 0?\n\n2. What did you mean by \"results\" when it says \"Use your results from the previous RFP to simulate drilling costs\"....should we sample from our 10,000 simulated values from HW1 or should we sample from our kernel distribution itself?\n\n3. Are we simulating values for a single dry well &amp; NPV of a single wet well starting in 2017 and (if it is a wet well) going for 15 years in the future?",
+        "ts": "1479342685.000096"
+    },
+    {
+        "type": "message",
+        "user": "U1PF7HWTF",
+        "text": "And here were his responses:",
+        "ts": "1479342693.000097"
+    },
+    {
+        "type": "message",
+        "user": "U1PF7HWTF",
+        "text": "1. You would still include this. It takes almost a year (Year 0) to drill a hole.\n\n2. Here you get to choose either a Normal distribution or a kernel distribution based on your results from HW1.\n\n3. Correct!",
+        "ts": "1479342703.000098",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1L5GU954",
+                    "U1KSR4JP3",
+                    "U1KRF9BAP"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "<@U1PF7HWTF> That's very helpful. How did you know that we were supposed to be looking 15 years into the future to calculate the NPV?",
+        "ts": "1479342819.000099"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "It says it on the project sheet! <@U1KRHCR7T> ",
+        "ts": "1479342867.000100"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Thank you!! <@U1PF7HWTF> very helpful :slightly_smiling_face:",
+        "ts": "1479342895.000101"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "ah, I didn't know that that instruction applied to HW #2",
+        "ts": "1479342929.000102"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "that explains a lot!",
+        "ts": "1479342934.000103"
+    },
+    {
+        "type": "message",
+        "user": "U1PF7HWTF",
+        "text": "<@U1N43E3E0> we don't use the dry hole risk to my understanding (we use this when we are drilling many wells...dry hole risk answers the amount of risk we have in one of those wells being a dry well....for the first part of this hw, we are simply calculating initial costs (#1,#2,and #4) it for a single dry well). I think LaBarr's answer to our 2nd question is that we should simulate values for 2016 using whichever distribution we found to be \"correct\" from hw1....but reminder: for HW1 we simulated 2017 drilling costs, not 2016 (which is Year 0)...so it should be one less iteration for HW2 I think",
+        "edited": {
+            "user": "U1PF7HWTF",
+            "ts": "1479343008.000000"
+        },
+        "ts": "1479342958.000104",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1L914KNJ",
+                    "U1N43E3E0"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "^^^  <@U1M37FW5U>  <@U1LHLK8MR>",
+        "ts": "1479343242.000106",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1M37FW5U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1L2P17DZ",
+        "text": "<@U1L2P17DZ|kailistevens> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479343371.000107"
+    }
+]

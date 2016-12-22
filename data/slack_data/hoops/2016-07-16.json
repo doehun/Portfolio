@@ -1,0 +1,28 @@
+[
+    {
+        "user": "U1PF7HWTF",
+        "text": "<@U1PF7HWTF|nickweimer> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468682511.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1PF7HWTF",
+        "text": ":basketball:",
+        "ts": "1468682525.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1NDG6ULB",
+        "text": "Breaking up my studying today with some :basketball: ..be there around 3 ",
+        "ts": "1468687585.000005"
+    },
+    {
+        "user": "U1KS1BFED",
+        "text": "<@U1KS1BFED|doug_nicholson> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468695388.000006"
+    }
+]

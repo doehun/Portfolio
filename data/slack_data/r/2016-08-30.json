@@ -1,0 +1,40 @@
+[
+    {
+        "user": "U1KQGK2CB",
+        "text": "<@U1KQGK2CB|loganteal> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472576373.000009"
+    },
+    {
+        "user": "U1LMHQY9E",
+        "text": "<@U1LMHQY9E|pmaychek> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472595412.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Hey is anybody doing the practice r problems dr labarr recommended at the end of the class code? I'm not really understanding what number 2 is asking for but good chance I'm overthinking it",
+        "ts": "1472595488.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "It's asking you to do something similar to earlier in the code, where we have... rep(NA, length(car.names))",
+        "ts": "1472595663.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "That creates a vector of missing values with the same length as car.names",
+        "ts": "1472595688.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Oh wow.. Yeah totally overthinking it, thanks <@U1KRE1L9M> ",
+        "ts": "1472595755.000014"
+    }
+]

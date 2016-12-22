@@ -1,0 +1,45 @@
+[
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "Going to cycling at 5:15 tomorrow evening then 15 minute AbSolutions at 6:15 if anyone wants to join!",
+        "ts": "1472421617.000003",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U1L5GU954"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1NLH1CP8",
+        "text": "<@U1NLH1CP8|catherine_burton> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472422337.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "I'm going to zumba tomorrow at 5:30 with esdras everyone's favorite instructor!",
+        "ts": "1472434035.000005",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U1L5GU954"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "See you all there! I'll be at power yoga at 5:15 :muscle::pray:",
+        "ts": "1472436199.000006"
+    }
+]

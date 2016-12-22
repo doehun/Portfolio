@@ -1,0 +1,29 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "No game this week :disappointed:",
+        "ts": "1475620587.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1Q7LP4V9",
+        "text": "Why not?",
+        "ts": "1475621142.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "Not sure, but I just looked at the schedule and it says our next game is Oct 13. I'd be down for some pickup though",
+        "ts": "1475623943.000004",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U1KRB11QC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

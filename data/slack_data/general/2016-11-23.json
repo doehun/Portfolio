@@ -1,0 +1,21 @@
+[
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "message from brandon: whoever's bike that is in the hallway; move it outside to the bike rack! :slightly_smiling_face:",
+        "ts": "1479914801.002702",
+        "reactions": [
+            {
+                "name": "small_officer_futch",
+                "users": [
+                    "U1KS4UE2F",
+                    "U1KQGK2CB",
+                    "U1KSL7L7R",
+                    "U1KT9ATA5",
+                    "U1L6WB44A"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

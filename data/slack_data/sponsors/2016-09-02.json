@@ -1,0 +1,30 @@
+[
+    {
+        "user": "U1KT2JJE8",
+        "text": "<@U1KT2JJE8|slwalke3> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472811202.000056"
+    },
+    {
+        "user": "U1KQTJ6BV",
+        "text": "<@U1KQTJ6BV|andreazadia> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472847917.000057"
+    },
+    {
+        "user": "U1L3K1AKD",
+        "text": "<@U1L3K1AKD|ccupito> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472847943.000058"
+    },
+    {
+        "user": "U1KSL7L7R",
+        "text": "<@U1KSL7L7R|dustinwicker> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472851583.000059"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQTJ6BV",
+        "text": "Is anyone going out tonight? ",
+        "ts": "1475969938.000320",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1LMHQY9E",
+                    "U1L7E8GSU"
+                ],
+                "count": 2
+            },
+            {
+                "name": "dancer",
+                "users": [
+                    "U1L9669PD",
+                    "U1KR9BP0E",
+                    "U1KSL7L7R"
+                ],
+                "count": 3
+            },
+            {
+                "name": "fearful",
+                "users": [
+                    "U1N43E3E0",
+                    "U1L9DD1NY"
+                ],
+                "count": 2
+            },
+            {
+                "name": "tornado",
+                "users": [
+                    "U1N43E3E0",
+                    "U1L9DD1NY",
+                    "U1L2P17DZ"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

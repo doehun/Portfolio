@@ -1,0 +1,157 @@
+[
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "The first football ticket lottery is open today!! Enter it if you want tickets to go to the football game this Thursday night! :grin:",
+        "ts": "1472300616.000233",
+        "reactions": [
+            {
+                "name": "football",
+                "users": [
+                    "U1KSL7L7R",
+                    "U1KRNH021",
+                    "U1LAAMJ0M",
+                    "U1KRB11QC",
+                    "U1L40P4N9"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1LBRCSEA> I feel like someone asked you this before but how do I find my student pin? I only got an e-mail with my student ID number asking me to register for a ticket",
+        "ts": "1472307558.000234"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1LBRCSEA> nvm i found it!!! sorry",
+        "ts": "1472307599.000235"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": " Thanks for the reminder Beth :) Let's see if we can make it to the event. ",
+        "ts": "1472308905.000236"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Does anyone know if there's  something we need to do to have tickets near each other?  It would be rather sad if I got a ticket from the lottery and then just sat by myself like a crazy person.",
+        "ts": "1472311401.000237"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "I think for student tickets there's a student section where you can sit wherever? Correct me if I'm wrong though ",
+        "ts": "1472311692.000238"
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "<@U1L9DD1NY> is right! it's just general student sections so we should all be able to sit together!",
+        "ts": "1472311782.000239"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Cool thanks for clarifying <@U1L9DD1NY>  and <@U1LBRCSEA> !",
+        "ts": "1472312541.000240"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "As long as you arrive at the same time ",
+        "ts": "1472312727.000241"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "They fill out 7\/8 first (lower deck) then usually the end zones and 14\/15 (deck above 7\/8)",
+        "ts": "1472312768.000242"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "Since we are working on our resumes and one of the suggestions was to look at actual analytics job descriptions, wanted to share this with you all: <http:\/\/careers.analytictalent.com\/jobs\/data-scientist-28591187-b?page=1>\nSeems to have REAL analytics job postings... not too many, but still.",
+        "attachments": [
+            {
+                "title": "Data Scientist Jobs | AnalyticTalent.com",
+                "title_link": "http:\/\/careers.analytictalent.com\/jobs\/data-scientist-28591187-b?page=1",
+                "text": "<http:\/\/AnalyticTalent.com|AnalyticTalent.com> - Browse For Data Scientist Jobs.",
+                "fallback": "Data Scientist Jobs | AnalyticTalent.com",
+                "from_url": "http:\/\/careers.analytictalent.com\/jobs\/data-scientist-28591187-b?page=1",
+                "service_icon": "http:\/\/careers.analytictalent.com\/favicon.ico",
+                "service_name": "careers.analytictalent.com",
+                "id": 1
+            }
+        ],
+        "ts": "1472317369.000243",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRBJP47",
+                    "U1KSL7L7R",
+                    "U1L1D4WG7",
+                    "U1KT2JJE8",
+                    "U1L9DD1NY",
+                    "U1KRLV1CG"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "If you have a moment, please visit <https:\/\/www.whatismybrowser.com\/detect\/what-is-my-user-agent>. I need a sample of user-agents (text in the blue box) for a project I'm working on. It'll look something like \"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/52.0.2743.116 Safari\/537.36\".",
+        "attachments": [
+            {
+                "service_name": "WhatIsMyBrowser.com",
+                "title": "What is my User Agent?",
+                "title_link": "https:\/\/www.whatismybrowser.com\/detect\/what-is-my-user-agent",
+                "text": "Find out what your web browser is sending in its User Agent header.",
+                "fallback": "WhatIsMyBrowser.com: What is my User Agent?",
+                "thumb_url": "https:\/\/assets.whatismybrowser.com\/frontend\/images\/open-graph-logo.png",
+                "from_url": "https:\/\/www.whatismybrowser.com\/detect\/what-is-my-user-agent",
+                "thumb_width": 670,
+                "thumb_height": 670,
+                "service_icon": "https:\/\/assets.whatismybrowser.com\/frontend\/images\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "ts": "1472320112.000245"
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "Thanks gang.",
+        "ts": "1472320122.000247",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L1D4WG7",
+                    "U1KT2JJE8",
+                    "U1KSL7L7R"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L7ERY77",
+        "text": "do you want us to send them to you here or dm to you?",
+        "ts": "1472320236.000248"
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "dm or <mailto:mike.rose@ncsu.edu|mike.rose@ncsu.edu> . Thanks Max",
+        "ts": "1472320268.000249"
+    }
+]

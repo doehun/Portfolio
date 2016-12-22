@@ -1,0 +1,35 @@
+[
+    {
+        "user": "U1L974M70",
+        "inviter": "U1KRS3S3X",
+        "text": "<@U1L974M70|brshallo> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473257862.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRS3S3X",
+        "text": "<!channel> Ok, we have six people! That is enough to get this puppy going. Can everyone meet tomorrow (Thursday) at noon? Super informal, just to talk about what we want to do.",
+        "ts": "1473258043.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "Yes",
+        "ts": "1473258414.000004"
+    },
+    {
+        "user": "U1KQGK2CB",
+        "text": "<@U1KQGK2CB|loganteal> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1473259194.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KRS3S3X",
+        "text": "Ok, since there is a CIA interest meeting at 12:15, let's move this meeting back to 12:30. I will be in the kitchen at that time. If that time doesn't work for you, please let me know. My number is 443 562 9232.",
+        "ts": "1473297222.000002"
+    }
+]

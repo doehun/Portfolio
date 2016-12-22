@@ -1,0 +1,194 @@
+[
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "Studying at Benelux in Cameron village if anyone wants to join :)",
+        "ts": "1474646677.000177"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Anyone trying to go out tonight? Not to put pressure or anything, but I'll be turning 23 at midnight ",
+        "ts": "1474662795.000178",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRB11QC",
+                    "U1L95JP1S",
+                    "U1L7E8GSU",
+                    "U1M37FW5U",
+                    "U1KRZT11T",
+                    "U1NUU2U9E",
+                    "U1KQYG6SJ",
+                    "U1KQ9523D",
+                    "U1L9DD1NY",
+                    "U1KS4UE2F",
+                    "U1L90S3QC",
+                    "U1KQGRG2F",
+                    "U1L914KNJ"
+                ],
+                "count": 13
+            },
+            {
+                "name": "beers",
+                "users": [
+                    "U1KSH8676",
+                    "U1KRWUXFU",
+                    "U1L9DD1NY",
+                    "U1MBURU4D",
+                    "U1KRBFY3Z"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "I'M TOTALLY IN",
+        "ts": "1474666894.000194"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "(maybe not in caps lol)",
+        "ts": "1474667481.000195"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Alright should we get a general consensus? Like downtown or a specific place or pregaming together or what? ",
+        "ts": "1474669065.000196"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1KRMNVGC>: up to you",
+        "ts": "1474670254.000197"
+    },
+    {
+        "text": "*put in a vote*\n\n:one: beer garden\n:two: architect\n:three: capital city\n:four: fox\n",
+        "username": "Simple Poll",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2016-06-23\/53872986647_48.png"
+        },
+        "bot_id": "B27NW8XK3",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1474670830.000198",
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1KRB11QC",
+                    "U1L95JP1S"
+                ],
+                "count": 3
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U1KRB11QC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "three",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KQGRG2F"
+                ],
+                "count": 2
+            },
+            {
+                "name": "four",
+                "users": [
+                    "U1M37FW5U",
+                    "U1L95JP1S"
+                ],
+                "count": 2
+            },
+            {
+                "name": "five",
+                "users": [
+                    "U1KRZT11T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "<@U1KRMNVGC>: wish I could make it but happy birthday!!! Hope u enjoy it!",
+        "ts": "1474680976.000200"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Anyone out yet? And thank you <@U1KSBCBFG>!!",
+        "ts": "1474682202.000201"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Where are we all meeting up?",
+        "ts": "1474682635.000202"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "I'm down for glenwood ",
+        "ts": "1474682837.000203"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "We\u2019ll meet you at\/near Beer Garden in 15-20",
+        "ts": "1474682984.000204"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Heading there with Eric at 10:45",
+        "ts": "1474684116.000205"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "On roof",
+        "ts": "1474685054.000206"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "2 minutes away ",
+        "ts": "1474686482.000207"
+    },
+    {
+        "type": "message",
+        "user": "U1L95JP1S",
+        "text": "People are still on the roof at beer garden?",
+        "ts": "1474686513.000208"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "We're on the back patio ",
+        "ts": "1474686714.000209"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "We're at beer garden. Where's everyone?",
+        "ts": "1474687675.000210"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "Almost at beer garden",
+        "ts": "1474688902.000212"
+    }
+]

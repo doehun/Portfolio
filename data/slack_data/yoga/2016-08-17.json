@@ -1,0 +1,24 @@
+[
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "I signed up for \"gentle yoga\" for tomorrow at 7 with Linnea for whoever wants to get their gentle yoga on ",
+        "ts": "1471451666.000002",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRZT11T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1MGWMZFD",
+        "text": "<@U1MGWMZFD|wjburton> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471462786.000003"
+    }
+]

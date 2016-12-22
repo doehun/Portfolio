@@ -1,0 +1,30 @@
+[
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Hey I have a question to the tech leads who are working with truly \"big data\" which John classifies as anything bigger than around 25-30gb.  My team will be working with greater than that and will likely build our final solution with open source technology.  Does anyone else have this \"problem\" and have a plan with how their team is going to manage this data without it taking forever to query?",
+        "edited": {
+            "user": "U1N43E3E0",
+            "ts": "1475528716.000000"
+        },
+        "ts": "1475528615.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1KRTHAQZ",
+        "text": "So my project doesn't have that much data, but what I got from talking to John was that the servers have a lot of processing power. I would assume the larger your dataset the more processing power your particular server has (not sure if that's how John set it up so you should check with him to make sure). But I think as long as your team is coding efficiently and aren't trying to run multiple highly intensive queries\/algorithms at the same time you should get decent performance. But again decent performance for that big of a dataset might be 20-30 mins depending on how intense what your trying to run is so it's all relative. I might be wrong but that's kind of my take on it. ",
+        "ts": "1475530042.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "<@U1KRTHAQZ> so what I got from talking to John is that in this case the size of the data is greater than the size of the server's ram, which is a real issue for R since it stores data entirely in memory.  Even if we were just to use something else, I suspect performance is an issue we'll have to address.  John agreed to work with me closer to finding a solution once he's done getting everyone their actual data, so I think we'll be okay in the end, but it definitely makes me nervous that there apparently isn't already a boilerplate solution to this.",
+        "ts": "1475533765.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1KRTHAQZ",
+        "text": "<@U1N43E3E0> Wow that's crazy. Yeah it's interesting that there isn't a set strategy in place already to deal with this. Maybe you might have to take advantage of cloud computing (like a Hadoop cluster perhaps)?",
+        "ts": "1475535374.000020"
+    }
+]

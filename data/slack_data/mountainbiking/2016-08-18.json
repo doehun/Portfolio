@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U1MDHNYR5",
+        "text": "<@U1MDHNYR5|jordan_pfaff> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471535516.000002"
+    },
+    {
+        "user": "U1MDHNYR5",
+        "purpose": "To bike mountains",
+        "text": "<@U1MDHNYR5|jordan_pfaff> set the channel purpose: To bike mountains",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1471535516.000003"
+    },
+    {
+        "user": "U1KSR1MS4",
+        "inviter": "U1MDHNYR5",
+        "text": "<@U1KSR1MS4|rocky_chen> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471535516.000004"
+    },
+    {
+        "user": "U1LNGEV0B",
+        "inviter": "U1MDHNYR5",
+        "text": "<@U1LNGEV0B|kespina> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471535516.000005"
+    },
+    {
+        "user": "U1KR80QMS",
+        "inviter": "U1MDHNYR5",
+        "text": "<@U1KR80QMS|nsnelson> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471535517.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "<!channel>: when does everyone want to do this thing?",
+        "ts": "1471564035.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR1MS4",
+        "text": "I'm down for any time after this weekend",
+        "ts": "1471564252.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MDHNYR5",
+        "text": "I also down to bike whenever! This weekend is goof for me, but I know Kelvin doesn't have his bike yet, so maybe next week some time?",
+        "ts": "1471574109.000002"
+    }
+]

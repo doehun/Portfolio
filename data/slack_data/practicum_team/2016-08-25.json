@@ -1,0 +1,90 @@
+[
+    {
+        "user": "U1KSPCE87",
+        "text": "<@U1KSPCE87|jessie> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472141911.000002"
+    },
+    {
+        "user": "U1L7ERY77",
+        "inviter": "U1KSPCE87",
+        "text": "<@U1L7ERY77|maxwarburg> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472141911.000003"
+    },
+    {
+        "user": "U1KSPCE87",
+        "purpose": "change the world",
+        "text": "<@U1KSPCE87|jessie> set the channel purpose: change the world",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1472141911.000004"
+    },
+    {
+        "user": "U1KQ9523D",
+        "inviter": "U1KSPCE87",
+        "text": "<@U1KQ9523D|lisaholbach> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472141912.000005"
+    },
+    {
+        "user": "U1KT3UELS",
+        "inviter": "U1KSPCE87",
+        "text": "<@U1KT3UELS|clareburns> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472141912.000006"
+    },
+    {
+        "user": "U1MBT6FRB",
+        "inviter": "U1KSPCE87",
+        "text": "<@U1MBT6FRB|dtoliver> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472141912.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KSPCE87",
+        "text": "<!channel> welcome to the team! really excited to work with all of you this year!",
+        "ts": "1472141969.000008",
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "U1KQ9523D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "I'm so excited! I think we have a really great group !",
+        "ts": "1472142319.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KSPCE87",
+        "text": "So excited in fact that I accidentally made this channel public! Stay tuned for our own private channel.",
+        "ts": "1472142484.000010"
+    },
+    {
+        "user": "U1KSPCE87",
+        "members": [
+            "U1KQ9523D",
+            "U1KSPCE87",
+            "U1KT3UELS",
+            "U1L7ERY77",
+            "U1MBT6FRB"
+        ],
+        "text": "<@U1KSPCE87|jessie> archived the channel (w\/ 5 members)",
+        "type": "message",
+        "subtype": "channel_archive",
+        "ts": "1472142514.000011"
+    }
+]

@@ -1,0 +1,144 @@
+[
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1KT9ATA5>: same I pushed mine back too",
+        "ts": "1474884985.000503"
+    },
+    {
+        "type": "message",
+        "user": "U1PN82U67",
+        "text": "<@U1N43E3E0>  If you goal is only to pass the exam (that is 68% accuracy.) and assume that you master the material from stats 1 and logistic regression class really well, you should be safe.  You can refer to the exam topics on the SAS webpage to get an idea what will be covered. Link is : <https:\/\/support.sas.com\/certify\/creds\/sba.html#s1=2>.    I studied for about 5 days.  There are several topics that were not covered in our class but appeared in my exam such as proc glmselect, three different methods of scoring, gains chart\/ lift chart, purposes of training, validation and testing data set, how to adjust for oversampling, calculate cutoff using Bayes Rules. However, all these topics are covered in the SAS e-learning. So if you can go through the SAS e-learning once, you should be able to get a high score. Hope these help. Good luck.",
+        "attachments": [
+            {
+                "title": "SAS Global Certification program",
+                "title_link": "https:\/\/support.sas.com\/certify\/creds\/sba.html#s1=2",
+                "text": "SAS Certification credentials and exams",
+                "fallback": "SAS Global Certification program",
+                "from_url": "https:\/\/support.sas.com\/certify\/creds\/sba.html#s1=2",
+                "service_icon": "https:\/\/support.sas.com\/favicon.ico",
+                "service_name": "support.sas.com",
+                "id": 1
+            }
+        ],
+        "ts": "1474895982.000508",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L914KNJ",
+                    "U1KT9ATA5",
+                    "U1L9DD1NY",
+                    "U1KRBJP47",
+                    "U1KR80QMS",
+                    "U1LBRCSEA",
+                    "U1KRHCR7T",
+                    "U1KSL7C10",
+                    "U1KRSV7AN",
+                    "U1KRB11QC",
+                    "U1KSR1MS4",
+                    "U1LJRDPLP",
+                    "U1KRNHQA1",
+                    "U1KR9BP0E",
+                    "U1MDHNYR5",
+                    "U1L735VD4",
+                    "U1L6YQUSU",
+                    "U1KSL7L7R",
+                    "U1KRE1L9M",
+                    "U1M1L5G6L",
+                    "U1L7G5LR4",
+                    "U1KR891RC",
+                    "U1N43E3E0",
+                    "U1LAAMJ0M",
+                    "U1NUU2U9E",
+                    "U1L5GU954",
+                    "U1KS4UE2F"
+                ],
+                "count": 27
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "In case anyone is interested, I've reserved room 4314 in the grad student area of the library until 3 pm today.  In case anyone wants to study near other people!",
+        "ts": "1474896534.000510",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRB11QC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Thanks <@U1PN82U67>  that does help a ton. Just curious since it sounds like you have already taken it: how much emphasis did the exam seem to place on the programming side of things?  Going through the elearning questions it felt like they were expecting a pretty detailed understanding of the how the SAS options worked (and not just on statistical concepts), and that's going to be different from bootcamp where we had open notes for those type of questions.",
+        "ts": "1474924086.000513"
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "Hi Everyone, Please refresh my memory - do we need to know the SAS and R code for the Time Series Exam??",
+        "ts": "1474933566.000516"
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "Or just the concepts?",
+        "ts": "1474933602.000517"
+    },
+    {
+        "type": "message",
+        "user": "U1KT3UELS",
+        "text": "<@U1KR80QMS>: I think I remember him saying we won't have to write any code but should know how to interpret it",
+        "ts": "1474933853.000518",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRNH021"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "ok, awesome thanks <@U1KT3UELS>!",
+        "ts": "1474933933.000519"
+    },
+    {
+        "type": "message",
+        "user": "U1KT3UELS",
+        "text": "Sure thing! <@U1KR80QMS>  ",
+        "ts": "1474934026.000520"
+    },
+    {
+        "type": "message",
+        "user": "U1PN82U67",
+        "text": "<@U1N43E3E0>  I would say statistic concepts are important without doubt, but don't leave out the code part too. I couldn't remember the percentage (maybe 20%?) of code related questions, but I do remember that the questions I struggled the most are code related. I usually don't memorize SAS options and instead, I try to memorize what we can do in SAS and when I have to use a certain procedure or option, I use the help documentation. This doesn't work for SAS certification. So I would recommend to try to remember the most often used procedures and related options correctly. For example, in the model statement of proc logistic, to specify the category of response variable we want to model , which option can we use, (event=1) or (event=\"1\")? The similarities and differences between proc glm and proc ttest? Which procedure can be used to impute missing values?  How to code a series of dummy variables by using array?  Options( I forgot which option) in Proc glmselect.  Options used to output certain estimates, specificity and sensitivity?  That is all I can remember.   However, every individual exam may be different, so don't rely on this questions too much. :grinning:",
+        "ts": "1474950466.000545",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1P8QBBD1",
+                    "U1N43E3E0",
+                    "U1KRB11QC",
+                    "U1KRSV7AN",
+                    "U1L7E8GSU",
+                    "U1KR80QMS",
+                    "U1KSL7L7R",
+                    "U1KS4UE2F",
+                    "U1KT9ATA5"
+                ],
+                "count": 9
+            }
+        ]
+    }
+]

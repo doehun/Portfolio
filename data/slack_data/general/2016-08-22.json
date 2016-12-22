@@ -1,0 +1,264 @@
+[
+    {
+        "type": "message",
+        "user": "U1KSL7C10",
+        "text": "Power pose before team meetings? <http:\/\/arstechnica.com\/science\/2016\/08\/most-effective-teams-have-high-testosterone-and-low-cortisol\/>",
+        "attachments": [
+            {
+                "service_name": "Ars Technica",
+                "title": "Most effective teams have high testosterone and low cortisol",
+                "title_link": "http:\/\/arstechnica.com\/science\/2016\/08\/most-effective-teams-have-high-testosterone-and-low-cortisol\/",
+                "text": "Mean hormone levels correlate with a group's success.",
+                "fallback": "Ars Technica: Most effective teams have high testosterone and low cortisol",
+                "image_url": "http:\/\/cdn.arstechnica.net\/wp-content\/uploads\/2011\/06\/handshake.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "from_url": "http:\/\/arstechnica.com\/science\/2016\/08\/most-effective-teams-have-high-testosterone-and-low-cortisol\/",
+                "image_bytes": 173393,
+                "service_icon": "http:\/\/cdn.arstechnica.net\/wp-content\/themes\/ars\/assets\/img\/ars-ios-icon-d9a45f558c.png",
+                "id": 1
+            }
+        ],
+        "ts": "1471870142.000136",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U1NUU2U9E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U23JW15TP",
+        "text": "<@U23JW15TP|spanago> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471870733.000138"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "There is some ginger spice chai in the kitchen on the counter beside the refrigerator, in a stainless steel container (freshly brewed this am, so it's hot). For those of you who may not know, \"chai\" means \"tea\" in Hindi :slightly_smiling_face: Enjoy while it lasts!",
+        "edited": {
+            "user": "U1L0V1X61",
+            "ts": "1471872230.000000"
+        },
+        "ts": "1471872211.000139",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1MDHNYR5",
+                    "U1KT9ATA5",
+                    "U1SMADBU4",
+                    "U1L735VD4",
+                    "U1KSL7C10"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "The MSA site has been updated with a few new pages:\n1. Due Dates page with key dates for us to be aware of (thanks, Amir!): <https:\/\/sites.google.com\/a\/ncsu.edu\/msa-2017\/home\/calendars\/due-dates>\n2. Sports &amp; Rec page with useful links (thanks, Caroline C!): <https:\/\/sites.google.com\/a\/ncsu.edu\/msa-2017\/sports-recreation>",
+        "ts": "1471874146.000141",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1KSL7C10",
+                    "U1KSL7L7R"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "3. Blog Ideas that I have already received (Raj): <https:\/\/sites.google.com\/a\/ncsu.edu\/msa-2017\/home\/blog-ideas>",
+        "ts": "1471874252.000142"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "To everyone who tried to look at the Linear Algebra review solutions this weekend, Dr Race has fixed the link as of this morning.",
+        "ts": "1471877796.000143",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1KRHCR7T",
+                    "U1L9DD1NY"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "anyone heading toward the gym after our NDA talk today that I could bum a ride from?",
+        "ts": "1471878870.000144"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Team trivia tomorrow at Sammy's.  It goes from 8:00-10:00.  I'll be there around 7:40.  <http:\/\/sammysncsu.com>",
+        "ts": "1471882479.000145",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRNHQA1",
+                    "U1LAAMJ0M",
+                    "U1KRB11QC",
+                    "U1KQGRG2F",
+                    "U1KRZT11T",
+                    "U1L6WB44A",
+                    "U1L9DD1NY",
+                    "U1KRBFY3Z",
+                    "U1L41DF9D"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "This is the Tuesday one.  ",
+        "ts": "1471882531.000146"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "if anyone having problem starting jupiter notebook on their computer, you can do the online version for now: <https:\/\/try.jupyter.org\/>",
+        "ts": "1471888310.000147"
+    },
+    {
+        "type": "message",
+        "user": "U1KRLV1CG",
+        "text": "My favorite extrapolation of the Olympics:",
+        "ts": "1471891289.000148"
+    },
+    {
+        "type": "message",
+        "user": "U1KRLV1CG",
+        "text": "\"We are proud of this team that has had a great performance in the final against the United States. We lost by 36 points the last time and now by 30. In just ten years we will be ready to compete with them\u201d.",
+        "ts": "1471891307.000149",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KS4UE2F",
+                    "U1L2P17DZ",
+                    "U1KT9ATA5",
+                    "U1MBURU4D",
+                    "U1KR891RC",
+                    "U1KSR1MS4",
+                    "U1KSL7L7R",
+                    "U1L974M70"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRLV1CG",
+        "text": "~Sasha Djordjevic, Coach of Serbian Basketball team (M)",
+        "ts": "1471891335.000150"
+    },
+    {
+        "type": "message",
+        "user": "U1KRLV1CG",
+        "text": "<http:\/\/www.eurohoops.net\/featured\/303324\/djordjevic-in-10-years-we-will-be-able-to-compete-with-usa>",
+        "attachments": [
+            {
+                "service_name": "Eurohoops",
+                "title": "Djordjevic: \"In 10 years we will be able to compete with USA\" - Eurohoops",
+                "title_link": "http:\/\/www.eurohoops.net\/featured\/303324\/djordjevic-in-10-years-we-will-be-able-to-compete-with-usa",
+                "text": "Despite the defeat by USA, Serbia won the silver medal and coach Sasha Djordjevic enjoyed the moment and was ready to even joke about the final points difference in the final",
+                "fallback": "Eurohoops: Djordjevic: \"In 10 years we will be able to compete with USA\" - Eurohoops",
+                "image_url": "http:\/\/www.eurohoops.net\/wp-content\/uploads\/2016\/08\/FLDoSSBQQE-pELP29Z6qlw-e1471817783238.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "ts": 1471825058,
+                "from_url": "http:\/\/www.eurohoops.net\/featured\/303324\/djordjevic-in-10-years-we-will-be-able-to-compete-with-usa",
+                "image_bytes": 97201,
+                "service_icon": "http:\/\/www.eurohoops.net\/wp-content\/uploads\/2015\/12\/EuroHoops_FB_AVATAR_01.png",
+                "id": 1
+            }
+        ],
+        "ts": "1471891352.000151"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Does anyone want to go to the brewery tour this Saturday, or need a ticket for a Friend\/significant other? I'm looking to sell mine - can't go in the end :( ",
+        "ts": "1471904884.000153",
+        "reactions": [
+            {
+                "name": "beers",
+                "users": [
+                    "U1L914KNJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "It's $60!",
+        "ts": "1471904906.000154"
+    },
+    {
+        "type": "message",
+        "user": "U1KQGK2CB",
+        "text": "For the Project Management Body of Knowledge we read section 1 and 2, but in parentheses there is 95 pages. Do we stop at page 95?",
+        "ts": "1471907863.000155"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "<@U1KQGK2CB>: no that's just the number of pages it is total",
+        "ts": "1471910894.000156"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "It's actually more like 140 haha",
+        "ts": "1471912564.000157"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "I think the Scrum Guide (16 pgs) seemed most valuable out of the entire reading set. Dr West was using that lingo in class today (backlog and sprints) and his reading guide says to read that particular item closely as it is the recommended PM style for our practicum projects at the IAA. Just my 2 cents.",
+        "edited": {
+            "user": "U1L1D4WG7",
+            "ts": "1471913460.000000"
+        },
+        "ts": "1471913388.000160",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1KT2JJE8",
+                    "U1P8QBBD1",
+                    "U1KRSV7AN",
+                    "U1KSL7L7R",
+                    "U1MBURU4D"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

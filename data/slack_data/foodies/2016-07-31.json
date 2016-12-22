@@ -1,0 +1,109 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Anyone up for a foodie outing tonight? ",
+        "ts": "1469981366.000002",
+        "reactions": [
+            {
+                "name": "raising_hand",
+                "users": [
+                    "U1KQ9523D",
+                    "U1L3G0YRJ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1L5GU954"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1KQ9523D>: <@U1L3G0YRJ> what type of food should we try?",
+        "ts": "1469988029.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "<@U1KQ9523D>: were you the one who posted about an Ethiopian restaurant a few weeks ago? That's could be an option for tonight!",
+        "ts": "1469989791.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "<@U1L3G0YRJ>: Yes! Unfortunately I can't do tonight anymore :disappointed: , but I would def try the Ethiopian place next week?",
+        "ts": "1469990113.000005",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L3G0YRJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Sorry you can't make it tonight <@U1KQ9523D> would anyone who can make it like to try Tasty8s gourmet hotdogs?",
+        "ts": "1469993526.000006",
+        "reactions": [
+            {
+                "name": "hotdog",
+                "users": [
+                    "U1L3G0YRJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1L3G0YRJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "Time? ",
+        "ts": "1469996889.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "How does 7 sound?",
+        "ts": "1469996919.000008",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L3G0YRJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "clock7",
+                "users": [
+                    "U1L5GU954"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1LV6EH3M",
+        "text": "<@U1LV6EH3M|mmspenc2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470008194.000009"
+    }
+]

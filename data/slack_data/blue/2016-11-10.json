@@ -1,0 +1,26 @@
+[
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "Reminder: Machine Learning starts at 10:30 and not 10:45! :slightly_smiling_face:",
+        "ts": "1478791465.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "<!channel> - I have an extra granola bar in case you want a snack before the info session",
+        "ts": "1478796590.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "<@U1L0V1X61> where you at",
+        "ts": "1478796688.000024"
+    },
+    {
+        "type": "message",
+        "user": "U23JW15TP",
+        "text": "Thanks Raj, I got one from Laura.",
+        "ts": "1478797631.000025"
+    }
+]

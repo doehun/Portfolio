@@ -1,0 +1,108 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "fun fact! The Kolmogorov-Smirnov Test is also affectionately called the \"vodka test\"",
+        "ts": "1475257956.000308"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7C10",
+        "text": "\"affectionately\" :joy:",
+        "ts": "1475258069.000309"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1KQYG6SJ> I find it extremely racist",
+        "ts": "1475258195.000310",
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U1LMHQY9E",
+                    "U1KRBJP47",
+                    "U1L735VD4",
+                    "U1KRMNVGC",
+                    "U1Q5GHC2J",
+                    "U1L9DD1NY"
+                ],
+                "count": 6
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1L9DD1NY",
+                    "U1L7G5LR4"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "Yes",
+        "ts": "1475258437.000311"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "and the Anderson-Darling test is called the Love test",
+        "ts": "1475258447.000312",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1KRZT11T",
+                    "U1L735VD4",
+                    "U1KRLV1CG"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1KRLV1CG"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "<@U1KQYG6SJ> I have been saying that for a while, my professor in college would only call it the vodka test exclusively",
+        "ts": "1475260337.000313",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KQYG6SJ",
+                    "U1KRB11QC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Anyone in the mood for post-exam bojangles?",
+        "ts": "1475261439.000314"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "your about 2 hours too late",
+        "ts": "1475261685.000315"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "NOOOOO",
+        "ts": "1475261982.000316"
+    }
+]

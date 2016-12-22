@@ -1,0 +1,17 @@
+[
+    {
+        "user": "U1PF7HWTF",
+        "text": "<@U1PF7HWTF|nickweimer> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469390941.000002"
+    },
+    {
+        "user": "U1PF7HWTF",
+        "purpose": "To play golf",
+        "text": "<@U1PF7HWTF|nickweimer> set the channel purpose: To play golf",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1469390942.000003"
+    }
+]

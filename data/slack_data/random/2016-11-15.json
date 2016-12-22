@@ -1,0 +1,45 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "idea for secret santa gift: <http:\/\/www.apple.com\/newsroom\/2016\/11\/designed-by-apple-in-california-chronicles-20-years-of-apple-design.html>",
+        "attachments": [
+            {
+                "service_name": "Apple Newsroom",
+                "title": "\u201cDesigned by Apple in California\u201d chronicles 20 years of Apple design",
+                "title_link": "http:\/\/www.apple.com\/newsroom\/2016\/11\/designed-by-apple-in-california-chronicles-20-years-of-apple-design.html",
+                "text": "Apple today announced the release of a new hardbound book chronicling 20 years of Apple\u2019s design, expressed through 450 photographs of Apple products.",
+                "fallback": "Apple Newsroom: \u201cDesigned by Apple in California\u201d chronicles 20 years of Apple design",
+                "image_url": "http:\/\/images.apple.com\/newsroom\/images\/passions\/design\/designed-by-apple-in-california-iphone_full\/og.jpg",
+                "from_url": "http:\/\/www.apple.com\/newsroom\/2016\/11\/designed-by-apple-in-california-chronicles-20-years-of-apple-design.html",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 90051,
+                "service_icon": "http:\/\/www.apple.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "edited": {
+            "user": "U1KQYG6SJ",
+            "ts": "1479230656.000000"
+        },
+        "ts": "1479230642.000833",
+        "reactions": [
+            {
+                "name": "-1::skin-tone-2",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1KT9ATA5"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U1KQGK2CB"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

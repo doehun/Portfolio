@@ -1,0 +1,79 @@
+[
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "friday morning basketball?",
+        "ts": "1478723857.000002",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KT9ATA5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "YESS!",
+        "ts": "1478726183.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1L90S3QC",
+        "text": "Yes",
+        "ts": "1478726217.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "Yes",
+        "ts": "1478727691.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1MPXSHN1",
+        "text": "I'm in. I'm crawling back from a 4+ week illness so we'll see how long I last...",
+        "ts": "1478739025.000006",
+        "reactions": [
+            {
+                "name": "basketball",
+                "users": [
+                    "U1KRSV7AN",
+                    "U1KS4UE2F"
+                ],
+                "count": 2
+            },
+            {
+                "name": "hospital",
+                "users": [
+                    "U1KRSV7AN",
+                    "U1KS4UE2F"
+                ],
+                "count": 2
+            },
+            {
+                "name": "mask",
+                "users": [
+                    "U1MPXSHN1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "face_with_thermometer",
+                "users": [
+                    "U1MPXSHN1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1Q7LP4V9",
+        "text": "Yes",
+        "ts": "1478739098.000007"
+    }
+]

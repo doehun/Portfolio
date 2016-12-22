@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U1L914KNJ",
+        "text": "<@U1L914KNJ|nikki> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478015739.000014"
+    },
+    {
+        "user": "U1KRQLFLY",
+        "text": "<@U1KRQLFLY|sean.ankenbruck> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478016042.000015"
+    },
+    {
+        "user": "U1Q5GHC2J",
+        "text": "<@U1Q5GHC2J|rwang10> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478037361.000016"
+    }
+]

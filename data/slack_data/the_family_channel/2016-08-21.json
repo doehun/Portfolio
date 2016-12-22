@@ -1,0 +1,145 @@
+[
+    {
+        "user": "U1L0V1X61",
+        "text": "<@U1L0V1X61|raj> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471831325.000002"
+    },
+    {
+        "user": "U1L0V1X61",
+        "purpose": "The name says it all...",
+        "text": "<@U1L0V1X61|raj> set the channel purpose: The name says it all...",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1471831326.000003"
+    },
+    {
+        "user": "U1UR5K88P",
+        "inviter": "U1L0V1X61",
+        "text": "<@U1UR5K88P|roybowman> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471831326.000004"
+    },
+    {
+        "user": "U1KRTU0UQ",
+        "inviter": "U1L0V1X61",
+        "text": "<@U1KRTU0UQ|catherinebarnes> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471831326.000005"
+    },
+    {
+        "user": "U1L1D4WG7",
+        "inviter": "U1L0V1X61",
+        "text": "<@U1L1D4WG7|edpreble> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471831326.000006"
+    },
+    {
+        "user": "U1KT1RZ24",
+        "inviter": "U1L0V1X61",
+        "text": "<@U1KT1RZ24|mike_hruska> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471831326.000007"
+    },
+    {
+        "user": "U1L1D4UG6",
+        "inviter": "U1L0V1X61",
+        "text": "<@U1L1D4UG6|laurahc55> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471831326.000008"
+    },
+    {
+        "user": "U1MPXSHN1",
+        "inviter": "U1L0V1X61",
+        "text": "<@U1MPXSHN1|reidbaughman> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471831326.000009"
+    },
+    {
+        "user": "U1KSL7C10",
+        "inviter": "U1L0V1X61",
+        "text": "<@U1KSL7C10|shoshana> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471831326.000010"
+    },
+    {
+        "user": "U1N04S4LV",
+        "inviter": "U1L0V1X61",
+        "text": "<@U1N04S4LV|vsingh5> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471831326.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "Hello all - just wanted to start this channel for those with families (or want to hang out with families). We can share family outings (hikes, strawberry picking, etc.) so the families can get to know each other, too!",
+        "ts": "1471831615.000012",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1L1D4WG7",
+                    "U1KSL7C10"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "Hello yourself",
+        "ts": "1471831615.000013"
+    },
+    {
+        "user": "U1L6YQUSU",
+        "inviter": "U1L0V1X61",
+        "text": "<@U1L6YQUSU|johnbetzjr> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471831648.000014"
+    },
+    {
+        "user": "U1M4QJD4P",
+        "text": "<@U1M4QJD4P|mike-rose> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471832885.000015"
+    },
+    {
+        "user": "U1KT2JJE8",
+        "text": "<@U1KT2JJE8|slwalke3> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471832896.000016"
+    },
+    {
+        "user": "U1L914KNJ",
+        "text": "<@U1L914KNJ|nikki> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471832920.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "Great idea, Raj!",
+        "ts": "1471832926.000018"
+    },
+    {
+        "user": "U1KSBCBFG",
+        "text": "<@U1KSBCBFG|svsevala> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471841968.000019"
+    }
+]

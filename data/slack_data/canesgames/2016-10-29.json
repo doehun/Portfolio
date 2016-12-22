@@ -1,0 +1,47 @@
+[
+    {
+        "type": "message",
+        "user": "U1L97TR38",
+        "text": "Anyone need tickets for their significant other? Just so I know how many to buy right now",
+        "ts": "1477760372.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L97TR38",
+        "text": "Just sent you guys your tickets to get in to your ncsu email! Anyone want to carpool?",
+        "ts": "1477776546.000002",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KRZT11T",
+                    "U1KRWUXFU"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "Word! Yeah we should definitely carpool because you have to pay to park",
+        "ts": "1477778972.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "I can fit everybody in my car if you want",
+        "ts": "1477779518.000004",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRQLFLY",
+                    "U1L97TR38"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

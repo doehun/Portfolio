@@ -1,0 +1,120 @@
+[
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "I might have another one or two tents to add to the count",
+        "ts": "1476029508.000002",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U1KRB11QC",
+                    "U1L5GU954"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U1L7G5LR4",
+        "text": "<@U1L7G5LR4|arkadius> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1476030895.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "<!channel> \nHi guys, it\u2019s almost camping time! Lots of good stuff in here so please read :slightly_smiling_face:\n \nTransportation:\nDrive to Briar Bottom Campground Saturday morning. Carpool list and planning are in the google spreadsheet. Depart Raleigh between 6AM (Full Hike) and 7AM (Half Hike) from the Institute. That will give us enough time to drive over (~4 hours) and get ready for the hike.\n\nHiking Mt Mitchell:\nWe will have two different hikes to the peak of Mt. Mitchell. Option 1 is the full hike starting from the campground up to the peak (~6 hours, 11 miles total) and will be led by <@U1L5GU954>. Option 2 will drive halfway up, and then hike to top section (~3 hours, 4 miles total) and be led by <@U1KRB11QC>. Be sure to bring food, water, good shoes, and a jacket! It would be best to carpool with people doing the same hike. We will be back at the campsite by 6pm. If you do not want to hike, there are other activities around the campsite that you can organize with others individually.\n \nCamping:\nWe will be camping Saturday night in tents and sleeping bags (or in your car if you want). Please indicate on the spreadsheet if you have a sleeping bag, tent, and how many people can fit. David and I have reserved several tents and sleeping bags for those who do not have any. We may be able to get more if necessary. The campsite has toilets and quarter operated showers.\n\nCampground:\nGroup Site: Red Oak\nAddress: 50 Black Mountain Campground Road, Burnsville, NC 28714. \nReservation Number: 2-36653927\n\nBasic supplies everyone needs to bring\nFood\nWater bottle\nJackets, hat, gloves\nFlashlight\nToiletries \n\nFood and Booze:\nYou will be provided with some beer and a burger\/hotdog as part of your costs to attend this camping trip. Any additional food should be purchased by you beforehand. We would also greatly appreciate anyone that brings additional booze for the group. \n \nCosts:\nCost will be $15 per person, not including transportation. Make sure you cut a deal with your driver. Please pay David Jordan on Venmo (Username: ImDavidJordan) or via cash by Friday at noon. \n \nSpreadsheet:\nThis has multiple tabs so please check it all out. Put your name down if you intend to go, and indicate if you have a tent plan, sleeping bag, and ride. Those who are driving and have tents, please fill it out accordingly.\n\nGet stoked! :slightly_smiling_face: This is going to be an EPIC weekend.",
+        "ts": "1476035679.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "Spreadsheet Link:\n<https:\/\/docs.google.com\/a\/ncsu.edu\/spreadsheets\/d\/141H8CV2_ztLwRLPpgOYt42nYSj-sKJKHdHPr0semDfM\/edit?usp=sharing>",
+        "ts": "1476035700.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U1L5GU954> you need to change the spreadsheet so that we can edit it!!",
+        "ts": "1476035807.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "Done. Thanks <@U1KT5F4SZ>!",
+        "ts": "1476035839.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1L4RTKCM",
+        "text": "Deadline to RSVP?",
+        "ts": "1476036660.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "Any estimate for return time to Raleigh on Sunday?",
+        "edited": {
+            "user": "U1KRHCR7T",
+            "ts": "1476037297.000000"
+        },
+        "ts": "1476036685.000009"
+    },
+    {
+        "user": "U1L95JP1S",
+        "text": "<@U1L95JP1S|mattkelk> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1476037133.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1L4RTKCM>: Friday at Noon <@U1KRHCR7T> I think between  1 and 2 PM. Depending upon when people wake up",
+        "ts": "1476037231.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "Thanks <@U1KRB11QC>. Just gotta figure out if\/when my practicum or homework teams plan to meet",
+        "ts": "1476037437.000013"
+    },
+    {
+        "user": "U1MDHNYR5",
+        "text": "<@U1MDHNYR5|jordan_pfaff> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1476037568.000014"
+    },
+    {
+        "user": "U1LJRDPLP",
+        "text": "<@U1LJRDPLP|alexhorowitz> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1476038798.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "No longer sure about camping since it looks like we'll already be doing it all week :sob:",
+        "ts": "1476058336.000016",
+        "reactions": [
+            {
+                "name": "disappointed",
+                "users": [
+                    "U1L4RTKCM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1KT3UELS",
+        "text": "<@U1KT3UELS|clareburns> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1476060703.000017"
+    }
+]

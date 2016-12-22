@@ -1,0 +1,34 @@
+[
+    {
+        "user": "U1KQGRG2F",
+        "text": "<@U1KQGRG2F|annabelytics> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471911265.000002"
+    },
+    {
+        "user": "U1KQGRG2F",
+        "purpose": "For people who live around Cameron Village",
+        "text": "<@U1KQGRG2F|annabelytics> set the channel purpose: For people who live around Cameron Village",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1471911266.000003"
+    },
+    {
+        "user": "U1KRBFY3Z",
+        "inviter": "U1KQGRG2F",
+        "text": "<@U1KRBFY3Z|sylviebrick> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471911266.000004",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U1KQGRG2F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

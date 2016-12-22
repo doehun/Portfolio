@@ -1,0 +1,133 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Friday is student night at the fair $5 admission instead of $10",
+        "ts": "1476715458.000443",
+        "reactions": [
+            {
+                "name": "ferris_wheel",
+                "users": [
+                    "U1KT5F4SZ",
+                    "U1L2P17DZ",
+                    "U1L9DD1NY"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "hm.. interesting",
+        "ts": "1476715546.000444"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "also unlimited rides for $35 after 10 AM",
+        "edited": {
+            "user": "U1KRB11QC",
+            "ts": "1476715950.000000"
+        },
+        "ts": "1476715606.000445"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1KRB11QC> , that might be a bit scary!  <http:\/\/www.wral.com\/5-injured-on-vortex-ride-at-nc-state-fair\/13035196\/>",
+        "attachments": [
+            {
+                "service_name": "WRAL.com",
+                "title": "5 injured on 'Vortex' ride at NC State Fair :: WRAL.com",
+                "title_link": "http:\/\/www.wral.com\/5-injured-on-vortex-ride-at-nc-state-fair\/13035196\/",
+                "text": "Five people were taken to WakeMed hospital in Raleigh Thursday night after an accident involving the Vortex ride on the lower midway at the North Carolina State Fair. Two people were released from WakeMed early Friday.",
+                "fallback": "WRAL.com: 5 injured on 'Vortex' ride at NC State Fair :: WRAL.com",
+                "thumb_url": "https:\/\/wwwcache.wral.com\/asset\/news\/local\/2013\/10\/25\/13036769\/42510-vortex-720x540.jpg",
+                "ts": 1382665740,
+                "from_url": "http:\/\/www.wral.com\/5-injured-on-vortex-ride-at-nc-state-fair\/13035196\/",
+                "thumb_width": 720,
+                "thumb_height": 540,
+                "service_icon": "https:\/\/wwwcache.wral.com\/presentation\/v3\/images\/ui\/touch_icons\/wral\/apple-touch-icon-144x144-precomposed.png",
+                "id": 1
+            }
+        ],
+        "ts": "1476715787.000446"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U1NUU2U9E> the pig races and flowers and food are worth it",
+        "edited": {
+            "user": "U1KT5F4SZ",
+            "ts": "1476716025.000000"
+        },
+        "ts": "1476715940.000448",
+        "reactions": [
+            {
+                "name": "pig",
+                "users": [
+                    "U1LBRCSEA",
+                    "U1KRB11QC",
+                    "U1L9DD1NY",
+                    "U1L2P17DZ",
+                    "U1L41DF9D",
+                    "U1N43E3E0"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1KT5F4SZ> oh, i love the state fair... im just scared of the rides there haha",
+        "ts": "1476716132.000451"
+    },
+    {
+        "type": "message",
+        "user": "U1L2P17DZ",
+        "text": "I like the fair rides that stay on the ground :wink:",
+        "ts": "1476716175.000452"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "I never go on the rides, stuff like that happens literally ever year.  They just don't have the same QC standards that theme parks do.  I'm all about the fried food and quirky events.",
+        "ts": "1476716353.000453"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWJB7S",
+        "text": "<http:\/\/ncartmuseum.org\/calendar\/event\/2016\/11\/03\/hoppy_hour_classical_rabbits\/1730>",
+        "ts": "1476735447.000454"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWJB7S",
+        "text": "For the Friday evening after the crazy week!",
+        "ts": "1476735469.000455"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWJB7S",
+        "text": "Come hang out with the museum team",
+        "ts": "1476735485.000456",
+        "reactions": [
+            {
+                "name": "rabbit",
+                "users": [
+                    "U1KQGK2CB",
+                    "U1KRZT11T",
+                    "U1L3PU7BJ",
+                    "U1L97TR38",
+                    "U1L4RTKCM",
+                    "U1KRB11QC",
+                    "U1L6WB44A",
+                    "U1KRE1L9M"
+                ],
+                "count": 8
+            }
+        ]
+    }
+]

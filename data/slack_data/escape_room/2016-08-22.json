@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U1L6WB44A",
+        "text": "<@U1L6WB44A|ekdoyel> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1471880080.000002"
+    },
+    {
+        "user": "U1L7E8GSU",
+        "text": "<@U1L7E8GSU|rachelkurtz> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1471900780.000003"
+    },
+    {
+        "user": "U1KQ9523D",
+        "text": "<@U1KQ9523D|lisaholbach> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1471904595.000004"
+    }
+]

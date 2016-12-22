@@ -1,0 +1,35 @@
+[
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "This is happening on Wednesday.",
+        "attachments": [
+            {
+                "fallback": "[July 7th, 2016 6:20 PM] dmalave: Hello! I thought I'd shamelessly plug one of my favorite organizations in Durham. If anyone wants a study break on July 27th, the Durham Bulls is partnering with Book Harvest. Bring a new or gently used children's book to donate to Book Harvest and receive free admission to the game.\n\nFrom the Facebook event:\n\nBook Harvest is a Durham-based nonprofit organization with a simple mission: making sure every child in the Triangle and beyond is growing up in a home filled with books! Did you know that book ownership is the number one predictor of academic success for children? Sadly, 67% of American children growing up in poverty own no books at all. Help us change the literacy landscape by donating a book--and get in free for the game at the same time! Everybody wins (and we hope the Bulls win, too)!\n\nIf anyone wants to carpool, I'm driving\n\n<https:\/\/www.facebook.com\/events\/133792157049622\/>",
+                "author_subname": "dmalave",
+                "ts": "1467930024.000045",
+                "channel_id": "C1KR05HLN",
+                "channel_name": "social",
+                "is_msg_unfurl": true,
+                "text": "Hello! I thought I'd shamelessly plug one of my favorite organizations in Durham. If anyone wants a study break on July 27th, the Durham Bulls is partnering with Book Harvest. Bring a new or gently used children's book to donate to Book Harvest and receive free admission to the game.\n\nFrom the Facebook event:\n\nBook Harvest is a Durham-based nonprofit organization with a simple mission: making sure every child in the Triangle and beyond is growing up in a home filled with books! Did you know that book ownership is the number one predictor of academic success for children? Sadly, 67% of American children growing up in poverty own no books at all. Help us change the literacy landscape by donating a book--and get in free for the game at the same time! Everybody wins (and we hope the Bulls win, too)!\n\nIf anyone wants to carpool, I'm driving\n\n<https:\/\/www.facebook.com\/events\/133792157049622\/>",
+                "author_name": "Diego Malaver",
+                "author_link": "https:\/\/msa17.slack.com\/team\/dmalave",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-06-29\/55558761671_a499bfb4cdcbec06018a_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/msa17.slack.com\/archives\/social\/p1467930024000045",
+                "is_share": true,
+                "footer": "Posted in #social"
+            }
+        ],
+        "ts": "1469463117.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "!!!!!!!!",
+        "ts": "1469463165.000004"
+    }
+]

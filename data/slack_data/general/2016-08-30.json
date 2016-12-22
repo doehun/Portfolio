@@ -1,0 +1,289 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Happy birthday michaelbyman!",
+        "ts": "1472551552.000054",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U1L914KNJ",
+                    "U1KRB11QC",
+                    "U1KRWUXFU",
+                    "U1L5GU954",
+                    "U1L0V1X61",
+                    "U1KT9ATA5",
+                    "U1SMADBU4",
+                    "U1L9DD1NY",
+                    "U1MBURU4D",
+                    "U1LBRCSEA",
+                    "U1KSYP1M5",
+                    "U1L1D4WG7",
+                    "U1L7E8GSU",
+                    "U1KSR1MS4",
+                    "U1KRHCR7T",
+                    "U1LMHQY9E",
+                    "U1KRQLFLY",
+                    "U1L1WFNC8",
+                    "U1KRE1L9M"
+                ],
+                "count": 19
+            },
+            {
+                "name": "birthday",
+                "users": [
+                    "U1L6YQUSU",
+                    "U1L9DD1NY",
+                    "U1KSR1MS4",
+                    "U1KS4UE2F",
+                    "U1LMHQY9E",
+                    "U1KRQLFLY",
+                    "U1KSL7L7R"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "<@U1KQYG6SJ>: thanks!",
+        "ts": "1472555063.000055"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "In case you didn't notice - there's tea in the kitchen. Enjoy!",
+        "ts": "1472560992.000056",
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U1KRWUXFU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Anyone know what time the game starts on Thursday? What time should we all aim to meet there?",
+        "ts": "1472567647.000057"
+    },
+    {
+        "type": "message",
+        "user": "U1L2P17DZ",
+        "text": "It starts at 7:30, I think we can get in at 6:30 or 7 but there's normally a line to get through security",
+        "ts": "1472568377.000058"
+    },
+    {
+        "type": "message",
+        "user": "U1L1WFNC8",
+        "text": "The parking lot opens up really early, I think at 2:30, so there is availability for tail gating too :slightly_smiling_face:",
+        "edited": {
+            "user": "U1L1WFNC8",
+            "ts": "1472568536.000000"
+        },
+        "ts": "1472568526.000059",
+        "reactions": [
+            {
+                "name": "dancers",
+                "users": [
+                    "U1LMHQY9E",
+                    "U1L914KNJ",
+                    "U1L9DD1NY",
+                    "U1KRNHQA1",
+                    "U1KT5F4SZ",
+                    "U1LAAMJ0M",
+                    "U1KSL7L7R"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Oops.. Wrong reaction but potentially fitting in a deep abstract way? Idk ",
+        "ts": "1472568797.000061",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1L1WFNC8",
+                    "U1L9DD1NY",
+                    "U1KRLV1CG",
+                    "U1LAAMJ0M",
+                    "U1KR80QMS",
+                    "U1L7G5LR4"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "For all those going to the football game on Thursday, I'm having people over to my house beforehand! I live within walking distance of Carter Finley stadium (around a 10 min walk), and there's ample parking at my apt building, so we can park there and walk over. If you plan on coming, respond to this post in some way so I can have an idea of how much food to get.\n\nWhen: After class on Thursday - around 4:30 or 5:00 PM! We will walk over to the stadium around 6:30 PM!\nWhere: 5401 Creek Ridge Lane, Raleigh NC 27607\nWho: Anyone! My apartment isn't huge but it's on the ground floor and opens to a little grassy area so I think there will be enough room\nWhat To Bring: BYOB, I'll have some food, but feel free to bring more.",
+        "ts": "1472572494.000062",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L2P17DZ",
+                    "U1KSYP1M5",
+                    "U1KRWUXFU",
+                    "U1KRMNVGC",
+                    "U1L9DD1NY",
+                    "U1KRTHAQZ",
+                    "U1KSL7L7R",
+                    "U1L46HXCJ"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L2P17DZ",
+        "text": "I'll be there!!",
+        "ts": "1472574693.000063"
+    },
+    {
+        "type": "message",
+        "user": "U1KQGRG2F",
+        "text": "Can't wait!! <@U1KR9BP0E>  :tada::tada::tada:",
+        "ts": "1472574771.000064"
+    },
+    {
+        "type": "message",
+        "user": "U1KSH8676",
+        "text": "FYI Python website temporarily down. Brandon is working on it. ",
+        "ts": "1472582932.000065"
+    },
+    {
+        "type": "message",
+        "user": "U1L7ERY77",
+        "text": "Hey everyone, I'm bringing in a brand new 1.5L french press and coffee bean grinder to make fresh delicious coffee for my morning huddles and lunchtime meetings.   You're all welcome to use it so long as you clean it, and respect when I need to use it.  Since I'll be burning through a lot of beans and half and half too I ask that you all bring your own.  I'll be doing the maiden voyage with this press tomorrow morning as I try and get the coffee to water ratio right, so come early if you want to taste amazing coffee, lets get brewing!!",
+        "ts": "1472592241.000066",
+        "reactions": [
+            {
+                "name": "coffee",
+                "users": [
+                    "U1KQ9523D",
+                    "U1MBURU4D",
+                    "U1L0V1X61",
+                    "U1KT3UELS",
+                    "U1L1WFNC8",
+                    "U1L7E8GSU",
+                    "U1L914KNJ",
+                    "U1L9DD1NY",
+                    "U1L7G5LR4",
+                    "U1LBRCSEA",
+                    "U1NUU2U9E",
+                    "U1KRNH021",
+                    "U1KRQLFLY",
+                    "U1L40P4N9",
+                    "U1MBT6FRB",
+                    "U1LAAMJ0M",
+                    "U1KSL7L7R",
+                    "U1L0RBZFH",
+                    "U1L41DF9D",
+                    "U1L735VD4",
+                    "U1MDHNYR5"
+                ],
+                "count": 21
+            },
+            {
+                "name": "grin",
+                "users": [
+                    "U1KQ9523D",
+                    "U1L0RBZFH",
+                    "U1MDHNYR5"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1MBURU4D",
+                    "U1L9DD1NY",
+                    "U1L0RBZFH",
+                    "U1MDHNYR5"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "Wow! I so wish I was in your practicum team :wink: #ohwaitIam :information_desk_person:",
+        "ts": "1472592494.000070",
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1L9DD1NY",
+                    "U1L7ERY77",
+                    "U1KRNH021",
+                    "U1KR9BP0E"
+                ],
+                "count": 5
+            },
+            {
+                "name": "two_hearts",
+                "users": [
+                    "U1KT3UELS",
+                    "U1L7ERY77",
+                    "U1MBT6FRB"
+                ],
+                "count": 3
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U1KSPCE87",
+                    "U1L7ERY77",
+                    "U1KSL7L7R",
+                    "U1L0V1X61"
+                ],
+                "count": 4
+            },
+            {
+                "name": "expressionless",
+                "users": [
+                    "U1L7G5LR4",
+                    "U1L95JP1S"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L7ERY77",
+        "text": "And I'll be bringing in some more of my mugs too!",
+        "ts": "1472592826.000075",
+        "reactions": [
+            {
+                "name": "scream",
+                "users": [
+                    "U1KQ9523D"
+                ],
+                "count": 1
+            },
+            {
+                "name": "coffee",
+                "users": [
+                    "U1KQ9523D",
+                    "U1L0RBZFH"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

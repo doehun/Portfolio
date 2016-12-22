@@ -1,0 +1,333 @@
+[
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "there are donuts in orange",
+        "ts": "1476794437.001493",
+        "reactions": [
+            {
+                "name": "celebration",
+                "users": [
+                    "U1KRB11QC",
+                    "U1L3K1AKD",
+                    "U1KQGRG2F",
+                    "U1KRBJP47",
+                    "U1KRF9BAP",
+                    "U1KRWUXFU",
+                    "U1NUU2U9E",
+                    "U1KQYG6SJ",
+                    "U1P8QBBD1"
+                ],
+                "count": 9
+            },
+            {
+                "name": "doughnut",
+                "users": [
+                    "U1MDHNYR5",
+                    "U1L4RTKCM",
+                    "U1KQGRG2F",
+                    "U1LMHQY9E",
+                    "U1P8QBBD1"
+                ],
+                "count": 5
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U1LMHQY9E",
+                    "U1P8QBBD1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "Does someone already have the fishbowl reserved for today?",
+        "ts": "1476796974.001494"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "I have it from 3-7",
+        "ts": "1476797117.001495"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "perfect. I just added 7-10!",
+        "ts": "1476797246.001496",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KQGRG2F",
+                    "U1L1D4WG7",
+                    "U1L7E8GSU",
+                    "U1L3G0YRJ"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LLWQ02E",
+        "text": "<http:\/\/raleigh.craigslist.org\/for\/5785021080.html> lol",
+        "attachments": [
+            {
+                "service_name": "craigslist",
+                "title": "Black Contigo Snapseal Travel Tumbler - BRAND NEW",
+                "title_link": "http:\/\/raleigh.craigslist.org\/for\/5785021080.html",
+                "text": "Selling a brand new black Contigo Snapseal Travel Tumbler. Very nice item, just already have too many waterbottles! Waterbottle, water bottle, waterbottles, waterbottle, thermos, tumbler, tumblers,...",
+                "fallback": "craigslist: Black Contigo Snapseal Travel Tumbler - BRAND NEW",
+                "image_url": "https:\/\/images.craigslist.org\/00V0V_4pUubYx61oS_600x450.jpg",
+                "from_url": "http:\/\/raleigh.craigslist.org\/for\/5785021080.html",
+                "image_width": 187,
+                "image_height": 250,
+                "image_bytes": 8660,
+                "service_icon": "http:\/\/raleigh.craigslist.org\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1476805976.001497"
+    },
+    {
+        "type": "message",
+        "user": "U1LLWQ02E",
+        "text": "I still want it",
+        "ts": "1476806023.001499",
+        "reactions": [
+            {
+                "name": "small_edward_lim",
+                "users": [
+                    "U1KT9ATA5",
+                    "U1LDKB3AN",
+                    "U1P8QBBD1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "hugging_face",
+                "users": [
+                    "U1KR9BP0E"
+                ],
+                "count": 1
+            },
+            {
+                "name": "small_officer_futch",
+                "users": [
+                    "U1L1D4WG7",
+                    "U1PNNRVGF",
+                    "U1NUU2U9E",
+                    "U1L9DD1NY",
+                    "U1KRNHQA1",
+                    "U1KR891RC",
+                    "U1L3G0YRJ",
+                    "U1P8QBBD1",
+                    "U1L2P17DZ",
+                    "U1LNGEV0B",
+                    "U1KSL7L7R"
+                ],
+                "count": 11
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U1PF7HWTF",
+                    "U1L3G0YRJ",
+                    "U1L41DF9D",
+                    "U1L6WB44A",
+                    "U1P8QBBD1",
+                    "U1L1WFNC8"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U2LA4671B",
+        "text": "So\u2026 someone is selling the Deloitte tumbler\u2026.",
+        "ts": "1476813210.001500"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Fish bowl is reserved from 3-10 if anyone wants to come by",
+        "ts": "1476813933.001501",
+        "reactions": [
+            {
+                "name": "tropical_fish",
+                "users": [
+                    "U1L7E8GSU",
+                    "U1KQGRG2F",
+                    "U1L5GU954",
+                    "U1P8QBBD1"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L7RPG1M",
+        "text": "<@U1P8QBBD1>: You can't extort your classmates.",
+        "ts": "1476823765.001508",
+        "reactions": [
+            {
+                "name": "small_officer_futch",
+                "users": [
+                    "U1KT9ATA5",
+                    "U1KR9BP0E",
+                    "U1KQGK2CB",
+                    "U1KQ9523D",
+                    "U1L1D4WG7",
+                    "U1MBT6FRB",
+                    "U1KT5F4SZ",
+                    "U1Q7LP4V9",
+                    "U1L7E8GSU",
+                    "U1KRB11QC",
+                    "U1KRNHQA1",
+                    "U1KSH8676",
+                    "U1L5GU954",
+                    "U1L735VD4",
+                    "U1KRE1L9M",
+                    "U1KR891RC",
+                    "U1KRLV1CG",
+                    "U1L3G0YRJ",
+                    "U1KRWUXFU",
+                    "U1L0V1X61",
+                    "U1L2P17DZ",
+                    "U1L6YQUSU",
+                    "U1KQTJ6BV",
+                    "U1MDHNYR5",
+                    "U1NUU2U9E",
+                    "U1N43E3E0",
+                    "U1KT2JJE8",
+                    "U1KS4UE2F"
+                ],
+                "count": 28
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L7G5LR4",
+        "text": "Im pretty sure this snazzy jacket belongs to <@U1SMADBU4> :ok_woman:",
+        "ts": "1476825714.001511"
+    },
+    {
+        "type": "message",
+        "user": "U1SMADBU4",
+        "text": "Yes, that is mine- thank you for picking it up! <@U1P8QBBD1> Will you accept Monopoly  money? I will even include the ship and top hat. ",
+        "ts": "1476826255.001513"
+    },
+    {
+        "type": "message",
+        "user": "U1P8QBBD1",
+        "text": "As long as it is enough monopoly money to fill 3 suitcases!",
+        "ts": "1476826321.001514",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KS4UE2F"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U2R2NANUC",
+        "text": "<@U2R2NANUC|john_jernigan> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476827206.001517",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KQ9523D",
+                    "U1KRNHQA1",
+                    "U1KS1BFED",
+                    "U1KRLV1CG",
+                    "U1L0V1X61"
+                ],
+                "count": 5
+            },
+            {
+                "name": "party_ed",
+                "users": [
+                    "U1KR891RC",
+                    "U1L7E8GSU",
+                    "U1KRWUXFU",
+                    "U1NDG6ULB",
+                    "U1KT5F4SZ",
+                    "U1P8QBBD1",
+                    "U1L7ERY77",
+                    "U1L2P17DZ",
+                    "U1KRLV1CG",
+                    "U1KRTHAQZ",
+                    "U1MDHNYR5",
+                    "U1KR9BP0E",
+                    "U1NUU2U9E",
+                    "U1L9DD1NY",
+                    "U1L735VD4",
+                    "U1LDKB3AN",
+                    "U1L7RPG1M",
+                    "U1KSL7L7R"
+                ],
+                "count": 18
+            },
+            {
+                "name": "celebration",
+                "users": [
+                    "U1KRB11QC",
+                    "U1P8QBBD1",
+                    "U1L7ERY77",
+                    "U1L0RBZFH",
+                    "U1L2P17DZ",
+                    "U1KRLV1CG",
+                    "U1KQGRG2F",
+                    "U1NLH1CP8",
+                    "U1NUU2U9E",
+                    "U1L9DD1NY",
+                    "U1L97TR38",
+                    "U1KSL7L7R",
+                    "U1Q7LP4V9"
+                ],
+                "count": 13
+            },
+            {
+                "name": "ferris_wheel",
+                "users": [
+                    "U1KSL7C10",
+                    "U1KRLV1CG",
+                    "U1L9DD1NY"
+                ],
+                "count": 3
+            },
+            {
+                "name": "computer",
+                "users": [
+                    "U1N43E3E0",
+                    "U1L9DD1NY",
+                    "U1KRQLFLY",
+                    "U1M7AD5L2",
+                    "U1L7RPG1M"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "gentle reminder: data mining exercise 4 crowd-sourced solutions!: <https:\/\/docs.google.com\/document\/d\/1Qik9Gdyin5N1E7RorF_cwHnxA9jEltebbVOzsBLkkHM\/edit>",
+        "ts": "1476835538.001518"
+    }
+]

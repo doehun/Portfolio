@@ -1,0 +1,67 @@
+[
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Is anyone else having trouble reading the feedback comments from Dr. Simmons on the returned homework?",
+        "ts": "1474719070.000398"
+    },
+    {
+        "type": "message",
+        "user": "U1L93SMGF",
+        "text": "The feedback wasn't showing up on my phone but when you look at the report in a PDF viewer (i.e. Adobe, Foxit) the comments show up.",
+        "ts": "1474719551.000399"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Cool.  Thanks <@U1L93SMGF>.  I'll give it a shot. (Addendum - that did indeed work)",
+        "edited": {
+            "user": "U1L6YQUSU",
+            "ts": "1474720015.000000"
+        },
+        "ts": "1474719579.000400",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRNH021",
+                    "U1L6YQUSU",
+                    "U1L93SMGF",
+                    "U1KT2JJE8"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1NFS178D",
+        "text": "For those who are interested, they actually did open up the corpse flower viewing to the public...you can go see it tomorrow afternoon, although the flower may have already started to close up. I'm not sure if I can make it tomorrow, but just wanted to let you know! <https:\/\/news.ncsu.edu\/2016\/09\/come-see-nc-states-corpse-flower\/>",
+        "attachments": [
+            {
+                "title": "Come See the Corpse Flower at NC State",
+                "title_link": "https:\/\/news.ncsu.edu\/2016\/09\/come-see-nc-states-corpse-flower\/",
+                "text": "The greenhouse where Lupin the Corpse Flower lives will be open to the public from 9 a.m.-6 p.m. Saturday and 9 a.m.-5 p.m. on Sunday.",
+                "fallback": "Come See the Corpse Flower at NC State",
+                "image_url": "https:\/\/news.ncsu.edu\/wp-content\/uploads\/2016\/09\/Lupin-bloom-twitter.jpg",
+                "from_url": "https:\/\/news.ncsu.edu\/2016\/09\/come-see-nc-states-corpse-flower\/",
+                "image_width": 275,
+                "image_height": 150,
+                "image_bytes": 85986,
+                "service_icon": "https:\/\/www.ncsu.edu\/favicon.ico",
+                "service_name": "news.ncsu.edu",
+                "id": 1
+            }
+        ],
+        "ts": "1474764397.000403",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1N43E3E0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,304 @@
+[
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "Can anyone help me on SAS Base 81 from the blog? A raw data file is listed below:\n--------10-------20-------30\nJohn McCloskey 35 71\nJune Rosesette 10 43\nTineke Jones 9 37\nThe following SAS program is submitted using the raw data file as input:\ndata work.homework;\ninfile 'file-specification';\ninput name $ age height;\nif age LE 10;\nrun;\nHow many observations will the WORK.HOMEWORK data set contain?\nA. 0\nB. 2\nC. 3\nD. No data set is created as the program fails to execute due to errors.",
+        "ts": "1470240245.000046"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "It reads in all 3 observations.  When character data is present for a numeric input, it just records as missing.",
+        "ts": "1470240323.000047"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "From the SAS website on IF Statements it says: \"If the expression is false (its value is 0 or missing), no further statements are processed for that observation or record, the current observation is not written to the data set, and the remaining program statements in the DATA step are not executed. \"",
+        "ts": "1470240427.000048"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "That's what I thought too John, but after I read about subsetting IF statements I'm not sure anymore. From that, it sounds like since it's a missing value, SAS would read it as false and not write the observation to the data set",
+        "ts": "1470240501.000049"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I ran the program and got all 3 observations.  ",
+        "ts": "1470240571.000050"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Since age is missing, it's also less than 10, so it still reads",
+        "ts": "1470240605.000052"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Missing values are less than everything ",
+        "ts": "1470240629.000053",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L3PU7BJ",
+                    "U1NUU2U9E"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "Oh okay, that makes sense. Thanks John!",
+        "ts": "1470240649.000054"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "No problem",
+        "ts": "1470240661.000055"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "If anyone wants to be a SAS study nerd in the library with me now's your chance. :nerd_face:",
+        "ts": "1470249525.000056"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Has anyone taken a look at blog question 44?  Not understanding how the answer is D, I get C when I run the code.  Below is the exact question for reference.",
+        "ts": "1470252710.000057"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "<http:\/\/sascert.blogspot.com\/2006\/12\/base-sas_116656383956117470.html#comment-form>",
+        "ts": "1470252710.000058"
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "I'm getting a length of 15 as well from the proc contents ",
+        "ts": "1470253146.000059"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "The SAS reference material says that if you use scan and the variable hasn't been assigned a length, then it defaults to 200",
+        "ts": "1470253184.000060"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "But I'm also getting 15 when I run the code ",
+        "ts": "1470253275.000061"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "I think this might have been the case where there's a different between the versions of SAS",
+        "ts": "1470253416.000062"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "I think it's only the most recent one (what we use) where the assigned length is based on the data inputted, previously it was automatically assigned 200",
+        "ts": "1470253448.000063"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "The length of the created variable is the length of the first argument starting in SAS release 9.4 with the scan function",
+        "ts": "1470253453.000064"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I'm with <@U1KT5F4SZ>  I think it's a version issue ",
+        "ts": "1470253456.000065"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "Yep, <@U1KT5F4SZ> is correct. Before SAS 9.4, it was 200.",
+        "ts": "1470253490.000066"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "Andrea said that the test has 200 as the answer I'm pretty sure because its based on the version before what we have",
+        "ts": "1470253492.000067"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "So....we should answer based on older versions?",
+        "ts": "1470253514.000068"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "The exam is based on 9.4",
+        "ts": "1470253548.000069"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "<https:\/\/support.sas.com\/certify\/creds\/bp.html>",
+        "attachments": [
+            {
+                "title": "SAS Global Certification program",
+                "title_link": "https:\/\/support.sas.com\/certify\/creds\/bp.html",
+                "text": "SAS Certification credentials and exams",
+                "fallback": "SAS Global Certification program",
+                "from_url": "https:\/\/support.sas.com\/certify\/creds\/bp.html",
+                "service_icon": "https:\/\/support.sas.com\/favicon.ico",
+                "service_name": "support.sas.com",
+                "id": 1
+            }
+        ],
+        "ts": "1470253556.000070"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "I meant the test questions online, that's why that answer isn't what we think it is.  Dustin is right about our test",
+        "ts": "1470253648.000072"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "So the real answer is C. ",
+        "ts": "1470253719.000073"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "So for both scan and substr the length of the new variable is equal to the length of the input? ",
+        "ts": "1470253816.000074"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "It looks that way since they're both in there and it came out to 15.",
+        "ts": "1470253850.000075"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "That's correct <@U1KRNHQA1>",
+        "ts": "1470253863.000076"
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "Has anyone come across other big differences in the versions that would be important to know? ",
+        "ts": "1470253993.000077",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1N43E3E0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Thanks Hannah and Dustin.  I figured that's what it was but didn't want to jump that.  Do you think it would be a good idea to  shoot an email to Andrea? I assume she'd want to update her answer key if this is truly the case.",
+        "ts": "1470254065.000078"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "I think we should clarify it all with here tomorrow at the study session. Then everyone will know what's up",
+        "ts": "1470254308.000079"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Okay,  I'll remember to bring this one up during tomorrow's review.",
+        "ts": "1470254450.000080"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "The SAS website says we need two forms of ID for the exam, is that true?",
+        "ts": "1470260151.000081"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I'm hoping they'll vouch for us.  My guess is that's for testing sites.  <@U1XCJ1X4H> will know ",
+        "ts": "1470260197.000082"
+    },
+    {
+        "type": "message",
+        "user": "U1L8PJY4W",
+        "text": "Found these on Quizlet if anyone has the app, someone created\/posted from the analytics program last year for the base SAS exam : <https:\/\/quizlet.com\/89677583\/ncsu-analytics-base-sas-flashcards-flash-cards\/> ",
+        "attachments": [
+            {
+                "title": "NCSU Analytics- Base SAS Flashcards Flashcards | Quizlet",
+                "title_link": "https:\/\/quizlet.com\/89677583\/ncsu-analytics-base-sas-flashcards-flash-cards\/",
+                "text": "Start studying NCSU Analytics- Base SAS Flashcards. Learn vocabularly, terms, and more with flashcards, games, and other study tools.",
+                "fallback": "NCSU Analytics- Base SAS Flashcards Flashcards | Quizlet",
+                "from_url": "https:\/\/quizlet.com\/89677583\/ncsu-analytics-base-sas-flashcards-flash-cards\/",
+                "service_icon": "https:\/\/quizlet.com\/a\/i\/favicon.Byhh.ico",
+                "service_name": "quizlet.com",
+                "id": 1
+            }
+        ],
+        "ts": "1470269337.000083",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1KQ9523D",
+                    "U1KRZT11T",
+                    "U1KSL7L7R",
+                    "U1L914KNJ",
+                    "U1P8QBBD1",
+                    "U1KT3UELS",
+                    "U1LBRCSEA",
+                    "U1KRHCR7T",
+                    "U1KRBJP47",
+                    "U1KRNTXL5"
+                ],
+                "count": 11
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1L93SMGF",
+                    "U1KQ9523D",
+                    "U1KRB11QC"
+                ],
+                "count": 4
+            },
+            {
+                "name": "dart",
+                "users": [
+                    "U1L6YQUSU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1P8QBBD1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "for anyone who hasn't seen it yet: Zootopia is on Netflix, and I highly recommend watching it if you need a break from work",
+        "ts": "1474655998.000209"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "full of animal puns",
+        "edited": {
+            "user": "U1KQYG6SJ",
+            "ts": "1474656179.000000"
+        },
+        "ts": "1474656173.000210",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L90S3QC",
+                    "U1KSL7L7R",
+                    "U1L0V1X61",
+                    "U1MBT6FRB"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

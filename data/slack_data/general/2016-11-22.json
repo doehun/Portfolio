@@ -1,0 +1,402 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "Does anyone drive a Black Jeep Grand Cherokee? If so, your alarm is going off on the third floor of the parking deck. ",
+        "ts": "1479822695.002658"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "lol",
+        "ts": "1479823474.002660"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "I am working with Tony and John to schedule some talks on data ethics and data privacy. If you have any thoughts that pertain to this please let me know. Were looking at holding a few lectures and panel discussion in the spring. Also let me know if you have any specific topics of interest as were currently discussing self-driving cars, IoT, and personal health trackers among other potential issues in this realm.",
+        "edited": {
+            "user": "U1KRB11QC",
+            "ts": "1479829389.000000"
+        },
+        "ts": "1479829240.002661",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRWJB7S",
+                    "U1L3G0YRJ",
+                    "U1KRBJP47",
+                    "U1KRBFY3Z",
+                    "U1P8QBBD1",
+                    "U1KT3UELS",
+                    "U1LDKB3AN"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "^^^ <@U1KRB11QC> I thought that the technology and application methods presented by Red Ventures highlighted a number of significant concerns in this area.",
+        "ts": "1479829465.002663",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1KRWUXFU",
+                    "U1P8QBBD1",
+                    "U1KRLV1CG"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "I'm personally very confused by all the talk about the supposed ethics questions regarding Red Ventures.  Apparently people think it's unethical to outsource your call center?  So yeah I guess it's good we're having that talk.",
+        "ts": "1479829651.002664"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "It's not unethical to outsource, it's unethical to use demographic information to decide on whether someone receives service or not. I.e. low income callers might get dropped in high volume periods in favor of high income callers.",
+        "ts": "1479829715.002665",
+        "reactions": [
+            {
+                "name": "clap::skin-tone-3",
+                "users": [
+                    "U1P8QBBD1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1L1D4WG7> that is something that is also on my list. It seems to me there is a bit of grey area in this space. I'm curious where we draw the line. Data science is in its infancy and currently doesn't have any ethical oversight organizations like other industries. It also seems like most of the times these organizations are set up when bad things happen and as data scientists we should aim to be better than that",
+        "ts": "1479829719.002666",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1L1D4WG7",
+                    "U1P8QBBD1",
+                    "U1N43E3E0",
+                    "U1KRBJP47"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "well put <@U1KRB11QC>",
+        "ts": "1479829945.002667"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "I see <@U1L1D4WG7>, I must have missed the part where they said that.  I heard several people voice concerns about Red Ventures, but mostly just that they though it was \"creepy\" that they picked up the phone claiming to be Verizon.  I didn't agree with that particular assessment.",
+        "edited": {
+            "user": "U1N43E3E0",
+            "ts": "1479830367.000000"
+        },
+        "ts": "1479830138.002668"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "In case anyone is short on buzzwords, Hadoop and Spark our some of my team's favorites because of the general buzz that John mentioned in class:\n<http:\/\/www.atrixnet.com\/bs-generator.html>",
+        "ts": "1479841182.002671",
+        "reactions": [
+            {
+                "name": "celebration",
+                "users": [
+                    "U1KRBFY3Z",
+                    "U1KRWUXFU"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "I have the fishbowl from now until Emmy's time starts if people want to go to the library sooner ",
+        "ts": "1479841723.002672",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1L3G0YRJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L0K4RQ8",
+        "text": "Has anyone seen a black HDMI converter in one of the group rooms in the past couple of days?",
+        "ts": "1479842673.002673"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "Would anyone be able to give me a  ride to Hillsborough Street around 6pm tomorrow?",
+        "ts": "1479844714.002674"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "I probably can! <@U1KRHCR7T> ",
+        "ts": "1479850306.002675",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRHCR7T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Anyone on campus still who knows anything about cars? ",
+        "ts": "1479853328.002676"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "my car won't turn on so I'm stuck in the parking lot. I'm not sure if my battery is dead or if it's something else",
+        "ts": "1479853380.002677"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U1L9DD1NY> did you have to manually unlock your car or did your remote work? also do the lights turn on?",
+        "ts": "1479853449.002678"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "those are both pretty good indicators of if its the battery or not",
+        "ts": "1479853460.002679"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Lights turn on and remote worked so I guess it isn't the battery <@U1KT5F4SZ> thanks!",
+        "ts": "1479853476.002680"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "I think it may be the alternator which is no bueno",
+        "ts": "1479853513.002681"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "<@U1L9DD1NY> I live close by and have jumper cables if you need a jump!",
+        "ts": "1479853515.002682"
+    },
+    {
+        "type": "message",
+        "user": "U1KRLV1CG",
+        "text": "I am completely worthless about cars so I don't have much to offer <@U1L9DD1NY>, but on a different note, I love the breaking of the macho-man-car-expert stereotype! Way to go IAA girls!!!!",
+        "edited": {
+            "user": "U1KRLV1CG",
+            "ts": "1479853847.000000"
+        },
+        "ts": "1479853775.002683",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1L2P17DZ",
+                    "U1NUU2U9E",
+                    "U1KRE1L9M",
+                    "U1LMHQY9E",
+                    "U1KT3UELS",
+                    "U1KSYP1M5"
+                ],
+                "count": 7
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1LMHQY9E"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Hahaha <@U1KRLV1CG> it makes a clicking sound when I turn it on, anyone know what that may mean? Google isn't really helping ",
+        "ts": "1479853839.002684"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Clicking means that it doesn't have enough energy in the battery to turnover, but having lights and it still not turning over is more likely than not an alternator problem",
+        "ts": "1479853910.002686"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Jumping it will help momentarily but the dead alternator will drain the battery pretty quickly because it's not able to recharge it",
+        "ts": "1479853943.002687"
+    },
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "<@U1KRB11QC> I concur",
+        "ts": "1479853951.002688"
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "depends on how bright the lights are. You can have dim lights but still not enough energy to turn over, particularly in cold weather.",
+        "ts": "1479853976.002689"
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "if you can jump it and get it to start just make sure you drive it around for at least 20 mins",
+        "ts": "1479854014.002690"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "You could have someone jump you and then have them follow you. If it is the alternator your car will turn off pretty quickly when driving ",
+        "ts": "1479854039.002691"
+    },
+    {
+        "type": "message",
+        "user": "U1KRLV1CG",
+        "text": "<@U1KRB11QC> this just sounded wrong...",
+        "ts": "1479854071.002692",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1KSR1MS4",
+                    "U1KT2JJE8",
+                    "U1L7G5LR4",
+                    "U1P8QBBD1"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "just don't tailgate, lol",
+        "ts": "1479854084.002693",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KRLV1CG"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Ok thanks for all the info everyone! ",
+        "ts": "1479854238.002694"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U1L9DD1NY>: good luck!",
+        "ts": "1479854341.002695"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "<@U1L9DD1NY>: let us know if you need anything - cables or just someone to wait with you! ",
+        "ts": "1479854361.002696",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U1KRB11QC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "I found a kind stranger in the parking deck but thank you! <@U1KRWUXFU> (he said he saw my lights on this morning so it seems like this is my fault.... :flushed:)",
+        "ts": "1479854584.002697"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "oh no!",
+        "ts": "1479854595.002698"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "Glad someone is there to help!",
+        "ts": "1479854602.002699"
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "<@U1L9DD1NY>, that's actually good news - means it's unlikely to be the alternator",
+        "ts": "1479854682.002700",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1KRB11QC",
+                    "U1KRWUXFU",
+                    "U1KRLV1CG",
+                    "U1L2P17DZ"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "<@U1L9DD1NY>: mine made a clicking noise too when my battery died and if they were able to jump your car then it's probably your battery, let me know if you need anything! ",
+        "ts": "1479854789.002701",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1KSBCBFG"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

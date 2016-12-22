@@ -1,0 +1,110 @@
+[
+    {
+        "user": "U1KQYG6SJ",
+        "text": "<@U1KQYG6SJ|rose> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472929406.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "R homework?",
+        "ts": "1472929414.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "did I miss something? :grimacing:",
+        "ts": "1472929421.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "Practice exercise at the end of the lecture ",
+        "ts": "1472929446.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "It's not due, just for us to practice ",
+        "ts": "1472929461.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "oh ok",
+        "ts": "1472929559.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "phew",
+        "ts": "1472929560.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": ":relieved:",
+        "ts": "1472929565.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "\/giphy relief",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/phew-alan-ritchson-i-can-do-that-EDt1m8p5hqXG8>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/EDt1m8p5hqXG8\/giphy.gif",
+                "image_width": 500,
+                "image_height": 275,
+                "image_bytes": 1805092,
+                "is_animated": true,
+                "title": "relief",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/phew-alan-ritchson-i-can-do-that-EDt1m8p5hqXG8"
+            }
+        ],
+        "ts": "1472929569.000010",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1LAAMJ0M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "Hahaha love the giphy :) ",
+        "ts": "1472929607.000011"
+    },
+    {
+        "user": "U1KQYG6SJ",
+        "text": "<@U1KQYG6SJ|rose> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472929800.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "<@U1L7ERY77>: haha I love how you used it!!! :rainbow:",
+        "ts": "1472940071.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "On the latest R practice problems, #5, does anyone else get variables of \"illiteracy\" and \"HS Grad\"?  LaBarr's answers say \"population\" and \"HS Grad\", but that isn't what I'm getting...",
+        "ts": "1472956300.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "<@U1L1D4WG7>   I got the same thing Dr. Labarr  did. I removed them in this order: LifeExp, murder, frost,  illiteracy, and then area",
+        "ts": "1472958267.000002"
+    }
+]

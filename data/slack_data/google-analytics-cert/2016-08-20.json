@@ -1,0 +1,321 @@
+[
+    {
+        "user": "U1KRQLFLY",
+        "text": "<@U1KRQLFLY|sean.ankenbruck> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471698404.000038"
+    },
+    {
+        "user": "U1NLH1CP8",
+        "text": "<@U1NLH1CP8|catherine_burton> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471702149.000039"
+    },
+    {
+        "user": "U1L2QDX7Y",
+        "text": "<@U1L2QDX7Y|semoore9> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471702620.000040"
+    },
+    {
+        "user": "U1M1L5G6L",
+        "text": "<@U1M1L5G6L|shelbyklemm> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471702742.000041"
+    },
+    {
+        "user": "U1N04S4LV",
+        "text": "<@U1N04S4LV|vsingh5> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471705624.000042"
+    },
+    {
+        "user": "U1KS4UE2F",
+        "text": "<@U1KS4UE2F|edward_lim> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471715716.000043"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Just FYI, and perhaps this is obvious, but this certification is super focused on things that google tracks on websites, and via adwords (paid google advertising for websites). It isn't an analytics tool for general use to analyze other data. So, if you manage a website, or manage marketing campaigns, this is super interesting in order to really gain a lot of insight on your customers and products. If you have no interest in website\/customer\/marketing side stuff, this is perhaps a lot less useful for you... other than perhaps adding a non-SAS analytics certification on your resume.",
+        "edited": {
+            "user": "U1L1D4WG7",
+            "ts": "1471716207.000000"
+        },
+        "ts": "1471716166.000044",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KS4UE2F",
+                    "U1MBURU4D",
+                    "U1L2P17DZ",
+                    "U1L735VD4",
+                    "U1KSL7L7R"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "<@U1L1D4WG7> That was super helpful Ed. I didn't know anything about the cert so I actually thought it was another analytics tool :joy:",
+        "ts": "1471717349.000046"
+    },
+    {
+        "type": "message",
+        "user": "U1L97TR38",
+        "text": "Thanks Ed! ",
+        "ts": "1471718705.000047"
+    },
+    {
+        "user": "U1L7ERY77",
+        "text": "<@U1L7ERY77|maxwarburg> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471721097.000048"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "I just finished the first course (of 2), which took me 5 hrs (I took a lot of notes). After each of the lecture videos, there are 3-5 exercise questions (a total of ~75 practice exercises) which give a good impression of what they think is important. There is also an untimed \"practice\" assessment at the end which took me another 20 minutes and I got 100% on it. There were several questions I was unsure about, but it's obviously not that hard.",
+        "ts": "1471722761.000049",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U1L914KNJ",
+                    "U1L9DD1NY",
+                    "U1KT5F4SZ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U1KQ9523D",
+                    "U1L9DD1NY",
+                    "U1KSR1MS4"
+                ],
+                "count": 3
+            },
+            {
+                "name": "medal",
+                "users": [
+                    "U1KQ9523D",
+                    "U1L9DD1NY"
+                ],
+                "count": 2
+            },
+            {
+                "name": "weight_lifter",
+                "users": [
+                    "U1KQ9523D",
+                    "U1L9DD1NY"
+                ],
+                "count": 2
+            },
+            {
+                "name": "bow",
+                "users": [
+                    "U1KQ9523D",
+                    "U1L9DD1NY"
+                ],
+                "count": 2
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U1KSL7C10",
+                    "U1KT9ATA5",
+                    "U1L9DD1NY",
+                    "U1KSR1MS4",
+                    "U1L735VD4",
+                    "U1KRNH021",
+                    "U1KRE5NKZ",
+                    "U1L3PU7BJ",
+                    "U1L90S3QC",
+                    "U1KSL7L7R",
+                    "U1KRB11QC",
+                    "U1KRE1L9M"
+                ],
+                "count": 12
+            },
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U1KS4UE2F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Getting started on course 2 now. :slightly_smiling_face:",
+        "ts": "1471722770.000050"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Just finished course 2, which took ~1.5 hrs. Much easier content, some overlap from course 1. The practice assessment only took 10 minutes and was also very easy.",
+        "ts": "1471729899.000051",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1L914KNJ",
+                    "U1L3PU7BJ",
+                    "U1L90S3QC",
+                    "U1L2P17DZ",
+                    "U1KQ9523D"
+                ],
+                "count": 6
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U1L90S3QC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Passed the certification!  Go for it people :slightly_smiling_face:  I did it in 1 day!",
+        "ts": "1471736314.000052",
+        "reactions": [
+            {
+                "name": "metal",
+                "users": [
+                    "U1KQ9523D",
+                    "U1L914KNJ",
+                    "U1P8QBBD1",
+                    "U1KSBCBFG",
+                    "U1L9DD1NY",
+                    "U1L3PU7BJ",
+                    "U1KSL7L7R",
+                    "U1L0RBZFH",
+                    "U1KS4UE2F",
+                    "U1L735VD4",
+                    "U1KRNH021",
+                    "U1L7G5LR4"
+                ],
+                "count": 12
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U1LJRDPLP",
+                    "U1LBRCSEA",
+                    "U1P8QBBD1",
+                    "U1L2P17DZ",
+                    "U1KRNHQA1",
+                    "U1L415ECD",
+                    "U1KRHCR7T",
+                    "U1KSL7C10",
+                    "U1KSYP1M5",
+                    "U1KSBCBFG",
+                    "U1L9DD1NY",
+                    "U1KSL7L7R",
+                    "U1L90S3QC",
+                    "U1SMADBU4",
+                    "U1KRBJP47",
+                    "U1KVBARR9",
+                    "U1KRWUXFU",
+                    "U1L7G5LR4",
+                    "U1NUU2U9E"
+                ],
+                "count": 19
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U1L1D4WG7>: you're an inspiration to us all",
+        "ts": "1471736463.000053",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U1P8QBBD1",
+                    "U1L9DD1NY",
+                    "U1L735VD4"
+                ],
+                "count": 3
+            },
+            {
+                "name": "blush",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1LBRCSEA",
+                    "U1L9DD1NY",
+                    "U1KSL7L7R",
+                    "U1SMADBU4",
+                    "U1KRB11QC"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Compared to SAS it is easy breezy :-)  Good luck everyone!",
+        "ts": "1471736854.000054"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "\/giphy inspiration",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/oe8Ii2ZyKl1fy>",
+                "image_url": "http:\/\/media.giphy.com\/media\/oe8Ii2ZyKl1fy\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 187,
+                "image_bytes": 830159,
+                "is_animated": true,
+                "title": "inspiration",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/oe8Ii2ZyKl1fy"
+            }
+        ],
+        "ts": "1471740276.000055"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "Congrats <@U1L1D4WG7> !!",
+        "edited": {
+            "user": "U1KSL7L7R",
+            "ts": "1471741932.000000"
+        },
+        "ts": "1471741893.000056"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "I am inspired to do it and thanks for all of the great information! ",
+        "ts": "1471742074.000058"
+    },
+    {
+        "type": "message",
+        "user": "U1L90S3QC",
+        "text": "Awesome! Congrats man!",
+        "ts": "1471743449.000059"
+    }
+]

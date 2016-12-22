@@ -1,0 +1,52 @@
+[
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "Hello everyone! I am holding weekly West Coast Tech interview preparation studies on Saturdays at 3 pm at Hunt Library (Room 3314 tomorrow). We study Data structures and Algorithms using Python. Anyone is welcome to come even if you're not preparing for west coast - we talk about concepts rather than coding so it'll be good for anyone who wants to learn.",
+        "ts": "1478284933.002103",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L7RPG1M",
+                    "U1M37FW5U",
+                    "U1NUU2U9E",
+                    "U1KR80QMS",
+                    "U1KRNHQA1",
+                    "U1KRB11QC",
+                    "U1Q5GHC2J",
+                    "U1MBURU4D",
+                    "U1L735VD4",
+                    "U1LHLK8MR"
+                ],
+                "count": 10
+            },
+            {
+                "name": "small_edward_lim",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1KQGK2CB",
+                    "U1KQYG6SJ",
+                    "U1LDKB3AN",
+                    "U1KSGHLPJ",
+                    "U1KR80QMS",
+                    "U1KRNHQA1",
+                    "U1KRB11QC",
+                    "U1Q5GHC2J",
+                    "U1MBURU4D"
+                ],
+                "count": 10
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "FYI on campus early voting line is estimated at 2 hours right now (it wound up being 3)",
+        "edited": {
+            "user": "U1KRE1L9M",
+            "ts": "1478299615.000000"
+        },
+        "ts": "1478287895.002104"
+    }
+]

@@ -1,0 +1,157 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQGRG2F",
+        "text": "Hey Everyone!!! I didn't get a ticket for the football  game on Thursday, so if anyone knows of someone with an extra ticket I'll take you out for ice cream :icecream: :smile:",
+        "ts": "1472565482.000031"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "You should be working on the resume, <@U1KQGRG2F>  :joy: ",
+        "ts": "1472565568.000032",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1KRLV1CG",
+                    "U1KRB11QC",
+                    "U1LAAMJ0M",
+                    "U1P8QBBD1"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "There\u2019s a second request period today online <@U1KQGRG2F>!",
+        "ts": "1472566126.000033",
+        "reactions": [
+            {
+                "name": "smiley",
+                "users": [
+                    "U1KQGRG2F",
+                    "U1L9DD1NY"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQGRG2F",
+        "text": "THANK YOU!!!! <@U1LBRCSEA>",
+        "ts": "1472570388.000034",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1LBRCSEA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "For all those going to the football game on Thursday, I'm having people over to my house beforehand! I live within walking distance of Carter Finley stadium (around a 10 min walk), and there's ample parking at my apt building, so we can park there and walk over. If you plan on coming, respond to this post in some way so I can have an idea of how much food to get.\n\nWhen: After class on Thursday - around 4:30 or 5:00 PM! We will walk over to the stadium around 6:30 PM!\nWhere: 5401 Creek Ridge Lane, Raleigh NC 27607\nWho: Anyone! My apartment isn't huge but it's on the ground floor and opens to a little grassy area so I think there will be enough room\nWhat To Bring: BYOB, I'll have some food, but feel free to bring more.",
+        "ts": "1472572483.000035",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRNH021",
+                    "U1KS1BFED",
+                    "U1KQGRG2F",
+                    "U1L2P17DZ",
+                    "U1KSYP1M5",
+                    "U1KRNHQA1",
+                    "U1L3G0YRJ",
+                    "U1MBURU4D",
+                    "U1L9DD1NY",
+                    "U1M37FW5U",
+                    "U1L5GU954",
+                    "U1L735VD4",
+                    "U1KT3UELS",
+                    "U1L6XBH6W",
+                    "U1L90S3QC"
+                ],
+                "count": 15
+            },
+            {
+                "name": "football",
+                "users": [
+                    "U1KS1BFED",
+                    "U1KQGRG2F",
+                    "U1L2P17DZ",
+                    "U1L3G0YRJ"
+                ],
+                "count": 4
+            },
+            {
+                "name": "cheese_wedge",
+                "users": [
+                    "U1L914KNJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "tropical_drink",
+                "users": [
+                    "U1L914KNJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KS1BFED",
+        "text": "<@U1KR9BP0E> I'll bring some beer",
+        "ts": "1472574849.000036",
+        "reactions": [
+            {
+                "name": "beers",
+                "users": [
+                    "U1M1L5G6L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "<@U1KR9BP0E> I'll have to think of something to bring besides David!",
+        "ts": "1472576130.000037",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1L735VD4",
+                    "U1L2P17DZ",
+                    "U1KR9BP0E",
+                    "U1KRNHQA1",
+                    "U1KQ9523D"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "I created a football games channel where we can discuss getting together for football games!",
+        "ts": "1472576258.000038"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1L914KNJ> David &gt; Food. Just bring David.",
+        "ts": "1472583006.000039"
+    }
+]

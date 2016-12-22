@@ -1,8 +1,0 @@
-[
-    {
-        "type": "message",
-        "user": "U1L1D4WG7",
-        "text": "Anyone understand this weird behavior in R?   If I run a holt-winters model and the alpha\/beta\/gamma parameters are determined to be x\/y\/z, with a certain MAPE, why then, when I run the hw model and force the alpha\/beta\/gamma numbers to x\/y\/z do I get a different MAPE?",
-        "ts": "1473944852.000002"
-    }
-]

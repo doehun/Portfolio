@@ -1,0 +1,229 @@
+[
+    {
+        "user": "U1L4RTKCM",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L4RTKCM|gheyne> has joined the channel",
+        "ts": "1467112791.000006"
+    },
+    {
+        "user": "U1L6YQUSU",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L6YQUSU|johnbetzjr> has joined the channel",
+        "ts": "1467130805.000002"
+    },
+    {
+        "user": "U1M1L5G6L",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1M1L5G6L|shelbyklemm> has joined the channel",
+        "ts": "1467130844.000003"
+    },
+    {
+        "user": "U1KRZT11T",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KRZT11T|tommy_darlington> has joined the channel",
+        "ts": "1467131608.000004"
+    },
+    {
+        "user": "U1M37FW5U",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1M37FW5U|alex_curcio> has joined the channel",
+        "ts": "1467139711.000005"
+    },
+    {
+        "user": "U1LBRCSEA",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1LBRCSEA|bethmoser> has joined the channel",
+        "ts": "1467140390.000006"
+    },
+    {
+        "user": "U1KRB11QC",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KRB11QC|dsjorda2> has joined the channel",
+        "ts": "1467140980.000007"
+    },
+    {
+        "user": "U1L914KNJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L914KNJ|nikki> has joined the channel",
+        "ts": "1467141641.000008"
+    },
+    {
+        "user": "U1KSR4JP3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KSR4JP3|emnunn> has joined the channel",
+        "ts": "1467141673.000009"
+    },
+    {
+        "user": "U1L9DD1NY",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L9DD1NY|mjdensmo> has joined the channel",
+        "ts": "1467141679.000010"
+    },
+    {
+        "user": "U1L7ERY77",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L7ERY77|maxwarburg> has joined the channel",
+        "ts": "1467143262.000011"
+    },
+    {
+        "user": "U1KSEJ01W",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KSEJ01W|ajborelli> has joined the channel",
+        "ts": "1467143545.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "hey all, some of us are going to see Finding Dory at 6:45 tonight at Regal Crossroads 20 theater because they do discounted tickets on Tuesdays ($6.50).  The address for the theater is 501 Caitboo Ave, Cary, NC 27518.  Hope to see some of you there!",
+        "ts": "1467145375.000013",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRB11QC",
+                    "U1L9DD1NY",
+                    "U1L6WB44A"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "^If you can't make it, we're thinking of going to CineBistro maybe next week to see another film :slightly_smiling_face:",
+        "ts": "1467145403.000014",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L6WB44A",
+                    "U1KRB11QC",
+                    "U1KT5F4SZ",
+                    "U1L41DF9D"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "CineBistro rules!",
+        "ts": "1467145861.000015",
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U1KRWUXFU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1M4QJD4P",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1M4QJD4P|mike-rose> has joined the channel",
+        "ts": "1467146869.000016"
+    },
+    {
+        "user": "U1L3PU7BJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L3PU7BJ|dmalave> has joined the channel",
+        "ts": "1467148426.000017"
+    },
+    {
+        "user": "U1KS4UE2F",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KS4UE2F|edward_lim> has joined the channel",
+        "ts": "1467148588.000018"
+    },
+    {
+        "user": "U1L3G0YRJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L3G0YRJ|emmyburnett> has joined the channel",
+        "ts": "1467149639.000019"
+    },
+    {
+        "user": "U1LAAMJ0M",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1LAAMJ0M|carlanderson> has joined the channel",
+        "ts": "1467149919.000020"
+    },
+    {
+        "user": "U1L974M70",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L974M70|brshallo> has joined the channel",
+        "ts": "1467149963.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "Is anyone at regal crossroads yet? So many kids! ",
+        "ts": "1467153312.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "<@U1KRB11QC>: coming?",
+        "ts": "1467153559.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "We've got an extra ticket",
+        "ts": "1467153566.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "(Claimed by David!)",
+        "ts": "1467153695.000025"
+    },
+    {
+        "user": "U1KS1BFED",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KS1BFED|doug_nicholson> has joined the channel",
+        "ts": "1467153812.000026"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "It's sold out, in case anyone else was going to try and make it",
+        "ts": "1467154241.000027"
+    },
+    {
+        "user": "U1KVBARR9",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KVBARR9|sneha.bhalodia> has joined the channel",
+        "ts": "1467159450.000028"
+    },
+    {
+        "user": "U1L1WFNC8",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L1WFNC8|wrighton88> has joined the channel",
+        "ts": "1467164869.000029"
+    }
+]

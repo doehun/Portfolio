@@ -1,0 +1,58 @@
+[
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "10 spots left in tonight's cycle class at 5:15! who's with me?",
+        "edited": {
+            "user": "U1KR9BP0E",
+            "ts": "1472041319.000000"
+        },
+        "ts": "1472041295.000005",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRE5NKZ",
+                    "U1L3G0YRJ",
+                    "U1KS1BFED"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U23JW15TP",
+        "text": "<@U23JW15TP|spanago> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472067876.000007"
+    },
+    {
+        "user": "U23JW15TP",
+        "text": "<@U23JW15TP|spanago> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472068341.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1L4RTKCM",
+        "text": "6:30 cycle tomorrow morning :sunrise: ",
+        "ts": "1472074483.000009",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRWUXFU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "<@U1L4RTKCM>: 6:30 running group tomorrow. Get on it",
+        "ts": "1472079212.000010"
+    }
+]

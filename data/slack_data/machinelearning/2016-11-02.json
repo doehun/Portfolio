@@ -1,0 +1,76 @@
+[
+    {
+        "type": "message",
+        "user": "U1PM77VSS",
+        "text": "For anyone planning on downloading the data for DR. Races assignment, I would recommend you get the data from the Kaggle Website in the zipped folders containing each .csv",
+        "ts": "1478105881.000045",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1KSL7L7R"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1PM77VSS",
+        "text": "The way she posted it puts the .csv into a webpage and it takes an extremely long time to download the text and display it.  Because of this, it kept crashing Chrome after a few minutes of trying to load.",
+        "ts": "1478105986.000046"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Link that <@U1LMHQY9E> and I found that shows the detail for manual calculations for a dendrogram, which is useful for the first machine learning practice problems. It's not too bad for a small number of points, but gets crazy complex pretty quickly.\n<http:\/\/www.southampton.ac.uk\/~re1u06\/teaching\/upgma\/>",
+        "attachments": [
+            {
+                "title": "Dr Richard Edwards - Research",
+                "title_link": "http:\/\/www.southampton.ac.uk\/~re1u06\/teaching\/upgma\/",
+                "text": "The Work Homepage of Dr Richard Edwards - Bioinformatics &amp; Molecular Evolution",
+                "fallback": "Dr Richard Edwards - Research",
+                "from_url": "http:\/\/www.southampton.ac.uk\/~re1u06\/teaching\/upgma\/",
+                "service_icon": "http:\/\/www.southampton.ac.uk\/favicon.ico",
+                "service_name": "southampton.ac.uk",
+                "id": 1
+            }
+        ],
+        "ts": "1478123283.000047"
+    },
+    {
+        "user": "U23JW15TP",
+        "text": "<@U23JW15TP|spanago> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478126486.000049"
+    },
+    {
+        "user": "U1L2P17DZ",
+        "text": "<@U1L2P17DZ|kailistevens> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478132543.000050"
+    },
+    {
+        "user": "U1LMHQY9E",
+        "text": "<@U1LMHQY9E|pmaychek> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478138572.000051"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "I'm looking at the question 3a on the exercise worksheet and part a is to calculate complete linkage, part b is to calculate using single linkage, so you may need to change the calculation while doing this",
+        "ts": "1478138728.000052"
+    },
+    {
+        "user": "U1L0RBZFH",
+        "text": "<@U1L0RBZFH|caroline-hughes> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478141123.000053"
+    }
+]

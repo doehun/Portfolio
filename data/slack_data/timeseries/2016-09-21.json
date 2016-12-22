@@ -1,0 +1,75 @@
+[
+    {
+        "user": "U1LMHQY9E",
+        "text": "<@U1LMHQY9E|pmaychek> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474486038.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Hey quick question about differencing for trend:\n\nIf your initial test has a high p-value, that indicates to take the first order difference.  If you take that first order difference and you then have low p-values, does that then indicate we need to perform regression on the trend?  Is it that differencing handled the trend?  Is it that we need to build a regression model on the differenced trend?  If there are horse shoes, are there any horse socks?  Is anybody listening to me?",
+        "ts": "1474486202.000012",
+        "reactions": [
+            {
+                "name": "horse",
+                "users": [
+                    "U1L6YQUSU",
+                    "U1M7AD5L2",
+                    "U1L3PU7BJ",
+                    "U1KSR1MS4",
+                    "U1KT9ATA5",
+                    "U1KRMNVGC",
+                    "U1KT2JJE8"
+                ],
+                "count": 7
+            },
+            {
+                "name": "mans_shoe",
+                "users": [
+                    "U1L6YQUSU",
+                    "U1KRE1L9M",
+                    "U1L3PU7BJ",
+                    "U1KSR1MS4",
+                    "U1KT9ATA5",
+                    "U1KRB11QC"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "<@U1LMHQY9E>  Usually if you have low p-values after taking the first order difference that means you fixed the trend and you now have stationarity",
+        "ts": "1474487710.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "But you should proc eyeball your differenced data to make sure its not trending anymore",
+        "ts": "1474487777.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Thanks <@U1KRNHQA1> for confirming that.",
+        "ts": "1474488622.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1P8QBBD1",
+        "text": "<@U1LMHQY9E> There is a time series flow chart on the Time Series page that I found really helpful!",
+        "ts": "1474511220.000016",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1LMHQY9E"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

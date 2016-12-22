@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1KRNTXL5",
+        "text": "<@U1KRNTXL5|aprocter> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472734058.000026"
+    },
+    {
+        "user": "U1MPXSHN1",
+        "text": "<@U1MPXSHN1|reidbaughman> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472736230.000027"
+    }
+]

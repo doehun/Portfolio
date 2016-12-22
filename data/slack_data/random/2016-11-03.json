@@ -1,0 +1,53 @@
+[
+    {
+        "type": "message",
+        "user": "U1L974M70",
+        "text": "My team's MAPE is 6.66%, the Cubs won the World Series.   I'm pretty sure the apocalypse is coming.",
+        "ts": "1478197062.000692",
+        "reactions": [
+            {
+                "name": "tough_guy_ioannis",
+                "users": [
+                    "U1MDHNYR5",
+                    "U1KRB11QC",
+                    "U1KRWUXFU",
+                    "U1KSGHLPJ",
+                    "U1L1WFNC8",
+                    "U1KSL7L7R"
+                ],
+                "count": 6
+            },
+            {
+                "name": "bear",
+                "users": [
+                    "U1L3PU7BJ",
+                    "U1LBRCSEA",
+                    "U1L7G5LR4"
+                ],
+                "count": 3
+            },
+            {
+                "name": "small_officer_futch",
+                "users": [
+                    "U1NUU2U9E"
+                ],
+                "count": 1
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1L9DD1NY"
+                ],
+                "count": 2
+            },
+            {
+                "name": "japanese_ogre",
+                "users": [
+                    "U1L7RPG1M"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

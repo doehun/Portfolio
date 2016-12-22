@@ -1,0 +1,49 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRE5NKZ",
+        "text": "Also not going, same reason as Catherine ",
+        "ts": "1479207633.000008",
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "U1KRZT11T",
+                    "U1LNGEV0B"
+                ],
+                "count": 2
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U1LMHQY9E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "just signed up for krispy kreme challange",
+        "ts": "1479269552.000009",
+        "reactions": [
+            {
+                "name": "doughnut",
+                "users": [
+                    "U1KRHCR7T",
+                    "U1SMADBU4",
+                    "U1KQGK2CB"
+                ],
+                "count": 3
+            },
+            {
+                "name": "birthday",
+                "users": [
+                    "U1KRE5NKZ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

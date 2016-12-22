@@ -1,0 +1,228 @@
+[
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "any idea how to extract just the chi square and p-value for each of the combination of tables in proc freq? I am trying to do something like this:\ntables A*(B C D) \/ out=ChiSqData chisq nocol nopercent;\nand the output only contains the last table requested - A*D... anyone knows the right way to do it?",
+        "ts": "1473527271.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "trying to get the output for A*B A*C A*D in the output dataset",
+        "ts": "1473527305.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "Lookup ods table names for proc freq and logistic ",
+        "ts": "1473527500.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "And table trace",
+        "ts": "1473527513.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1L90S3QC",
+        "text": "<@U1NUU2U9E> I think you may have to run three separate queries...  someone else may know better though.",
+        "ts": "1473527891.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1NUU2U9E> you have to open the ods statement and have the proc you are running and tables you want in the output then close the ods statement ",
+        "ts": "1473528060.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Try putting it like this (B C D)* A",
+        "ts": "1473528120.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<@U1NUU2U9E>: ",
+        "ts": "1473528246.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "<@U1NUU2U9E>: make sure for all the variables you're extracting the right chi square depending on the variable type (regular chi square vs mantel) ",
+        "ts": "1473529236.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "thanks for all of the suggestions... i had to step away to cool down - SAS and I are having problems in our relationship :disappointed: will give it a try now!",
+        "ts": "1473532500.000014",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U1L41DF9D",
+                    "U1KSL7C10",
+                    "U1KRTHAQZ",
+                    "U1L735VD4",
+                    "U1KRB11QC"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "I forgot you could output stats, so I was literally looking at output and then typing it into microsoft word :joy: So your relationship is better than mine <@U1NUU2U9E> !",
+        "ts": "1473532778.000015",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L41DF9D",
+                    "U1KT2JJE8",
+                    "U1KRB11QC"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "the prize goes to <@U1KT9ATA5> ! thanks for the suggestion... after a lot of googling i think i found the answer :smile:  <@U1L6YQUSU> i have tried your suggestion and it didnt work for me... maybe i did smth wrong! <@U1L41DF9D> thanks for the hint!",
+        "ts": "1473535680.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1NUU2U9E>: thank Dr. LaBarr! Lol ",
+        "ts": "1473535738.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "bahahah",
+        "ts": "1473535754.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "For proc esm, anyone know how to output the subsets of the prediction?  I.e. the trend, seasonal portions?  Got a nice model working, with a nice plot, but cant get the data values out. :confused:",
+        "ts": "1473537870.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1L1D4WG7>: maybe this will help? \n\n<http:\/\/support.sas.com\/documentation\/cdl\/en\/etsug\/63939\/HTML\/default\/viewer.htm#etsug_esm_sect022.htm>",
+        "ts": "1473543316.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "So maybe out=models seasons trends within an ods output ",
+        "ts": "1473543397.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "When building the logistic model, the homework assignment states to use the reference level 0 for binary variables and the last category as the reference level for non-binary variables... However IRABAL_bin and MMBAL_bin are binary but don't have a reference level of 0, they are either 1 or 2? Which one are you guys using as the reference?",
+        "ts": "1473549184.000022",
+        "reactions": [
+            {
+                "name": "fearful",
+                "users": [
+                    "U1L7ERY77",
+                    "U1NUU2U9E"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "might be a stupid question... but... do we consider variable ACCTAGE_bin ordinal if one of the bins contains all the empty values?\nor INVBAL_Bin where the bins are not sorted as you would expect them to be?",
+        "ts": "1473559839.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "<@U1NUU2U9E> Since INVBAL_Bin doesn't have any observations in bin 4 and the first 3 bins are ordered I think it can be treated as ordinal... not sure about the other one",
+        "ts": "1473560248.000024",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1NUU2U9E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "<@U1L1D4WG7>: all of the proc esm will auto output....check out ur work library ",
+        "ts": "1473561541.000025"
+    },
+    {
+        "type": "message",
+        "user": "U1KRSV7AN",
+        "text": "<@U1NUU2U9E> <@U1KRNHQA1> I asked Dr. Simmons about that one - because she'd prefer us to keep the missing values in the analysis, it should be a nominal variable. She indicated the \"missingness\" of the variable was significant somehow.",
+        "ts": "1473562251.000026",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRNHQA1",
+                    "U1NUU2U9E",
+                    "U1L41DF9D"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1PN82U67",
+        "text": "<@U1NUU2U9E>: I treat them as nominal.",
+        "ts": "1473563085.000027"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1KRSV7AN> <@U1PN82U67> thanks, i am doing the same with area classification, acctage_bin and phone_bin.... but as <@U1KRNHQA1> mentioned, INVBAL_bin doesnt have any values for missing - so i am treating that one as an ordinal (as of now haha)",
+        "ts": "1473563249.000028",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRE1L9M",
+                    "U1KRNHQA1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "are we not using Branch variable AT ALL, or just in the first part of the assignment?",
+        "ts": "1473564856.000029"
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "<@U1NUU2U9E> Pretty sure we're not using it at all.",
+        "ts": "1473566765.000030"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "thanks, <@U1KT2JJE8>",
+        "ts": "1473567016.000031"
+    }
+]

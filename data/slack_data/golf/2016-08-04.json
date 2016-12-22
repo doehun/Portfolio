@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1SMADBU4",
+        "text": "<@U1SMADBU4|ajohnst2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470356363.000002"
+    },
+    {
+        "user": "U1KRBFY3Z",
+        "text": "<@U1KRBFY3Z|sylviebrick> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470364203.000002"
+    }
+]

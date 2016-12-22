@@ -1,0 +1,122 @@
+[
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "I know this week is SUPER busy T_T but I'm going to start doing Saturday morning sessions in the library going through Data Structures and Algorithms &amp; Cracking the Coding Interview. Everyone is welcome to join. We'll study data structures and practice whiteboard interviews.",
+        "ts": "1476738142.000003",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U1KRB11QC",
+                    "U1L1WFNC8",
+                    "U1L9DD1NY",
+                    "U1KRNH021",
+                    "U1PN82U67",
+                    "U1L3PU7BJ",
+                    "U1L7ERY77"
+                ],
+                "count": 7
+            },
+            {
+                "name": "party_ed",
+                "users": [
+                    "U1KR891RC",
+                    "U1KT9ATA5",
+                    "U1L7ERY77"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LAAMJ0M",
+        "text": "West coast best coast! ",
+        "ts": "1476754750.000004",
+        "reactions": [
+            {
+                "name": "metal",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1KS4UE2F",
+                    "U1KRB11QC",
+                    "U1KRNH021",
+                    "U1KR891RC",
+                    "U1L41DF9D",
+                    "U1KRHCR7T"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "What time were u thinking?",
+        "ts": "1476757551.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "<@U1KSBCBFG> in the morning - perhaps 10 am",
+        "ts": "1476757764.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "If I get up that early I'll be there :p",
+        "ts": "1476757834.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "We can have a poll!",
+        "ts": "1476758685.000008"
+    },
+    {
+        "text": "*What time do you prefer for Saturday West coast prep?*\n\n:one: 10am- 12pm\n:two: 1pm-3pm\n:three: 3pm-5pm\n",
+        "username": "Simple Poll",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2016-06-23\/53872986647_48.png"
+        },
+        "bot_id": "B27NW8XK3",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1476758758.000009",
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1KRNH021",
+                    "U1KS4UE2F",
+                    "U1KT9ATA5"
+                ],
+                "count": 4
+            },
+            {
+                "name": "three",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1KR891RC",
+                    "U1KRB11QC",
+                    "U1KS4UE2F",
+                    "U1L3PU7BJ",
+                    "U1L1D4WG7"
+                ],
+                "count": 6
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1KR891RC",
+                    "U1KS4UE2F",
+                    "U1PF7HWTF"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

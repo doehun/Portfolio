@@ -1,0 +1,50 @@
+[
+    {
+        "user": "U1PF7HWTF",
+        "text": "<@U1PF7HWTF|nickweimer> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476712124.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1PF7HWTF",
+        "text": "If you'd like the text mining recording from October 12th, react to this post and I will forward you an email from Laura with the recording from last year. Dr. Healey isn't sure why it didn't upload because he tried uploading it",
+        "ts": "1476712215.000003",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KR891RC",
+                    "U1KT9ATA5",
+                    "U1KRHCR7T",
+                    "U1L1D4WG7",
+                    "U1SMADBU4",
+                    "U1L0RBZFH"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "user": "U1L1D4WG7",
+        "text": "<@U1L1D4WG7|edpreble> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476736918.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "Does anyone know what to put for the \"ROLE\" for a start list in the Text Parsing node of SAS EM? I can't get it to parse out only terms in my list",
+        "ts": "1476751224.000005"
+    },
+    {
+        "user": "U1L0RBZFH",
+        "text": "<@U1L0RBZFH|caroline-hughes> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476759062.000006"
+    }
+]

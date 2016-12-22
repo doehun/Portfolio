@@ -1,0 +1,73 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "Game this Thursday at 6:30! :football:",
+        "ts": "1477434238.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Final game of the season! Let's stay undefeated!",
+        "ts": "1477434280.000003",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRNHQA1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "celebration",
+                "users": [
+                    "U1KRNHQA1",
+                    "U1L90S3QC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "I'm out",
+        "ts": "1477443025.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1Q7LP4V9",
+        "text": "I'm in!",
+        "ts": "1477445195.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1Q7LP4V9",
+        "text": "Actually lies I can't make it... I pretty bummed about it :(",
+        "ts": "1477445371.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "I'm in ",
+        "ts": "1477445720.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "I\u2019ll be there",
+        "ts": "1477445792.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1L90S3QC",
+        "text": "I'm in. ",
+        "ts": "1477449735.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR1MS4",
+        "text": "I'm in",
+        "ts": "1477449764.000010"
+    }
+]

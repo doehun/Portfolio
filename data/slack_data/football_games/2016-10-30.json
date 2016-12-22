@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1KS4UE2F",
+        "text": "<@U1KS4UE2F|edward_lim> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1477884637.000016"
+    }
+]

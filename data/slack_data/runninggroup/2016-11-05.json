@@ -1,0 +1,43 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "Good luck to <@U1L5GU954> and <@U1N43E3E0> at the City of Oaks Half tomorrow!",
+        "ts": "1478387206.000003",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1N43E3E0",
+                    "U1L6WB44A",
+                    "U1NLH1CP8",
+                    "U1KQGK2CB",
+                    "U1L5GU954",
+                    "U1LMHQY9E",
+                    "U1KRQLFLY",
+                    "U1KRE5NKZ"
+                ],
+                "count": 8
+            },
+            {
+                "name": "grimacing",
+                "users": [
+                    "U1N43E3E0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Thanks <@U1KRHCR7T> !",
+        "ts": "1478387750.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "Thanks dude!! ",
+        "ts": "1478399222.000005"
+    }
+]

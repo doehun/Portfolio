@@ -1,0 +1,69 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "Hey if anyone wants to join me this evening I am going to be at the nog run club anniversary run!",
+        "ts": "1473698966.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "<http:\/\/www.nogrunclub.com\/>",
+        "ts": "1473698967.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "Run usually starts around 6PM at the Raleigh Beer Garden, followed by discounted food and trivia!",
+        "ts": "1473699054.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "Do we have a plan for tomorrow??",
+        "ts": "1473719973.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "6:30 at the institute?",
+        "ts": "1473725969.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1LNGEV0B",
+        "text": "630 at the institute, please :smiley:",
+        "ts": "1473726122.000013",
+        "reactions": [
+            {
+                "name": "cool",
+                "users": [
+                    "U1L5GU954"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRE5NKZ",
+        "text": "My nose has been running more than I have ....so depending on how much of my cold clears by the morning I may be there but for a shorter run",
+        "ts": "1473726345.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Well you better go catch it. We can do the loop we did on the first day tomorrow at 6:30 at the IAA if that sounds good. On Thursday afternoon, I think we are going to do the \"workout\" loop after school",
+        "ts": "1473726629.000015",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KT5F4SZ",
+                    "U1LNGEV0B"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "user": "U1NUU2U9E",
+        "text": "<@U1NUU2U9E|kb5522> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469914659.000002"
+    },
+    {
+        "user": "U1NUU2U9E",
+        "purpose": "Place to ask questions about Python",
+        "text": "<@U1NUU2U9E|kb5522> set the channel purpose: Place to ask questions about Python",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1469914659.000003"
+    },
+    {
+        "user": "U1KRWJB7S",
+        "inviter": "U1NUU2U9E",
+        "text": "<@U1KRWJB7S|brandon_mayer> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469914659.000004"
+    },
+    {
+        "user": "U1L7E8GSU",
+        "text": "<@U1L7E8GSU|rachelkurtz> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469917030.000005"
+    },
+    {
+        "user": "U1L3G0YRJ",
+        "text": "<@U1L3G0YRJ|emmyburnett> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469917117.000006"
+    },
+    {
+        "user": "U1KRBJP47",
+        "text": "<@U1KRBJP47|marina.burke> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469917160.000007"
+    },
+    {
+        "user": "U1L93SMGF",
+        "text": "<@U1L93SMGF|eric.reidelbach> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469917231.000008"
+    },
+    {
+        "user": "U1KR891RC",
+        "text": "<@U1KR891RC|fkaiser> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469917768.000009"
+    },
+    {
+        "user": "U1L7ERY77",
+        "text": "<@U1L7ERY77|maxwarburg> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469917931.000010"
+    },
+    {
+        "user": "U1NDG6ULB",
+        "text": "<@U1NDG6ULB|cgreene> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469918986.000011"
+    },
+    {
+        "user": "U1L9DD1NY",
+        "text": "<@U1L9DD1NY|mjdensmo> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469920766.000012"
+    },
+    {
+        "user": "U1P8QBBD1",
+        "text": "<@U1P8QBBD1|shpatel7> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469921437.000013"
+    },
+    {
+        "user": "U1KSYP1M5",
+        "text": "<@U1KSYP1M5|madison> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469922135.000014"
+    },
+    {
+        "user": "U1M7AD5L2",
+        "text": "<@U1M7AD5L2|kelly> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469922654.000015"
+    },
+    {
+        "user": "U1N43E3E0",
+        "text": "<@U1N43E3E0|ryan_w> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469924349.000016"
+    },
+    {
+        "user": "U1KQGK2CB",
+        "text": "<@U1KQGK2CB|loganteal> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469926166.000017"
+    },
+    {
+        "user": "U1KSBCBFG",
+        "text": "<@U1KSBCBFG|svsevala> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469933607.000018"
+    },
+    {
+        "user": "U1KRQLFLY",
+        "text": "<@U1KRQLFLY|sean.ankenbruck> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469934354.000019"
+    }
+]

@@ -1,0 +1,454 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQGRG2F",
+        "text": "has anyone seen a black computer charger that has a big black box on the end of it?",
+        "ts": "1478868815.002198"
+    },
+    {
+        "type": "message",
+        "user": "U1KQGRG2F",
+        "text": "maybe in ashe or franklin?",
+        "ts": "1478868858.002199"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "There are donuts in Blue.  Orange people are cordially invited.",
+        "ts": "1478871931.002200",
+        "reactions": [
+            {
+                "name": "doughnut",
+                "users": [
+                    "U1L914KNJ",
+                    "U1L3K1AKD",
+                    "U1NUU2U9E",
+                    "U1KS4UE2F",
+                    "U1KRWUXFU",
+                    "U1L9DD1NY",
+                    "U1L90S3QC"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQGRG2F",
+        "text": "Nevermind I found it!!! Thank you!",
+        "ts": "1478872837.002201",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U1L1D4WG7",
+                    "U1KRF9BAP",
+                    "U1KS4UE2F",
+                    "U1KRWUXFU"
+                ],
+                "count": 4
+            },
+            {
+                "name": "small_edward_lim",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1KS4UE2F",
+                    "U1KRF9BAP",
+                    "U1KQGK2CB"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L4RTKCM",
+        "text": "Happy Veteran's Day to all our military classmates!  Thank you! :flag-us::tada:",
+        "ts": "1478873344.002202",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1L2P17DZ",
+                    "U1L40P4N9",
+                    "U1KRNHQA1",
+                    "U1L914KNJ",
+                    "U1L7ERY77",
+                    "U1KRBFY3Z",
+                    "U1KR80QMS",
+                    "U1KRWUXFU",
+                    "U1KRB11QC",
+                    "U1LNGEV0B",
+                    "U1KQGK2CB",
+                    "U1P8QBBD1",
+                    "U1KSYP1M5",
+                    "U1KS4UE2F",
+                    "U1NLH1CP8",
+                    "U1KT2JJE8",
+                    "U1NUU2U9E",
+                    "U1KRWJB7S",
+                    "U1KRLV1CG",
+                    "U1L9DD1NY",
+                    "U1L5GU954",
+                    "U1KRZT11T",
+                    "U1L90S3QC",
+                    "U1L0RBZFH",
+                    "U1LK46TUJ",
+                    "U1KVBARR9",
+                    "U1KQGRG2F",
+                    "U1KT3UELS",
+                    "U1KSBCBFG"
+                ],
+                "count": 30
+            },
+            {
+                "name": "flag-us",
+                "users": [
+                    "U1L914KNJ",
+                    "U1KRE1L9M",
+                    "U1L40P4N9",
+                    "U1L7E8GSU",
+                    "U1KRBFY3Z",
+                    "U1KT9ATA5",
+                    "U1KRNHQA1",
+                    "U1L735VD4",
+                    "U1KSR4JP3",
+                    "U1KR80QMS",
+                    "U1KRWUXFU",
+                    "U1KRB11QC",
+                    "U1L3PU7BJ",
+                    "U1MH8UXHD",
+                    "U1N43E3E0",
+                    "U1NDG6ULB",
+                    "U1KRBJP47",
+                    "U1LNGEV0B",
+                    "U1LBRCSEA",
+                    "U1KQGK2CB",
+                    "U1P8QBBD1",
+                    "U1KSYP1M5",
+                    "U1KS4UE2F",
+                    "U1KRHCR7T",
+                    "U1NLH1CP8",
+                    "U1L6WB44A",
+                    "U1L3G0YRJ",
+                    "U1L2P17DZ",
+                    "U1NUU2U9E",
+                    "U1MDHNYR5",
+                    "U1LAAMJ0M",
+                    "U1L6YQUSU",
+                    "U1KRLV1CG",
+                    "U1L9DD1NY",
+                    "U1L5GU954",
+                    "U1L1D4WG7",
+                    "U1KRZT11T",
+                    "U1KT5F4SZ",
+                    "U1KRF9BAP",
+                    "U1L90S3QC",
+                    "U1L0RBZFH",
+                    "U1KQGRG2F",
+                    "U1KT3UELS",
+                    "U1KSBCBFG"
+                ],
+                "count": 44
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U1L914KNJ",
+                    "U1L40P4N9",
+                    "U1KR80QMS",
+                    "U1KRWUXFU",
+                    "U1P8QBBD1",
+                    "U1KS4UE2F",
+                    "U1L9DD1NY",
+                    "U1L5GU954",
+                    "U1L0RBZFH",
+                    "U1KQGRG2F"
+                ],
+                "count": 10
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "U1L914KNJ",
+                    "U1L40P4N9",
+                    "U1KR80QMS",
+                    "U1KRWUXFU",
+                    "U1P8QBBD1",
+                    "U1KSYP1M5",
+                    "U1KRLV1CG",
+                    "U1L9DD1NY",
+                    "U1L5GU954",
+                    "U1KRZT11T",
+                    "U1L90S3QC",
+                    "U1L0RBZFH",
+                    "U1KQGRG2F"
+                ],
+                "count": 13
+            },
+            {
+                "name": "medal",
+                "users": [
+                    "U1L914KNJ",
+                    "U1KR80QMS",
+                    "U1KRWUXFU",
+                    "U1P8QBBD1",
+                    "U1KSYP1M5",
+                    "U1L9DD1NY",
+                    "U1L0RBZFH",
+                    "U1KQGRG2F"
+                ],
+                "count": 8
+            },
+            {
+                "name": "reminder_ribbon",
+                "users": [
+                    "U1L914KNJ",
+                    "U1KR80QMS",
+                    "U1KRWUXFU",
+                    "U1P8QBBD1",
+                    "U1KSYP1M5",
+                    "U1L9DD1NY",
+                    "U1L1D4WG7",
+                    "U1L90S3QC",
+                    "U1L0RBZFH",
+                    "U1KQGRG2F"
+                ],
+                "count": 10
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LNGEV0B",
+        "text": "Thanks Grace!",
+        "ts": "1478873861.002203"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1KSH8676|ejmaxon> uploaded a file: <https:\/\/msa17.slack.com\/files\/ejmaxon\/F31HVN821\/20161111_102949.jpg|HDMI adapter found> and commented: Found this HDMI adapter in the downstairs hallway, please let me know if it is yours.",
+        "file": {
+            "id": "F31HVN821",
+            "created": 1478878307,
+            "timestamp": 1478878307,
+            "name": "20161111_102949.jpg",
+            "title": "HDMI adapter found",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U1KSH8676",
+            "editable": false,
+            "size": 3753073,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F31HVN821\/20161111_102949.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F31HVN821\/download\/20161111_102949.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31HVN821-8508824722\/20161111_102949_64.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31HVN821-8508824722\/20161111_102949_80.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31HVN821-8508824722\/20161111_102949_360.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360_w": 270,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31HVN821-8508824722\/20161111_102949_480.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_480_w": 360,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31HVN821-8508824722\/20161111_102949_160.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31HVN821-8508824722\/20161111_102949_720.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_720_w": 540,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31HVN821-8508824722\/20161111_102949_960.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_960_w": 720,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31HVN821-8508824722\/20161111_102949_1024.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_1024_w": 768,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 4032,
+            "original_h": 3024,
+            "permalink": "https:\/\/msa17.slack.com\/files\/ejmaxon\/F31HVN821\/20161111_102949.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T1KRCES8H-F31HVN821-e5c8342269",
+            "channels": [
+                "C1KR6TMD3"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc3262RGK1",
+                "created": 1478878307,
+                "timestamp": 1478878307,
+                "user": "U1KSH8676",
+                "is_intro": true,
+                "comment": "Found this HDMI adapter in the downstairs hallway, please let me know if it is yours.",
+                "channel": ""
+            }
+        },
+        "user": "U1KSH8676",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1KSH8676|ejmaxon>",
+        "bot_id": null,
+        "ts": "1478878317.002204"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "90 percent chance that it's mine <@U1KSH8676> ",
+        "ts": "1478878399.002205"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "10 percent that it belongs <@U1KQGRG2F>",
+        "ts": "1478879293.002206",
+        "reactions": [
+            {
+                "name": "blush",
+                "users": [
+                    "U1KQGRG2F"
+                ],
+                "count": 1
+            },
+            {
+                "name": "grinning",
+                "users": [
+                    "U1KRLV1CG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "5 percent chance it belongs to someone who doesn't understand percentages",
+        "ts": "1478879978.002207",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1KRB11QC",
+                    "U1KT2JJE8",
+                    "U1LAAMJ0M",
+                    "U1L41DF9D",
+                    "U1KSL7L7R"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "^^^ proc yogi berra",
+        "ts": "1478880366.002208"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Baseball is ninety percent mental. The other half is physical.",
+        "ts": "1478880486.002209",
+        "reactions": [
+            {
+                "name": "baseball",
+                "users": [
+                    "U1L6YQUSU",
+                    "U1KSH8676",
+                    "U1L2P17DZ",
+                    "U1KSR4JP3",
+                    "U1MBURU4D",
+                    "U1L90S3QC"
+                ],
+                "count": 6
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U1KQGRG2F",
+                    "U1KRMNVGC",
+                    "U1L90S3QC",
+                    "U1LAAMJ0M"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1L1D4UG6|laurahc55> uploaded a file: <https:\/\/msa17.slack.com\/files\/laurahc55\/F31MW5URG\/data_watch.jpg|Data watch.jpg> and commented: Data watch card found",
+        "file": {
+            "id": "F31MW5URG",
+            "created": 1478911271,
+            "timestamp": 1478911271,
+            "name": "Data watch.jpg",
+            "title": "Data watch.jpg",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U1L1D4UG6",
+            "editable": false,
+            "size": 153457,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F31MW5URG\/data_watch.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F31MW5URG\/download\/data_watch.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31MW5URG-c06340b2a7\/data_watch_64.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31MW5URG-c06340b2a7\/data_watch_80.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31MW5URG-c06340b2a7\/data_watch_360.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360_w": 360,
+            "thumb_360_h": 203,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31MW5URG-c06340b2a7\/data_watch_480.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_480_w": 480,
+            "thumb_480_h": 270,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31MW5URG-c06340b2a7\/data_watch_160.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31MW5URG-c06340b2a7\/data_watch_720.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_720_w": 720,
+            "thumb_720_h": 405,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31MW5URG-c06340b2a7\/data_watch_960.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_960_w": 960,
+            "thumb_960_h": 540,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31MW5URG-c06340b2a7\/data_watch_1024.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 576,
+            "image_exif_rotation": 1,
+            "original_w": 1600,
+            "original_h": 900,
+            "permalink": "https:\/\/msa17.slack.com\/files\/laurahc55\/F31MW5URG\/data_watch.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T1KRCES8H-F31MW5URG-9788f0b23e",
+            "channels": [
+                "C1KR6TMD3"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc31KVDBPV",
+                "created": 1478911271,
+                "timestamp": 1478911271,
+                "user": "U1L1D4UG6",
+                "is_intro": true,
+                "comment": "Data watch card found",
+                "channel": ""
+            }
+        },
+        "user": "U1L1D4UG6",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1L1D4UG6|laurahc55>",
+        "bot_id": null,
+        "ts": "1478911274.002212"
+    }
+]

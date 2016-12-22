@@ -1,0 +1,26 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Anyone coming to Umstead tomorrow we are going to meet at 8 at the Reedy Creek entrance, any pace welcome.",
+        "ts": "1469289839.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "Your weekly reminder: Soccer tomorrow (Sunday) at 5pm, Miller Fields",
+        "ts": "1469326495.000003",
+        "reactions": [
+            {
+                "name": "soccer",
+                "users": [
+                    "U1KRE1L9M",
+                    "U1KRNHQA1",
+                    "U1KT5F4SZ",
+                    "U1LDKB3AN"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

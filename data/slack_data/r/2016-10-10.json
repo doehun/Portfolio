@@ -1,0 +1,32 @@
+[
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1L1D4WG7> <@U1KT9ATA5> i think you should post those questions into the Forum where LaBarr can respond to them... and we all would be able to see it!",
+        "ts": "1476117687.000036"
+    },
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "grocery = read.transactions(\"C:\/Users\/Sean\/Desktop\/MSA\/DataMining\/Data\/grocery.csv\", format = c(\"single\"), sep = \",\",\n                               cols = c(1,2), rm.duplicates = TRUE)",
+        "ts": "1476131662.000040"
+    },
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "Any suggestions on the above line of code?",
+        "ts": "1476131698.000041"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "<@U1KRQLFLY>: I tried running the code in R and was able to get the summary but I had issues with the inspect function.",
+        "ts": "1476133277.000042"
+    },
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "Same, <@U1L3PU7BJ> let me know that the pdf and code files have been updated since I downloaded the incorrect ones. When I went back to the website and got the new ones I am able to run through the grocery csv file without any issues.",
+        "ts": "1476144069.000043"
+    }
+]

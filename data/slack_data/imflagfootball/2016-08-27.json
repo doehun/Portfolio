@@ -1,0 +1,156 @@
+[
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "I just started physical therapy for my knee, and my physical therapist recommended not running for 2 months so I'm not going to be able to play fellas. I was hopeful I could, but she recommended strongly against it. I hate I can't play, but good luck this season!",
+        "ts": "1472308979.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "Sorry to hear that man, hope you have a quick recovery! ",
+        "ts": "1472309725.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Praying for a speedy recovery bro",
+        "ts": "1472310615.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "I think i'm on the roster",
+        "ts": "1472315156.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "Thanks fellas!",
+        "ts": "1472315345.000006"
+    },
+    {
+        "user": "U1PF7HWTF",
+        "text": "<@U1PF7HWTF|nickweimer> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472325311.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1PF7HWTF",
+        "text": "ill play if you need another",
+        "ts": "1472325357.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "Just sent you the invite Nick",
+        "ts": "1472326866.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1PF7HWTF",
+        "text": "Accepted.\n<@U1L7RPG1M> <@U1L974M70> <@U1MBURU4D> <@U1MDE4NAG> <@U1LHLK8MR> <@U1KT9ATA5> <@U1L3PU7BJ> any interest in flag football intramurals?",
+        "ts": "1472333956.000002"
+    },
+    {
+        "user": "U1MBURU4D",
+        "inviter": "U1PF7HWTF",
+        "text": "<@U1MBURU4D|marc_armbruster> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472333964.000003"
+    },
+    {
+        "user": "U1KT9ATA5",
+        "inviter": "U1PF7HWTF",
+        "text": "<@U1KT9ATA5|amir.lyall> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472333964.000004"
+    },
+    {
+        "user": "U1L7RPG1M",
+        "inviter": "U1PF7HWTF",
+        "text": "<@U1L7RPG1M|carsonfutch> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472333964.000005"
+    },
+    {
+        "user": "U1MDE4NAG",
+        "inviter": "U1PF7HWTF",
+        "text": "<@U1MDE4NAG|michaelbyman> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472333964.000006"
+    },
+    {
+        "user": "U1L3PU7BJ",
+        "inviter": "U1PF7HWTF",
+        "text": "<@U1L3PU7BJ|dmalave> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472333964.000007"
+    },
+    {
+        "user": "U1L974M70",
+        "inviter": "U1PF7HWTF",
+        "text": "<@U1L974M70|brshallo> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472333964.000008"
+    },
+    {
+        "user": "U1LHLK8MR",
+        "inviter": "U1PF7HWTF",
+        "text": "<@U1LHLK8MR|mtnorthe> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472333964.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1L974M70",
+        "text": "Definitely in.  How do I join?",
+        "ts": "1472350997.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Peter will send you a link to join",
+        "ts": "1472351374.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "I think we should set up a practice and see what we got, maybe get a game goin",
+        "ts": "1472352213.000004",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRNHQA1",
+                    "U1MDE4NAG",
+                    "U1KT9ATA5",
+                    "U1KRB11QC",
+                    "U1L974M70"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "I'm in for sure if possible",
+        "ts": "1472352387.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "^meaning if there's a spot",
+        "ts": "1472352457.000006"
+    }
+]

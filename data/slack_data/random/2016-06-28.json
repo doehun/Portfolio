@@ -1,0 +1,80 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "<http:\/\/www.tylervigen.com\/spurious-correlations>",
+        "attachments": [
+            {
+                "title": "15 Insane Things That Correlate With Each Other",
+                "title_link": "http:\/\/www.tylervigen.com\/spurious-correlations",
+                "text": "Why do these things correlate? These 15 correlations will blow your mind. (Is this headline sensationalist enough for you to click on it yet?)",
+                "fallback": "15 Insane Things That Correlate With Each Other",
+                "image_url": "http:\/\/tylervigen.com\/images\/spurious-correlations-share.png",
+                "from_url": "http:\/\/www.tylervigen.com\/spurious-correlations",
+                "image_width": 498,
+                "image_height": 250,
+                "image_bytes": 40677,
+                "service_icon": "http:\/\/www.tylervigen.com\/images\/icons\/apple-icon-57x57.png",
+                "service_name": "tylervigen.com",
+                "id": 1
+            }
+        ],
+        "ts": "1467124676.000002",
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U1L8PJY4W",
+                    "U1KRWUXFU",
+                    "U1KRQLFLY"
+                ],
+                "count": 3
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U1LBRCSEA",
+                    "U1L9DD1NY",
+                    "U1KRB11QC",
+                    "U1KSL7L7R"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U1LV6EH3M",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1LV6EH3M|mmspenc2> has joined the channel",
+        "ts": "1467127901.000004"
+    },
+    {
+        "user": "U1M1L5G6L",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1M1L5G6L|shelbyklemm> has joined the channel",
+        "ts": "1467130226.000005"
+    },
+    {
+        "user": "U1M37FW5U",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1M37FW5U|alex_curcio> has joined the channel",
+        "ts": "1467139249.000006"
+    },
+    {
+        "user": "U1M4QJD4P",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1M4QJD4P|mike-rose> has joined the channel",
+        "ts": "1467146199.000007"
+    },
+    {
+        "user": "U1M7AD5L2",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1M7AD5L2|kelly> has joined the channel",
+        "ts": "1467165825.000008"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1M4QJD4P",
+        "text": "<@U1M4QJD4P|mike-rose> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1472850703.000002"
+    }
+]

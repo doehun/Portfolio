@@ -1,0 +1,63 @@
+[
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "I have a few questions about yesterday's class code, if anyone's willing to help:\n\n1. head(data1): is the result of this just all the column names and  the first 6 rows of the dataset? Am I right in understanding that this is a built-in R function that gives you a little 'sample' of the dataset?\n\n2. car.names &lt;-row.names(Data1)\nI don't really understand what the object car.names contains -- what does row.names(Data1) do?",
+        "ts": "1472664719.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "i think you are right for pt.1. for pt.2 i think you are storing the row names - in this case, the names of the cars, as an object car.names",
+        "ts": "1472666697.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "I get it now - thanks to everyone who DMed me :slightly_smiling_face:",
+        "ts": "1472666772.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Thanks <@U1KT9ATA5>",
+        "ts": "1472666778.000022",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KT9ATA5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "For a newbie I sometimes don't realize what's an R functoin and what's the coders' own notation (like car.names)",
+        "ts": "1472666803.000023",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1N43E3E0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "same here",
+        "ts": "1472666816.000024"
+    },
+    {
+        "user": "U1L1D4WG7",
+        "text": "<@U1L1D4WG7|edpreble> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472684758.000025"
+    }
+]

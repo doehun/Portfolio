@@ -1,0 +1,126 @@
+[
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "Anyone going out tonight to celebrate?",
+        "ts": "1470263062.000004",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KQTJ6BV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSH8676",
+        "text": "Most likely, where are you headed?",
+        "ts": "1470264595.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "Alex I am going to escazu for icecream. ",
+        "ts": "1470264599.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "But any other plans let me know. ",
+        "ts": "1470264611.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "I want to! ",
+        "ts": "1470268347.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KQTJ6BV",
+        "text": "Me too!",
+        "ts": "1470268595.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "Where's a good place to go?",
+        "ts": "1470269166.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1LAAMJ0M",
+        "text": "Beer garden??",
+        "ts": "1470270588.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "^^ :+1::skin-tone-2:",
+        "ts": "1470271007.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1KSEJ01W",
+        "text": "Good idea Carl! ",
+        "ts": "1470271255.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1LAAMJ0M",
+        "text": "Everyone's favorite place",
+        "ts": "1470271451.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "Time?",
+        "ts": "1470271598.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1LAAMJ0M",
+        "text": "930",
+        "ts": "1470271658.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "There's a bunch of us here if anyone else wants to come ",
+        "ts": "1470277464.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "Leaving for California in the morning so need to finish packing and sleep. Have a beer for me!",
+        "ts": "1470277575.000018",
+        "reactions": [
+            {
+                "name": "airplane",
+                "users": [
+                    "U1KQ9523D",
+                    "U1KQGRG2F",
+                    "U1L97TR38",
+                    "U1L1WFNC8"
+                ],
+                "count": 4
+            },
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U1KQGRG2F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSH8676",
+        "text": "Bout to head down. ",
+        "ts": "1470277698.000019"
+    }
+]

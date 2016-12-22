@@ -1,0 +1,52 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQGK2CB",
+        "text": "<https:\/\/docs.google.com\/a\/ncsu.edu\/viewer?a=v&amp;pid=sites&amp;srcid=bmNzdS5lZHV8bXNhLTIwMTd8Z3g6NmIzZjJhMzNlOGExYmZmZA>",
+        "ts": "1479690216.000079"
+    },
+    {
+        "type": "message",
+        "user": "U1KQGK2CB",
+        "text": "This was posted a while back before survival started, but its been helpful for me",
+        "ts": "1479690219.000080",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1KRHCR7T",
+                    "U1KRB11QC",
+                    "U1NUU2U9E",
+                    "U1KT3UELS",
+                    "U1L1WFNC8"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U1KRZT11T",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[November 20th, 2016 5:03 PM] loganteal: <https:\/\/docs.google.com\/a\/ncsu.edu\/viewer?a=v&amp;pid=sites&amp;srcid=bmNzdS5lZHV8bXNhLTIwMTd8Z3g6NmIzZjJhMzNlOGExYmZmZA>",
+                "ts": "1479690216.000079",
+                "author_subname": "loganteal",
+                "channel_id": "C2WUVMNAG",
+                "channel_name": "survivalanalysis",
+                "is_msg_unfurl": true,
+                "text": "<https:\/\/docs.google.com\/a\/ncsu.edu\/viewer?a=v&amp;pid=sites&amp;srcid=bmNzdS5lZHV8bXNhLTIwMTd8Z3g6NmIzZjJhMzNlOGExYmZmZA>",
+                "author_link": "https:\/\/msa17.slack.com\/team\/loganteal",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-07-01\/56323142901_98aae4d24430b32dc2fc_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U1KRZT11T|tommy_darlington> pinned a message to this channel.",
+        "ts": "1479691741.000081"
+    }
+]

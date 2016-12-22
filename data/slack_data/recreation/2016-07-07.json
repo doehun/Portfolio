@@ -1,0 +1,252 @@
+[
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "TRC-Morrisville at 6? <@U1L2P17DZ> <@U1MDHNYR5> <@U1KRZT11T> and anyone else who wants to come?",
+        "ts": "1467899052.000002"
+    },
+    {
+        "user": "U1L1WFNC8",
+        "text": "<@U1L1WFNC8|wrighton88> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1467899968.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1MDHNYR5",
+        "text": "Lets do it! And <@U1KRZT11T> I can give you a ride",
+        "ts": "1467902455.000004",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRZT11T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L2P17DZ",
+        "text": "I can come too! Maybe a quick power nap after class to try and wake up :wink: <@U1MDHNYR5> did you still have an extra harness available?",
+        "ts": "1467903349.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1MDHNYR5",
+        "text": "I do! i'll bring it with me <@U1L2P17DZ>",
+        "ts": "1467903374.000006",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L2P17DZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Correlation is cool ",
+        "ts": "1467918959.000007",
+        "reactions": [
+            {
+                "name": "middle_finger",
+                "users": [
+                    "U1KRMNVGC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "Remember that correlation does not imply causation!",
+        "ts": "1467918959.000008"
+    },
+    {
+        "user": "U1L8PJY4W",
+        "text": "<@U1L8PJY4W|amstric2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1467919005.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1L2P17DZ",
+        "text": "<@U1L7E8GSU>: <@U1MDHNYR5> <@U1KRZT11T> I'm actually not feeling so hot this afternoon, I may sit this session out... But I'm definitely up for Sunday if you're going then too!",
+        "ts": "1467919672.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "<@U1L2P17DZ>: Oh no!  I hope you feel better.",
+        "ts": "1467919707.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1MDHNYR5",
+        "text": "sorry to hear that! <@U1L2P17DZ>",
+        "ts": "1467921224.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "<@U1L2P17DZ>: hope you feel better",
+        "ts": "1467922348.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1L2P17DZ",
+        "text": "Thanks guys, you all have fun tonight! I'm coming next time!!",
+        "ts": "1467922377.000014"
+    },
+    {
+        "user": "U1PM77VSS",
+        "text": "<@U1PM77VSS|hpjones> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1467926694.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1MDHNYR5",
+        "text": "<@U1L7E8GSU>: we are on our way   But will be about 15 late",
+        "ts": "1467928355.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U1L8PJY4W>: HIIT was fun. Hopefully you'll be able to come next time!",
+        "ts": "1467930119.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1L8PJY4W",
+        "text": "<@U1KT5F4SZ>: ahhhh I'm sitting here stuffed from dinner totally regretting my choice to bail on the gym! Def want to try it next week!!",
+        "ts": "1467930680.000018",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KSYP1M5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1L8PJY4W>: you're not alone. I bailed on the gym too. ",
+        "ts": "1467931914.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": ":-1::skin-tone-4:",
+        "ts": "1467931949.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1L8PJY4W",
+        "text": "Haha <@U1KR9BP0E> You make me feel better :grinning::grinning::grinning:",
+        "ts": "1467932420.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "Anybody wanna play soccer this saturday or sunday? ",
+        "ts": "1467934898.000022",
+        "reactions": [
+            {
+                "name": "raising_hand",
+                "users": [
+                    "U1KT5F4SZ",
+                    "U1KSYP1M5",
+                    "U1KRE1L9M"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1L1WFNC8",
+                    "U1KRZT11T",
+                    "U1L974M70",
+                    "U1KR891RC"
+                ],
+                "count": 4
+            },
+            {
+                "name": "raising_hand::skin-tone-3",
+                "users": [
+                    "U1L8PJY4W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1M1L5G6L",
+        "text": "<@U1KRNHQA1>: definitely",
+        "ts": "1467938547.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "<@U1KRNHQA1>: I could probably play Sunday late afternoon",
+        "ts": "1467941295.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "I'm down to play Sunday anytime after the euro final",
+        "ts": "1467941334.000025",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1MDHNYR5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "How's Sunday at 6pm for everyone? ",
+        "ts": "1467941448.000026"
+    },
+    {
+        "type": "message",
+        "user": "U1KSYP1M5",
+        "text": "<@U1KRNHQA1>: sounds good to me! ",
+        "ts": "1467941675.000027",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRNHQA1",
+                    "U1KRE1L9M",
+                    "U1KT5F4SZ",
+                    "U1L974M70"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "Anyone interested in walking Lake Johnson on Saturday morning? I'm going to go there weekly and gradually build up to jogging the entire loop. I'm going to aim to arrive at 10am at the boat house.",
+        "ts": "1467943070.000028"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1LBRCSEA",
+        "text": "<@U1LBRCSEA|bethmoser> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1478794690.000003"
+    }
+]

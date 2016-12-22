@@ -1,0 +1,24 @@
+[
+    {
+        "type": "message",
+        "user": "U1L4RTKCM",
+        "text": "6:30 cycle tomorrow morning ",
+        "ts": "1473867634.000002",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KS1BFED"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "just signed up",
+        "ts": "1473867745.000003"
+    }
+]

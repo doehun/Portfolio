@@ -1,0 +1,17 @@
+[
+    {
+        "type": "message",
+        "user": "U1L90S3QC",
+        "text": "<!channel>  Nils and I are going to play tonight around 9:30 for anyone interested.",
+        "ts": "1473806638.000002",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KR80QMS"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

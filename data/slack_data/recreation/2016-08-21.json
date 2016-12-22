@@ -1,0 +1,27 @@
+[
+    {
+        "type": "message",
+        "user": "U1L7ERY77",
+        "text": "<@U1KRZT11T>  sounds like fun, I'm IN",
+        "ts": "1471783206.000038"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "Me too.",
+        "ts": "1471784109.000039"
+    },
+    {
+        "user": "U1LMHQY9E",
+        "text": "<@U1LMHQY9E|pmaychek> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471818652.000040"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "#in",
+        "ts": "1471818658.000041"
+    }
+]

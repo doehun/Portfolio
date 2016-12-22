@@ -1,0 +1,23 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQGRG2F",
+        "text": "anyone want to carpool around 5-5:10 to the dinner?",
+        "ts": "1473192459.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "Hey Annabel! So sorry I just saw this. Next time though!",
+        "ts": "1473204860.000002",
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U1KQGRG2F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "user": "U1L41DF9D",
+        "text": "<@U1L41DF9D|cacolli6> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474322402.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "Question - have we learned what to do if we don't have white noise for ESM? ",
+        "ts": "1474322435.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "<@U1L41DF9D> esm is the most complex model we've built so far so I don't think there is anything we can do if we don't have white noise. More complex models like arima should get us to white noise, but we haven't learned that yet. ",
+        "ts": "1474323178.000004",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L41DF9D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "Thank you <@U1KRNHQA1> ",
+        "ts": "1474324482.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KSEJ01W",
+        "text": "Does anyone know if dr. Labarrs explicitly said we shouldn't use Browns double esm model because of how it estimates the parameters? ",
+        "ts": "1474337217.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1MBURU4D",
+        "text": "He definitely said people don't use Brown. I think it was because of how it used theta in both equations",
+        "ts": "1474337716.000007",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRNH021",
+                    "U1L0RBZFH"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSEJ01W",
+        "text": "Right that's what I thought but for the hw when you run them all brown gives a better mape between the three. I thought you didn't use it might just throw it out ",
+        "ts": "1474337803.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KRTHAQZ",
+        "text": "<@U1KSEJ01W> I've found that when looking at MAPE, models you'd expect not to do well actually end up doing pretty well. But looking across multiple diagnostic statistics (RMSE, AIC, etc.) can give you a better idea of exactly how well the model performs compared to other models. ",
+        "ts": "1474338311.000009",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L914KNJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSEJ01W",
+        "text": "<@U1KRTHAQZ>  thats a good call. ill look into that i got tunnel vision from prompt",
+        "ts": "1474338403.000010"
+    }
+]

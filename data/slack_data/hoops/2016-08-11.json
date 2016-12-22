@@ -1,0 +1,103 @@
+[
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "What courts?",
+        "ts": "1470927487.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "can someone give me a ride? id really appreciate it",
+        "ts": "1470929906.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "Where do you live ",
+        "ts": "1470929928.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "<@U1KS4UE2F>: ",
+        "ts": "1470929956.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "I was going to go to the ones we usually play on <@U1LMHQY9E> ",
+        "ts": "1470930705.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "<@U1KT9ATA5>: i live at 1520 crest road",
+        "edited": {
+            "user": "U1KS4UE2F",
+            "ts": "1470930738.000000"
+        },
+        "ts": "1470930714.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "<@U1KS4UE2F>, Amir and I will be there in 10",
+        "ts": "1470931531.000009",
+        "reactions": [
+            {
+                "name": "basketball",
+                "users": [
+                    "U1KSL7L7R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "<@U1MDE4NAG>: thanks! u guys save lives",
+        "ts": "1470931740.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "<@U1KS4UE2F>: we're here",
+        "ts": "1470932313.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "The upper courts all have volleyball nets up, courts 1-8 are open tho",
+        "ts": "1470932360.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1L974M70",
+        "text": "Cool.  Be there in 15.",
+        "ts": "1470933038.000013"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "Planning on Saturday at 1230 again",
+        "ts": "1470947242.000014",
+        "reactions": [
+            {
+                "name": "basketball",
+                "users": [
+                    "U1KRE1L9M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1L90S3QC",
+        "text": "<@U1L90S3QC|cwstjeor> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1470964400.000015"
+    }
+]

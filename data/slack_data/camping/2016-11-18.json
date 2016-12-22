@@ -1,0 +1,53 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "<@U1M37FW5U>: I found your tent bag ",
+        "ts": "1479513750.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "My tent bag?",
+        "ts": "1479514716.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "It might actually be James' chair bag! ",
+        "ts": "1479514741.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "My red headlamp?",
+        "ts": "1479514745.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "Oh it was james' chair bag ",
+        "ts": "1479514788.000006",
+        "reactions": [
+            {
+                "name": "seat",
+                "users": [
+                    "U1L5GU954"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "<@U1M37FW5U>: your stuff is in my car",
+        "ts": "1479528373.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "I know. Got to get it.",
+        "ts": "1479530903.000008"
+    }
+]

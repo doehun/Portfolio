@@ -1,0 +1,41 @@
+[
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "Any idea what were the lines that Andrea added to her SAS session editor at the beginning of the lesson? It seems like I dont have the right datasets to run the examples from the powerpoint she went through today... the \"customers\" and \"transactions\" tables are not in orion or work directories",
+        "edited": {
+            "user": "U1NUU2U9E",
+            "ts": "1472604542.000000"
+        },
+        "ts": "1472604172.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "%let path=C:\\Users\\Diego\\Desktop\\MSA 2017\\SQL\\SQL Data;\n%include \"&amp;path\\s104d00a.sas\" \/source2; \/* Windows and Unix *\/\n\n\nproc sql;\nselect *\n   from customers, transactions;\nquit;",
+        "ts": "1472604811.000004",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1KRNH021",
+                    "U1KSL7L7R"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "<@U1NUU2U9E> is this what you need?",
+        "ts": "1472604821.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1L3PU7BJ> i think so! going to try it out... thanks anyways :smile:",
+        "ts": "1472604863.000006"
+    }
+]

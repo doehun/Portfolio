@@ -1,0 +1,66 @@
+[
+    {
+        "user": "U1KRE5NKZ",
+        "text": "<@U1KRE5NKZ|laura.sweeney> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479927028.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE5NKZ",
+        "text": "does anyone need a ride leaving around 5:15? taking <@U1L97TR38> then and have room for 3 or 4 more",
+        "ts": "1479927071.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "<@U1KRE5NKZ> I'll take you up on that",
+        "ts": "1479928331.000004",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRE5NKZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "About to be a party in T1 :tada::tada:",
+        "ts": "1479934173.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "Just dropped Emmy off at T1!",
+        "ts": "1479934301.000006",
+        "reactions": [
+            {
+                "name": "taxi",
+                "users": [
+                    "U1L5GU954"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "Yeah who is in the southwest terminal??",
+        "ts": "1479934327.000007",
+        "reactions": [
+            {
+                "name": "airplane",
+                "users": [
+                    "U1L5GU954"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

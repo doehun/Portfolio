@@ -1,0 +1,302 @@
+[
+    {
+        "user": "U1L6YQUSU",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L6YQUSU|johnbetzjr> has joined the channel",
+        "ts": "1467140061.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I've emailed a couple of places.  I'll keep you posted.  Looks like about $25 a person.  Trying to find something for Friday afternoon since we get out early.  ",
+        "ts": "1467140124.000003",
+        "reactions": [
+            {
+                "name": "hugging_face",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1KRB11QC",
+                    "U1L974M70",
+                    "U1L1WFNC8"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U1L8PJY4W",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L8PJY4W|amstric2> has joined the channel",
+        "ts": "1467140375.000004"
+    },
+    {
+        "user": "U1KRB11QC",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KRB11QC|dsjorda2> has joined the channel",
+        "ts": "1467140971.000002"
+    },
+    {
+        "user": "U1L3PU7BJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L3PU7BJ|dmalave> has joined the channel",
+        "ts": "1467141257.000003"
+    },
+    {
+        "user": "U1L1D4WG7",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L1D4WG7|edpreble> has joined the channel",
+        "ts": "1467141300.000004"
+    },
+    {
+        "user": "U1KRWUXFU",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KRWUXFU|jdemarest> has joined the channel",
+        "ts": "1467141481.000005"
+    },
+    {
+        "user": "U1L914KNJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L914KNJ|nikki> has joined the channel",
+        "ts": "1467141629.000006"
+    },
+    {
+        "user": "U1L9DD1NY",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L9DD1NY|mjdensmo> has joined the channel",
+        "ts": "1467141648.000007"
+    },
+    {
+        "user": "U1LJRDPLP",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1LJRDPLP|alexhorowitz> has joined the channel",
+        "ts": "1467141712.000008"
+    },
+    {
+        "user": "U1KRBJP47",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KRBJP47|marina.burke> has joined the channel",
+        "ts": "1467143177.000009"
+    },
+    {
+        "user": "U1KSYP1M5",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KSYP1M5|madison> has joined the channel",
+        "ts": "1467143494.000010"
+    },
+    {
+        "user": "U1KQ9523D",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KQ9523D|lisaholbach> has joined the channel",
+        "ts": "1467143629.000011"
+    },
+    {
+        "user": "U1KRBFY3Z",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KRBFY3Z|sylviebrick> has joined the channel",
+        "ts": "1467143948.000012"
+    },
+    {
+        "user": "U1KRHCR7T",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KRHCR7T|zack_schwartz> has joined the channel",
+        "ts": "1467143949.000013"
+    },
+    {
+        "user": "U1LAAMJ0M",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1LAAMJ0M|carlanderson> has joined the channel",
+        "ts": "1467144667.000014"
+    },
+    {
+        "user": "U1KSEJ01W",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KSEJ01W|ajborelli> has joined the channel",
+        "ts": "1467144669.000015"
+    },
+    {
+        "user": "U1L7E8GSU",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L7E8GSU|rachelkurtz> has joined the channel",
+        "ts": "1467145785.000016"
+    },
+    {
+        "user": "U1KSPCE87",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KSPCE87|jessie> has joined the channel",
+        "ts": "1467146167.000017"
+    },
+    {
+        "user": "U1M4QJD4P",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1M4QJD4P|mike-rose> has joined the channel",
+        "ts": "1467146983.000018"
+    },
+    {
+        "user": "U1KS4UE2F",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KS4UE2F|edward_lim> has joined the channel",
+        "ts": "1467148568.000019"
+    },
+    {
+        "user": "U1L3G0YRJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L3G0YRJ|emmyburnett> has joined the channel",
+        "ts": "1467149609.000020"
+    },
+    {
+        "user": "U1L974M70",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L974M70|brshallo> has joined the channel",
+        "ts": "1467149856.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1L974M70",
+        "text": "Awesome.  Thanks for setting this up John.  I've got the cable guy coming 1-3PM, but would for sure be in any time after then on Friday.",
+        "ts": "1467150141.000022"
+    },
+    {
+        "user": "U1KT5F4SZ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KT5F4SZ|hannahh> has joined the channel",
+        "ts": "1467150396.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1KRBJP47",
+        "text": "this is my only reference for escape rooms... <https:\/\/www.youtube.com\/watch?v=3LMtRG4Mc54>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Conan &amp; Jordan Schlansky Escape The Room  - CONAN on TBS",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=3LMtRG4Mc54",
+                "author_name": "Team Coco",
+                "author_link": "https:\/\/www.youtube.com\/user\/teamcoco",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/3LMtRG4Mc54\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Conan & Jordan Schlansky Escape The Room  - CONAN on TBS",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/3LMtRG4Mc54?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=3LMtRG4Mc54",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1467150505.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I'm trying to get us a 2pm time in Durham on Friday.   It would be $25 per person.  Can I get a head count of who could and would do that time if it happens?   If it doesn't, I'll book a time next week. ",
+        "ts": "1467154368.000026"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "I want to do it! ",
+        "ts": "1467154453.000027"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "I'm in!",
+        "ts": "1467154544.000028"
+    },
+    {
+        "type": "message",
+        "user": "U1KRBJP47",
+        "text": "i'm in as well - thanks for setting this up, John!",
+        "ts": "1467155064.000029"
+    },
+    {
+        "user": "U1L41DF9D",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L41DF9D|cacolli6> has joined the channel",
+        "ts": "1467156533.000030"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "I can't this Friday (I'll be in Wilmington), but I'd be down for next week!",
+        "ts": "1467156547.000031"
+    },
+    {
+        "user": "U1LK46TUJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1LK46TUJ|taylormikkola> has joined the channel",
+        "ts": "1467163255.000032"
+    },
+    {
+        "type": "message",
+        "user": "U1KSYP1M5",
+        "text": "I'm down! ",
+        "ts": "1467164079.000033"
+    },
+    {
+        "user": "U1L1WFNC8",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L1WFNC8|wrighton88> has joined the channel",
+        "ts": "1467164781.000034"
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "I'd go 2pm Friday!",
+        "ts": "1467165196.000035"
+    },
+    {
+        "user": "U1KRE1L9M",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KRE1L9M|kevin.danchisko> has joined the channel",
+        "ts": "1467166309.000036"
+    },
+    {
+        "type": "message",
+        "user": "U1LJRDPLP",
+        "text": "I'll go!",
+        "ts": "1467167700.000037"
+    },
+    {
+        "user": "U1KRMNVGC",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KRMNVGC|cncross> has joined the channel",
+        "ts": "1467169137.000038"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "I'm definitely in ",
+        "ts": "1467169171.000039"
+    }
+]

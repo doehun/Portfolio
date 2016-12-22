@@ -1,0 +1,27 @@
+[
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "Anyone want to car pool and then grab drinks after? ",
+        "ts": "1473190933.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "Me! ",
+        "ts": "1473192728.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "<@U1KS4UE2F> you got it! ",
+        "ts": "1473194030.000004"
+    },
+    {
+        "user": "U1L1D4UG6",
+        "text": "<@U1L1D4UG6|laurahc55> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473205520.000002"
+    }
+]

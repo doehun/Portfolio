@@ -1,0 +1,133 @@
+[
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Let me know what time you guys go to the pit! My trains getting in at 9 and the station is right by the pit so maybe I'll meet you guys and <@U1M4QJD4P> maybe you won't have to come get me after all! ",
+        "ts": "1467636998.000002",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KT3UELS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT3UELS",
+        "text": "Like this if you're planning to eat dinner at The Pit at 6 tonight ",
+        "ts": "1467638473.000003",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRZT11T",
+                    "U1LJRDPLP",
+                    "U1KRBJP47",
+                    "U1L1WFNC8",
+                    "U1KRMNVGC",
+                    "U1LV6EH3M",
+                    "U1KSL7L7R",
+                    "U1L3G0YRJ",
+                    "U1L5GU954",
+                    "U1L7E8GSU",
+                    "U1L735VD4",
+                    "U1L7B7188"
+                ],
+                "count": 12
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRBJP47",
+        "text": "If I'm on anyone's way to downtown, could I grab a ride tonight? I'm on Avent Ferry near the intersection with Gorman.",
+        "ts": "1467653000.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "I've got you <@U1KRBJP47>!",
+        "ts": "1467654502.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "Just bought tickets to go see *West Ham United* v the Carolina Railhawks on *July 12* at WakeMed in Cary (about 10-15 minutes from campus) <@U1KRNHQA1> is going also. If anyone is interested there are still lots of tickets available <https:\/\/www.etix.com\/ticket\/p\/6702817\/carolina-railhawks-vswest-ham-united-cary-wakemed-soccer-park-carolina-railhawks>  Not sure who exactly from West Ham will play given that Payet is still killin' it for France in the euros but it should be a good time!",
+        "attachments": [
+            {
+                "service_name": "Etix",
+                "title": "Carolina RailHawks vs. West Ham United at WakeMed Soccer Park - Carolina RailHawks on Jul 12, 2016 8:00 PM",
+                "title_link": "https:\/\/www.etix.com\/ticket\/p\/6702817\/carolina-railhawks-vswest-ham-united-cary-wakemed-soccer-park-carolina-railhawks",
+                "text": "If child tickets or ADA seating need to be purchased, please contact the Johnson Maserati Box Office at &lt;tel:(919)459-8144|(919) 459-8144&gt; or <mailto:tickets@carolinarailhawks.com|tickets@carolinarailhawks.com>. All ticket prices include a 6.75% sales tax. All sales are final \u2013 tickets are nonrefundable and nonexchangeable.",
+                "fallback": "Etix: Carolina RailHawks vs. West Ham United at WakeMed Soccer Park - Carolina RailHawks on Jul 12, 2016 8:00 PM",
+                "image_url": "https:\/\/www.etix.com\/ticket\/json\/files\/get?file=cf53133c-3f5a-4c21-b6c9-778e4c778b37&alt=1200w",
+                "from_url": "https:\/\/www.etix.com\/ticket\/p\/6702817\/carolina-railhawks-vswest-ham-united-cary-wakemed-soccer-park-carolina-railhawks",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 119069,
+                "service_icon": "https:\/\/www.etix.com\/ticket\/images2z\/apple-touch-icon-iphone.png",
+                "id": 1
+            }
+        ],
+        "ts": "1467661397.000006",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRNHQA1",
+                    "U1M1L5G6L",
+                    "U1MDHNYR5"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT3UELS",
+        "text": "Whoever gets to The Pit first, the reservations are under Clare and Emmy! ",
+        "ts": "1467668950.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "We're seated in the back of the restaurant come find us!",
+        "ts": "1467669896.000009",
+        "reactions": [
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U1KT3UELS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1M1L5G6L",
+        "text": "<@U1L914KNJ>: I am going to the game, as well!",
+        "ts": "1467670162.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Where'd yall park?",
+        "ts": "1467670878.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "We parallel parked on the street!",
+        "ts": "1467670903.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1L1WFNC8",
+        "text": "Its crazy parking right now... Barely found a spot 2 blocks away ",
+        "ts": "1467670938.000013"
+    }
+]

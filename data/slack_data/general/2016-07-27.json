@@ -1,0 +1,157 @@
+[
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "Don't forget, Mellow Mushroom at 5 everyone!! Especially those who finished up this morning!",
+        "ts": "1469643177.000077",
+        "reactions": [
+            {
+                "name": "pizza",
+                "users": [
+                    "U1KQ9523D",
+                    "U1KT5F4SZ",
+                    "U1KT9ATA5",
+                    "U1KRLV1CG",
+                    "U1KRB11QC",
+                    "U1KRE1L9M",
+                    "U1L1D4WG7",
+                    "U1KRBJP47",
+                    "U1KRNH021",
+                    "U1KSL7L7R"
+                ],
+                "count": 10
+            },
+            {
+                "name": "chart_with_upwards_trend",
+                "users": [
+                    "U1L6YQUSU",
+                    "U1KT9ATA5"
+                ],
+                "count": 2
+            },
+            {
+                "name": "beer",
+                "users": [
+                    "U1KT9ATA5",
+                    "U1L7E8GSU",
+                    "U1KRB11QC",
+                    "U1L735VD4"
+                ],
+                "count": 4
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1KRBFY3Z",
+                    "U1KRB11QC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRTHAQZ",
+        "text": "Is the mellow mushroom in raleigh or Cary?",
+        "ts": "1469650931.000079"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Glenwood ",
+        "ts": "1469651052.000080"
+    },
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "I suppose a location might help...\n601 W Peace St, Raleigh, NC 27605",
+        "ts": "1469651118.000081"
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "Who is missing a pair of Ray Bans?! I'm wearing someone's but just realized mine were in the car...:hushed:",
+        "ts": "1469662953.000083",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1L46HXCJ",
+                    "U1L2P17DZ",
+                    "U1L415ECD",
+                    "U1KRNHQA1",
+                    "U1MBURU4D",
+                    "U1KT3UELS",
+                    "U1KRLV1CG",
+                    "U1L8PJY4W",
+                    "U1KRE1L9M"
+                ],
+                "count": 9
+            },
+            {
+                "name": "dark_sunglasses",
+                "users": [
+                    "U1L1D4WG7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1MBURU4D",
+        "text": "I was just about to write a message asking if anyone found a pair of Ray bans lol",
+        "ts": "1469663657.000084"
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "<@U1MBURU4D>: I am soooo sorry haha, I'll bring them tomorrow!!!",
+        "ts": "1469663758.000085"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "\/giphy ray ban vision",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/twilight-edward-cullen-the-ray-bans-UXnkfare9n7JC>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/UXnkfare9n7JC\/giphy.gif",
+                "image_width": 500,
+                "image_height": 213,
+                "image_bytes": 508645,
+                "is_animated": true,
+                "title": "ray ban vision",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/twilight-edward-cullen-the-ray-bans-UXnkfare9n7JC"
+            }
+        ],
+        "ts": "1469663778.000086",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KQ9523D",
+                    "U1P8QBBD1",
+                    "U1KRQLFLY"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1MBURU4D",
+        "text": "<@U1KQ9523D>: no worries. Thanks",
+        "ts": "1469663780.000087",
+        "reactions": [
+            {
+                "name": "ok_woman",
+                "users": [
+                    "U1KQ9523D"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

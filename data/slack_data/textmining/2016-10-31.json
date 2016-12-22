@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1L974M70",
+        "text": "<@U1L974M70|brshallo> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1477915332.000003"
+    },
+    {
+        "user": "U1MDE4NAG",
+        "text": "<@U1MDE4NAG|michaelbyman> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1477921132.000004"
+    }
+]

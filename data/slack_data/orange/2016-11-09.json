@@ -1,0 +1,53 @@
+[
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "are her slides available anywhere?",
+        "ts": "1478714608.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "<@U1L914KNJ> <https:\/\/moodle-courses1617.wolfware.ncsu.edu\/mod\/page\/view.php?id=162428>",
+        "ts": "1478714629.000003",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U1KQGK2CB",
+                    "U1P8QBBD1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "grin",
+                "users": [
+                    "U1P8QBBD1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "alien",
+                "users": [
+                    "U1P8QBBD1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "Thanks ed! went straight to Dr. Races site and missed that one :slightly_smiling_face:",
+        "ts": "1478714656.000004",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L1D4WG7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,163 @@
+[
+    {
+        "type": "message",
+        "user": "U1L7G5LR4",
+        "text": "Im doing Cycle &amp; Core @ 5:15 today if anyone wants to join :v:",
+        "ts": "1471370027.000002",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRZT11T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L7G5LR4",
+        "text": "Fail of the day: I went for my class (first time @ carmichael) and i thought everything was located in the same building. I asked the guy at the desk where studio D is and he said second floor. First staircase took me to bball courts, then i went back down and took another staircase to the running track. I asked another gorl working there wth is studio D and she said it's in a separate building. By the time I got to the rec center my class was half way done. I got pissed and went home and ate ice cream. I feel like such a disaster. <http:\/\/i.imgur.com\/HN151LX.gif>",
+        "attachments": [
+            {
+                "fallback": "200x131px image",
+                "image_url": "http:\/\/i.imgur.com\/HN151LX.gif",
+                "image_width": 200,
+                "image_height": 131,
+                "image_bytes": 1450526,
+                "is_animated": true,
+                "from_url": "http:\/\/i.imgur.com\/HN151LX.gif",
+                "id": 1
+            }
+        ],
+        "ts": "1471389690.000003",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1L6WB44A",
+                    "U1LMHQY9E",
+                    "U1KRZT11T",
+                    "U1KRWUXFU",
+                    "U1L5GU954",
+                    "U1KRNH021",
+                    "U1KRHCR7T",
+                    "U1KR9BP0E",
+                    "U1L914KNJ",
+                    "U1L3G0YRJ",
+                    "U1KQGK2CB",
+                    "U1LBRCSEA"
+                ],
+                "count": 12
+            },
+            {
+                "name": "icecream",
+                "users": [
+                    "U1NLH1CP8",
+                    "U1L5GU954",
+                    "U1KSL7C10"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "<@U1L7G5LR4>: dude. Been there",
+        "ts": "1471389781.000005",
+        "reactions": [
+            {
+                "name": "see_no_evil",
+                "users": [
+                    "U1L7G5LR4",
+                    "U1KRNH021"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "I was wondering where you were, next time",
+        "ts": "1471389867.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U1L7G5LR4>: ice cream is the solution to everything ",
+        "ts": "1471389976.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U1KRZT11T>: you went to two cycle classes today?",
+        "ts": "1471389987.000008",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L7G5LR4",
+                    "U1L6WB44A"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Ice cream is the solution to everything, that's why I eat so much. HIIT was full and I was just trying to support my buddy <@U1L7G5LR4> ",
+        "ts": "1471390154.000009",
+        "reactions": [
+            {
+                "name": "icecream",
+                "users": [
+                    "U1KQGK2CB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L7G5LR4",
+        "text": "I'll make it next time! I think lol",
+        "attachments": [
+            {
+                "fallback": "[August 16th, 2016 7:29 PM] tommy_darlington: Ice cream is the solution to everything, that's why I eat so much. HIIT was full and I was just trying to support my buddy <@U1L7G5LR4> ",
+                "ts": "1471390154.000009",
+                "author_subname": "tommy_darlington",
+                "channel_id": "C1SACJ5RQ",
+                "channel_name": "gymclasses",
+                "is_msg_unfurl": true,
+                "text": "Ice cream is the solution to everything, that's why I eat so much. HIIT was full and I was just trying to support my buddy <@U1L7G5LR4> ",
+                "author_name": "Tommy Darlington",
+                "author_link": "https:\/\/msa17.slack.com\/team\/tommy_darlington",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-06-28\/55054310166_e5020071acc6c7e300fe_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/msa17.slack.com\/archives\/gymclasses\/p1471390154000009",
+                "is_share": true,
+                "footer": "Posted in #gymclasses"
+            }
+        ],
+        "ts": "1471390303.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "<@U1L7G5LR4>:  :joy::joy::joy::joy::joy:",
+        "ts": "1471390762.000011"
+    },
+    {
+        "user": "U1M1L5G6L",
+        "text": "<@U1M1L5G6L|shelbyklemm> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471400617.000012"
+    }
+]

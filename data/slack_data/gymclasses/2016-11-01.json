@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U1KT5F4SZ",
+        "text": "<@U1KT5F4SZ|hannahh> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1478015757.000006"
+    },
+    {
+        "user": "U1KRB11QC",
+        "text": "<@U1KRB11QC|dsjorda2> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1478015833.000007"
+    },
+    {
+        "user": "U1KQGK2CB",
+        "text": "<@U1KQGK2CB|loganteal> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1478044071.000008"
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "type": "message",
+        "user": "U1L7ERY77",
+        "text": "<@U1KRZT11T> building on your channel psa, how do you know when new channels are created?  Do you have to constantly check?  Often times a channel gets created and I have no idea until someone mentions it in person by chance.",
+        "ts": "1471784953.000122"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNTXL5",
+        "text": "Has anybody been able to download the linear algebra review pack solutions?  The link is on this page but maybe the document hasn't been uploaded yet.  <http:\/\/www4.ncsu.edu\/~slrace\/LinearAlgebra2017\/index.html>",
+        "ts": "1471796925.000123"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "<@U1KRNTXL5> Yeah, it's not working for me either",
+        "ts": "1471802315.000124"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "<@U1KRNTXL5> I emailed Dr Race about that yesterday.  She replied back to say she'll have to fix it tomorrow.",
+        "ts": "1471809862.000125"
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "<@U1KRNTXL5> Are you curious about a particular problem?",
+        "ts": "1471813245.000126"
+    },
+    {
+        "type": "message",
+        "user": "U1KRLV1CG",
+        "text": "Awesome picture <@U1M4QJD4P>! Hopefully you are not hinting anything :slightly_smiling_face:",
+        "ts": "1471813431.000127",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1LAAMJ0M",
+                    "U1KSL7L7R",
+                    "U1L0V1X61"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<@U1KRZT11T> - I think you just have to keep checking now and then.  People who create channels can invite people when they make them, but for the most part, you have to find them yourself.",
+        "ts": "1471824603.000128"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "Hello all - I have added the_family_channel for those wanting to organize activities for the entire family e.g. hikes, strawberry picking, etc. Feel free to join! :slightly_smiling_face:",
+        "ts": "1471831734.000129"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "Well hi there!",
+        "ts": "1471831734.000130"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "As ridiculous as it sounds, I'm thinking the solution is create a meta channel containing no comments other than listing other channels or newly created channels.  Or we could do the same in a google doc?  It really is hard to find all the channels.  I myself only found the social channel last week (which explains a lot in retrospect :expressionless:).",
+        "edited": {
+            "user": "U1N43E3E0",
+            "ts": "1471832193.000000"
+        },
+        "ts": "1471832157.000131"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "that's an interesting idea - every time anyone creates a channel, they post a message in the meta channel.",
+        "ts": "1471832564.000134"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "Or a page like this: <https:\/\/sites.google.com\/a\/ncsu.edu\/msa-2017\/home\/msa-slack-channels> that the team can keep updated...",
+        "ts": "1471832585.000135"
+    }
+]

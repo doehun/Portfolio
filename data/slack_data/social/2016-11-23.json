@@ -1,0 +1,46 @@
+[
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Anyone going out tonight? ",
+        "ts": "1479944029.000025",
+        "reactions": [
+            {
+                "name": "airplane",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1LMHQY9E",
+                    "U1M37FW5U",
+                    "U1KRB11QC"
+                ],
+                "count": 4
+            },
+            {
+                "name": "party_ed",
+                "users": [
+                    "U1LAAMJ0M",
+                    "U1KRZT11T",
+                    "U1KR891RC",
+                    "U1LBRCSEA",
+                    "U1KT9ATA5"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "It is national bar night",
+        "ts": "1479947102.000026",
+        "reactions": [
+            {
+                "name": "turkey",
+                "users": [
+                    "U1L9DD1NY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

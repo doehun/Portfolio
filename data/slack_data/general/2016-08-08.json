@@ -1,0 +1,62 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "Are the self-paced exercises on moodle?",
+        "ts": "1470667321.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Yea that's what she said! ",
+        "ts": "1470667702.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1L93SMGF",
+        "text": "Has anyone else in communications training noticed that the submissions window for our 5 minute presentation on Moodle closes in 45 minutes?  I'm not crazy in thinking nothing is due tonight, right?",
+        "ts": "1470712774.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "no, definitely not due tonight, because I know we have some time in the morning to work on it. must be a mistake!",
+        "ts": "1470713356.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1L93SMGF",
+        "text": "Thanks Zach, I thought that was the plan as well.",
+        "ts": "1470713560.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "I submitted my presentation (whatever I have) but agreed with both of you that Sarah said we would have time to work on it tomorrow in class. ",
+        "ts": "1470714211.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "If this helps at all ours weren't due until around 12:30 p.m. on the second day so you guys should definitely have time tomorrow! ",
+        "ts": "1470714910.000008",
+        "reactions": [
+            {
+                "name": "facepunch",
+                "users": [
+                    "U1KT9ATA5",
+                    "U1KQGK2CB",
+                    "U1KRLV1CG"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U1L93SMGF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

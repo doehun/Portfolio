@@ -1,0 +1,54 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Anyone want to go to Sammy's? Trivia night 2.0?",
+        "ts": "1474413812.000150"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Spend some time with your favorite IAA gyal ",
+        "ts": "1474414116.000151",
+        "reactions": [
+            {
+                "name": "blush",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1L6WB44A"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "I will go rose",
+        "ts": "1474414824.000152"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Awesome!",
+        "ts": "1474414836.000153"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "I'll head over soon ",
+        "ts": "1474414845.000154"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "And I'm bringing Julia with me ",
+        "ts": "1474414937.000155"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "We're here!",
+        "ts": "1474416188.000156"
+    }
+]

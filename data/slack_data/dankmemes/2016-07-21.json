@@ -1,0 +1,77 @@
+[
+    {
+        "user": "U1L8PJY4W",
+        "text": "<@U1L8PJY4W|amstric2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469110183.000002"
+    },
+    {
+        "user": "U1L8PJY4W",
+        "purpose": "For Max",
+        "text": "<@U1L8PJY4W|amstric2> set the channel purpose: For Max",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1469110183.000003"
+    },
+    {
+        "user": "U1L7ERY77",
+        "inviter": "U1L8PJY4W",
+        "text": "<@U1L7ERY77|maxwarburg> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469110221.000004"
+    },
+    {
+        "user": "U1L6YQUSU",
+        "inviter": "U1L8PJY4W",
+        "text": "<@U1L6YQUSU|johnbetzjr> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469110233.000005"
+    },
+    {
+        "user": "U1L5GU954",
+        "inviter": "U1L8PJY4W",
+        "text": "<@U1L5GU954|jrweston> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469110263.000006"
+    },
+    {
+        "user": "U1LBRCSEA",
+        "inviter": "U1L8PJY4W",
+        "text": "<@U1LBRCSEA|bethmoser> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469110317.000007"
+    },
+    {
+        "user": "U1P8QBBD1",
+        "text": "<@U1P8QBBD1|shpatel7> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469148792.000002"
+    },
+    {
+        "user": "U1P8QBBD1",
+        "text": "<@U1P8QBBD1|shpatel7> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1469148818.000003"
+    },
+    {
+        "user": "U1KT1RZ24",
+        "text": "<@U1KT1RZ24|mike_hruska> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469162474.000002"
+    },
+    {
+        "user": "U1KT1RZ24",
+        "text": "<@U1KT1RZ24|mike_hruska> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1469162497.000003"
+    }
+]

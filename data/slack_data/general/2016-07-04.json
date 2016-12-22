@@ -1,0 +1,30 @@
+[
+    {
+        "user": "U1NLH1CP8",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1NLH1CP8|catherine_burton> has joined the channel",
+        "ts": "1467648840.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "Just got an email about this new Meetup group. First event on employee attrition modeling is scheduled for 7\/26: <http:\/\/www.meetup.com\/Raleigh-Analytics-Meetup\/>",
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "Raleigh Analytics Meetup",
+                "title_link": "http:\/\/www.meetup.com\/Raleigh-Analytics-Meetup\/",
+                "text": "The Raleigh Analytics Meetup brings together people who are interested in analytics and how it's revolutionizing the world. Each month we gather to see presentations, demos and network with fellow ana",
+                "fallback": "Meetup: Raleigh Analytics Meetup",
+                "thumb_url": "http:\/\/photos3.meetupstatic.com\/photos\/event\/9\/4\/1\/b\/highres_451657915.jpeg",
+                "from_url": "http:\/\/www.meetup.com\/Raleigh-Analytics-Meetup\/",
+                "thumb_width": 80,
+                "thumb_height": 80,
+                "service_icon": "http:\/\/img2.meetupstatic.com\/img\/44824024200340517185\/m\/ios\/Icon-60pt@2x.png",
+                "id": 1
+            }
+        ],
+        "ts": "1467656156.000003"
+    }
+]

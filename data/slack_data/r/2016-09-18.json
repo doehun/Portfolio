@@ -1,0 +1,22 @@
+[
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "For future reference, when using R Studio if you want to read in a certain data file in a certain folder you need to specify the \"working directory\" in R studio before you read in your file. If you go to Session then \"Set Working Directory\" it'll let you pick a folder where your data is stored and then you will be able to read in files from that folder with no issues. Just a tip if you need to read in multiple files from one source and if you want to save your work into that source folder automatically (makes it easier so you wouldn't have to go to file, open file every time or have to choose where you want your files saved every time).",
+        "ts": "1474236294.000011",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L1D4WG7",
+                    "U1KRZT11T",
+                    "U1L90S3QC",
+                    "U1KRB11QC",
+                    "U1L0RBZFH",
+                    "U1P8QBBD1"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

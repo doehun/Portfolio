@@ -1,0 +1,103 @@
+[
+    {
+        "user": "U1L8PJY4W",
+        "text": "<@U1L8PJY4W|amstric2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469036405.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "going to Zumba at 5.30 today if anyone wants to join",
+        "ts": "1469046249.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "it's sooo much fun",
+        "ts": "1469046255.000004",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L7ERY77"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "I signed up but I think I might have to bail to get some work done :disappointed: But I will attest that it's probably the most fun class at the gym.",
+        "ts": "1469046288.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1L4RTKCM",
+        "text": "I'm going to HIIT tomorrow at 5:15. I'd love company! ",
+        "ts": "1469058194.000006",
+        "reactions": [
+            {
+                "name": "weight_lifter",
+                "users": [
+                    "U1KT5F4SZ",
+                    "U1KRE5NKZ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "I will try it",
+        "ts": "1469058586.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "It's my favorite everyone should come try it out ",
+        "ts": "1469058680.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "I'm in! Signing up now.",
+        "ts": "1469058686.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR1MS4",
+        "text": "Down!",
+        "ts": "1469058982.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR1MS4",
+        "text": "Actually...I have a meeting 4-6 but I'll sign up and go if I get out early enough",
+        "ts": "1469059096.000011"
+    },
+    {
+        "user": "U1KRNH021",
+        "text": "<@U1KRNH021|sneha_komma> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469065046.000012"
+    },
+    {
+        "user": "U1KQ9523D",
+        "text": "<@U1KQ9523D|lisaholbach> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469068059.000013"
+    },
+    {
+        "user": "U1L2P17DZ",
+        "text": "<@U1L2P17DZ|kailistevens> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1469069942.000014"
+    }
+]

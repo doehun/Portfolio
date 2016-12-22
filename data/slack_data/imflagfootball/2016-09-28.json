@@ -1,0 +1,69 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "We have a game tomorrow! This time maybe we'll actually have a game",
+        "ts": "1475093531.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "Anyone planning on going?",
+        "ts": "1475110499.000003",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRB11QC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1Q7LP4V9",
+        "text": "I am probably a no go unfortunately",
+        "ts": "1475113522.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR1MS4",
+        "text": "I'm not gonna make it <@U1KRNHQA1> ",
+        "ts": "1475113570.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KSEJ01W",
+        "text": "im probably out as well",
+        "ts": "1475113993.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Yeah I got some serious understanding to do around logistic",
+        "ts": "1475114029.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "Aight probably gonna cancel the game",
+        "ts": "1475116187.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "They may also cancel it due to weather because it's supposed to rain all night\/day anyways ",
+        "ts": "1475116250.000009",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRNHQA1",
+                    "U1L90S3QC"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

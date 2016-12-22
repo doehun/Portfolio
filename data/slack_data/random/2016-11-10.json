@@ -1,0 +1,178 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Hey just for all the veterans, tomorrow if you show your military ID at some restaurant called Chipotle you get BOGO",
+        "ts": "1478811706.000743",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L93SMGF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "whoa Netflix's video player UI changed!",
+        "ts": "1478819685.000744"
+    },
+    {
+        "type": "message",
+        "user": "U1Q5GHC2J",
+        "text": "I need to be teammates with <@U1KQYG6SJ>  again. You got so much free time. Should give you more work to do :p",
+        "ts": "1478824798.000745",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1LMHQY9E",
+                    "U1KRF9BAP",
+                    "U1NUU2U9E",
+                    "U1L7G5LR4",
+                    "U1KRZT11T",
+                    "U1L735VD4",
+                    "U1P8QBBD1"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": ":joy::joy::joy:",
+        "ts": "1478824815.000746"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Netflix is my equivalent of study music!",
+        "ts": "1478824829.000747"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Plus, what else should I do while my ML algos are running?",
+        "ts": "1478824892.000748"
+    },
+    {
+        "type": "message",
+        "user": "U1KRF9BAP",
+        "text": "Be careful what you wish for <@U1Q5GHC2J> :joy:",
+        "ts": "1478825350.000749",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1KQYG6SJ",
+                    "U1KRB11QC",
+                    "U1KRE1L9M",
+                    "U1L735VD4",
+                    "U1L7G5LR4",
+                    "U1KRZT11T",
+                    "U1P8QBBD1",
+                    "U1KQGK2CB"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Man, so many haters",
+        "ts": "1478828307.000750",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U1L7G5LR4",
+                    "U1KRB11QC",
+                    "U1P8QBBD1",
+                    "U1KSL7L7R"
+                ],
+                "count": 4
+            },
+            {
+                "name": "dark_sunglasses",
+                "users": [
+                    "U1NUU2U9E"
+                ],
+                "count": 1
+            },
+            {
+                "name": "stuck_out_tongue_winking_eye",
+                "users": [
+                    "U1Q5GHC2J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1L7RPG1M|carsonfutch> uploaded a file: <https:\/\/msa17.slack.com\/files\/carsonfutch\/F31UU91GF\/pasted_image_at_2016_11_10_08_39_pm.png|Pasted image at 2016-11-10, 8:39 PM>",
+        "file": {
+            "id": "F31UU91GF",
+            "created": 1478828404,
+            "timestamp": 1478828404,
+            "name": "Pasted image at 2016_11_10 08_39 PM.png",
+            "title": "Pasted image at 2016-11-10, 8:39 PM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U1L7RPG1M",
+            "editable": false,
+            "size": 191043,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F31UU91GF\/pasted_image_at_2016_11_10_08_39_pm.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F31UU91GF\/download\/pasted_image_at_2016_11_10_08_39_pm.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31UU91GF-b28897a5d2\/pasted_image_at_2016_11_10_08_39_pm_64.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31UU91GF-b28897a5d2\/pasted_image_at_2016_11_10_08_39_pm_80.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31UU91GF-b28897a5d2\/pasted_image_at_2016_11_10_08_39_pm_360.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360_w": 360,
+            "thumb_360_h": 182,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F31UU91GF-b28897a5d2\/pasted_image_at_2016_11_10_08_39_pm_160.png?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "image_exif_rotation": 1,
+            "original_w": 404,
+            "original_h": 204,
+            "permalink": "https:\/\/msa17.slack.com\/files\/carsonfutch\/F31UU91GF\/pasted_image_at_2016_11_10_08_39_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T1KRCES8H-F31UU91GF-e437917480",
+            "channels": [
+                "C1KR6MDP1"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0,
+            "reactions": [
+                {
+                    "name": "small_officer_futch",
+                    "users": [
+                        "U1L735VD4",
+                        "U1P8QBBD1",
+                        "U1Q5GHC2J"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        "user": "U1L7RPG1M",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1L7RPG1M|carsonfutch>",
+        "bot_id": null,
+        "ts": "1478828406.000751"
+    }
+]

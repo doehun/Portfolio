@@ -1,0 +1,63 @@
+[
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Morning bball sesh tomorrow?",
+        "ts": "1476977626.000017",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L90S3QC",
+                    "U1Q5GHC2J",
+                    "U1KS4UE2F",
+                    "U1LMHQY9E",
+                    "U1L3PU7BJ",
+                    "U1KRSV7AN",
+                    "U1KT9ATA5"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "I'm in! Are Dr. LaBarr and Brandon playing?",
+        "ts": "1476987197.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "dr labarr said he'd be in",
+        "ts": "1476987238.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "Looks like 8 so far! It'd be nice if two more ppl can play.",
+        "ts": "1477010196.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1KS4UE2F",
+        "text": "9 if Brandon comes",
+        "ts": "1477010221.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "Rocky and Will said they were coming as well",
+        "ts": "1477015472.000022",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KT9ATA5",
+                    "U1KSR1MS4"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

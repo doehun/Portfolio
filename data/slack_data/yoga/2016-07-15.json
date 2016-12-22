@@ -1,0 +1,40 @@
+[
+    {
+        "user": "U1KRQLFLY",
+        "text": "<@U1KRQLFLY|sean.ankenbruck> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468594472.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRQLFLY",
+        "text": "Hey everyone!  Not sure if this was mentioned before but Lululemon at North Hills Plaza (4421 Six Forks Rd #112, Raleigh, NC 27609) offers FREE yoga on Sundays at 11AM.  I go almost every weekend so if anyone is interested let me know.  They even provide lululemon brand mats to use.",
+        "edited": {
+            "user": "U1KRQLFLY",
+            "ts": "1468594749.000000"
+        },
+        "ts": "1468594588.000003"
+    },
+    {
+        "user": "U1M7AD5L2",
+        "text": "<@U1M7AD5L2|kelly> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468594655.000004"
+    },
+    {
+        "user": "U1L6WB44A",
+        "text": "<@U1L6WB44A|ekdoyel> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468596816.000006"
+    },
+    {
+        "user": "U1L3G0YRJ",
+        "text": "<@U1L3G0YRJ|emmyburnett> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468614629.000002"
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "type": "message",
+        "user": "U1KSL7C10",
+        "text": "If anyone's into stand up comedy, Gary Gulman will be at Goodnights tonight through Saturday. I'll be at the 7:30pm Saturday show.",
+        "ts": "1473370038.000050"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Are you opening for him?",
+        "ts": "1473370927.000051",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1L0V1X61",
+                    "U1L3PU7BJ",
+                    "U1L6YQUSU",
+                    "U1L95JP1S",
+                    "U1KT3UELS",
+                    "U1KSL7C10"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7C10",
+        "text": "<@U1LMHQY9E>: death first",
+        "ts": "1473371596.000052",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1L0V1X61",
+                    "U1L914KNJ",
+                    "U1L7E8GSU",
+                    "U1KS4UE2F",
+                    "U1LAAMJ0M",
+                    "U1KRLV1CG",
+                    "U1KRMNVGC",
+                    "U1L9669PD",
+                    "U1L7G5LR4",
+                    "U1KRB11QC",
+                    "U1L4RTKCM",
+                    "U1KRBJP47",
+                    "U1KQ9523D",
+                    "U1NUU2U9E",
+                    "U1L6YQUSU",
+                    "U1KT3UELS",
+                    "U1KSL7L7R"
+                ],
+                "count": 17
+            },
+            {
+                "name": "blush",
+                "users": [
+                    "U1LMHQY9E",
+                    "U1KRLV1CG",
+                    "U1KRZT11T"
+                ],
+                "count": 3
+            },
+            {
+                "name": "bath",
+                "users": [
+                    "U1M4QJD4P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQGRG2F",
+        "text": "Sammys tonight for the football game!",
+        "ts": "1473377114.000053"
+    },
+    {
+        "type": "message",
+        "user": "U1MBURU4D",
+        "text": "At Sammys with <@U1L7RPG1M>. Who else is here?",
+        "ts": "1473384881.000054"
+    }
+]

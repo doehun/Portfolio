@@ -1,0 +1,42 @@
+[
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "Anyone in blue have ah extra calculator I can borrow for today?",
+        "edited": {
+            "user": "U1KR9BP0E",
+            "ts": "1475150006.000000"
+        },
+        "ts": "1475145883.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L5GU954",
+        "text": "I have one for you <@U1KR9BP0E> ",
+        "ts": "1475150004.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "thanksss <@U1L5GU954>",
+        "ts": "1475150014.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "Do we need one for today?",
+        "ts": "1475150028.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "<@U1L7E8GSU> probably not unless you can't do mental math like me",
+        "ts": "1475150459.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1L2P17DZ",
+        "text": "LaBarr also let me borrow one yesterday when my calculator died!",
+        "ts": "1475150520.000008"
+    }
+]

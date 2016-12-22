@@ -1,0 +1,35 @@
+[
+    {
+        "user": "U1KT9ATA5",
+        "text": "<@U1KT9ATA5|amir.lyall> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478011579.000002"
+    },
+    {
+        "user": "U1KT9ATA5",
+        "purpose": "survive and advance",
+        "text": "<@U1KT9ATA5|amir.lyall> set the channel purpose: survive and advance",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1478011579.000003"
+    },
+    {
+        "user": "U1LBRCSEA",
+        "text": "<@U1LBRCSEA|bethmoser> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478011790.000004"
+    },
+    {
+        "user": "U1KT9ATA5",
+        "members": [
+            "U1KT9ATA5",
+            "U1LBRCSEA"
+        ],
+        "text": "<@U1KT9ATA5|amir.lyall> archived the channel (w\/ 2 members)",
+        "type": "message",
+        "subtype": "channel_archive",
+        "ts": "1478015730.000005"
+    }
+]

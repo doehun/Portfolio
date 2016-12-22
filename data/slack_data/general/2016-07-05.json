@@ -1,0 +1,217 @@
+[
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "Hey all - Since there are many \"sources of information\", I have created the following Google site as your one stop shop... <https:\/\/sites.google.com\/a\/ncsu.edu\/msa-2017\/>",
+        "ts": "1467734415.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "Please let me know if you have any issues accessing the site. And feel free to make any suggestions - and volunteer if you want to help keeping this up to date. Thanks!",
+        "ts": "1467734451.000006",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRWUXFU",
+                    "U1LHLK8MR",
+                    "U1KSL7L7R",
+                    "U1KT3UELS",
+                    "U1KRHCR7T",
+                    "U1L1D4WG7",
+                    "U1L9DD1NY",
+                    "U1KRB11QC",
+                    "U1L914KNJ",
+                    "U1L5GU954",
+                    "U1KRBJP47",
+                    "U1L3PU7BJ",
+                    "U1KRNHQA1",
+                    "U1L3K1AKD",
+                    "U1L1WFNC8",
+                    "U1L974M70",
+                    "U1L46HXCJ"
+                ],
+                "count": 17
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KT3UELS",
+        "text": "Wow, thanks Raj!!",
+        "ts": "1467734529.000007"
+    },
+    {
+        "user": "U1NUU2U9E",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1NUU2U9E|kb5522> has joined the channel",
+        "ts": "1467736759.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Wow that's awesome !! <@U1L0V1X61> ",
+        "ts": "1467742206.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Thanks, Raj!",
+        "ts": "1467744304.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "<@U1L0V1X61>: I don\u2019t mind helping keep things updated.",
+        "ts": "1467745591.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "Thanks, John!",
+        "ts": "1467748781.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1M4QJD4P",
+        "text": "Dunno \u2018bout ya\u2019ll but that little whiff of our first project got me super excited.",
+        "ts": "1467752418.000024",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U1L8PJY4W",
+                    "U1KR9BP0E",
+                    "U1L974M70",
+                    "U1KRBJP47",
+                    "U1KRB11QC",
+                    "U1LBRCSEA",
+                    "U1KRLV1CG",
+                    "U1L2P17DZ"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "<@U1M4QJD4P>: Big time!",
+        "ts": "1467752545.000025"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "\/giphy excited",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/thisisgiphy-reaction-audience-l0K4m0mzkJDAIdhHW>",
+                "image_url": "http:\/\/media.giphy.com\/media\/l0K4m0mzkJDAIdhHW\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 141,
+                "image_bytes": 826348,
+                "is_animated": true,
+                "title": "excited",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/thisisgiphy-reaction-audience-l0K4m0mzkJDAIdhHW"
+            }
+        ],
+        "ts": "1467752725.000026",
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "U1KRZT11T",
+                    "U1KRB11QC",
+                    "U1L6YQUSU",
+                    "U1L2P17DZ",
+                    "U1M1L5G6L"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L3K1AKD",
+        "text": "Does anyone know how to access the e-learning for programming 2?",
+        "ts": "1467754781.000027"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "I think this should be it: <https:\/\/support.sas.com\/edu\/OLTRN\/ECPRG293\/index.htm>",
+        "ts": "1467754854.000028"
+    },
+    {
+        "type": "message",
+        "user": "U1L3K1AKD",
+        "text": "I can only see programming 1 there...",
+        "ts": "1467755016.000030"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "I just learned this today go to Moodle-&gt; 500-&gt; self- paced elearning-&gt; 2nd link-&gt; type in the code onto the right hand side",
+        "ts": "1467755021.000031",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L974M70"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L3K1AKD",
+        "text": "Can you see both?",
+        "ts": "1467755027.000032"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "This is what I see - are you not seeing the same?",
+        "ts": "1467755182.000034"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "She didn't use the code before so she can only see the free ones, I know from experience ",
+        "ts": "1467755274.000036"
+    },
+    {
+        "type": "message",
+        "user": "U1L3K1AKD",
+        "text": "you're right <@U1KRZT11T>, thanks!!",
+        "ts": "1467755427.000037"
+    },
+    {
+        "type": "message",
+        "user": "U1LJRDPLP",
+        "text": "Would anyone who got the first week of communications training and second SAS certification exam be willing to switch with me?",
+        "ts": "1467756511.000038"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "Is there a way to access the e- learning programming 2 ? I did not use the activation code earlier :(",
+        "ts": "1467770769.000039"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "Just using the activation code should open up access to everything we'll be learning in this program",
+        "ts": "1467771053.000040"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "This is what I see.",
+        "ts": "1467771660.000042"
+    }
+]

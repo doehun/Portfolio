@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1KT9ATA5",
+        "text": "<@U1KT9ATA5|amir.lyall> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475868597.000002"
+    },
+    {
+        "user": "U1NFS178D",
+        "text": "<@U1NFS178D|maria> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475891351.000002"
+    }
+]

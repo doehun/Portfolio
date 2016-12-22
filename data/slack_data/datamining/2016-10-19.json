@@ -1,0 +1,28 @@
+[
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "does anyone have an issue where they don't get misclassification rate in the results window",
+        "ts": "1476891615.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "make sure you made your target nominal <@U1KR9BP0E>",
+        "ts": "1476892004.000006"
+    },
+    {
+        "user": "U1L6WB44A",
+        "text": "<@U1L6WB44A|ekdoyel> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476906908.000007"
+    },
+    {
+        "user": "U1L6XBH6W",
+        "text": "<@U1L6XBH6W|shannon_muldoon> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476920001.000008"
+    }
+]

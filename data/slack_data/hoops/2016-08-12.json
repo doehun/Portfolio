@@ -1,0 +1,32 @@
+[
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "I think I could do tomorrow at 12:30 too. Are others coming?",
+        "ts": "1471013982.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "I'll be there",
+        "ts": "1471017921.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "Anybody want to play today at 2 or 3?",
+        "ts": "1471019782.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "I can't today ",
+        "ts": "1471028365.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1KR80QMS",
+        "text": "I'm trying to get a sense of how many we will have tomorrow at 12:30. So far it's me, <@U1KRE1L9M> and <@U1KT9ATA5> . If you're planning on it do you Mind responding so we can see how many we have? Thanks!",
+        "ts": "1471059891.000020"
+    }
+]

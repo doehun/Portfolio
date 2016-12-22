@@ -1,0 +1,68 @@
+[
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "I was going over the code from the time series stationary class (9\/16). I couldn't get part of labarr's code to work. \n\nQuad.Model &lt;- Arima(Lead.Year$Primary, order=c(0,0,0), xreg = cbind(Lead.Year$Date,  I(Lead.Year$Date^2)))",
+        "ts": "1474766431.000015"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "I got this error: Error in solve.default(res$hessian * n.used, A) : system is computationally singular: reciprocal condition number = 1.08863e-17",
+        "ts": "1474766450.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "Does anyone know how to get this to work or is it an issue with the data?",
+        "ts": "1474766468.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "Mine doesn't work either but it actually gives me a different error.",
+        "ts": "1474766653.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "Mine says: Error in stats::arima(x = x, order = order, seasonal = seasonal, xreg = xreg,  : \n  lengths of 'x' and 'xreg' do not match",
+        "ts": "1474766663.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "I changed Lead.Year$Time to Lead.Year$Date so it would run.",
+        "ts": "1474766813.000020"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "$Time doesn't seem to be in the data.",
+        "ts": "1474766827.000021"
+    },
+    {
+        "type": "message",
+        "user": "U1L0V1X61",
+        "text": "Yes - he had asked us to change that during class",
+        "ts": "1474766884.000022"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "Yup, that'll do it.  Missed that part.",
+        "ts": "1474766912.000023"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "Were you able to get it to run?",
+        "ts": "1474768068.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "No, I get the same error you did now",
+        "ts": "1474768501.000025"
+    }
+]

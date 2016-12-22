@@ -1,0 +1,65 @@
+[
+    {
+        "user": "U1LMHQY9E",
+        "text": "<@U1LMHQY9E|pmaychek> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475263264.000002"
+    },
+    {
+        "user": "U1KRNH021",
+        "text": "<@U1KRNH021|sneha_komma> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475263604.000003"
+    },
+    {
+        "user": "U1M7AD5L2",
+        "text": "<@U1M7AD5L2|kelly> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475263700.000004"
+    },
+    {
+        "user": "U1KQ9523D",
+        "text": "<@U1KQ9523D|lisaholbach> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475264119.000005"
+    },
+    {
+        "user": "U1KS4UE2F",
+        "text": "<@U1KS4UE2F|edward_lim> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475264914.000006"
+    },
+    {
+        "user": "U1KQTJ6BV",
+        "text": "<@U1KQTJ6BV|andreazadia> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475272095.000007"
+    },
+    {
+        "user": "U1KRWUXFU",
+        "text": "<@U1KRWUXFU|jdemarest> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475281384.000008"
+    },
+    {
+        "user": "U1KT3UELS",
+        "text": "<@U1KT3UELS|clareburns> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475287162.000009"
+    },
+    {
+        "user": "U1KR891RC",
+        "text": "<@U1KR891RC|fkaiser> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475293045.000010"
+    }
+]

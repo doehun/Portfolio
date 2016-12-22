@@ -1,0 +1,43 @@
+[
+    {
+        "type": "message",
+        "user": "U1L3K1AKD",
+        "text": "Anyone has any brunch places to recommend?",
+        "ts": "1472393549.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRMNVGC",
+        "text": "Joule coffee in downtown in awesome.",
+        "ts": "1472393753.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "Tupelo Honey Cafe in Cameron Village has a pretty good brunch menu and they do great specials on mimosas some weekends! (Priorities)",
+        "ts": "1472394126.000004",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1LAAMJ0M",
+                    "U1L41DF9D"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U1L41DF9D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L3K1AKD",
+        "text": "Thanks guys!!",
+        "ts": "1472394163.000005"
+    }
+]

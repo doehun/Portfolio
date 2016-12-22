@@ -1,0 +1,366 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "Lots of fun, useless facts! <https:\/\/www.reddit.com\/r\/AskReddit\/comments\/55sz7g\/whats_some_very_informative_but_practically\/>",
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "What's some very informative but practically useless information you'd like to share? \u2022 \/r\/AskReddit",
+                "title_link": "https:\/\/www.reddit.com\/r\/AskReddit\/comments\/55sz7g\/whats_some_very_informative_but_practically\/",
+                "text": "5260 points and 14528 comments so far on reddit",
+                "fallback": "reddit: What's some very informative but practically useless information you'd like to share? \u2022 \/r\/AskReddit",
+                "thumb_url": "https:\/\/www.redditstatic.com\/icon.png",
+                "from_url": "https:\/\/www.reddit.com\/r\/AskReddit\/comments\/55sz7g\/whats_some_very_informative_but_practically\/",
+                "thumb_width": 256,
+                "thumb_height": 256,
+                "service_icon": "https:\/\/www.reddit.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1475669072.000361"
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "I really hope they don\u2019t close The Alley while we\u2019re here <http:\/\/www.bizjournals.com\/triangle\/news\/2016\/09\/30\/target-raleigh-hillsborough-street.html>",
+        "ts": "1475671169.000363",
+        "reactions": [
+            {
+                "name": "cold_sweat",
+                "users": [
+                    "U1KRWUXFU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1NDG6ULB",
+        "text": "Take the moral machine simulator\n<http:\/\/moralmachine.mit.edu\/>",
+        "attachments": [
+            {
+                "title": "Moral Machine",
+                "title_link": "http:\/\/moralmachine.mit.edu\/",
+                "text": "A platform for public participation in and discussion of the human perspective on machine-made moral decisions",
+                "fallback": "Moral Machine",
+                "thumb_url": "http:\/\/moralmachine.mit.edu\/images\/teaser.jpg",
+                "from_url": "http:\/\/moralmachine.mit.edu\/",
+                "thumb_width": 570,
+                "thumb_height": 423,
+                "service_icon": "http:\/\/moralmachine.mit.edu\/images\/favicon.ico",
+                "service_name": "Moral Machine",
+                "id": 1
+            }
+        ],
+        "ts": "1475672461.000364"
+    },
+    {
+        "type": "message",
+        "user": "U1KT5F4SZ",
+        "text": "<@U1NDG6ULB> that is a brutal questionaire",
+        "ts": "1475674605.000366"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "<@U1NDG6ULB> yeah I agree with Hannah.  I feel pretty awful about myself after that.",
+        "ts": "1475674629.000367"
+    },
+    {
+        "type": "message",
+        "user": "U1PM77VSS",
+        "text": "I killed lots of old people apparently",
+        "ts": "1475674674.000368"
+    },
+    {
+        "type": "message",
+        "user": "U1NDG6ULB",
+        "text": "Sometimes you have to kill the old people to save the youth.",
+        "ts": "1475674693.000369",
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U1KRLV1CG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "skull_and_crossbones",
+                "users": [
+                    "U1L6YQUSU",
+                    "U1L2P17DZ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I wept inside with each choice.",
+        "ts": "1475674814.000370"
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "The ones with the dogs :cry: these are such awful scenarios!",
+        "ts": "1475674855.000371"
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "Also why are animals in self driving cars on their own, like I would just love to hear the background on that",
+        "ts": "1475674940.000372",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KT9ATA5",
+                    "U1L7E8GSU",
+                    "U1KT5F4SZ",
+                    "U1KRB11QC"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "In case you need to send them to the vet and your schedule is busy that day <@U1LBRCSEA>",
+        "ts": "1475674964.000373",
+        "reactions": [
+            {
+                "name": "wolf",
+                "users": [
+                    "U1L2P17DZ",
+                    "U1LBRCSEA",
+                    "U1NUU2U9E"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1MH8UXHD",
+        "text": "If i could put my dog in a car to come visit me in undergrad I would have in a heartbeat",
+        "ts": "1475675004.000374",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KT9ATA5",
+                    "U1L7E8GSU",
+                    "U1LBRCSEA",
+                    "U1L2P17DZ"
+                ],
+                "count": 4
+            },
+            {
+                "name": "dog",
+                "users": [
+                    "U1L6YQUSU",
+                    "U1KRB11QC",
+                    "U1KT3UELS"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRB11QC",
+        "text": "Here is an interesting article about how these types of decisions are programmed. <https:\/\/www.wired.com\/2016\/06\/self-driving-cars-will-power-kill-wont-conscience\/>",
+        "attachments": [
+            {
+                "service_name": "WIRED",
+                "title": "When AI-powered cars learn to drive themselves, they're also going to have to learn morals",
+                "title_link": "https:\/\/www.wired.com\/2016\/06\/self-driving-cars-will-power-kill-wont-conscience\/",
+                "text": "You've heard of the trolley problem? It's how philosophers talk about moral trade-offs\u2014kill five people in a trolley crash or avoid them and kill just one. Is that OK? But wait. Before you answer, ask yourself if you'd rather decide, or if you're OK with your self-driving car deciding for you.",
+                "fallback": "WIRED: When AI-powered cars learn to drive themselves, they're also going to have to learn morals",
+                "image_url": "https:\/\/www.wired.com\/wp-content\/uploads\/2016\/06\/selfdriving-car-gallery2-660x495.jpg",
+                "image_width": 333,
+                "image_height": 250,
+                "from_url": "https:\/\/www.wired.com\/2016\/06\/self-driving-cars-will-power-kill-wont-conscience\/",
+                "image_bytes": 71977,
+                "service_icon": "https:\/\/www.wired.com\/wp-content\/themes\/Phoenix\/assets\/images\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "ts": "1475676648.000387"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "<@U1NDG6ULB> <http:\/\/cs6.pikabu.ru\/images\/big_size_comm\/2015-05_4\/14318754543877.jpg>",
+        "attachments": [
+            {
+                "fallback": "900x900px image",
+                "image_url": "http:\/\/cs6.pikabu.ru\/images\/big_size_comm\/2015-05_4\/14318754543877.jpg",
+                "image_width": 900,
+                "image_height": 900,
+                "image_bytes": 101940,
+                "from_url": "http:\/\/cs6.pikabu.ru\/images\/big_size_comm\/2015-05_4\/14318754543877.jpg",
+                "id": 1
+            }
+        ],
+        "ts": "1475677037.000389"
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "On Wednesdays we wear salmon",
+        "ts": "1475678010.000393",
+        "reactions": [
+            {
+                "name": "blush",
+                "users": [
+                    "U1L914KNJ",
+                    "U1KRWUXFU",
+                    "U1KQGRG2F",
+                    "U1KT3UELS",
+                    "U1L415ECD"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "this is old but random <http:\/\/www.clickhole.com\/article\/we-asked-22-science-teachers-about-longest-name-al-2550>",
+        "attachments": [
+            {
+                "title": "We Asked 22 Science Teachers About The Longest Name For Albert Einstein They Ever Taught Their Students",
+                "title_link": "http:\/\/www.clickhole.com\/article\/we-asked-22-science-teachers-about-longest-name-al-2550",
+                "text": "Twenty-two science teachers. One simple question: What was the longest name for Albert Einstein you ever taught your students?",
+                "fallback": "We Asked 22 Science Teachers About The Longest Name For Albert Einstein They Ever Taught Their Students",
+                "image_url": "http:\/\/images.onionstatic.com\/clickhole\/1402\/7\/16x9\/1200.jpg",
+                "ts": 1433262420,
+                "from_url": "http:\/\/www.clickhole.com\/article\/we-asked-22-science-teachers-about-longest-name-al-2550",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 114909,
+                "service_icon": "http:\/\/assets3.onionstatic.com\/onionstatic\/clickhole\/static\/img\/favicon.13ad9186fe79.ico",
+                "service_name": "clickhole.com",
+                "id": 1
+            }
+        ],
+        "ts": "1475678795.000401"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "lol their reactions were all the thoughts running through my head before i decided to click",
+        "ts": "1475678892.000403"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "your neighborhood random person with a joke from the front page of reddit:\nDid you know you can tell the gender of an ant by throwing it in water? -- if it sinks, girl ant; if it floats, buoyant",
+        "ts": "1475681801.000405",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KRB11QC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "astonished",
+                "users": [
+                    "U1KS4UE2F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Pressing the submit button during the certification exam had me like: <https:\/\/media1.giphy.com\/media\/LRVnPYqM8DLag\/200_s.gif>",
+        "attachments": [
+            {
+                "fallback": "357x200px image",
+                "image_url": "https:\/\/media1.giphy.com\/media\/LRVnPYqM8DLag\/200_s.gif",
+                "image_width": 357,
+                "image_height": 200,
+                "image_bytes": 53106,
+                "from_url": "https:\/\/media1.giphy.com\/media\/LRVnPYqM8DLag\/200_s.gif",
+                "id": 1
+            }
+        ],
+        "ts": "1475695068.000410",
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1L41DF9D",
+                    "U1LMHQY9E",
+                    "U1KT9ATA5",
+                    "U1KRZT11T",
+                    "U1L7G5LR4",
+                    "U1KRQLFLY",
+                    "U1L93SMGF"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "But seeing the results had me like:\n<https:\/\/media.tenor.co\/images\/195f06fd7941802cd1f5307dd3697186\/raw>",
+        "attachments": [
+            {
+                "fallback": "460x336px image",
+                "image_url": "https:\/\/media.tenor.co\/images\/195f06fd7941802cd1f5307dd3697186\/raw",
+                "image_width": 460,
+                "image_height": 336,
+                "image_bytes": 3561711,
+                "is_animated": true,
+                "from_url": "https:\/\/media.tenor.co\/images\/195f06fd7941802cd1f5307dd3697186\/raw",
+                "id": 1
+            }
+        ],
+        "ts": "1475695140.000412",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1NUU2U9E",
+                    "U1M7AD5L2",
+                    "U1L41DF9D",
+                    "U1L2P17DZ",
+                    "U1KRB11QC",
+                    "U1KRLV1CG",
+                    "U1KT9ATA5",
+                    "U1MBURU4D",
+                    "U1L7G5LR4"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "seeing all these happy posts\/hearing all these happy convos gives me hope",
+        "ts": "1475695515.000414",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KT9ATA5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

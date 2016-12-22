@@ -1,0 +1,91 @@
+[
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "Hey everyone were trying to make a plan for buying tickets. There a really limited number of tickets left so we are planning on buying them all together today and then people can pay back. ",
+        "ts": "1468427630.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1L415ECD",
+        "text": "So we need to know who is committed to going, tickets are $40 and since there so few tickets left were getting tickets pretty far in the back but it's the cheapest available and we can all sit together. ",
+        "ts": "1468427684.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1L4RTKCM",
+        "text": "Two please!",
+        "ts": "1468427764.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KSEJ01W",
+        "text": "I'm gonna go for sure ",
+        "ts": "1468436311.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1KSYP1M5",
+        "text": "If it's not too late, I would like a a ticket too! ",
+        "ts": "1468437773.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "I am in :) ",
+        "ts": "1468437808.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "I'm in as well ",
+        "ts": "1468438236.000008"
+    },
+    {
+        "user": "U1NDG6ULB",
+        "text": "<@U1NDG6ULB|cgreene> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468439256.000009"
+    },
+    {
+        "type": "message",
+        "user": "U1KR891RC",
+        "text": "I'm in!",
+        "ts": "1468454144.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1KRBFY3Z",
+        "text": "Hey everybody! I got us the tickets so we're good to go. They ended up being $45 after taxes and fees and such. You can give me cash or pay through venmo (@sylvie-brick) whenever you get a chance. So excited gonna be so much fun! ",
+        "ts": "1468456713.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "Thank you. ",
+        "ts": "1468457387.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "Thank you Sylvie.",
+        "ts": "1468458410.000005",
+        "reactions": [
+            {
+                "name": "hugging_face",
+                "users": [
+                    "U1KRBFY3Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1NDG6ULB",
+        "text": "<@U1NDG6ULB|cgreene> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1468462673.000006"
+    }
+]

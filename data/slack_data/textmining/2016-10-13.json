@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U1KRB11QC",
+        "text": "<@U1KRB11QC|dsjorda2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476370795.000002"
+    },
+    {
+        "user": "U1L93SMGF",
+        "text": "<@U1L93SMGF|eric.reidelbach> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476382769.000003"
+    },
+    {
+        "user": "U1KVBARR9",
+        "text": "<@U1KVBARR9|sneha.bhalodia> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476400566.000004"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "user": "U1Q5GHC2J",
+        "text": "<@U1Q5GHC2J|rwang10> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473085154.000012"
+    },
+    {
+        "type": "message",
+        "user": "U1Q5GHC2J",
+        "text": "Great idea  to have this new channel!",
+        "ts": "1473085170.000013",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U1L0RBZFH",
+                    "U1KRB11QC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U1L5GU954",
+        "text": "<@U1L5GU954|jrweston> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473094397.000014"
+    },
+    {
+        "user": "U1L0RBZFH",
+        "text": "<@U1L0RBZFH|caroline-hughes> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473107879.000015"
+    }
+]

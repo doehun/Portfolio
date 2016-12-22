@@ -1,0 +1,147 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Happy thanksgiving everyone :turkey: . We all have a lot to be thankful for!",
+        "ts": "1479990728.002703",
+        "reactions": [
+            {
+                "name": "turkey",
+                "users": [
+                    "U1KRB11QC",
+                    "U1L97TR38",
+                    "U1KRSV7AN",
+                    "U1LMHQY9E",
+                    "U1L735VD4",
+                    "U1L41DF9D",
+                    "U1L1D4WG7",
+                    "U1KSBCBFG",
+                    "U1KR891RC",
+                    "U1KRNHQA1",
+                    "U1KVBARR9",
+                    "U1KRMNVGC",
+                    "U1KSL7L7R",
+                    "U1LBRCSEA",
+                    "U1KQGRG2F",
+                    "U1KQTJ6BV",
+                    "U1KS4UE2F",
+                    "U1KT3UELS",
+                    "U1KQ9523D",
+                    "U1NFS178D",
+                    "U1KRWUXFU",
+                    "U1KRE1L9M",
+                    "U1PN82U67",
+                    "U1Q5GHC2J",
+                    "U1KRHCR7T",
+                    "U1L5GU954",
+                    "U1KQGK2CB",
+                    "U1KRNH021",
+                    "U1NUU2U9E",
+                    "U1P8QBBD1",
+                    "U1L2P17DZ"
+                ],
+                "count": 31
+            },
+            {
+                "name": "toboggan",
+                "users": [
+                    "U1L6YQUSU",
+                    "U1KT9ATA5",
+                    "U1Q5GHC2J"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1KRB11QC|dsjorda2> uploaded a file: <https:\/\/msa17.slack.com\/files\/dsjorda2\/F37GZ8KT9\/happy_thanksgiving.jpg|Happy Thanksgiving>",
+        "file": {
+            "id": "F37GZ8KT9",
+            "created": 1480017322,
+            "timestamp": 1480017322,
+            "name": "Happy Thanksgiving.jpg",
+            "title": "Happy Thanksgiving",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U1KRB11QC",
+            "editable": false,
+            "size": 133398,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F37GZ8KT9\/happy_thanksgiving.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T1KRCES8H-F37GZ8KT9\/download\/happy_thanksgiving.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F37GZ8KT9-204545a7c9\/happy_thanksgiving_64.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F37GZ8KT9-204545a7c9\/happy_thanksgiving_80.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F37GZ8KT9-204545a7c9\/happy_thanksgiving_360.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_360_w": 360,
+            "thumb_360_h": 293,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F37GZ8KT9-204545a7c9\/happy_thanksgiving_480.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_480_w": 480,
+            "thumb_480_h": 390,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F37GZ8KT9-204545a7c9\/happy_thanksgiving_160.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T1KRCES8H-F37GZ8KT9-204545a7c9\/happy_thanksgiving_720.jpg?t=xoxe-53862502289-109841328486-109252877029-d58dd5c0fd",
+            "thumb_720_w": 720,
+            "thumb_720_h": 586,
+            "image_exif_rotation": 1,
+            "original_w": 750,
+            "original_h": 610,
+            "permalink": "https:\/\/msa17.slack.com\/files\/dsjorda2\/F37GZ8KT9\/happy_thanksgiving.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T1KRCES8H-F37GZ8KT9-bf65ae6805",
+            "channels": [
+                "C1KR6TMD3"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0,
+            "reactions": [
+                {
+                    "name": "raised_hands",
+                    "users": [
+                        "U1KRZT11T",
+                        "U1LMHQY9E"
+                    ],
+                    "count": 2
+                },
+                {
+                    "name": "nerd_face",
+                    "users": [
+                        "U1KRNHQA1",
+                        "U1KQGK2CB",
+                        "U1LMHQY9E",
+                        "U1L6YQUSU",
+                        "U1KS4UE2F",
+                        "U1KQ9523D",
+                        "U1KT9ATA5",
+                        "U1P8QBBD1",
+                        "U1KSL7L7R",
+                        "U1NFS178D",
+                        "U1L0V1X61",
+                        "U1L3G0YRJ"
+                    ],
+                    "count": 12
+                },
+                {
+                    "name": "thinking_face",
+                    "users": [
+                        "U1L7G5LR4"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        "user": "U1KRB11QC",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1KRB11QC|dsjorda2>",
+        "bot_id": null,
+        "ts": "1480017325.002704"
+    }
+]

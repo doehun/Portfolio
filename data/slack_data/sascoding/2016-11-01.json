@@ -1,0 +1,96 @@
+[
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "any advice on what's good to study for the business analyst cert exam?",
+        "ts": "1478049425.000315"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "elearnings i think were pretty useful",
+        "ts": "1478049532.000316"
+    },
+    {
+        "type": "message",
+        "user": "U1L7ERY77",
+        "text": "the practice exam that caroline sent out was pretty good <@U1LMHQY9E>",
+        "ts": "1478049674.000317"
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "+2 to that practice exam!",
+        "ts": "1478049689.000318"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "right on, is the practice exam still on here? or was it archived? or does somebody happen to have it?",
+        "ts": "1478049728.000319"
+    },
+    {
+        "type": "message",
+        "user": "U1L7ERY77",
+        "text": "ill dm you the files",
+        "ts": "1478049740.000320"
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "YES! that practice exam had atleast 10 questions that i got on the real one! thanks to Caroline haha",
+        "ts": "1478049919.000321"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "i appreciate all of your support through my delayed venture through this exam",
+        "ts": "1478049987.000322",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L7ERY77",
+                    "U1L9DD1NY",
+                    "U1L1WFNC8"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "Phil I mailed you the practice test :)",
+        "ts": "1478050125.000323"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "thanks!",
+        "ts": "1478050238.000324"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "<@U1KRNH021>  Can I get a copy as well?  <@U1LMHQY9E>  I'm with you, buddy!  Let's do some study sessions.",
+        "ts": "1478051615.000326",
+        "reactions": [
+            {
+                "name": "books",
+                "users": [
+                    "U1LMHQY9E",
+                    "U1KRWJB7S",
+                    "U1KR9BP0E"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "Sure.",
+        "ts": "1478051677.000327"
+    }
+]

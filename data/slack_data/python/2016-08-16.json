@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1L46HXCJ",
+        "text": "<@U1L46HXCJ|kateykilmer> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471358033.000002"
+    },
+    {
+        "user": "U1N04S4LV",
+        "text": "<@U1N04S4LV|vsingh5> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471386364.000003"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "a friendly reminder that presentations start at 8:30 instead of 9 tomorrow morning!",
+        "ts": "1477340547.000027",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1N43E3E0",
+                    "U1KRB11QC",
+                    "U1NUU2U9E",
+                    "U1KQGRG2F",
+                    "U1KRE1L9M"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

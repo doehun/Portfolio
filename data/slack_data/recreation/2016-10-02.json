@@ -1,0 +1,18 @@
+[
+    {
+        "type": "message",
+        "user": "U1LDKB3AN",
+        "text": "Where are the soccer people?",
+        "ts": "1475444051.000022",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1KRNHQA1"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,577 @@
+[
+    {
+        "user": "U1L0K4RQ8",
+        "text": "<@U1L0K4RQ8|sakimel> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475065570.000041"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "<@U1N43E3E0> It's false because PCA minimizes orthogonal distance, not vertical distance",
+        "ts": "1475069247.000043",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KT9ATA5",
+                    "U1KRNH021",
+                    "U1L5GU954",
+                    "U1KQGRG2F",
+                    "U1LBRCSEA",
+                    "U1L0V1X61",
+                    "U1KRLV1CG",
+                    "U1KSL7L7R"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Oh okay cool thanks Julia!",
+        "ts": "1475069398.000044",
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U1KRWUXFU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1L7ERY77",
+        "text": "<@U1L7ERY77|maxwarburg> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475074172.000045"
+    },
+    {
+        "user": "U1KT5F4SZ",
+        "text": "<@U1KT5F4SZ|hannahh> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475077796.000046"
+    },
+    {
+        "user": "U23JW15TP",
+        "text": "<@U23JW15TP|spanago> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475089921.000047"
+    },
+    {
+        "user": "U1L97TR38",
+        "text": "<@U1L97TR38|scottdiebold> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475090313.000048"
+    },
+    {
+        "user": "U1L9669PD",
+        "text": "<@U1L9669PD|pmartin> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475090334.000049"
+    },
+    {
+        "user": "U1Q7LP4V9",
+        "text": "<@U1Q7LP4V9|jestover> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475090465.000050"
+    },
+    {
+        "user": "U1PN82U67",
+        "text": "<@U1PN82U67|xiehong> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475091800.000051"
+    },
+    {
+        "user": "U1KT3UELS",
+        "text": "<@U1KT3UELS|clareburns> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475091860.000052"
+    },
+    {
+        "user": "U1KSH8676",
+        "text": "<@U1KSH8676|ejmaxon> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475091874.000053"
+    },
+    {
+        "user": "U1KRWJB7S",
+        "text": "<@U1KRWJB7S|brandon_mayer> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475091941.000054"
+    },
+    {
+        "user": "U1L5GU954",
+        "text": "<@U1L5GU954|jrweston> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475092148.000055"
+    },
+    {
+        "user": "U1LJRDPLP",
+        "text": "<@U1LJRDPLP|alexhorowitz> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475094264.000056"
+    },
+    {
+        "user": "U1KS1BFED",
+        "text": "<@U1KS1BFED|doug_nicholson> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475094423.000057"
+    },
+    {
+        "user": "U1L2QDX7Y",
+        "text": "<@U1L2QDX7Y|semoore9> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475094699.000058"
+    },
+    {
+        "user": "U1KQGRG2F",
+        "text": "<@U1KQGRG2F|annabelytics> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475094996.000059"
+    },
+    {
+        "user": "U1KRLV1CG",
+        "text": "<@U1KRLV1CG|ioannis_loukakis> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475095098.000060"
+    },
+    {
+        "type": "message",
+        "user": "U1P8QBBD1",
+        "text": "Can anyone see their linear algebra quizzes?",
+        "ts": "1475101342.000061"
+    },
+    {
+        "type": "message",
+        "user": "U1P8QBBD1",
+        "text": "Mine aren\u2019t showing up anymore\u2026.",
+        "ts": "1475101354.000062"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "Mine says I have to take it again to see the answers.",
+        "ts": "1475101423.000063"
+    },
+    {
+        "type": "message",
+        "user": "U1L1WFNC8",
+        "text": "I can't see my attempts",
+        "ts": "1475101425.000064"
+    },
+    {
+        "type": "message",
+        "user": "U1P8QBBD1",
+        "text": "Ahh okay. That\u2019s what mine is doing, too.",
+        "ts": "1475101486.000065"
+    },
+    {
+        "type": "message",
+        "user": "U1P8QBBD1",
+        "text": "I was kind of worried for a bit, because the grades aren\u2019t there anymore either.",
+        "ts": "1475101533.000066"
+    },
+    {
+        "type": "message",
+        "user": "U1L1WFNC8",
+        "text": "If you take it again, does it show you what you got right and wrong?",
+        "ts": "1475101930.000067"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "You can't see your old answers, but if you retake the quizzes it would immediately show you what you got right and wrong.  I actually liked it because it gave me the opportunity to check what I did\/didn't remember.",
+        "ts": "1475101988.000068"
+    },
+    {
+        "type": "message",
+        "user": "U1L1WFNC8",
+        "text": "<@U1N43E3E0> awesome, Thanks!  That is cool, makes it more realistic",
+        "ts": "1475102070.000069"
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "<@U1N43E3E0> <@U1L1WFNC8> this is probably a stupid question, but do you think it would overwrite our grades from when we took the quizzes previously?",
+        "ts": "1475102306.000070"
+    },
+    {
+        "type": "message",
+        "user": "U1L1WFNC8",
+        "text": "<@U1L914KNJ> I hope not, but then again, I do know more now than when I took them previously haha",
+        "edited": {
+            "user": "U1L1WFNC8",
+            "ts": "1475102441.000000"
+        },
+        "ts": "1475102388.000071"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "<@U1L914KNJ> No idea, I would ask Dr Race if you're nervous.  I ended up doing better the second time around even though I wasn't really trying as hard.",
+        "ts": "1475102478.000073"
+    },
+    {
+        "type": "message",
+        "user": "U1KRLV1CG",
+        "text": "Black lives matter. Grades don't",
+        "ts": "1475102609.000074",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U1L914KNJ",
+                    "U1L9DD1NY",
+                    "U1KRTHAQZ",
+                    "U1KSL7L7R",
+                    "U1KRBFY3Z"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "It won't overwrite your earlier grade attempts <@U1L914KNJ>.  Also if I remember correctly, Dr. Race said they aren't graded.",
+        "ts": "1475102671.000075"
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "so true -she did definitely say that she does not care how we do on the quizzes (I just re-heard that part in the first lecture!)",
+        "ts": "1475102719.000076"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "whaaaaat",
+        "ts": "1475102738.000077"
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "wow that is such great news! Missing one question is like an 83 on those quizzes!!!",
+        "ts": "1475103597.000078"
+    },
+    {
+        "type": "message",
+        "user": "U1KT3UELS",
+        "text": "<@U1L914KNJ> I saw on Moodle that the quizzes are set to take the \"first attempt\" as the grade if that helps!",
+        "ts": "1475104007.000079",
+        "reactions": [
+            {
+                "name": "squirrel",
+                "users": [
+                    "U1L914KNJ",
+                    "U1P8QBBD1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "<!channel> I talked to dr race abt it today. Ur old grades don't disappear. Someone asked her if she could open up the quizzes in a way that they could take them again to test themselves so that's what she did ",
+        "ts": "1475104541.000080"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR1MS4",
+        "text": "Will we have formula sheets for the exam tomorrow?",
+        "edited": {
+            "user": "U1KSR1MS4",
+            "ts": "1475108073.000000"
+        },
+        "ts": "1475107929.000085"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "No <@U1KSR1MS4> she said we won't have any",
+        "ts": "1475108442.000087"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR1MS4",
+        "text": "<@U1L9DD1NY>: thanks!",
+        "ts": "1475108479.000088"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Wait nevermind got it lol ",
+        "ts": "1475108573.000090",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KT9ATA5",
+                    "U1L6YQUSU"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U1PF7HWTF",
+        "text": "<@U1PF7HWTF|nickweimer> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475109185.000091"
+    },
+    {
+        "user": "U1LMHQY9E",
+        "text": "<@U1LMHQY9E|pmaychek> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475109477.000092"
+    },
+    {
+        "type": "message",
+        "user": "U1LMHQY9E",
+        "text": "what types of questions should we expect? i'm just going through each of the worksheets, quizzes were similar to those... any suggestions?",
+        "ts": "1475109572.000093"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "im reviewing both. worksheets for calculations, quizzes for more theoretical stuff",
+        "ts": "1475109711.000094"
+    },
+    {
+        "type": "message",
+        "user": "U1KSL7L7R",
+        "text": "The jeopardy questions would be good too, I'm going to go through those after the worksheets and quizzes",
+        "ts": "1475109811.000095"
+    },
+    {
+        "type": "message",
+        "user": "U1KSR1MS4",
+        "text": "Can someone help me understand why the jeopardy answer is true but the slides say orthogonal does not mean independent? :",
+        "ts": "1475110208.000096"
+    },
+    {
+        "type": "message",
+        "user": "U1KRLV1CG",
+        "text": "If they are mutually orthogonal it is impossible to express one vector in terms of the others so they have to be independent",
+        "ts": "1475110355.000099"
+    },
+    {
+        "type": "message",
+        "user": "U1KRLV1CG",
+        "text": "Interesting finding <@U1KSR1MS4> :thinking_face:",
+        "ts": "1475110480.000100"
+    },
+    {
+        "type": "message",
+        "user": "U1KSYP1M5",
+        "text": "For those slides I have in my notes that orthogonal vectors are independent of each other, which means that they are completely uncorrelated. This means that they do not have a linear relationship. However, two vectors that are uncorrelated does not necessarily mean they are independent because they could have a quadratic relationship or of some other function. I think that's what she means here but the slides are confusing in format. Correct me if I am wrong  ",
+        "ts": "1475110594.000101",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1KRWJB7S",
+                    "U1KSR1MS4",
+                    "U1KRB11QC",
+                    "U1L914KNJ",
+                    "U1KSL7L7R",
+                    "U1KRF9BAP",
+                    "U1LBRCSEA",
+                    "U1L5GU954",
+                    "U1L735VD4",
+                    "U1P8QBBD1",
+                    "U1KSH8676",
+                    "U1Q5GHC2J",
+                    "U1KRE1L9M"
+                ],
+                "count": 14
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L914KNJ",
+        "text": "<@U1KSR1MS4> I just rewatched that lecture and I think <@U1KSYP1M5> got it exactly right",
+        "ts": "1475110621.000102",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1KRB11QC",
+                    "U1P8QBBD1"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSR1MS4",
+        "text": "Thanks <@U1KRLV1CG> <@U1KSYP1M5> <@U1L914KNJ>\n\nMakes sense",
+        "ts": "1475110727.000103"
+    },
+    {
+        "type": "message",
+        "user": "U1KRF9BAP",
+        "text": "Linearly independent means that the vectors cannot be expressed as a linear combination of the other vectors.  You couldn't create a vector by adding together any number of vectors that are orthogonal to it.  The use of independence in the slides refers to the statistical interpretation of independence, not linearly independent.",
+        "ts": "1475110758.000104",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U1L914KNJ",
+                    "U1KSR1MS4",
+                    "U1KRLV1CG",
+                    "U1KSYP1M5",
+                    "U1KT2JJE8",
+                    "U1LJRDPLP",
+                    "U1KRNHQA1",
+                    "U1L41DF9D",
+                    "U1LBRCSEA",
+                    "U1KRB11QC",
+                    "U1P8QBBD1",
+                    "U1KSL7L7R",
+                    "U1L0RBZFH",
+                    "U1KRE1L9M",
+                    "U1L9DD1NY"
+                ],
+                "count": 15
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSEJ01W",
+        "text": "Does anyone know if the svd chapter is going to be tested? I know she said the big takeaway is that pca is a special case of svd but anything beyond that? ",
+        "ts": "1475110912.000105"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "<@U1KSR1MS4> go about 22 minutes into the second lecture for your answer.  Basically the key word is \"linearly\" independent.  They can still be dependent on each other in a non-linear way.",
+        "ts": "1475112596.000106"
+    },
+    {
+        "type": "message",
+        "user": "U1N43E3E0",
+        "text": "Woah sorry guys, for some reason my slack didn't update.  Didn't know that this was already answered.",
+        "ts": "1475112640.000107"
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "<@U1KSEJ01W>, I was wondering that too, since there's no worksheet or quiz for it.",
+        "ts": "1475113059.000108"
+    },
+    {
+        "type": "message",
+        "user": "U1KSEJ01W",
+        "text": "<@U1KT2JJE8> I would imagine it wont be, or maybe just one question because there was no worksheet or quiz for it, but like i said i have no idea",
+        "ts": "1475113982.000116"
+    },
+    {
+        "user": "U1KRTU0UQ",
+        "text": "<@U1KRTU0UQ|catherinebarnes> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475115265.000123"
+    },
+    {
+        "type": "message",
+        "user": "U1KT9ATA5",
+        "text": "calling it quits...good luck tomorrow!",
+        "ts": "1475117611.000126",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U1KSL7L7R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRE1L9M",
+        "text": "Remember, any answer that includes the eigenvalues of the data matrix will NOT be the right answer (because the data matrix will likely not be square).",
+        "ts": "1475118244.000127",
+        "reactions": [
+            {
+                "name": "information_desk_person",
+                "users": [
+                    "U1N43E3E0",
+                    "U1L9DD1NY",
+                    "U1L735VD4"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U1KQYG6SJ",
+                    "U1LDKB3AN"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Sooo can someone explain the difference between factor analysis and PCA? Having trouble figuring out the main difference between the two and I can't find the factor analysis slides ",
+        "ts": "1475119303.000129"
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "you know the stuff from the factor analysis lecture is not on the test, right?",
+        "ts": "1475119358.000130"
+    },
+    {
+        "type": "message",
+        "user": "U1L9DD1NY",
+        "text": "Yes just curious haha",
+        "ts": "1475119368.000131"
+    },
+    {
+        "type": "message",
+        "user": "U1KT2JJE8",
+        "text": "the way I understand it, factor analysis involves rotation of the principal components to get to a basis that is more interpretable in terms of the original variables.",
+        "ts": "1475119467.000132",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L9DD1NY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

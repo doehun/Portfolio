@@ -1,0 +1,24 @@
+[
+    {
+        "type": "message",
+        "user": "U1L93SMGF",
+        "text": "My cousin recently announced a kickstarter that may be of interest to those of you who enjoy card (or board) games:  \n\n<https:\/\/www.kickstarter.com\/projects\/1575905346\/rules-twist-hilarious-house-rules-for-board-and-ca>",
+        "attachments": [
+            {
+                "service_name": "Kickstarter",
+                "title": "Rules Twist - Hilarious House Rules for Board &amp; Card Games",
+                "title_link": "https:\/\/www.kickstarter.com\/projects\/1575905346\/rules-twist-hilarious-house-rules-for-board-and-ca",
+                "text": "Play classic games with a Twist! Easily add hilarious house rules to any board or card game. You won't play without Rules Twist again",
+                "fallback": "Kickstarter: Rules Twist - Hilarious House Rules for Board &amp; Card Games",
+                "image_url": "https:\/\/ksr-ugc.imgix.net\/assets\/013\/557\/419\/51ff48a711d79b44e2a23863db45a8c2_original.png?w=1536&h=864&fit=fill&bg=000000&v=1473286274&auto=format&q=92&s=1a1ccf4e5f77aa19c5eafa2fd12fa2ff",
+                "image_width": 444,
+                "image_height": 250,
+                "from_url": "https:\/\/www.kickstarter.com\/projects\/1575905346\/rules-twist-hilarious-house-rules-for-board-and-ca",
+                "image_bytes": 1423231,
+                "service_icon": "https:\/\/www.kickstarter.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1477358464.000002"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "Blue teams wins the linear algebra quiz :)",
+        "ts": "1474564668.000007",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U1M1L5G6L",
+                    "U1KT3UELS",
+                    "U1L7ERY77",
+                    "U1L6YQUSU",
+                    "U1KR9BP0E",
+                    "U1L2P17DZ",
+                    "U1L3G0YRJ",
+                    "U1KT9ATA5",
+                    "U1KRHCR7T",
+                    "U1MBURU4D",
+                    "U1KSL7L7R",
+                    "U1L41DF9D"
+                ],
+                "count": 12
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "Team*",
+        "ts": "1474564675.000008"
+    }
+]

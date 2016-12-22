@@ -1,0 +1,86 @@
+[
+    {
+        "user": "U1MDE4NAG",
+        "text": "<@U1MDE4NAG|michaelbyman> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472723985.000002"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "I have 2 tickets to the football game tonight that I'm not using. They are about 10 rows behind the visitor bench, at midfield. I'll accept the most intriguing offer. Direct message me here if you're interested",
+        "ts": "1472723989.000003"
+    },
+    {
+        "user": "U1L90S3QC",
+        "text": "<@U1L90S3QC|cwstjeor> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472740114.000004"
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "Target has red ponchos in case anyone was looking for some rain gear in the event that it rains during the game!",
+        "ts": "1472741126.000005"
+    },
+    {
+        "user": "U1SMADBU4",
+        "text": "<@U1SMADBU4|ajohnst2> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472741472.000006"
+    },
+    {
+        "user": "U1LNGEV0B",
+        "text": "<@U1LNGEV0B|kespina> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472748275.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1KR9BP0E",
+        "text": "For all those coming today, it's building 5401, Apt M (on the ground floor, on the left)! If you have trouble finding it call me: <tel:404-988-9650|404-988-9650>. The apt complex is called The Parke at Trinity. Any parking spot should be fair game but if you go just past 5401 there's usually plenty of spots on the left. ",
+        "ts": "1472750529.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "I am hidden",
+        "ts": "1472773640.000011"
+    },
+    {
+        "user": "U1PF7HWTF",
+        "text": "<@U1PF7HWTF|nickweimer> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472773964.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1L3G0YRJ",
+        "text": "Warning: if you have a purse at all it's probably too big and they will not let you in ",
+        "ts": "1472774244.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "Where is everyone sitting?!",
+        "ts": "1472774771.000018"
+    },
+    {
+        "user": "U1L6YQUSU",
+        "text": "<@U1L6YQUSU|johnbetzjr> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472779516.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNHQA1",
+        "text": "Anyone still at the game?",
+        "ts": "1472782283.000027"
+    }
+]

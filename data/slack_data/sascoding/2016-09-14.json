@@ -1,0 +1,161 @@
+[
+    {
+        "user": "U1LLWQ02E",
+        "text": "<@U1LLWQ02E|jlhines> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473853941.000053"
+    },
+    {
+        "type": "message",
+        "user": "U1LLWQ02E",
+        "text": "<@U1KSBCBFG>: but don't we need to run proc arima to perform the Ljung Box Test to check for white noise in the residuals? ",
+        "ts": "1473854493.000054"
+    },
+    {
+        "type": "message",
+        "user": "U1LLWQ02E",
+        "text": "I thought that's what we were supposed to do, and I wanted to get the p-values for every lag for my final report, but I can only seem to get the p-values at every 6 lags :(",
+        "ts": "1473854597.000055"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "<@U1LLWQ02E>: yes but since he explicitly said in his lecture that we didn't need to know how to run that procedure, i'm not really sure what he wants and I'm waiting for him to come back to ask him",
+        "ts": "1473854713.000056"
+    },
+    {
+        "type": "message",
+        "user": "U1LLWQ02E",
+        "text": "Ok and that's Thursday right? ",
+        "ts": "1473854765.000057"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "<@U1LLWQ02E>: yes I think so ",
+        "ts": "1473854781.000058"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "<@U1LLWQ02E>: I also don't know to get every lag to show up and I used whatever Output I was shown from that procedure",
+        "ts": "1473854998.000059"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "<@U1KSBCBFG> He's super responsive over email :-)",
+        "ts": "1473855021.000060",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1LLWQ02E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "So should we just be reporting the white noise graph we looked at in class and those pvalues in proc Arima? I know the assignment for that part says pvalue and test statistic but I thought it was multiple pvalues and statistics to make up that chart. Not sure if all I said just made sense haha :sweat_smile:",
+        "ts": "1473855775.000061"
+    },
+    {
+        "type": "message",
+        "user": "U1LLWQ02E",
+        "text": "<@U1LBRCSEA> If I'm hearing you right, yes I do think we need to report the pvalues and statistics that make up the chart. The problem is that we only get pvalues and statistics for every 6 lags in SAS, so that is of course not enough to produce a 24-lag white noise graph. So maybe that is all we need? I am going to email Dr. LaBarr about it, and I'll let you all know what he says.",
+        "ts": "1473858045.000062",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L914KNJ",
+                    "U1LBRCSEA",
+                    "U1KRNH021",
+                    "U1KRNHQA1",
+                    "U1L7G5LR4",
+                    "U1L1WFNC8"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "These are my exact questions!!",
+        "ts": "1473872362.000063"
+    },
+    {
+        "type": "message",
+        "user": "U1LLWQ02E",
+        "text": "haha. So Dr. LaBarr is going to send out the code to get all 24 p-values soon. However, he advised that reporting a summary of the p-values instead of reporting them all is ok. Ex. the mean of p-values, the max p-value. So an example that gets the idea: explain how they don't reach above p-value xx.xx and under test statistic xx.xx.",
+        "ts": "1473873222.000064"
+    },
+    {
+        "type": "message",
+        "user": "U1L0RBZFH",
+        "text": "What\/where are the test statistics? ",
+        "ts": "1473877842.000065"
+    },
+    {
+        "type": "message",
+        "user": "U1L0RBZFH",
+        "text": "I understand how to get the p-values, but I still don't know what test statistic he is looking for ",
+        "ts": "1473878038.000068"
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "If you just run PROC arima on the residuals, shouldn't the test statistic and global p-value be in the maximum likelihood table in the output? His email makes me think that's not right though",
+        "ts": "1473882003.000069",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U1L95JP1S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1MDE4NAG",
+        "text": "But maybe it's the p-value associated with \"to lag 24\" in the autocorrelation check of residuals table?",
+        "ts": "1473882602.000070",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L41DF9D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L0RBZFH",
+        "text": "We used proc esm instead of proc arima  for the white noise plot just because that's what we used for our model ",
+        "ts": "1473894821.000071"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "<@U1MDE4NAG>: It's the one associated to lag 24 since that is the test for autocorrelation whereas the p-value in the maximum likelihood table value isn't the lunch box (ik that's not correct but that's how I pronounce it :joy:) test. The to lag ones are the ones we use as that's the lunch box chi square values for that specific test! ",
+        "ts": "1473904543.000072",
+        "reactions": [
+            {
+                "name": "video_game",
+                "users": [
+                    "U1KQGK2CB"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

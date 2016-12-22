@@ -1,0 +1,200 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQGK2CB",
+        "text": "Does anyone know what company the employer session is on Wednesday?",
+        "ts": "1473623935.000182"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "it was initially Accenture, but they got moved. I don't think we have a new one yet",
+        "ts": "1473624763.000183"
+    },
+    {
+        "type": "message",
+        "user": "U1KT3UELS",
+        "text": "I'm pretty sure Deloitte is still on Friday ",
+        "ts": "1473632702.000185",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRLV1CG",
+                    "U1KRB11QC",
+                    "U1KRTHAQZ",
+                    "U1KQYG6SJ",
+                    "U1LBRCSEA",
+                    "U1L9DD1NY",
+                    "U1KSL7L7R",
+                    "U1L41DF9D"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "I can't remember who mentioned it to me (please take credit :slightly_smiling_face: )... but we are &gt;25% through the MSA program!!  :tada:",
+        "ts": "1473643192.000187",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1KT5F4SZ",
+                    "U1KT9ATA5",
+                    "U1KRWUXFU",
+                    "U1L9DD1NY",
+                    "U1KRLV1CG",
+                    "U1P8QBBD1"
+                ],
+                "count": 6
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U1KT9ATA5",
+                    "U1KQ9523D",
+                    "U1KRB11QC",
+                    "U1NUU2U9E",
+                    "U1KR9BP0E",
+                    "U1L9DD1NY",
+                    "U1NFS178D",
+                    "U1KT3UELS",
+                    "U1KSL7L7R",
+                    "U1L914KNJ",
+                    "U1KQGK2CB",
+                    "U1LJRDPLP",
+                    "U1L41DF9D",
+                    "U1KSBCBFG",
+                    "U1L6WB44A",
+                    "U1KRHCR7T",
+                    "U1LAAMJ0M",
+                    "U1KRLV1CG",
+                    "U1LBRCSEA",
+                    "U1P8QBBD1",
+                    "U1L2P17DZ",
+                    "U1L1WFNC8",
+                    "U1KRQLFLY",
+                    "U1L735VD4",
+                    "U1KRNH021"
+                ],
+                "count": 25
+            },
+            {
+                "name": "small_airplane",
+                "users": [
+                    "U1KT9ATA5",
+                    "U1NUU2U9E",
+                    "U1L9DD1NY",
+                    "U1P8QBBD1"
+                ],
+                "count": 4
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U1KQ9523D",
+                    "U1L9DD1NY"
+                ],
+                "count": 2
+            },
+            {
+                "name": "scream_cat",
+                "users": [
+                    "U1KS4UE2F",
+                    "U1L9DD1NY",
+                    "U1L3G0YRJ",
+                    "U1KRNHQA1",
+                    "U1KSBCBFG",
+                    "U1KSR1MS4",
+                    "U1P8QBBD1"
+                ],
+                "count": 7
+            },
+            {
+                "name": "interrobang",
+                "users": [
+                    "U1KQGK2CB",
+                    "U1KRE1L9M",
+                    "U1KSBCBFG",
+                    "U1P8QBBD1"
+                ],
+                "count": 4
+            },
+            {
+                "name": "money_with_wings",
+                "users": [
+                    "U1L46HXCJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1NUU2U9E",
+        "text": "<@U1L1D4WG7> I feel like after we pass those 3 exams (and projects + hw) that are due at the end of the month, we will be about 50% through :weight_lifter:",
+        "ts": "1473643373.000188",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U1L1D4WG7",
+                    "U1KS4UE2F",
+                    "U1KRNH021",
+                    "U1KRB11QC",
+                    "U1KRWUXFU",
+                    "U1KR9BP0E",
+                    "U1L9DD1NY",
+                    "U1L914KNJ",
+                    "U1KQGK2CB",
+                    "U1L41DF9D",
+                    "U1LAAMJ0M",
+                    "U1KRLV1CG",
+                    "U1LBRCSEA",
+                    "U1KRQLFLY",
+                    "U1L735VD4"
+                ],
+                "count": 15
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1NFS178D",
+        "text": "Hey y'all, am I missing something on the logistic regression questions for thought? where is fireplace2??",
+        "ts": "1473644559.000189"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "<@U1NFS178D> it's in the folder of data that you can download from the logistic class page",
+        "ts": "1473644651.000190"
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "ameshousing5 is the library",
+        "ts": "1473644659.000191"
+    },
+    {
+        "type": "message",
+        "user": "U1NFS178D",
+        "text": "I only see \"Fireplaces\" in ameshousing5, and it's not a binary variable",
+        "ts": "1473644775.000192"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "<@U1KRBJP47> :fireplace2 is present in the data set. It is the last column",
+        "ts": "1473645720.000193"
+    },
+    {
+        "type": "message",
+        "user": "U1NFS178D",
+        "text": "*sigh* I guess it's been a long weekend (I didn't see it because I thought the proc contents were in alphabetical order) Thanks <@U1KRNH021> and <@U1KRHCR7T> !",
+        "ts": "1473645822.000194"
+    }
+]

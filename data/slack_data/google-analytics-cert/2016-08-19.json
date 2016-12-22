@@ -1,0 +1,135 @@
+[
+    {
+        "user": "U1LMHQY9E",
+        "text": "<@U1LMHQY9E|pmaychek> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471613985.000027"
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "So, after talking to a couple folks about this exam, I think I'm just going to go for it this weekend. I'm going to study as much as possible this weekend and then take the exam on Sunday evening. I'll post how it goes.  Since you can take the exam again every 7 days, and it's free, I feel like there is really no penalty to give it a shot. Then we can focus on Python, R, and Linear Algebra :slightly_smiling_face:",
+        "ts": "1471616929.000028",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1LMHQY9E",
+                    "U1KT9ATA5",
+                    "U1KT5F4SZ",
+                    "U1L3K1AKD",
+                    "U1L9DD1NY",
+                    "U1P8QBBD1",
+                    "U1L2P17DZ",
+                    "U1KRBJP47",
+                    "U1L90S3QC",
+                    "U1L735VD4",
+                    "U1LBRCSEA",
+                    "U1KQ9523D"
+                ],
+                "count": 12
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U1LMHQY9E",
+                    "U1KRWUXFU",
+                    "U1L3PU7BJ",
+                    "U1KRB11QC",
+                    "U1L9DD1NY",
+                    "U1P8QBBD1",
+                    "U1KSPCE87"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSEJ01W",
+        "text": "<@U1L1D4WG7>: the cert is free?! ",
+        "ts": "1471620285.000029",
+        "reactions": [
+            {
+                "name": "money_with_wings",
+                "users": [
+                    "U1KT9ATA5",
+                    "U1L735VD4",
+                    "U1KSL7L7R"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L1D4WG7",
+        "text": "It is free :slightly_smiling_face:  So great :slightly_smiling_face:",
+        "ts": "1471621642.000030"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "<@U1L1D4WG7> an inspiration!!",
+        "ts": "1471623495.000031",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1KSL7L7R"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U1LDKB3AN",
+        "text": "<@U1LDKB3AN|preston_burns> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471625661.000032"
+    },
+    {
+        "user": "U1L90S3QC",
+        "text": "<@U1L90S3QC|cwstjeor> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471630698.000033"
+    },
+    {
+        "user": "U1L3G0YRJ",
+        "text": "<@U1L3G0YRJ|emmyburnett> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471633616.000034"
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "<@U1L1D4WG7>: in terms of the dates for the exam, can u take it whenever? ",
+        "ts": "1471639342.000035"
+    },
+    {
+        "type": "message",
+        "user": "U1M37FW5U",
+        "text": "<@U1KSBCBFG> The Google exam is online, so you can take it whenever.",
+        "ts": "1471640760.000036",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L1D4WG7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KSBCBFG",
+        "text": "Thanks Alex! ",
+        "ts": "1471640811.000037"
+    }
+]

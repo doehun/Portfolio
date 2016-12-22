@@ -1,0 +1,69 @@
+[
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "Hey guys!  Laura put out the information to complete peer evals on our desks and said we can start on them now to get them out of the way.  So if you're on campus and want to get those finished quickly so you can keep studying for the test, you have the option.",
+        "ts": "1475237486.000009",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRLV1CG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRHCR7T",
+        "text": "<@U1L7E8GSU> Do you know if we're doing evals for both practicum and homework teams?",
+        "ts": "1475237564.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1L7E8GSU",
+        "text": "Yup, we are",
+        "ts": "1475237620.000011",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KRHCR7T",
+                    "U1L9DD1NY"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "Donuts are waiting for you, Blue Cohort",
+        "ts": "1475238387.000012",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U1L3G0YRJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "doughnut",
+                "users": [
+                    "U1L3G0YRJ",
+                    "U1KSL7L7R"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1L3G0YRJ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

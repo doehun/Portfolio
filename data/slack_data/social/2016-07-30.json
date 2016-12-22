@@ -1,0 +1,76 @@
+[
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "If anyone is up, Julia and I are heading to the flying biscuit soon, if you'd like to join us!",
+        "ts": "1469880944.000031"
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "Today is cookie dough flavor day at goodberry's if anyone wants to join me and <@U1KRBFY3Z>! ",
+        "ts": "1469893181.000032",
+        "reactions": [
+            {
+                "name": "cookie",
+                "users": [
+                    "U1L5GU954",
+                    "U1L9DD1NY"
+                ],
+                "count": 2
+            },
+            {
+                "name": "icecream",
+                "users": [
+                    "U1L6YQUSU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KRWUXFU",
+        "text": "Thinking about going around 3pm! ",
+        "ts": "1469893710.000033",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1L5GU954",
+                    "U1KRZT11T"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "<@U1KRWUXFU> and I are heading to beer garden around 9pm tonight if anyone wants to join!",
+        "ts": "1469920079.000034",
+        "reactions": [
+            {
+                "name": "beers",
+                "users": [
+                    "U1KRB11QC",
+                    "U1KRZT11T",
+                    "U1KRWUXFU",
+                    "U1L46HXCJ",
+                    "U1KT9ATA5",
+                    "U1MBURU4D",
+                    "U1L8PJY4W"
+                ],
+                "count": 7
+            },
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U1KRWUXFU",
+                    "U1L46HXCJ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

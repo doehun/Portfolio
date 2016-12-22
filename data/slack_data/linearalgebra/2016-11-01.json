@@ -1,0 +1,65 @@
+[
+    {
+        "user": "U1KT5F4SZ",
+        "text": "<@U1KT5F4SZ|hannahh> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1478015767.000157"
+    },
+    {
+        "user": "U1KRB11QC",
+        "text": "<@U1KRB11QC|dsjorda2> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1478015877.000158"
+    },
+    {
+        "user": "U1KRLV1CG",
+        "text": "<@U1KRLV1CG|ioannis_loukakis> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1478016428.000159"
+    },
+    {
+        "user": "U1L2QDX7Y",
+        "text": "<@U1L2QDX7Y|semoore9> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1478017069.000160"
+    },
+    {
+        "user": "U1PM77VSS",
+        "text": "<@U1PM77VSS|hpjones> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1478019826.000161"
+    },
+    {
+        "user": "U1L3PU7BJ",
+        "text": "<@U1L3PU7BJ|dmalave> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1478022907.000162"
+    },
+    {
+        "user": "U1Q5GHC2J",
+        "text": "<@U1Q5GHC2J|rwang10> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1478037556.000163"
+    },
+    {
+        "user": "U1PF7HWTF",
+        "text": "<@U1PF7HWTF|nickweimer> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1478043508.000164"
+    },
+    {
+        "user": "U1L1D4WG7",
+        "text": "<@U1L1D4WG7|edpreble> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1478052907.000165"
+    }
+]

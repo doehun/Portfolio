@@ -1,0 +1,129 @@
+[
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "does anyone own the movie Dodgeball",
+        "ts": "1471545946.000030"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "A True Underdog Story",
+        "ts": "1471545959.000031"
+    },
+    {
+        "type": "message",
+        "user": "U1L3PU7BJ",
+        "text": "do you have a VCR thoughhh <@U1KRZT11T>",
+        "ts": "1471548353.000033"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "Whats a VCR? Is that as technically advanced as Beta Max?",
+        "ts": "1471548530.000034"
+    },
+    {
+        "type": "message",
+        "user": "U1KRZT11T",
+        "text": "No I don't have a VCR",
+        "ts": "1471548539.000035"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I have dodgeball ",
+        "ts": "1471551404.000036"
+    },
+    {
+        "type": "message",
+        "user": "U1L6YQUSU",
+        "text": "I can bring it tomorrow <@U1KRZT11T> ",
+        "ts": "1471551414.000037",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U1KRZT11T",
+                    "U1L40P4N9",
+                    "U1KRWUXFU",
+                    "U1N43E3E0"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "For the introverts in here! <https:\/\/www.amazon.com\/dp\/B01H0825QQ\/ref=dp-kindle-redirect?_encoding=UTF8&amp;btkr=1>",
+        "attachments": [
+            {
+                "title": "The Irresistible Introvert: Harness the Power of Quiet Charisma in a Loud World - Kindle edition by Michaela Chung. Health, Fitness &amp; Dieting Kindle eBooks @ Amazon.com.",
+                "title_link": "https:\/\/www.amazon.com\/dp\/B01H0825QQ\/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1",
+                "text": "The Irresistible Introvert: Harness the Power of Quiet Charisma in a Loud World - Kindle edition by Michaela Chung. Download it once and read it on your Kindle device, PC, phones or tablets. Use features like bookmarks, note taking and highlighting while reading The Irresistible Introvert: Harness the Power of Quiet Charisma in a Loud World.",
+                "fallback": "The Irresistible Introvert: Harness the Power of Quiet Charisma in a Loud World - Kindle edition by Michaela Chung. Health, Fitness &amp; Dieting Kindle eBooks @ Amazon.com.",
+                "from_url": "https:\/\/www.amazon.com\/dp\/B01H0825QQ\/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1",
+                "service_icon": "https:\/\/www.amazon.com\/favicon.ico",
+                "service_name": "amazon.com",
+                "id": 1
+            }
+        ],
+        "ts": "1471552306.000038"
+    },
+    {
+        "type": "message",
+        "user": "U1L6WB44A",
+        "text": "<@U1L0V1X61>: blog topic suggestion: frequency analysis of the emoticons\/reactions in the slack channels. That's real insight into student life :joy: ",
+        "ts": "1471567204.000040",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1P8QBBD1",
+                    "U1L2P17DZ",
+                    "U1KSYP1M5",
+                    "U1KT3UELS",
+                    "U1SMADBU4",
+                    "U1NUU2U9E",
+                    "U1KQGRG2F",
+                    "U1KSL7L7R"
+                ],
+                "count": 8
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1KRZT11T",
+                    "U1L974M70"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "<@U1L7ERY77>: how much are you looking for the betterback? I don't really know how it exactly works, but I have really bad posture I need to work on and I heard those were great to help!",
+        "ts": "1471570060.000041"
+    },
+    {
+        "type": "message",
+        "user": "U1L7ERY77",
+        "text": "<@U1L41DF9D> I'm sorry caroline but I already sold it!",
+        "ts": "1471570123.000042"
+    },
+    {
+        "type": "message",
+        "user": "U1L41DF9D",
+        "text": "<@U1L7ERY77>: all good!! Should've read slack earlier! ",
+        "ts": "1471570203.000044"
+    },
+    {
+        "user": "U1KT2JJE8",
+        "text": "<@U1KT2JJE8|slwalke3> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1471582388.000045"
+    }
+]

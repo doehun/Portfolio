@@ -1,0 +1,96 @@
+[
+    {
+        "type": "message",
+        "user": "U1LBRCSEA",
+        "text": "Cameron village is having their sidewalk sale today through Sunday so if you haven't checked out the stores there it's a great weekend to go!",
+        "ts": "1468585478.000005",
+        "reactions": [
+            {
+                "name": "hugging_face",
+                "users": [
+                    "U1L9DD1NY",
+                    "U1M1L5G6L",
+                    "U1KRWUXFU",
+                    "U1KRNH021"
+                ],
+                "count": 4
+            },
+            {
+                "name": "shopping_bags",
+                "users": [
+                    "U1L8PJY4W",
+                    "U1KT3UELS"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "Does anyone know where I can get something printed and bound for cheap-ish? The cheapest I could find was $20",
+        "ts": "1468620192.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1L46HXCJ",
+        "text": "<@U1KQ9523D>: I could staple it for you. I only charge $5",
+        "ts": "1468620845.000007",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U1KSL7L7R",
+                    "U1L8PJY4W"
+                ],
+                "count": 2
+            },
+            {
+                "name": "hankey",
+                "users": [
+                    "U1KQ9523D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "<@U1L46HXCJ>: Could you?? You're seriously the best",
+        "ts": "1468620933.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1KQYG6SJ",
+        "text": "(this wasn't on campus btw, in case the red throws you off)",
+        "ts": "1468627637.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "Lisa there is one in mission valley apartments too. I got it bounded for 5$",
+        "ts": "1468630245.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1KQ9523D",
+        "text": "<@U1KRNH021>: Oh sweet! Thank you, I will check that out!",
+        "ts": "1468631350.000017"
+    },
+    {
+        "type": "message",
+        "user": "U1KRNH021",
+        "text": "Sorry mission valley shopping center. ",
+        "ts": "1468632496.000002",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1KQ9523D"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]
