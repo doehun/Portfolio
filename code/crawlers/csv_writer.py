@@ -10,7 +10,7 @@ def csv_writer_individual_files(path):
     :param path: path to channel folders
     :return: writes one csv file for each channel
     """
-    newpath = 'csv_data'
+    newpath = '..data/csv_data'
 
     if not os.path.exists(newpath):
         os.makedirs(newpath)
@@ -30,7 +30,7 @@ def csv_writer_one_file(path, users_json_path):
     :param users_json_path: path to users.json file
     :return: one file with all the info in it
     """
-    path = "slack_data/"
+    path = "..data/slack_data/"
 
     c = data_flat_form(path)
     df = pd.DataFrame(c, columns = ['channel', 'datetime', 'id', 'text',
@@ -53,7 +53,7 @@ def txt_writer_individual_files():
     """takes from the csv files and writes text portion to txt files"""
 
 
-    newpath = 'txt_data'
+    newpath = '..data/txt_data'
 
     if not os.path.exists(newpath):
         os.makedirs(newpath)
@@ -73,8 +73,8 @@ def txt_writer_individual_files():
 
 
 if __name__ == "__main__":
-    path = "slack_data/"
-    users_json_path =  "slack_data/users.json"
+    path = "..data/slack_data/"
+    users_json_path =  "..data/slack_data/users.json"
 
 
     #csv_writer_individual_files(path)

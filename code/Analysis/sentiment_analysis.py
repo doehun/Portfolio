@@ -5,7 +5,7 @@ import gensim
 import nltk
 import re
 import string
-from anew_module import anew
+from code.anew_module import anew
 
 
 

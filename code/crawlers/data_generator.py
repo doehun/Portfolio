@@ -46,27 +46,35 @@ def get_channel_data(path, channel):
             l.append(j['user'].encode('utf-8'))
             l.append(j['text'].encode('utf-8'))
 
-            # Get reactions
-            reactions = []
-            reaction_counts = []
-            reaction_count = 0
+#            Get reactions
+            reactions = None
+            reaction_counts_by_type = None
+            reaction_total_count = 0
             reaction_type_count = 0
 
-            if 'reactions'  in j:
+            if 'reactions' in j:
+                reactions = []
+                reaction_counts_by_type = []
+
                 for reaction in j['reactions']:
                     reactions.append(reaction['name'])
-                    reaction_counts.append(reaction['count'])
-                    reaction_count += reaction['count']
+                    reaction_counts_by_type.append(reaction['count'])
+                    reaction_total_count += reaction['count']
                     reaction_type_count += 1
 
                 l.append(reactions)
-                l.append(reaction_counts)
-                l.append(int(reaction_count))
+                l.append(reaction_counts_by_type)
+                l.append(int(reaction_total_count))
                 l.append(int(reaction_type_count))
 
-                #reaction.extend(j['reactions'])
+            else:
+                l.append(reactions)
+                l.append(reaction_counts_by_type)
+                l.append(reaction_total_count)
+                l.append(reaction_type_count)
 
             full.append(l)
+
     return full
 
 
